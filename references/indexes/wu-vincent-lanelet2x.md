@@ -1,0 +1,300 @@
+<!-- retrieval: {"source_type":"navigation","topics":["source-navigation"],"limitations":"Navigation aid only. Linked entries point to public sources and related analysis; the links do not certify implementation or runtime behavior."} -->
+# Source index: wu-vincent/lanelet2x {#source-index}
+
+## Sources {#sources}
+
+The links below group publicly traceable source material with related analysis.
+
+- commit:00aa9228651dc730ec6c567cede3784aee5f7508 · 2023-11-19
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/00aa9228651dc730ec6c567cede3784aee5f7508)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:0195c63c8f1e2165150fb17a514d9f56516d948d · 2023-11-21
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/0195c63c8f1e2165150fb17a514d9f56516d948d)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:0a8b069884403ee8b6815bf64786dcb12705e030 · 2023-11-24
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/0a8b069884403ee8b6815bf64786dcb12705e030)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:1376b7bd001933ce0ad25c59c250910ec9d5dce0 · 2023-11-21
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/1376b7bd001933ce0ad25c59c250910ec9d5dce0)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:14991e12eaf1925fb32b6a9f4c80d7e3dec571ea · 2023-12-11
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/14991e12eaf1925fb32b6a9f4c80d7e3dec571ea)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:18a338ba4ea4992f294716aca8270a61ae775922 · 2023-11-20
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/18a338ba4ea4992f294716aca8270a61ae775922)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:1f1e04dc0754c71212b244004af1396e46cb6a74 · 2023-11-24
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/1f1e04dc0754c71212b244004af1396e46cb6a74)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:21674a16b150f80d92546989c37cc618e1b7a199 · 2023-11-24
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/21674a16b150f80d92546989c37cc618e1b7a199)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: lanelet2x-linkage-and-tests](../sources/commit-review/research-projects-all/cases/lanelet2x-linkage-and-tests.md#lanelet2x-static-registries-compiler-repairs-and-test-invariants)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:24082b2faa9b1b945b64ee67b3c770f94073ec14 · 2023-11-20
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/24082b2faa9b1b945b64ee67b3c770f94073ec14)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: lanelet2x-linkage-and-tests](../sources/commit-review/research-projects-all/cases/lanelet2x-linkage-and-tests.md#lanelet2x-static-registries-compiler-repairs-and-test-invariants)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:2adb59bb77a27b857e2988f6c67236aba6f096a4 · 2023-11-24
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/2adb59bb77a27b857e2988f6c67236aba6f096a4)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:2cd7db4e8537f001f5b25cd2ad484b30f548ab1e · 2023-11-23
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/2cd7db4e8537f001f5b25cd2ad484b30f548ab1e)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:2e457eea57d75faea645691149132d565c51316d · 2023-11-19
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/2e457eea57d75faea645691149132d565c51316d)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:31d3a9154b94a0bab825563a9c0edf257120cea4 · 2023-11-27
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/31d3a9154b94a0bab825563a9c0edf257120cea4)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:3c9f0d50dc6ca7c1461b6b90029a43b04125179e · 2023-11-21
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/3c9f0d50dc6ca7c1461b6b90029a43b04125179e)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:3d12059418e224ead0c39783429f3f5b0e9c5a87 · 2023-11-23
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/3d12059418e224ead0c39783429f3f5b0e9c5a87)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: lanelet2x-attribution-and-release](../sources/commit-review/research-projects-all/cases/lanelet2x-attribution-and-release.md#lanelet2x-upstream-integration-and-release-evidence-boundaries)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:45ba2ec8fd239b3085a80f0f8777710fcc884f40 · 2023-11-22
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/45ba2ec8fd239b3085a80f0f8777710fcc884f40)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:4dd0773b386e001cdcbc69911f267db6419217f6 · 2023-12-08
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/4dd0773b386e001cdcbc69911f267db6419217f6)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: lanelet2x-attribution-and-release](../sources/commit-review/research-projects-all/cases/lanelet2x-attribution-and-release.md#lanelet2x-upstream-integration-and-release-evidence-boundaries)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:4ebf46baaed49553e31ddf5a9c1db403c8e7c15b · 2023-11-24
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/4ebf46baaed49553e31ddf5a9c1db403c8e7c15b)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:59dff2c4ff01eb0b36bf1c0eba4396dd65946043 · 2023-11-24
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/59dff2c4ff01eb0b36bf1c0eba4396dd65946043)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:600296edffeaaed4209c10221da6c2e4456a9522 · 2023-11-19
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/600296edffeaaed4209c10221da6c2e4456a9522)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:66a6f18f9ff7df126e93721ce886d5f69a36b55d · 2023-11-20
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/66a6f18f9ff7df126e93721ce886d5f69a36b55d)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:67c1e2bbb90eed568cda2c7efd4ed0617ac5e2f3 · 2023-11-20
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/67c1e2bbb90eed568cda2c7efd4ed0617ac5e2f3)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:6a947aa0adf883ae061831f472a2cd0cc3e4059a · 2023-11-22
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/6a947aa0adf883ae061831f472a2cd0cc3e4059a)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:7057445b355207946bf3fd500bb611882f368b44 · 2023-11-25
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/7057445b355207946bf3fd500bb611882f368b44)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:7b15536da8a2c6ce36d672143c29d02a9b89dc99 · 2023-11-24
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/7b15536da8a2c6ce36d672143c29d02a9b89dc99)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:7b3e7803faec7eaace96a568ba99f37c5673b3ea · 2023-12-08
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/7b3e7803faec7eaace96a568ba99f37c5673b3ea)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: lanelet2x-linkage-and-tests](../sources/commit-review/research-projects-all/cases/lanelet2x-linkage-and-tests.md#lanelet2x-static-registries-compiler-repairs-and-test-invariants)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:7c290422cc33f72ec44ef4ea0110da05b56140d8 · 2023-11-25
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/7c290422cc33f72ec44ef4ea0110da05b56140d8)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:7cd5e3d1de2e7abb26ca02f344a24001057c2dde · 2023-11-25
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/7cd5e3d1de2e7abb26ca02f344a24001057c2dde)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: lanelet2x-linkage-and-tests](../sources/commit-review/research-projects-all/cases/lanelet2x-linkage-and-tests.md#lanelet2x-static-registries-compiler-repairs-and-test-invariants)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:7e4725f4725bc63d1b130357ad63ea5bc4738951 · 2023-11-19
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/7e4725f4725bc63d1b130357ad63ea5bc4738951)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:7e86eb6a19c5b742f0de6991c4a2d1e6c91be4d7 · 2023-11-20
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/7e86eb6a19c5b742f0de6991c4a2d1e6c91be4d7)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:8004a9ae6a2e5e3f04685c3c37f5eb6118be57d8 · 2023-11-21
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/8004a9ae6a2e5e3f04685c3c37f5eb6118be57d8)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:8456e4e37a02bf000da282bcd60e16628b6e630a · 2023-11-19
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/8456e4e37a02bf000da282bcd60e16628b6e630a)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:8f1bf9a1f471b2a32ddea4a342a0bdfdeca92724 · 2023-11-21
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/8f1bf9a1f471b2a32ddea4a342a0bdfdeca92724)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:9a0296bcc405db769d80f01b977ef027c3c91347 · 2023-11-27
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/9a0296bcc405db769d80f01b977ef027c3c91347)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: lanelet2x-linkage-and-tests](../sources/commit-review/research-projects-all/cases/lanelet2x-linkage-and-tests.md#lanelet2x-static-registries-compiler-repairs-and-test-invariants)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:a199a909e526e33ca2cbe5dc724515d887350530 · 2023-11-21
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/a199a909e526e33ca2cbe5dc724515d887350530)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:a2731802d29ab6bccf2611d1fd6a89d2f5c63401 · 2023-11-25
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/a2731802d29ab6bccf2611d1fd6a89d2f5c63401)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:ac5ed41b3ae13aa787ea429c58546f983c6d31a4 · 2023-12-08
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/ac5ed41b3ae13aa787ea429c58546f983c6d31a4)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: lanelet2x-attribution-and-release](../sources/commit-review/research-projects-all/cases/lanelet2x-attribution-and-release.md#lanelet2x-upstream-integration-and-release-evidence-boundaries)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:b28e5bdd4d875d04c17787951fd755fe5dd5d098 · 2023-11-21
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/b28e5bdd4d875d04c17787951fd755fe5dd5d098)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: lanelet2x-attribution-and-release](../sources/commit-review/research-projects-all/cases/lanelet2x-attribution-and-release.md#lanelet2x-upstream-integration-and-release-evidence-boundaries)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:b42a0ded686e27aa8e9d85ab0a23a5ac45065964 · 2023-11-23
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/b42a0ded686e27aa8e9d85ab0a23a5ac45065964)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:b4b9df4a887a02257798b9740e20e4a0b3fd1272 · 2023-12-08
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/b4b9df4a887a02257798b9740e20e4a0b3fd1272)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:bdd604587ad6403068f1864680e18e87e665b88a · 2023-12-07
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/bdd604587ad6403068f1864680e18e87e665b88a)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: lanelet2x-attribution-and-release](../sources/commit-review/research-projects-all/cases/lanelet2x-attribution-and-release.md#lanelet2x-upstream-integration-and-release-evidence-boundaries)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:c568ca1c9a4a105484486489d3e9bf6e70091c3e · 2023-11-24
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/c568ca1c9a4a105484486489d3e9bf6e70091c3e)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:c729821bfdc40f62b41be0f7bc1fec3337fc80ec · 2023-12-20
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/c729821bfdc40f62b41be0f7bc1fec3337fc80ec)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:cb96f178a3e67b7600a5666bc9ac269be25e2892 · 2023-11-23
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/cb96f178a3e67b7600a5666bc9ac269be25e2892)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:cb97b5b0b293583ed6f51096622a21d370a5ce6b · 2023-11-30
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/cb97b5b0b293583ed6f51096622a21d370a5ce6b)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:cdc4d6109a7cb2dda10f20af32bda013a5ad6e78 · 2023-11-19
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/cdc4d6109a7cb2dda10f20af32bda013a5ad6e78)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: lanelet2x-linkage-and-tests](../sources/commit-review/research-projects-all/cases/lanelet2x-linkage-and-tests.md#lanelet2x-static-registries-compiler-repairs-and-test-invariants)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:ce99dcc21ad70ebf6ba9bdcd896e812025b13d5e · 2023-11-21
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/ce99dcc21ad70ebf6ba9bdcd896e812025b13d5e)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:df37128241d06418c1c4471d890ff7563c77fa13 · 2023-12-07
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/df37128241d06418c1c4471d890ff7563c77fa13)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: lanelet2x-attribution-and-release](../sources/commit-review/research-projects-all/cases/lanelet2x-attribution-and-release.md#lanelet2x-upstream-integration-and-release-evidence-boundaries)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:df3fcb02d07b7fc26f742afdf9439d3d2712e9da · 2023-11-20
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/df3fcb02d07b7fc26f742afdf9439d3d2712e9da)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:e55d298bf7f118dd39fc89e66994734540875f73 · 2023-11-21
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/e55d298bf7f118dd39fc89e66994734540875f73)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:e80788d0c73f43c201391e8f0387efeb598529d3 · 2023-11-23
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/e80788d0c73f43c201391e8f0387efeb598529d3)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:ec0c02fb33c30089869c6c42d0963c541c46e5a4 · 2023-11-24
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/ec0c02fb33c30089869c6c42d0963c541c46e5a4)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:f311f6ac63151260e752ef6bedda71028445410e · 2023-11-25
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/f311f6ac63151260e752ef6bedda71028445410e)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:f5a46faabf2ff711ceaa3064109b959cb8f3d3ce · 2023-11-24
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/f5a46faabf2ff711ceaa3064109b959cb8f3d3ce)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:f6708f5e51d90271a2a79931c5c25e0dcf8920fc · 2023-11-21
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/f6708f5e51d90271a2a79931c5c25e0dcf8920fc)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)
+- commit:fb3a3f6200da4b00665a9f22f3668ee39379b173 · 2023-11-24
+  - [Public source](https://github.com/wu-vincent/lanelet2x/commit/fb3a3f6200da4b00665a9f22f3668ee39379b173)
+  - [Detailed analysis: lanelet2x-standalone-build](../sources/commit-review/research-projects-all/cases/lanelet2x-standalone-build.md#lanelet2x-extracting-a-c-library-from-its-ros-build-environment)
+  - [Detailed analysis: lanelet2x-linkage-and-tests](../sources/commit-review/research-projects-all/cases/lanelet2x-linkage-and-tests.md#lanelet2x-static-registries-compiler-repairs-and-test-invariants)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+  - [Detailed analysis: lanelet2x-review](../sources/commit-review/research-projects-all/lanelet2x-review.md#wu-vincent-lanelet2x-per-sha-review)

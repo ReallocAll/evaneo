@@ -1,0 +1,71 @@
+<!-- retrieval: {"source_type":"navigation","topics":["source-navigation"],"limitations":"Navigation aid only. Linked entries point to public sources and related analysis; the links do not certify implementation or runtime behavior."} -->
+# Source index: EndstoneMC/.github {#source-index}
+
+## Sources {#sources}
+
+The links below group publicly traceable source material with related analysis.
+
+- commit:05a1876eb5f78af03832cb1a9a70a89995898ff8 · 2026-08-06
+  - [Public source](https://github.com/EndstoneMC/.github/commit/05a1876eb5f78af03832cb1a9a70a89995898ff8)
+  - [Detailed analysis: 10-05a1876eb5f78af03832cb1a9a70a89995898ff8](../sources/commit-review/build-deployment-all/github/dossiers/10-05a1876eb5f78af03832cb1a9a70a89995898ff8.md#10-docs-refresh-the-ecosystem-tables-on-the-profile-readme)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/github/README.md#organization-documentation-entry-points-governance-and-claim-boundaries)
+- commit:0d0622659f188c1094203d11646c8343f703a315 · 2026-08-06
+  - [Public source](https://github.com/EndstoneMC/.github/commit/0d0622659f188c1094203d11646c8343f703a315)
+  - [Detailed analysis: 11-0d0622659f188c1094203d11646c8343f703a315](../sources/commit-review/build-deployment-all/github/dossiers/11-0d0622659f188c1094203d11646c8343f703a315.md#11-docs-add-bedrock-protocol-to-the-contributor-repos)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/github/README.md#organization-documentation-entry-points-governance-and-claim-boundaries)
+- commit:1dc242796ba4923448324847dcdc7e4a5cd041d6 · 2026-08-06
+  - [Public source](https://github.com/EndstoneMC/.github/commit/1dc242796ba4923448324847dcdc7e4a5cd041d6)
+  - [Detailed analysis: 14-1dc242796ba4923448324847dcdc7e4a5cd041d6](../sources/commit-review/build-deployment-all/github/dossiers/14-1dc242796ba4923448324847dcdc7e4a5cd041d6.md#14-docs-tighten-the-intro-to-two-lines)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/github/README.md#organization-documentation-entry-points-governance-and-claim-boundaries)
+- commit:24782c48f08444801c4a7b2f59b6f8848b377db0 · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/.github/commit/24782c48f08444801c4a7b2f59b6f8848b377db0)
+  - [Detailed analysis: 05-24782c48f08444801c4a7b2f59b6f8848b377db0](../sources/commit-review/build-deployment-all/github/dossiers/05-24782c48f08444801c4a7b2f59b6f8848b377db0.md#05-remove-empty-column-from-ecosystem-table)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/github/README.md#organization-documentation-entry-points-governance-and-claim-boundaries)
+- commit:76391843bce8dccd90d18e1ba5a1c50d872a2a79 · 2026-08-06
+  - [Public source](https://github.com/EndstoneMC/.github/commit/76391843bce8dccd90d18e1ba5a1c50d872a2a79)
+  - [Detailed analysis: 12-76391843bce8dccd90d18e1ba5a1c50d872a2a79](../sources/commit-review/build-deployment-all/github/dossiers/12-76391843bce8dccd90d18e1ba5a1c50d872a2a79.md#12-docs-lead-the-ecosystem-table-with-the-three-pillars)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/github/README.md#organization-documentation-entry-points-governance-and-claim-boundaries)
+- commit:84f84ab60188e9d6753b74c784570c4fffcd50bf · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/.github/commit/84f84ab60188e9d6753b74c784570c4fffcd50bf)
+  - [Detailed analysis: 04-84f84ab60188e9d6753b74c784570c4fffcd50bf](../sources/commit-review/build-deployment-all/github/dossiers/04-84f84ab60188e9d6753b74c784570c4fffcd50bf.md#04-rewrite-org-profile-as-a-landing-page-for-users-and-contributors)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/github/README.md#organization-documentation-entry-points-governance-and-claim-boundaries)
+- commit:926701651f06ece09a5bf41ca7e3fbb62c212ce4 · 2024-03-21
+  - [Public source](https://github.com/EndstoneMC/.github/commit/926701651f06ece09a5bf41ca7e3fbb62c212ce4)
+  - [Detailed analysis: 03-926701651f06ece09a5bf41ca7e3fbb62c212ce4](../sources/commit-review/build-deployment-all/github/dossiers/03-926701651f06ece09a5bf41ca7e3fbb62c212ce4.md#03-rename-readme-md-to-profile-readme-md)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/github/README.md#organization-documentation-entry-points-governance-and-claim-boundaries)
+- commit:9567b40b3caf16d7e57ff93367a81a712d02490b · 2026-10-12
+  - [Public source](https://github.com/EndstoneMC/.github/commit/9567b40b3caf16d7e57ff93367a81a712d02490b)
+  - [Detailed analysis: 16-9567b40b3caf16d7e57ff93367a81a712d02490b](../sources/commit-review/build-deployment-all/github/dossiers/16-9567b40b3caf16d7e57ff93367a81a712d02490b.md#16-docs-profile-mention-endstone-s-performance)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/github/README.md#organization-documentation-entry-points-governance-and-claim-boundaries)
+- commit:99f9bf0529dbdbe601b21b35123260962a637f48 · 2024-03-21
+  - [Public source](https://github.com/EndstoneMC/.github/commit/99f9bf0529dbdbe601b21b35123260962a637f48)
+  - [Detailed analysis: 02-99f9bf0529dbdbe601b21b35123260962a637f48](../sources/commit-review/build-deployment-all/github/dossiers/02-99f9bf0529dbdbe601b21b35123260962a637f48.md#02-update-readme-md)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/github/README.md#organization-documentation-entry-points-governance-and-claim-boundaries)
+- commit:a5d940e1fa1614bf322f901005e5e3034d222a5e · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/.github/commit/a5d940e1fa1614bf322f901005e5e3034d222a5e)
+  - [Detailed analysis: 06-a5d940e1fa1614bf322f901005e5e3034d222a5e](../sources/commit-review/build-deployment-all/github/dossiers/06-a5d940e1fa1614bf322f901005e5e3034d222a5e.md#06-use-uvx-endstone-as-primary-quick-start-pip-as-fallback)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/github/README.md#organization-documentation-entry-points-governance-and-claim-boundaries)
+- commit:b2e27cec108b9d36ebb6b8cb28a305b9a9a4f25c · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/.github/commit/b2e27cec108b9d36ebb6b8cb28a305b9a9a4f25c)
+  - [Detailed analysis: 09-b2e27cec108b9d36ebb6b8cb28a305b9a9a4f25c](../sources/commit-review/build-deployment-all/github/dossiers/09-b2e27cec108b9d36ebb6b8cb28a305b9a9a4f25c.md#09-add-governance-md-establishing-bdfl-model)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/github/README.md#organization-documentation-entry-points-governance-and-claim-boundaries)
+- commit:b4c7770934d8991a545993ef8fbf21cf8e49eb27 · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/.github/commit/b4c7770934d8991a545993ef8fbf21cf8e49eb27)
+  - [Detailed analysis: 08-b4c7770934d8991a545993ef8fbf21cf8e49eb27](../sources/commit-review/build-deployment-all/github/dossiers/08-b4c7770934d8991a545993ef8fbf21cf8e49eb27.md#08-document-endgate-dual-licensing-agpl-3-0-commercial)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/github/README.md#organization-documentation-entry-points-governance-and-claim-boundaries)
+- commit:bd0b205f8df476048543d7069074914831dfe1e5 · 2026-08-06
+  - [Public source](https://github.com/EndstoneMC/.github/commit/bd0b205f8df476048543d7069074914831dfe1e5)
+  - [Detailed analysis: 13-bd0b205f8df476048543d7069074914831dfe1e5](../sources/commit-review/build-deployment-all/github/dossiers/13-bd0b205f8df476048543d7069074914831dfe1e5.md#13-docs-describe-endstone-as-an-ecosystem-not-just-a-plugin-framework)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/github/README.md#organization-documentation-entry-points-governance-and-claim-boundaries)
+- commit:e88a2e58fa68c773f4700ab1400efd13def37f0b · 2024-03-21
+  - [Public source](https://github.com/EndstoneMC/.github/commit/e88a2e58fa68c773f4700ab1400efd13def37f0b)
+  - [Detailed analysis: 01-e88a2e58fa68c773f4700ab1400efd13def37f0b](../sources/commit-review/build-deployment-all/github/dossiers/01-e88a2e58fa68c773f4700ab1400efd13def37f0b.md#01-initial-commit)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/github/README.md#organization-documentation-entry-points-governance-and-claim-boundaries)
+- commit:e91f2074ab8bf2b807876eb135954d5cec683c42 · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/.github/commit/e91f2074ab8bf2b807876eb135954d5cec683c42)
+  - [Detailed analysis: 07-e91f2074ab8bf2b807876eb135954d5cec683c42](../sources/commit-review/build-deployment-all/github/dossiers/07-e91f2074ab8bf2b807876eb135954d5cec683c42.md#07-add-org-wide-governance-files-for-ltd-preparation)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/github/README.md#organization-documentation-entry-points-governance-and-claim-boundaries)
+- commit:fc09a9c332b0e7a17e550161a12c09f71ccd8c63 · 2026-08-23
+  - [Public source](https://github.com/EndstoneMC/.github/commit/fc09a9c332b0e7a17e550161a12c09f71ccd8c63)
+  - [Detailed analysis: 15-fc09a9c332b0e7a17e550161a12c09f71ccd8c63](../sources/commit-review/build-deployment-all/github/dossiers/15-fc09a9c332b0e7a17e550161a12c09f71ccd8c63.md#15-chore-add-org-level-funding-config)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/github/README.md#organization-documentation-entry-points-governance-and-claim-boundaries)

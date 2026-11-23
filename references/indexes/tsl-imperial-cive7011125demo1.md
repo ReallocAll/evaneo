@@ -1,0 +1,107 @@
+<!-- retrieval: {"source_type":"navigation","topics":["source-navigation"],"limitations":"Navigation aid only. Linked entries point to public sources and related analysis; the links do not certify implementation or runtime behavior."} -->
+# Source index: tsl-imperial/cive70111_25_demo1 {#source-index}
+
+## Sources {#sources}
+
+The links below group publicly traceable source material with related analysis.
+
+- commit:055f3456532f68e925eb932952f55097a662fb53 · 2025-10-03
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/055f3456532f68e925eb932952f55097a662fb53)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:1153d60fe7940e0d40efeccf5f31468ea07f1786 · 2025-10-04
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/1153d60fe7940e0d40efeccf5f31468ea07f1786)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:1693e233282098c38a90fe7b6aa63e78731ae3ea · 2025-10-04
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/1693e233282098c38a90fe7b6aa63e78731ae3ea)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:27e3d98f275b0c27798426ace626d133d0420013 · 2025-09-29
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/27e3d98f275b0c27798426ace626d133d0420013)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:3b56171349f7380f88cfcfdea111acf54958d1d4 · 2025-10-04
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/3b56171349f7380f88cfcfdea111acf54958d1d4)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:43f09a1630620589bf4a02ea9d45d4b7126b079c · 2025-09-29
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/43f09a1630620589bf4a02ea9d45d4b7126b079c)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:48e6564db916c1f8cecd330fc7d1f3558c007778 · 2025-10-16
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/48e6564db916c1f8cecd330fc7d1f3558c007778)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:4ce2c2c0e90cef8bdd03f0731267a682cb4380bf · 2025-10-16
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/4ce2c2c0e90cef8bdd03f0731267a682cb4380bf)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:528bcb1e788c9f77f0c9cd7f03726cc3df119a22 · 2025-10-16
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/528bcb1e788c9f77f0c9cd7f03726cc3df119a22)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:54932162a614ce336a642d46e139d21a36f43ee3 · 2025-10-16
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/54932162a614ce336a642d46e139d21a36f43ee3)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:6ac38d7d09bf063ac73ea39f21e54a4cd8f08b6e · 2025-10-16
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/6ac38d7d09bf063ac73ea39f21e54a4cd8f08b6e)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:6e30947e2c61f38672b2e4840e9c1ac8e4e3e4e4 · 2025-10-16
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/6e30947e2c61f38672b2e4840e9c1ac8e4e3e4e4)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:7966990be75eacad2d9ef67c8c4c194514140486 · 2025-10-04
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/7966990be75eacad2d9ef67c8c4c194514140486)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:798ffb98fa8d69924342fe89c406dc3b4b2ae813 · 2025-10-04
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/798ffb98fa8d69924342fe89c406dc3b4b2ae813)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:84c8bd3488e82173af635499d4b574097e829285 · 2025-10-03
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/84c8bd3488e82173af635499d4b574097e829285)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:868e8aa21e7aec75a4ef5cb2f04454082330f45d · 2025-10-16
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/868e8aa21e7aec75a4ef5cb2f04454082330f45d)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:9086a448342e6f3b0756ead823d4b0ac6b9a9f08 · 2025-10-03
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/9086a448342e6f3b0756ead823d4b0ac6b9a9f08)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:b28a28f8c1294587359081297442ca36fbfc58f5 · 2025-10-08
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/b28a28f8c1294587359081297442ca36fbfc58f5)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:bfc0ca909600052221a482431dd57b200775e250 · 2025-09-29
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/bfc0ca909600052221a482431dd57b200775e250)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)
+- commit:fb9de80108f9e9ad58c65904ecfc69fdaf370c85 · 2025-10-04
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/commit/fb9de80108f9e9ad58c65904ecfc69fdaf370c85)
+  - [Detailed analysis: teaching-collaboration-boundary](../sources/commit-review/research-projects-all/cases/teaching-collaboration-boundary.md#teaching-demo-readable-collaboration-history-without-invented-code-lessons)
+  - [Detailed analysis: cive70111_25_demo1-review](../sources/commit-review/research-projects-all/cive70111_25_demo1-review.md#tsl-imperial-cive7011125demo1-per-sha-review)
+  - [Detailed analysis: cross-project-lessons](../sources/commit-review/research-projects-all/cross-project-lessons.md#scoped-cross-project-lessons)

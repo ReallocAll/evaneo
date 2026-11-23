@@ -1,0 +1,76 @@
+<!-- retrieval: {"source_type":"navigation","topics":["source-navigation"],"limitations":"Navigation aid only. Linked entries point to public sources and related analysis; the links do not certify implementation or runtime behavior."} -->
+# Source index: wu-vincent/crosscore-custom {#source-index}
+
+## Sources {#sources}
+
+The links below group publicly traceable source material with related analysis.
+
+- commit:0e86ea89a0fb1fded529989229a876ccc6414121 · 2024-02-13
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/0e86ea89a0fb1fded529989229a876ccc6414121)
+  - [Detailed analysis: 13-0e86ea89a0fb1fded529989229a876ccc6414121](../sources/commit-review/remaining-public-contributions/dossiers/13-0e86ea89a0fb1fded529989229a876ccc6414121.md#13-update-readme-md)
+- commit:0f8283941c04efdda75d240caee9f07b52a12735 · 2024-02-14
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/0f8283941c04efdda75d240caee9f07b52a12735)
+  - [Detailed analysis: 15-0f8283941c04efdda75d240caee9f07b52a12735](../sources/commit-review/remaining-public-contributions/dossiers/15-0f8283941c04efdda75d240caee9f07b52a12735.md#15-refactor-base-url-to-support-multiple-platforms-in-makecustom-py)
+  - [Detailed analysis: 01-crosscore-release-and-counterexamples](../sources/commit-review/remaining-public-contributions/dossiers/01-crosscore-release-and-counterexamples.md#crosscore-an-automation-chain-its-changing-failure-policy-and-a-counterexample)
+- commit:1e8556a8ee056ebaad92dacf37ebe534c8a2d5d6 · 2024-02-16
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/1e8556a8ee056ebaad92dacf37ebe534c8a2d5d6)
+  - [Detailed analysis: 19-1e8556a8ee056ebaad92dacf37ebe534c8a2d5d6](../sources/commit-review/remaining-public-contributions/dossiers/19-1e8556a8ee056ebaad92dacf37ebe534c8a2d5d6.md#19-add-github-action-for-reading-binary-data)
+  - [Detailed analysis: 01-crosscore-release-and-counterexamples](../sources/commit-review/remaining-public-contributions/dossiers/01-crosscore-release-and-counterexamples.md#crosscore-an-automation-chain-its-changing-failure-policy-and-a-counterexample)
+- commit:22f52d39aaa6a6db6e4a4cad4ebed9dd9c903324 · 2024-02-14
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/22f52d39aaa6a6db6e4a4cad4ebed9dd9c903324)
+  - [Detailed analysis: 17-22f52d39aaa6a6db6e4a4cad4ebed9dd9c903324](../sources/commit-review/remaining-public-contributions/dossiers/17-22f52d39aaa6a6db6e4a4cad4ebed9dd9c903324.md#17-update-string-formatting-in-makearchive-call)
+- commit:2d8936baea8a6545396c731708033276be2ef72c · 2024-02-11
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/2d8936baea8a6545396c731708033276be2ef72c)
+  - [Detailed analysis: 01-2d8936baea8a6545396c731708033276be2ef72c](../sources/commit-review/remaining-public-contributions/dossiers/01-2d8936baea8a6545396c731708033276be2ef72c.md#01-initial-commit)
+- commit:31efcc9b115e753b2fa6b66438b178d6f75e5057 · 2024-02-11
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/31efcc9b115e753b2fa6b66438b178d6f75e5057)
+  - [Detailed analysis: 07-31efcc9b115e753b2fa6b66438b178d6f75e5057](../sources/commit-review/remaining-public-contributions/dossiers/07-31efcc9b115e753b2fa6b66438b178d6f75e5057.md#07-update-github-workflow)
+  - [Detailed analysis: 01-crosscore-release-and-counterexamples](../sources/commit-review/remaining-public-contributions/dossiers/01-crosscore-release-and-counterexamples.md#crosscore-an-automation-chain-its-changing-failure-policy-and-a-counterexample)
+- commit:46cc40c3833978683df8f39737be8f3b3dc095af · 2024-02-11
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/46cc40c3833978683df8f39737be8f3b3dc095af)
+  - [Detailed analysis: 06-46cc40c3833978683df8f39737be8f3b3dc095af](../sources/commit-review/remaining-public-contributions/dossiers/06-46cc40c3833978683df8f39737be8f3b3dc095af.md#06-use-current-date-for-release-name)
+  - [Detailed analysis: 01-crosscore-release-and-counterexamples](../sources/commit-review/remaining-public-contributions/dossiers/01-crosscore-release-and-counterexamples.md#crosscore-an-automation-chain-its-changing-failure-policy-and-a-counterexample)
+- commit:4a01dd663368d2d732e0729e0c6737e63d7ed908 · 2024-02-11
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/4a01dd663368d2d732e0729e0c6737e63d7ed908)
+  - [Detailed analysis: 05-4a01dd663368d2d732e0729e0c6737e63d7ed908](../sources/commit-review/remaining-public-contributions/dossiers/05-4a01dd663368d2d732e0729e0c6737e63d7ed908.md#05-add-workflow-for-release-packages)
+  - [Detailed analysis: 01-crosscore-release-and-counterexamples](../sources/commit-review/remaining-public-contributions/dossiers/01-crosscore-release-and-counterexamples.md#crosscore-an-automation-chain-its-changing-failure-policy-and-a-counterexample)
+- commit:5642b10c2d0181437cadd92f1f151836182cb2c1 · 2024-02-11
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/5642b10c2d0181437cadd92f1f151836182cb2c1)
+  - [Detailed analysis: 04-5642b10c2d0181437cadd92f1f151836182cb2c1](../sources/commit-review/remaining-public-contributions/dossiers/04-5642b10c2d0181437cadd92f1f151836182cb2c1.md#04-add-script-to-download-and-make-custom-zip)
+  - [Detailed analysis: 01-crosscore-release-and-counterexamples](../sources/commit-review/remaining-public-contributions/dossiers/01-crosscore-release-and-counterexamples.md#crosscore-an-automation-chain-its-changing-failure-policy-and-a-counterexample)
+- commit:6892917cff9ef27d6e1d4e0da33c2799416b56c4 · 2024-02-14
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/6892917cff9ef27d6e1d4e0da33c2799416b56c4)
+  - [Detailed analysis: 14-6892917cff9ef27d6e1d4e0da33c2799416b56c4](../sources/commit-review/remaining-public-contributions/dossiers/14-6892917cff9ef27d6e1d4e0da33c2799416b56c4.md#14-update-ilist-txt-download-url-in-github-workflow)
+  - [Detailed analysis: 01-crosscore-release-and-counterexamples](../sources/commit-review/remaining-public-contributions/dossiers/01-crosscore-release-and-counterexamples.md#crosscore-an-automation-chain-its-changing-failure-policy-and-a-counterexample)
+- commit:70faaa0a45f3b3e09f56c87ffbdb5e7f9678126a · 2024-02-12
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/70faaa0a45f3b3e09f56c87ffbdb5e7f9678126a)
+  - [Detailed analysis: 11-70faaa0a45f3b3e09f56c87ffbdb5e7f9678126a](../sources/commit-review/remaining-public-contributions/dossiers/11-70faaa0a45f3b3e09f56c87ffbdb5e7f9678126a.md#11-update-github-actions-for-release-workflow)
+  - [Detailed analysis: 01-crosscore-release-and-counterexamples](../sources/commit-review/remaining-public-contributions/dossiers/01-crosscore-release-and-counterexamples.md#crosscore-an-automation-chain-its-changing-failure-policy-and-a-counterexample)
+- commit:761bbdedbf7ea9cd289d973739356aa7683d866e · 2024-02-12
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/761bbdedbf7ea9cd289d973739356aa7683d866e)
+  - [Detailed analysis: 09-761bbdedbf7ea9cd289d973739356aa7683d866e](../sources/commit-review/remaining-public-contributions/dossiers/09-761bbdedbf7ea9cd289d973739356aa7683d866e.md#09-update-readme-md)
+- commit:85bddd5b840ed0e7c5150c06410592ba690d4309 · 2024-02-11
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/85bddd5b840ed0e7c5150c06410592ba690d4309)
+  - [Detailed analysis: 08-85bddd5b840ed0e7c5150c06410592ba690d4309](../sources/commit-review/remaining-public-contributions/dossiers/08-85bddd5b840ed0e7c5150c06410592ba690d4309.md#08-update-readme-md)
+- commit:a974b7820176ee956f1f3b1c826e6688064cc441 · 2024-02-14
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/a974b7820176ee956f1f3b1c826e6688064cc441)
+  - [Detailed analysis: 16-a974b7820176ee956f1f3b1c826e6688064cc441](../sources/commit-review/remaining-public-contributions/dossiers/16-a974b7820176ee956f1f3b1c826e6688064cc441.md#16-fix-commits-made-by-github-action-do-not-trigger-release-workflow)
+  - [Detailed analysis: 01-crosscore-release-and-counterexamples](../sources/commit-review/remaining-public-contributions/dossiers/01-crosscore-release-and-counterexamples.md#crosscore-an-automation-chain-its-changing-failure-policy-and-a-counterexample)
+- commit:c7ac2e7746b57056f0afaa4dfccb21fae1849abb · 2024-02-11
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/c7ac2e7746b57056f0afaa4dfccb21fae1849abb)
+  - [Detailed analysis: 03-c7ac2e7746b57056f0afaa4dfccb21fae1849abb](../sources/commit-review/remaining-public-contributions/dossiers/03-c7ac2e7746b57056f0afaa4dfccb21fae1849abb.md#03-add-custom-zip-files-to-gitignore)
+- commit:cd91dacc1aaef36c021d904f218bfa285e991eea · 2024-02-14
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/cd91dacc1aaef36c021d904f218bfa285e991eea)
+  - [Detailed analysis: 18-cd91dacc1aaef36c021d904f218bfa285e991eea](../sources/commit-review/remaining-public-contributions/dossiers/18-cd91dacc1aaef36c021d904f218bfa285e991eea.md#18-update-readme-md)
+- commit:d0101084b2519c87753116d74198fd8b0cc8aea5 · 2024-02-11
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/d0101084b2519c87753116d74198fd8b0cc8aea5)
+  - [Detailed analysis: 02-d0101084b2519c87753116d74198fd8b0cc8aea5](../sources/commit-review/remaining-public-contributions/dossiers/02-d0101084b2519c87753116d74198fd8b0cc8aea5.md#02-add-workflow-for-hourly-ilist-txt-update)
+  - [Detailed analysis: 01-crosscore-release-and-counterexamples](../sources/commit-review/remaining-public-contributions/dossiers/01-crosscore-release-and-counterexamples.md#crosscore-an-automation-chain-its-changing-failure-policy-and-a-counterexample)
+- commit:df80a9f1cea508d36bd08ac490131f5b09ddfcac · 2024-02-12
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/df80a9f1cea508d36bd08ac490131f5b09ddfcac)
+  - [Detailed analysis: 12-df80a9f1cea508d36bd08ac490131f5b09ddfcac](../sources/commit-review/remaining-public-contributions/dossiers/12-df80a9f1cea508d36bd08ac490131f5b09ddfcac.md#12-update-github-workflows-release-yml-to-include-checksum-txt)
+  - [Detailed analysis: 01-crosscore-release-and-counterexamples](../sources/commit-review/remaining-public-contributions/dossiers/01-crosscore-release-and-counterexamples.md#crosscore-an-automation-chain-its-changing-failure-policy-and-a-counterexample)
+- commit:e28bb5a1e0aec79f6efe3729fc8b35a3ec01a48f · 2024-02-12
+  - [Public source](https://github.com/wu-vincent/crosscore-custom/commit/e28bb5a1e0aec79f6efe3729fc8b35a3ec01a48f)
+  - [Detailed analysis: 10-e28bb5a1e0aec79f6efe3729fc8b35a3ec01a48f](../sources/commit-review/remaining-public-contributions/dossiers/10-e28bb5a1e0aec79f6efe3729fc8b35a3ec01a48f.md#10-improve-file-download-error-handling)
+  - [Detailed analysis: 01-crosscore-release-and-counterexamples](../sources/commit-review/remaining-public-contributions/dossiers/01-crosscore-release-and-counterexamples.md#crosscore-an-automation-chain-its-changing-failure-policy-and-a-counterexample)

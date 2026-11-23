@@ -1,0 +1,82 @@
+<!-- retrieval: {"source_ids":["public:commit:014b732819d6f2ab8347bf2d2d016ad1e844cca6","public:commit:11da793998ba9d8148c07ea0eabe84c5f8e24733","public:commit:1bdbc1881c1f236a7efcb727edc70e0ce5d26713","public:commit:1c9354ba223a0cc64ae2b93e279355f3ab5ff461","public:commit:2fcdb771fa38c12bdd99411f25964d33bb37c088","public:commit:30d7082b77fb5ef0c543dfa722cfefc3eea67407","public:commit:34bac79c563060961e4efd4097f673af33a71662","public:commit:351c25665c5e34652531cb3612e49e28399c7328","public:commit:36b792ad1743eaa82cad8d052874ca9c3c422b1d","public:commit:482876d97b7fc96c6ee6395ef5f7900bf3bf9606","public:commit:54eb4a420da83beb5aac3cf964305ff8d34b9480","public:commit:57beb0fdc67b122e9c7b976f55310b7f27d68a3d","public:commit:584cd74576ba746b567425204373c2d622ceaf3f","public:commit:5ac14219737f09d3b44f4d00f4e8f82a9980b182","public:commit:641ee118a70278bafd0f03dd1b8871d1115b3e88","public:commit:6b58e1258a0fea75c322d05cf44cb53217dc70fe","public:commit:703e790b39a8f31f4db583ba36e3c627a2504bc1","public:commit:70aa757271452946d3ae878a9eb944a2558d7f45","public:commit:71d329e96e237749bb47e1876295f24083507436","public:commit:71f013cf5d00a9fa55d512d3842da75000c4c912","public:commit:7ac93bb26475779b493ac8eb7912b6bc6560b7c7","public:commit:7f5f0f57b567c6b02bacbdd0c1fe1d1c5f62dd46","public:commit:832199b6b11bd97632bee160342c286940928b64","public:commit:8329fb7d81c384cebe80cb14edea17d1ccb9f7d9","public:commit:85a12f8ff461e57ccab4f3ef115a4d2e481a242c","public:commit:90a01c7ab6424d12ffb476b28007837b24b4aa72","public:commit:a2d3cd9e092ef1e1c09201162fc1c29415355c4f","public:commit:ae447e6311b59ee95fb4dca88dd042c1d26b6962","public:commit:b029b76f3dc53a467c8123c08bf0abbb1bf2e099","public:commit:b81996da986fdf61dfd2188331aa27a1380ae928","public:commit:bee20cff1a5660464d3dbeb17e1a7db29a0a95e3","public:commit:c987bb8d808875dbe4f33a1ce23e4a878ac909a2","public:commit:d30bdf2ac1abc8a58942fae4b7635c9b41ca34cf","public:commit:dc83564fc04fdfa90e2dbe7a6f6c2ebb6fc4dd31","public:commit:e5203dd1b6ca3e8766a4c19b814d133b1b07376a","public:commit:e7ef3efe65564db39517ffaa6124c55dd93ff17d","public:commit:eb2c234e0cf80b7e069c4aa4ada831dd27ac0519","public:commit:ecc182bf385874a62e8b67436ac23730d3d87318","public:commit:f397ee3a7d1a0f5b11a1cab91e511793eb66e218","public:commit:f840c6f6e52d9f1f4adc49fe2270094e18c65144","public:commit:fc65f92fce2925edb57bbd96c7f4b69ae1a55dc8"],"source_type":"public","date":"2026-08-03..2026-08-04","topics":["testing","build","performance","review","selection","networking"],"limitations":"Static source analysis. Reported tests and outcomes are not independently executed; read the case-specific limits and dated revisions."} -->
+<a id="packet-modeling-exposes-compiler-semantics-commits77-117"></a>
+# Packet modeling exposes compiler semantics: commits77–117 {#packet-modeling-exposes-compiler-semantics-commits77-117}
+
+This is a bounded engineering-history review of41 exact commits, not a protocol conformance certification. Per-commit analyses, source ranges, full SHA provenance, stated alternatives and limitations live in the dossiers. The ledger preserves each identity. External dumps, headers and reference-codec runs are evidence reported in the commits; this review independently reads the local source changes and verifies only the explicitly recorded static checks.
+
+## What changes the answer {#what-changes-the-answer}
+
+1. **A protocol version is insufficient to choose a type's wire layout.** The same item can use direct serialization in one packet and cereal serialization in another at975 or1001. Commits95/96 initially withhold otherwise known975 packets;107 temporarily carries known-wrong1001 spawn self-roundtrips.117 separates genuinely different BDS names and replaces those spawn fixtures with attributed external goldens. Same-name transaction closures remain unresolved and lead into the later compiler layout-axis work.
+2. **Passing round trips have sharply bounded evidential value.** A self-consistent wrong item shape still roundtrips at107. A wrong-era StructureBlockUpdate completely consumes its body at102 but produces an undeclared enum value. An ordinary face value4 does not distinguish uint8 from unsigned varint at97. The retained tests explicitly expose several of these counterexamples rather than supplying general interoperability proof.
+3. **Compiler output must be read at the exact revision.**104's `count=` writer suppresses the prefix and iterates the actual container; only the reader computes the declared count.110 switches the enum writer to reflection, but reflection still linearly scans at that revision despite a test comment claiming otherwise. Later148's runtime lookup maps are a material change.
+4. **Names have two contracts.** Human-facing C++ spelling can follow PEP8, but the serialized spelling must preserve BDS separators.110 introduces the explicit mapping;111/112/114/115 repair different defect classes. Case-fold equality is not byte identity, and a case-patched fixture is still a patched fixture.
+
+## 1. Versioned shapes, availability, and dependency propagation {#1-versioned-shapes-availability-and-dependency-propagation}
+
+The early sequence distinguishes several kinds of change. PresenceConfiguration77 and StartGame78 need redeclarations because fields move, disappear or change shape. AnvilDamage86 and Transfer88 use field gates for a straightforward deletion/addition. TrimData89 and SubClientLogin94 become dump-visible without a demonstrated wire change and keep one shape. DimensionData90 adds a UUID to a nested definition while the outer packet inherits its dependency's change. These examples support a conditional modeling rule, not “always redeclare when cereal appears.”
+
+The open registry83 fits per-module generation: a handwritten primary resolves unknown ids to `void`; each generated module contributes its own specializations, while the umbrella include gathers all of them. Existing version selectors dispatch the concrete packet shape. The registry constrains the packet's overall availability rather than emitting one specialization per snapshot. A consumer including one module sees only that module's registrations. The source tests check known types, absent ids, introduction gates and counts; they do not establish universal dispatch performance or arbitrary overlapping id histories.
+
+Availability is sometimes a **modeling limitation**, not a historical protocol introduction. MobEquipment95 and InventorySlot96 are deliberately gated at1001 even though the author reports matching975 evidence. One shared item declaration cannot simultaneously represent the direct and cerealized forms needed at975.117 removes those gates after splitting `NetworkItemStackDescriptor` from `SerializedNetworkItemStackDescriptor`. The975 modeled-packet count moves45→47; this is coverage growth, not the birth of those packets.
+
+The genuine names solve only one form of the problem.117 keeps the direct descriptor ungated because absence of a current consumer does not establish absence in BDS. By contrast, packet144 requires the pre-cereal `ItemUseInventoryTransaction`/`InventoryAction`/`InventorySource` closure at1001 while packet30 needs their cereal forms at that same version, under the same BDS names. The next review slice contains118's snapshot-pin attempt,120's rollback and127's separate layout axis. Those later details are coordinated context, not extra review credit here.
+
+## 2. Compiler extensions driven by concrete packets {#2-compiler-extensions-driven-by-concrete-packets}
+
+The gap-closing104 is not one undifferentiated DSL expansion:
+
+- Unsupported keywords, positional misuse and `with field(...)` mistakes receive diagnostics rather than silently preserving a default wire. The earlier `field(tag=...)` experience in CraftingData92 is a concrete motivation.
+- Prefixless lists can have counts derived from earlier fields, including inside an optional staging temporary. The reader must refer to surrounding `out`, not the nested temporary named `staged`.
+- A65-bit input mask cannot safely be accumulated through a64-bit integer. The handwritten bitset serializer emits/reads base128 groups directly over bits and rejects truncation and bits outside its declared width.
+- Version-redeclared enums can carry renumbered bodies with independently evaluated trailing `auto()` sentinels. Initially all declarations still share an underlying type, an important later limitation.
+- `.test`, `len`, and bitwise predicates express packet-local conditions; string-coded enum serializers become snapshot-qualified.
+
+The explicit rejected alternative is parent-scope predicates in nested element codecs. That would thread context through serializer APIs to avoid a few small element declarations. Scoreboard101 and SubChunk109 instead gate whole lists or provide cache-specific codecs. This is a local cost/benefit decision with named affected packets, not a blanket objection to contextual serialization.
+
+**Producer caveat:** `RepeatedFieldGenerator.generate_serialize` at104 checks only whether `_count` is absent before writing a prefix. It then loops over every element of the actual vector. `generate_deserialize` alone renders the count expression. Therefore a container whose actual length disagrees with an implicit count can still be emitted. The read-side count mechanism and documentation about symmetric evaluation must not be conflated. The tests inspect generated snippets; they do not demonstrate a writer length validator.
+
+105 addresses a separate C++ name-resolution fault. A consumer with snapshots that its dependency does not emit can resolve an unqualified member name to the dependency's latest alias. Serializer calls already use an older qualified type, creating a disagreement. Passing the snapshot into member type generation resolves the dependency's concrete namespace instead of relying on ambient lookup. Multi-module emitted-text tests target this exact topology. The reported21-header regeneration and successful C++ compilation were not reproduced.
+
+## 3. Tagged alternatives and semantic validity {#3-tagged-alternatives-and-semantic-validity}
+
+Several dumps repeat discriminator-looking fields because the cereal layout writes both an outer variant index and an inner payload discriminator. SoundData79, player-location91, resource response93, item-stack98, metadata99, scoreboard101 and PlayerList103 must distinguish that from unrelated independent optionals. PlayerList's remove/add order is especially discriminating: outer0 carries action1, outer1 carries action0. Item-stack's deprecated old tags7/8 create a different positional index at2168, so LabTable becomes outer7/inner9.
+
+These source declarations encode the bytes but do not automatically encode every semantic invariant. Numeric enum reads are casts, not membership validation. A payload's restated enum can disagree with the variant selected to hold it unless a specific check is present. The chosen consistent fixtures do not prove contradictory pairs are rejected. The old item-stack monostate holes also admit cases that the source says BDS rejects. Preserve these as modeling limits, not hidden validation promises.
+
+## 4. Exact wire names and reflection cost {#4-exact-wire-names-and-reflection-cost}
+
+104 first adds `value(name=...)`;110 develops a Python-like pair syntax for plain Enum, with the helper escape for bases that cannot accept tuples or for gated members. Griffe parses source without executing the schema, so explicit parser checks matter. Wire names flow into reflected `names_v`, preventing a reflection table and writer table from disagreeing. A lowercased reader map rejects collisions at compile time.
+
+The fixes are deliberately not a global underscore sweep:
+
+-111 restores readable ResourcePackResponse identifiers while preserving case-folded tokens and lengths. Static comparison finds36 changed literal byte positions, all case-only; “no wire byte moves” in its prose must mean stable framing, not byte-identical serialization.
+-112 removes four inserted underscore bytes from the SetScore fixture. The98→94-byte change is exactly accounted for by replacing four name strings and their lengths; nothing else in that literal changes.
+-114 repairs UpdateType names but retains a fundamental dump-string versus Cloudburst-byte disagreement. There is no independent2168 golden to rehabilitate; exact-size assertions are structural evidence.
+-115 spells all27 PieceType members because `High_Pants` and `FacialHair` legitimately differ. The single Skeleton fixture exercises a previously case-only member, not all seven newly repaired separator cases. Static inspection finds seven re-cased bytes, despite the message saying six.
+
+**Performance caveat:**110 retains a keyed reader, but its new writer calls `enum_name`, which calls the linear `enum_index` in the exact contemporaneous header. The emitted-source test merely checks that this call occurs. Its “one lookup, no scan” comment does not establish complexity. Core review links this to148's later runtime-map optimization, while constexpr behavior remains a separate concern.
+
+## 5. Oracle management and discriminating tests {#5-oracle-management-and-discriminating-tests}
+
+84 unifies three outcomes: successful full decode, successful partial decode with leftover bytes, and decoder rejection. Those states are not interchangeable. The mechanical extraction preserves ordered hex literal values in all18 affected packet-test diffs. Its message overstates the added checks: the two345 cases already asserted complete consumption; only the074 excluded-field case newly gains that assertion.
+
+The packet work has several oracle tiers that remain distinct in each dossier:
+
+- Attributed raw gophertunnel or Cloudburst bodies.
+- Case-patched bodies with unchanged length and case-folded lookup.
+- Structurally patched bodies changing the disputed signedness, enum spelling or presence marker.
+- Self-roundtrips and layout assertions where no suitable external codec exists.
+
+87 patches loop-count signedness.80/116 insert a disputed System Categories presence marker.108 patches input flag encodings and deliberately omits a1001 transaction arm.100 lacks a suitable1001 skin oracle.107 initially self-roundtrips a known incorrect1001 spawn item layout, then117 replaces that with attributed external fixtures. Each uncertainty has different consequences; collapsing them into “golden tests pass” loses the engineering evidence.
+
+116 upgrades its discriminating category sample from Actor2, stable in both eras, to OreUI53→54. Static table comparison confirms92 old members,111 new members, one removal,20 additions and84 renumbered survivors across six nonzero shifts. But its test titled as a wrong-era read actually reads1001 and compares numeric values to2168 Molang; it does not deserialize the complete old packet as2168. The optional category-list framing remains unresolved among zero, one and two bytes.
+
+109's large cached fixtures each contain one exact256-byte run of height7; their lengths279/289 and uncached17/27 were independently counted. This structural check is useful and bounded. It does not imply that every cache/result/optional combination has an external oracle or that era translation is lossless.
+
+## 6. Attribution, applicability, and retrieval {#6-attribution-applicability-and-retrieval}
+
+GitHub records wu-vincent as the author of all 41 reviewed commits, without attributing authorship of BDS or third-party codecs. Commit 103 credits WP3/WP5 suggestions about BuildPlatform's eventual module home without naming their contributors. Changes to CLAUDE.md document repository guidance.
+
+Use this history when deciding how to represent overlapping wire layouts, distinguishing C++ storage type from wire encoding, qualifying generated dependencies, designing discriminating fixtures, or retaining uncertain third-party evidence. It does not support claims about Windows validation, live BDS interoperability, universal naming conventions, closed-enum safety, or every packet introduced before the project's modeled floor.
+
+Navigation: [83 registry](dossiers/0083-b81996da986f.md), [84 fixture semantics](dossiers/0084-71f013cf5d00.md), [104 DSL](dossiers/0104-a2d3cd9e092e.md), [105 C++ qualification](dossiers/0105-f397ee3a7d1a.md), [110 wire names](dossiers/0110-e7ef3efe6556.md), [116 enum renumbering](dossiers/0116-703e790b39a8.md), [117 layout split](dossiers/0117-584cd74576ba.md).

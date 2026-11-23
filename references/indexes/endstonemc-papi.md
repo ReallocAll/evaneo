@@ -1,0 +1,237 @@
+<!-- retrieval: {"source_type":"navigation","topics":["source-navigation"],"limitations":"Navigation aid only. Linked entries point to public sources and related analysis; the links do not certify implementation or runtime behavior."} -->
+# Source index: EndstoneMC/papi {#source-index}
+
+## Sources {#sources}
+
+The links below group publicly traceable source material with related analysis.
+
+- commit:02c31fd8863c1cce37aa3ff6e334e81097e48377 · 2025-03-14
+  - [Public source](https://github.com/EndstoneMC/papi/commit/02c31fd8863c1cce37aa3ff6e334e81097e48377)
+  - [Detailed analysis: PAPI: packaging](../sources/commit-review/plugin-api-evolution/cases/papi-packaging.md#papi03-packaging-is-part-of-an-api-contract)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#27-02c31fd8863c1cce37aa3ff6e334e81097e48377)
+- commit:044cb128d138e3d51422c128e1e3b1b64384e202 · 2025-03-16
+  - [Public source](https://github.com/EndstoneMC/papi/commit/044cb128d138e3d51422c128e1e3b1b64384e202)
+  - [Detailed analysis: PAPI: contract migration](../sources/commit-review/plugin-api-evolution/cases/papi-contract-migration.md#papi02-api-migrations-must-close-every-binding-callback-and-command-path)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#33-044cb128d138e3d51422c128e1e3b1b64384e202)
+- commit:0458d3d58298af12d39ad91ed0e0b88a52ba3a92 · 2025-03-12
+  - [Public source](https://github.com/EndstoneMC/papi/commit/0458d3d58298af12d39ad91ed0e0b88a52ba3a92)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#15-0458d3d58298af12d39ad91ed0e0b88a52ba3a92)
+- commit:070be6ee8ebc960c52361a981e556a17088c883a · 2025-03-16
+  - [Public source](https://github.com/EndstoneMC/papi/commit/070be6ee8ebc960c52361a981e556a17088c883a)
+  - [Detailed analysis: PAPI: contract migration](../sources/commit-review/plugin-api-evolution/cases/papi-contract-migration.md#papi02-api-migrations-must-close-every-binding-callback-and-command-path)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#32-070be6ee8ebc960c52361a981e556a17088c883a)
+- commit:0cbb0b4b6b0e5963ea1f1179936a78cd489aa022 · 2025-03-16
+  - [Public source](https://github.com/EndstoneMC/papi/commit/0cbb0b4b6b0e5963ea1f1179936a78cd489aa022)
+  - [Detailed analysis: PAPI: contract migration](../sources/commit-review/plugin-api-evolution/cases/papi-contract-migration.md#papi02-api-migrations-must-close-every-binding-callback-and-command-path)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#39-0cbb0b4b6b0e5963ea1f1179936a78cd489aa022)
+- commit:0fdd2497e61ccfcffe67bf1292ef946fd659ce28 · 2025-03-18
+  - [Public source](https://github.com/EndstoneMC/papi/commit/0fdd2497e61ccfcffe67bf1292ef946fd659ce28)
+  - [Detailed analysis: PAPI: contract migration](../sources/commit-review/plugin-api-evolution/cases/papi-contract-migration.md#papi02-api-migrations-must-close-every-binding-callback-and-command-path)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#44-0fdd2497e61ccfcffe67bf1292ef946fd659ce28)
+- commit:117d8780bb1603c446cd4141cec6e59d9391f037 · 2025-03-16
+  - [Public source](https://github.com/EndstoneMC/papi/commit/117d8780bb1603c446cd4141cec6e59d9391f037)
+  - [Detailed analysis: PAPI: packaging](../sources/commit-review/plugin-api-evolution/cases/papi-packaging.md#papi03-packaging-is-part-of-an-api-contract)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#40-117d8780bb1603c446cd4141cec6e59d9391f037)
+- commit:173bf02fa2e5f7b0cba6014b140b73e7e7bc8a80 · 2025-03-26
+  - [Public source](https://github.com/EndstoneMC/papi/commit/173bf02fa2e5f7b0cba6014b140b73e7e7bc8a80)
+  - [Detailed analysis: PAPI: packaging](../sources/commit-review/plugin-api-evolution/cases/papi-packaging.md#papi03-packaging-is-part-of-an-api-contract)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#46-173bf02fa2e5f7b0cba6014b140b73e7e7bc8a80)
+- commit:1a47a108e8a3a84690ce151986e64ad9c46d5168 · 2025-03-16
+  - [Public source](https://github.com/EndstoneMC/papi/commit/1a47a108e8a3a84690ce151986e64ad9c46d5168)
+  - [Detailed analysis: PAPI: packaging](../sources/commit-review/plugin-api-evolution/cases/papi-packaging.md#papi03-packaging-is-part-of-an-api-contract)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#31-1a47a108e8a3a84690ce151986e64ad9c46d5168)
+- commit:1a5f721b4b15b783faf8f8cd540dad57c4c8962b · 2025-03-14
+  - [Public source](https://github.com/EndstoneMC/papi/commit/1a5f721b4b15b783faf8f8cd540dad57c4c8962b)
+  - [Detailed analysis: PAPI: packaging](../sources/commit-review/plugin-api-evolution/cases/papi-packaging.md#papi03-packaging-is-part-of-an-api-contract)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#23-1a5f721b4b15b783faf8f8cd540dad57c4c8962b)
+- commit:1d45e10bfa5266ba0799130a9daa2c815a6c13e6 · 2025-03-14
+  - [Public source](https://github.com/EndstoneMC/papi/commit/1d45e10bfa5266ba0799130a9daa2c815a6c13e6)
+  - [Detailed analysis: PAPI: contract migration](../sources/commit-review/plugin-api-evolution/cases/papi-contract-migration.md#papi02-api-migrations-must-close-every-binding-callback-and-command-path)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#25-1d45e10bfa5266ba0799130a9daa2c815a6c13e6)
+- commit:38075fa193442b037653779c15da5b833186f933 · 2025-03-14
+  - [Public source](https://github.com/EndstoneMC/papi/commit/38075fa193442b037653779c15da5b833186f933)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#20-38075fa193442b037653779c15da5b833186f933)
+- commit:407f8dc1a6c03c4ef8dcaa6fa05e1ff2f62b1816 · 2025-03-14
+  - [Public source](https://github.com/EndstoneMC/papi/commit/407f8dc1a6c03c4ef8dcaa6fa05e1ff2f62b1816)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#17-407f8dc1a6c03c4ef8dcaa6fa05e1ff2f62b1816)
+- commit:488c9688300fc47890b747711c93d3a70cd3d56f · 2025-03-18
+  - [Public source](https://github.com/EndstoneMC/papi/commit/488c9688300fc47890b747711c93d3a70cd3d56f)
+  - [Detailed analysis: PAPI: contract migration](../sources/commit-review/plugin-api-evolution/cases/papi-contract-migration.md#papi02-api-migrations-must-close-every-binding-callback-and-command-path)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#45-488c9688300fc47890b747711c93d3a70cd3d56f)
+- commit:491194b40a00c63f3695dc6287176f27e17dfbca · 2025-03-12
+  - [Public source](https://github.com/EndstoneMC/papi/commit/491194b40a00c63f3695dc6287176f27e17dfbca)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#10-491194b40a00c63f3695dc6287176f27e17dfbca)
+- commit:4b978694f00dc5e50d97ca4eebda6cbfea8cc8bf · 2025-03-16
+  - [Public source](https://github.com/EndstoneMC/papi/commit/4b978694f00dc5e50d97ca4eebda6cbfea8cc8bf)
+  - [Detailed analysis: PAPI: contract migration](../sources/commit-review/plugin-api-evolution/cases/papi-contract-migration.md#papi02-api-migrations-must-close-every-binding-callback-and-command-path)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#29-4b978694f00dc5e50d97ca4eebda6cbfea8cc8bf)
+- commit:52a2b71b89883e5d365b0c8838d1b0198c4f669a · 2025-03-14
+  - [Public source](https://github.com/EndstoneMC/papi/commit/52a2b71b89883e5d365b0c8838d1b0198c4f669a)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#16-52a2b71b89883e5d365b0c8838d1b0198c4f669a)
+- commit:656d3da4eab900a56617c6c6d7d7555e3fdda010 · 2025-03-12
+  - [Public source](https://github.com/EndstoneMC/papi/commit/656d3da4eab900a56617c6c6d7d7555e3fdda010)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#5-656d3da4eab900a56617c6c6d7d7555e3fdda010)
+- commit:68f566436258abecc75db3f0521cdbef6909f79b · 2025-03-16
+  - [Public source](https://github.com/EndstoneMC/papi/commit/68f566436258abecc75db3f0521cdbef6909f79b)
+  - [Detailed analysis: PAPI: contract migration](../sources/commit-review/plugin-api-evolution/cases/papi-contract-migration.md#papi02-api-migrations-must-close-every-binding-callback-and-command-path)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#34-68f566436258abecc75db3f0521cdbef6909f79b)
+- commit:6d88f1e65629d8008e3cfe06b219f4c703e445da · 2025-03-14
+  - [Public source](https://github.com/EndstoneMC/papi/commit/6d88f1e65629d8008e3cfe06b219f4c703e445da)
+  - [Detailed analysis: PAPI: packaging](../sources/commit-review/plugin-api-evolution/cases/papi-packaging.md#papi03-packaging-is-part-of-an-api-contract)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#24-6d88f1e65629d8008e3cfe06b219f4c703e445da)
+- commit:70fe10660887abc218fc7166a66956e566747e8a · 2025-03-16
+  - [Public source](https://github.com/EndstoneMC/papi/commit/70fe10660887abc218fc7166a66956e566747e8a)
+  - [Detailed analysis: PAPI: contract migration](../sources/commit-review/plugin-api-evolution/cases/papi-contract-migration.md#papi02-api-migrations-must-close-every-binding-callback-and-command-path)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#37-70fe10660887abc218fc7166a66956e566747e8a)
+- commit:791b86576c9feeb87c0d9310a31d24b61ecbbac0 · 2025-03-12
+  - [Public source](https://github.com/EndstoneMC/papi/commit/791b86576c9feeb87c0d9310a31d24b61ecbbac0)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#14-791b86576c9feeb87c0d9310a31d24b61ecbbac0)
+- commit:7b9a646e00b1c5f8fa3abe82e2bd1db330f426d8 · 2025-03-12
+  - [Public source](https://github.com/EndstoneMC/papi/commit/7b9a646e00b1c5f8fa3abe82e2bd1db330f426d8)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#8-7b9a646e00b1c5f8fa3abe82e2bd1db330f426d8)
+- commit:7d2c905346c2047f9e6f4834abecaf6964a7ee0a · 2025-03-16
+  - [Public source](https://github.com/EndstoneMC/papi/commit/7d2c905346c2047f9e6f4834abecaf6964a7ee0a)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#42-7d2c905346c2047f9e6f4834abecaf6964a7ee0a)
+- commit:8c14033cd9bbc78224f166d62f929a28e9d62438 · 2025-03-12
+  - [Public source](https://github.com/EndstoneMC/papi/commit/8c14033cd9bbc78224f166d62f929a28e9d62438)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#4-8c14033cd9bbc78224f166d62f929a28e9d62438)
+- commit:8c7e4c21155b2f333a9ce47283f235f462f82f50 · 2025-03-16
+  - [Public source](https://github.com/EndstoneMC/papi/commit/8c7e4c21155b2f333a9ce47283f235f462f82f50)
+  - [Detailed analysis: PAPI: packaging](../sources/commit-review/plugin-api-evolution/cases/papi-packaging.md#papi03-packaging-is-part-of-an-api-contract)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#41-8c7e4c21155b2f333a9ce47283f235f462f82f50)
+- commit:a018919d80f8fe0849e8c78bb85f232ab193b482 · 2025-03-16
+  - [Public source](https://github.com/EndstoneMC/papi/commit/a018919d80f8fe0849e8c78bb85f232ab193b482)
+  - [Detailed analysis: PAPI: contract migration](../sources/commit-review/plugin-api-evolution/cases/papi-contract-migration.md#papi02-api-migrations-must-close-every-binding-callback-and-command-path)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#38-a018919d80f8fe0849e8c78bb85f232ab193b482)
+- commit:a04b6678f8b295b581e8160ba3f357db41ed14fb · 2025-03-12
+  - [Public source](https://github.com/EndstoneMC/papi/commit/a04b6678f8b295b581e8160ba3f357db41ed14fb)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#9-a04b6678f8b295b581e8160ba3f357db41ed14fb)
+- commit:a18015c4df2ad9c3e8edfb91ae59c66b67c6e121 · 2025-03-16
+  - [Public source](https://github.com/EndstoneMC/papi/commit/a18015c4df2ad9c3e8edfb91ae59c66b67c6e121)
+  - [Detailed analysis: PAPI: contract migration](../sources/commit-review/plugin-api-evolution/cases/papi-contract-migration.md#papi02-api-migrations-must-close-every-binding-callback-and-command-path)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#35-a18015c4df2ad9c3e8edfb91ae59c66b67c6e121)
+- commit:a1ba0edc825db7bd5d5c74b77f9c0bb160109529 · 2025-03-12
+  - [Public source](https://github.com/EndstoneMC/papi/commit/a1ba0edc825db7bd5d5c74b77f9c0bb160109529)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#3-a1ba0edc825db7bd5d5c74b77f9c0bb160109529)
+- commit:a3de2f4f42acb12a0a2f1944b282dde66b1c0f65 · 2025-03-12
+  - [Public source](https://github.com/EndstoneMC/papi/commit/a3de2f4f42acb12a0a2f1944b282dde66b1c0f65)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#7-a3de2f4f42acb12a0a2f1944b282dde66b1c0f65)
+- commit:aa1c104bb5544c0701302e0e769832bc4e48971d · 2025-03-12
+  - [Public source](https://github.com/EndstoneMC/papi/commit/aa1c104bb5544c0701302e0e769832bc4e48971d)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#12-aa1c104bb5544c0701302e0e769832bc4e48971d)
+- commit:adae43fc6a7b791f15196cf3acafb500362a1d1c · 2025-03-14
+  - [Public source](https://github.com/EndstoneMC/papi/commit/adae43fc6a7b791f15196cf3acafb500362a1d1c)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#18-adae43fc6a7b791f15196cf3acafb500362a1d1c)
+- commit:b28c3fa7388b2a595cc9b3f040e4afdcac4c2ac6 · 2025-03-12
+  - [Public source](https://github.com/EndstoneMC/papi/commit/b28c3fa7388b2a595cc9b3f040e4afdcac4c2ac6)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#2-b28c3fa7388b2a595cc9b3f040e4afdcac4c2ac6)
+- commit:b8b2e1441a36c14ecb22614a1b42038820217c8e · 2025-03-14
+  - [Public source](https://github.com/EndstoneMC/papi/commit/b8b2e1441a36c14ecb22614a1b42038820217c8e)
+  - [Detailed analysis: PAPI: packaging](../sources/commit-review/plugin-api-evolution/cases/papi-packaging.md#papi03-packaging-is-part-of-an-api-contract)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#26-b8b2e1441a36c14ecb22614a1b42038820217c8e)
+- commit:c3a4289ea1d09e5eb57d8424d175e1767d3c5259 · 2025-03-16
+  - [Public source](https://github.com/EndstoneMC/papi/commit/c3a4289ea1d09e5eb57d8424d175e1767d3c5259)
+  - [Detailed analysis: PAPI: contract migration](../sources/commit-review/plugin-api-evolution/cases/papi-contract-migration.md#papi02-api-migrations-must-close-every-binding-callback-and-command-path)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#28-c3a4289ea1d09e5eb57d8424d175e1767d3c5259)
+- commit:ca8236fe60c0d02466b767e41c82c5290e54a735 · 2025-03-14
+  - [Public source](https://github.com/EndstoneMC/papi/commit/ca8236fe60c0d02466b767e41c82c5290e54a735)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#19-ca8236fe60c0d02466b767e41c82c5290e54a735)
+- commit:cb526a474be544c874206beaeff471b46a9ea52f · 2025-03-12
+  - [Public source](https://github.com/EndstoneMC/papi/commit/cb526a474be544c874206beaeff471b46a9ea52f)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#11-cb526a474be544c874206beaeff471b46a9ea52f)
+- commit:d6281a3b1c51f477bb0f97497173b82385c70754 · 2025-03-12
+  - [Public source](https://github.com/EndstoneMC/papi/commit/d6281a3b1c51f477bb0f97497173b82385c70754)
+  - [Detailed analysis: PAPI: packaging](../sources/commit-review/plugin-api-evolution/cases/papi-packaging.md#papi03-packaging-is-part-of-an-api-contract)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#13-d6281a3b1c51f477bb0f97497173b82385c70754)
+- commit:d736fb2a8b3a13b55586179b80a0fcbc8333ea82 · 2025-03-14
+  - [Public source](https://github.com/EndstoneMC/papi/commit/d736fb2a8b3a13b55586179b80a0fcbc8333ea82)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#21-d736fb2a8b3a13b55586179b80a0fcbc8333ea82)
+- commit:d96203599ba6b8ec995eef8f7febe85478688346 · 2025-03-12
+  - [Public source](https://github.com/EndstoneMC/papi/commit/d96203599ba6b8ec995eef8f7febe85478688346)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#6-d96203599ba6b8ec995eef8f7febe85478688346)
+- commit:dae929b39bcf4c544cbe6e5e1d972e06fc80092c · 2025-03-16
+  - [Public source](https://github.com/EndstoneMC/papi/commit/dae929b39bcf4c544cbe6e5e1d972e06fc80092c)
+  - [Detailed analysis: PAPI: contract migration](../sources/commit-review/plugin-api-evolution/cases/papi-contract-migration.md#papi02-api-migrations-must-close-every-binding-callback-and-command-path)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#30-dae929b39bcf4c544cbe6e5e1d972e06fc80092c)
+- commit:de0aa81266af0d11032c87b4b50bf1c3703dfbae · 2025-03-16
+  - [Public source](https://github.com/EndstoneMC/papi/commit/de0aa81266af0d11032c87b4b50bf1c3703dfbae)
+  - [Detailed analysis: PAPI: contract migration](../sources/commit-review/plugin-api-evolution/cases/papi-contract-migration.md#papi02-api-migrations-must-close-every-binding-callback-and-command-path)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#36-de0aa81266af0d11032c87b4b50bf1c3703dfbae)
+- commit:e51990bbf51fb600a31ef8df74a15f7fe790c09c · 2025-03-14
+  - [Public source](https://github.com/EndstoneMC/papi/commit/e51990bbf51fb600a31ef8df74a15f7fe790c09c)
+  - [Detailed analysis: PAPI: packaging](../sources/commit-review/plugin-api-evolution/cases/papi-packaging.md#papi03-packaging-is-part-of-an-api-contract)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#22-e51990bbf51fb600a31ef8df74a15f7fe790c09c)
+- commit:e6e175894ee894536acc64bd6ada6d279100c4cc · 2025-03-12
+  - [Public source](https://github.com/EndstoneMC/papi/commit/e6e175894ee894536acc64bd6ada6d279100c4cc)
+  - [Detailed analysis: PAPI: service boundary](../sources/commit-review/plugin-api-evolution/cases/papi-service-boundary.md#papi01-replace-plugin-downcasts-with-a-shared-c-python-service)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#1-e6e175894ee894536acc64bd6ada6d279100c4cc)
+- commit:fd3aad5c9f814513bed63d93c6561c011f81cdd9 · 2025-03-16
+  - [Public source](https://github.com/EndstoneMC/papi/commit/fd3aad5c9f814513bed63d93c6561c011f81cdd9)
+  - [Detailed analysis: PAPI: contract migration](../sources/commit-review/plugin-api-evolution/cases/papi-contract-migration.md#papi02-api-migrations-must-close-every-binding-callback-and-command-path)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: papi-source-index](../sources/commit-review/plugin-api-evolution/repositories/papi-source-index.md#43-fd3aad5c9f814513bed63d93c6561c011f81cdd9)

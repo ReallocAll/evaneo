@@ -1,0 +1,1380 @@
+<!-- retrieval: {"source_type":"navigation","topics":["source-navigation"],"limitations":"Navigation aid only. Linked entries point to public sources and related analysis; the links do not certify implementation or runtime behavior."} -->
+# Source index: thread {#source-index}
+
+## Sources {#sources}
+
+The links below group publicly traceable source material with related analysis.
+
+- thread:AllayMC/Allay#322 · 2024-07-26
+  - [Public source](https://github.com/AllayMC/Allay/issues/322)
+  - [Detailed analysis: AllayMC--Allay--issue-322](../sources/thread-review/threads/AllayMC--Allay--issue-322.md#allaymc-allay-322-feat-weather-system)
+- thread:AllayMC/Allay#335 · 2024-08-10
+  - [Public source](https://github.com/AllayMC/Allay/issues/335)
+  - [Detailed analysis: AllayMC--Allay--issue-335](../sources/thread-review/threads/AllayMC--Allay--issue-335.md#allaymc-allay-335-feat-allow-3rd-plugin-loader)
+- thread:AllayMC/Allay#378 · 2024-09-07
+  - [Public source](https://github.com/AllayMC/Allay/issues/378)
+  - [Detailed analysis: AllayMC--Allay--issue-378](../sources/thread-review/threads/AllayMC--Allay--issue-378.md#allaymc-allay-378-feat-add-bstats)
+- thread:Bastian/bstats-data-processor#2 · 2026-03-21
+  - [Public source](https://github.com/Bastian/bstats-data-processor/pull/2)
+  - [Detailed analysis: Bastian--bstats-data-processor--pr-2](../sources/thread-review/threads/Bastian--bstats-data-processor--pr-2.md#bastian-bstats-data-processor-2-add-endstone-to-bukkit-software-parser)
+- thread:Bedrock-OSS/bedrock-wiki#1079 · 2025-07-30
+  - [Public source](https://github.com/Bedrock-OSS/bedrock-wiki/pull/1079)
+  - [Detailed analysis: Bedrock-OSS--bedrock-wiki--pr-1079](../sources/thread-review/threads/Bedrock-OSS--bedrock-wiki--pr-1079.md#bedrock-oss-bedrock-wiki-1079-docs-update-active-server-softwares)
+- thread:Bedrock-OSS/bedrock-wiki#1260 · 2026-08-05
+  - [Public source](https://github.com/Bedrock-OSS/bedrock-wiki/pull/1260)
+  - [Detailed analysis: Bedrock-OSS--bedrock-wiki--pr-1260](../sources/thread-review/threads/Bedrock-OSS--bedrock-wiki--pr-1260.md#bedrock-oss-bedrock-wiki-1260-update-endstone-description-in-active-server-software-list)
+- thread:Bedrock-OSS/bedrock-wiki#834 · 2024-04-07
+  - [Public source](https://github.com/Bedrock-OSS/bedrock-wiki/pull/834)
+  - [Detailed analysis: Bedrock-OSS--bedrock-wiki--pr-834](../sources/thread-review/threads/Bedrock-OSS--bedrock-wiki--pr-834.md#bedrock-oss-bedrock-wiki-834-update-server-software-md)
+- thread:Bedrock-OSS/bedrock-wiki#884 · 2024-07-18
+  - [Public source](https://github.com/Bedrock-OSS/bedrock-wiki/pull/884)
+  - [Detailed analysis: Bedrock-OSS--bedrock-wiki--pr-884](../sources/thread-review/threads/Bedrock-OSS--bedrock-wiki--pr-884.md#bedrock-oss-bedrock-wiki-884-update-server-software-md)
+- thread:EndstoneMC/bedrock-protocol#1 · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/pull/1)
+  - [Detailed analysis: EndstoneMC--bedrock-protocol--pr-1](../sources/thread-review/threads/EndstoneMC--bedrock-protocol--pr-1.md#endstonemc-bedrock-protocol-1-fix-the-gcc-and-clang-ci-jobs)
+- thread:EndstoneMC/bedrock-server-data#3 · 2026-02-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-server-data/pull/3)
+  - [Detailed analysis: EndstoneMC--bedrock-server-data--pr-3](../sources/thread-review/threads/EndstoneMC--bedrock-server-data--pr-3.md#endstonemc-bedrock-server-data-3-added-missing-1-26-10-22-linux-server-metadata)
+- thread:EndstoneMC/cpp-example-plugin#1 · 2024-07-29
+  - [Public source](https://github.com/EndstoneMC/cpp-example-plugin/issues/1)
+  - [Detailed analysis: EndstoneMC--cpp-example-plugin--issue-1](../sources/thread-review/threads/EndstoneMC--cpp-example-plugin--issue-1.md#endstonemc-cpp-example-plugin-1-i-can-t-build-the-example-plugin)
+- thread:EndstoneMC/cpp-example-plugin#2 · 2024-08-30
+  - [Public source](https://github.com/EndstoneMC/cpp-example-plugin/issues/2)
+  - [Detailed analysis: EndstoneMC--cpp-example-plugin--issue-2](../sources/thread-review/threads/EndstoneMC--cpp-example-plugin--issue-2.md#endstonemc-cpp-example-plugin-2-i-have-the-right-toolchains-but-cann-t-build)
+- thread:EndstoneMC/cpp-example-plugin#3 · 2025-01-12
+  - [Public source](https://github.com/EndstoneMC/cpp-example-plugin/pull/3)
+  - [Detailed analysis: EndstoneMC--cpp-example-plugin--pr-3](../sources/thread-review/threads/EndstoneMC--cpp-example-plugin--pr-3.md#endstonemc-cpp-example-plugin-3-feat-update-plugin-template-to-v0-6-0)
+- thread:EndstoneMC/cpp-example-plugin#8 · 2026-07-13
+  - [Public source](https://github.com/EndstoneMC/cpp-example-plugin/issues/8)
+  - [Detailed analysis: EndstoneMC--cpp-example-plugin--issue-8](../sources/thread-review/threads/EndstoneMC--cpp-example-plugin--issue-8.md#endstonemc-cpp-example-plugin-8-build-failed-to-compile-for-linux-using-github-workflows)
+- thread:EndstoneMC/dwarf2cpp#1 · 2025-09-13
+  - [Public source](https://github.com/EndstoneMC/dwarf2cpp/issues/1)
+  - [Detailed analysis: EndstoneMC--dwarf2cpp--issue-1](../sources/thread-review/threads/EndstoneMC--dwarf2cpp--issue-1.md#endstonemc-dwarf2cpp-1-function-const-qualifier-is-missing)
+- thread:EndstoneMC/dwarf2cpp#14 · 2026-05-16
+  - [Public source](https://github.com/EndstoneMC/dwarf2cpp/pull/14)
+  - [Detailed analysis: EndstoneMC--dwarf2cpp--pr-14](../sources/thread-review/threads/EndstoneMC--dwarf2cpp--pr-14.md#endstonemc-dwarf2cpp-14-fix-visitor-ignore-dwatdeclfile-line-in-visitnamespace)
+- thread:EndstoneMC/dwarf2cpp#2 · 2025-09-13
+  - [Public source](https://github.com/EndstoneMC/dwarf2cpp/issues/2)
+  - [Detailed analysis: EndstoneMC--dwarf2cpp--issue-2](../sources/thread-review/threads/EndstoneMC--dwarf2cpp--issue-2.md#endstonemc-dwarf2cpp-2-handle-template-parameters)
+- thread:EndstoneMC/dwarf2cpp#3 · 2025-09-13
+  - [Public source](https://github.com/EndstoneMC/dwarf2cpp/issues/3)
+  - [Detailed analysis: EndstoneMC--dwarf2cpp--issue-3](../sources/thread-review/threads/EndstoneMC--dwarf2cpp--issue-3.md#endstonemc-dwarf2cpp-3-handle-the-accessibility-of-class-members)
+- thread:EndstoneMC/dwarf2cpp#4 · 2025-09-13
+  - [Public source](https://github.com/EndstoneMC/dwarf2cpp/issues/4)
+  - [Detailed analysis: EndstoneMC--dwarf2cpp--issue-4](../sources/thread-review/threads/EndstoneMC--dwarf2cpp--issue-4.md#endstonemc-dwarf2cpp-4-fix-special-types-array-type-pointer-to-function-type-with-names)
+- thread:EndstoneMC/dwarf2cpp#5 · 2025-09-13
+  - [Public source](https://github.com/EndstoneMC/dwarf2cpp/issues/5)
+  - [Detailed analysis: EndstoneMC--dwarf2cpp--issue-5](../sources/thread-review/threads/EndstoneMC--dwarf2cpp--issue-5.md#endstonemc-dwarf2cpp-5-empty-using-statement)
+- thread:EndstoneMC/dwarf2cpp#6 · 2025-09-13
+  - [Public source](https://github.com/EndstoneMC/dwarf2cpp/issues/6)
+  - [Detailed analysis: EndstoneMC--dwarf2cpp--issue-6](../sources/thread-review/threads/EndstoneMC--dwarf2cpp--issue-6.md#endstonemc-dwarf2cpp-6-duplicate-objects-on-the-same-line)
+- thread:EndstoneMC/dwarf2cpp#7 · 2025-09-13
+  - [Public source](https://github.com/EndstoneMC/dwarf2cpp/issues/7)
+  - [Detailed analysis: EndstoneMC--dwarf2cpp--issue-7](../sources/thread-review/threads/EndstoneMC--dwarf2cpp--issue-7.md#endstonemc-dwarf2cpp-7-inline-union-declaration)
+- thread:EndstoneMC/dwarf2cpp#8 · 2025-09-15
+  - [Public source](https://github.com/EndstoneMC/dwarf2cpp/issues/8)
+  - [Detailed analysis: EndstoneMC--dwarf2cpp--issue-8](../sources/thread-review/threads/EndstoneMC--dwarf2cpp--issue-8.md#endstonemc-dwarf2cpp-8-template-declaration-should-appear-once-in-a-file)
+- thread:EndstoneMC/dwarf2cpp#9 · 2025-09-17
+  - [Public source](https://github.com/EndstoneMC/dwarf2cpp/issues/9)
+  - [Detailed analysis: EndstoneMC--dwarf2cpp--issue-9](../sources/thread-review/threads/EndstoneMC--dwarf2cpp--issue-9.md#endstonemc-dwarf2cpp-9-type-unit-tu-support-for-dwarfv4)
+- thread:EndstoneMC/endstone#1 · 2023-08-07
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/1)
+  - [Detailed analysis: EndstoneMC--endstone--pr-1](../sources/thread-review/threads/EndstoneMC--endstone--pr-1.md#endstonemc-endstone-1-new-plugin-manager)
+- thread:EndstoneMC/endstone#100 · 2024-12-05
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/100)
+  - [Detailed analysis: EndstoneMC--endstone--issue-100](../sources/thread-review/threads/EndstoneMC--endstone--issue-100.md#endstonemc-endstone-100-crash-on-startup-with-latest-wheel)
+- thread:EndstoneMC/endstone#101 · 2024-12-06
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/101)
+  - [Detailed analysis: EndstoneMC--endstone--issue-101](../sources/thread-review/threads/EndstoneMC--endstone--issue-101.md#endstonemc-endstone-101-unknown-error-log)
+- thread:EndstoneMC/endstone#102 · 2024-12-06
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/102)
+  - [Detailed analysis: EndstoneMC--endstone--issue-102](../sources/thread-review/threads/EndstoneMC--endstone--issue-102.md#endstonemc-endstone-102-custom-block-caused-crash)
+- thread:EndstoneMC/endstone#103 · 2024-12-06
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/103)
+  - [Detailed analysis: EndstoneMC--endstone--issue-103](../sources/thread-review/threads/EndstoneMC--endstone--issue-103.md#endstonemc-endstone-103-feature-enchantment-api-for-itemstack)
+  - [Detailed analysis: 03-enchantment-registry](../sources/commit-review/endstone-2025-0501-0600/03-enchantment-registry.md#problem-people-and-revisions)
+- thread:EndstoneMC/endstone#104 · 2024-12-06
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/104)
+  - [Detailed analysis: EndstoneMC--endstone--issue-104](../sources/thread-review/threads/EndstoneMC--endstone--issue-104.md#endstonemc-endstone-104-addition-moderation-commands)
+- thread:EndstoneMC/endstone#105 · 2024-12-08
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/105)
+  - [Detailed analysis: EndstoneMC--endstone--issue-105](../sources/thread-review/threads/EndstoneMC--endstone--issue-105.md#endstonemc-endstone-105-feature-change-permission-level-for-allowlist-whitelist-etc)
+- thread:EndstoneMC/endstone#106 · 2024-12-10
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/106)
+  - [Detailed analysis: EndstoneMC--endstone--issue-106](../sources/thread-review/threads/EndstoneMC--endstone--issue-106.md#endstonemc-endstone-106-bug-setting-player-allowflight-to-false-in-playerjoinevent-handler-causes-players-to-lose-the-ability-to-b)
+- thread:EndstoneMC/endstone#108 · 2024-12-12
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/108)
+  - [Detailed analysis: EndstoneMC--endstone--issue-108](../sources/thread-review/threads/EndstoneMC--endstone--issue-108.md#endstonemc-endstone-108-bug-player-inventory-clear-method-does-not-update-the-inventory-on-client-side-instantly)
+- thread:EndstoneMC/endstone#11 · 2024-05-24
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/11)
+  - [Detailed analysis: EndstoneMC--endstone--pr-11](../sources/thread-review/threads/EndstoneMC--endstone--pr-11.md#endstonemc-endstone-11-added-more-struct-info)
+- thread:EndstoneMC/endstone#110 · 2024-12-17
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/110)
+  - [Detailed analysis: EndstoneMC--endstone--pr-110](../sources/thread-review/threads/EndstoneMC--endstone--pr-110.md#endstonemc-endstone-110-adjust-plugin-loading-logic-fix-98)
+- thread:EndstoneMC/endstone#111 · 2024-12-23
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/111)
+  - [Detailed analysis: EndstoneMC--endstone--issue-111](../sources/thread-review/threads/EndstoneMC--endstone--issue-111.md#endstonemc-endstone-111-bug-server-crash-when-the-actionform-callback-function-uses-sending-the-kill-command-to-kill-the-player-wh)
+- thread:EndstoneMC/endstone#113 · 2024-12-26
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/113)
+  - [Detailed analysis: EndstoneMC--endstone--pr-113](../sources/thread-review/threads/EndstoneMC--endstone--pr-113.md#endstonemc-endstone-113-feat-dump-more-liquid-data-for-block-states)
+- thread:EndstoneMC/endstone#115 · 2024-12-28
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/115)
+  - [Detailed analysis: EndstoneMC--endstone--issue-115](../sources/thread-review/threads/EndstoneMC--endstone--issue-115.md#endstonemc-endstone-115-bug-unknown-error)
+- thread:EndstoneMC/endstone#116 · 2025-01-01
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/116)
+  - [Detailed analysis: EndstoneMC--endstone--issue-116](../sources/thread-review/threads/EndstoneMC--endstone--issue-116.md#endstonemc-endstone-116-bug-endstone-crashed)
+- thread:EndstoneMC/endstone#117 · 2025-01-01
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/117)
+  - [Detailed analysis: EndstoneMC--endstone--issue-117](../sources/thread-review/threads/EndstoneMC--endstone--issue-117.md#endstonemc-endstone-117-build-issue)
+- thread:EndstoneMC/endstone#118 · 2025-01-04
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/118)
+  - [Detailed analysis: EndstoneMC--endstone--pr-118](../sources/thread-review/threads/EndstoneMC--endstone--pr-118.md#endstonemc-endstone-118-updated-api-version-on-python-examples)
+- thread:EndstoneMC/endstone#119 · 2025-01-05
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/119)
+  - [Detailed analysis: EndstoneMC--endstone--pr-119](../sources/thread-review/threads/EndstoneMC--endstone--pr-119.md#endstonemc-endstone-119-feat-implement-playsoundpacket)
+- thread:EndstoneMC/endstone#120 · 2025-01-06
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/120)
+  - [Detailed analysis: EndstoneMC--endstone--issue-120](../sources/thread-review/threads/EndstoneMC--endstone--issue-120.md#endstonemc-endstone-120-bug-the-sendmaessage-of-commandsender-class-don-t-support-asynchrony)
+- thread:EndstoneMC/endstone#122 · 2025-01-10
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/122)
+  - [Detailed analysis: EndstoneMC--endstone--pr-122](../sources/thread-review/threads/EndstoneMC--endstone--pr-122.md#endstonemc-endstone-122-feat-add-ll-runtime-support-for-endstone)
+- thread:EndstoneMC/endstone#124 · 2025-01-12
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/124)
+  - [Detailed analysis: EndstoneMC--endstone--pr-124](../sources/thread-review/threads/EndstoneMC--endstone--pr-124.md#endstonemc-endstone-124-add-missing-include-in-cmake)
+  - [Detailed analysis: 04-build-hooks-distribution](../sources/commit-review/endstone-2025-0101-0200/04-build-hooks-distribution.md#follow-the-artifact-not-only-the-build-command)
+- thread:EndstoneMC/endstone#125 · 2025-01-13
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/125)
+  - [Detailed analysis: EndstoneMC--endstone--issue-125](../sources/thread-review/threads/EndstoneMC--endstone--issue-125.md#endstonemc-endstone-125-endstone-breaks-minecraft-education-edition-textures)
+  - [Detailed analysis: 05-world-resources-diagnostics](../sources/commit-review/endstone-2025-0101-0200/05-world-resources-diagnostics.md#preserve-native-state-that-serialization-does-not-describe)
+- thread:EndstoneMC/endstone#126 · 2025-01-21
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/126)
+  - [Detailed analysis: EndstoneMC--endstone--issue-126](../sources/thread-review/threads/EndstoneMC--endstone--issue-126.md#endstonemc-endstone-126-feature-more-events)
+- thread:EndstoneMC/endstone#127 · 2025-01-24
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/127)
+  - [Detailed analysis: EndstoneMC--endstone--issue-127](../sources/thread-review/threads/EndstoneMC--endstone--issue-127.md#endstonemc-endstone-127-crash-on-latest-dev-build)
+- thread:EndstoneMC/endstone#128 · 2025-01-28
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/128)
+  - [Detailed analysis: EndstoneMC--endstone--issue-128](../sources/thread-review/threads/EndstoneMC--endstone--issue-128.md#endstonemc-endstone-128-bug-it-seems-to-occured-a-conflict-between-the-plugin-and-the-behavior-pack)
+- thread:EndstoneMC/endstone#129 · 2025-02-04
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/129)
+  - [Detailed analysis: EndstoneMC--endstone--issue-129](../sources/thread-review/threads/EndstoneMC--endstone--issue-129.md#endstonemc-endstone-129-feature-add-support-for-monitoring-fire-spread-event)
+- thread:EndstoneMC/endstone#13 · 2024-05-26
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/13)
+  - [Detailed analysis: EndstoneMC--endstone--pr-13](../sources/thread-review/threads/EndstoneMC--endstone--pr-13.md#endstonemc-endstone-13-added-docs-about-color-codes)
+- thread:EndstoneMC/endstone#130 · 2025-02-04
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/130)
+  - [Detailed analysis: EndstoneMC--endstone--issue-130](../sources/thread-review/threads/EndstoneMC--endstone--issue-130.md#endstonemc-endstone-130-bug-crash-on-reload-with-a-player-logged-in)
+- thread:EndstoneMC/endstone#131 · 2025-02-05
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/131)
+  - [Detailed analysis: EndstoneMC--endstone--issue-131](../sources/thread-review/threads/EndstoneMC--endstone--issue-131.md#endstonemc-endstone-131-additional-spaces-in-massage-argument)
+- thread:EndstoneMC/endstone#133 · 2025-02-13
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/133)
+  - [Detailed analysis: EndstoneMC--endstone--pr-133](../sources/thread-review/threads/EndstoneMC--endstone--pr-133.md#endstonemc-endstone-133-feat-1-21-60-support-for-windows-wip)
+- thread:EndstoneMC/endstone#134 · 2025-02-18
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/134)
+  - [Detailed analysis: EndstoneMC--endstone--issue-134](../sources/thread-review/threads/EndstoneMC--endstone--issue-134.md#endstonemc-endstone-134-sudden-server-stop)
+- thread:EndstoneMC/endstone#135 · 2025-02-19
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/135)
+  - [Detailed analysis: EndstoneMC--endstone--issue-135](../sources/thread-review/threads/EndstoneMC--endstone--issue-135.md#endstonemc-endstone-135-bug-crash-on-player-spawn)
+- thread:EndstoneMC/endstone#136 · 2025-02-20
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/136)
+  - [Detailed analysis: EndstoneMC--endstone--issue-136](../sources/thread-review/threads/EndstoneMC--endstone--issue-136.md#endstonemc-endstone-136-bug-unknown-error-in-0-6-0)
+- thread:EndstoneMC/endstone#138 · 2025-02-20
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/138)
+  - [Detailed analysis: EndstoneMC--endstone--issue-138](../sources/thread-review/threads/EndstoneMC--endstone--issue-138.md#endstonemc-endstone-138-bug-always-showing-death-messages-even-with-the-gamerule-showdeathmessages-set-to-false-and-not-translatin)
+- thread:EndstoneMC/endstone#139 · 2025-02-21
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/139)
+  - [Detailed analysis: EndstoneMC--endstone--issue-139](../sources/thread-review/threads/EndstoneMC--endstone--issue-139.md#endstonemc-endstone-139-feature-refactor-endstone-core-endstoneactor-class)
+- thread:EndstoneMC/endstone#14 · 2024-05-31
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/14)
+  - [Detailed analysis: EndstoneMC--endstone--issue-14](../sources/thread-review/threads/EndstoneMC--endstone--issue-14.md#endstonemc-endstone-14-plugin-loader-failed-to-load-plugins-from-entrypoint-with-python-3-9)
+- thread:EndstoneMC/endstone#141 · 2025-02-23
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/141)
+  - [Detailed analysis: EndstoneMC--endstone--issue-141](../sources/thread-review/threads/EndstoneMC--endstone--issue-141.md#endstonemc-endstone-141-bug-unknown-crash)
+- thread:EndstoneMC/endstone#142 · 2025-02-24
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/142)
+  - [Detailed analysis: EndstoneMC--endstone--issue-142](../sources/thread-review/threads/EndstoneMC--endstone--issue-142.md#endstonemc-endstone-142-feature)
+- thread:EndstoneMC/endstone#143 · 2025-02-24
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/143)
+  - [Detailed analysis: EndstoneMC--endstone--issue-143](../sources/thread-review/threads/EndstoneMC--endstone--issue-143.md#endstonemc-endstone-143-feature-optional-hidden-commands)
+- thread:EndstoneMC/endstone#144 · 2025-02-27
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/144)
+  - [Detailed analysis: EndstoneMC--endstone--issue-144](../sources/thread-review/threads/EndstoneMC--endstone--issue-144.md#endstonemc-endstone-144-bug-crash-on-self-server-reloaddata)
+- thread:EndstoneMC/endstone#145 · 2025-02-28
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/145)
+  - [Detailed analysis: EndstoneMC--endstone--issue-145](../sources/thread-review/threads/EndstoneMC--endstone--issue-145.md#endstonemc-endstone-145-bug-pyobjectmaketpcall-unknownfile)
+- thread:EndstoneMC/endstone#146 · 2025-03-01
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/146)
+  - [Detailed analysis: EndstoneMC--endstone--issue-146](../sources/thread-review/threads/EndstoneMC--endstone--issue-146.md#endstonemc-endstone-146-bug-actor-calls-produce-empty-strings)
+- thread:EndstoneMC/endstone#148 · 2025-03-05
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/148)
+  - [Detailed analysis: EndstoneMC--endstone--issue-148](../sources/thread-review/threads/EndstoneMC--endstone--issue-148.md#endstonemc-endstone-148-no-logs-isn-t-running-on-linux)
+- thread:EndstoneMC/endstone#149 · 2025-03-05
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/149)
+  - [Detailed analysis: EndstoneMC--endstone--pr-149](../sources/thread-review/threads/EndstoneMC--endstone--pr-149.md#endstonemc-endstone-149-feature-1-21-70-support)
+- thread:EndstoneMC/endstone#15 · 2024-05-31
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/15)
+  - [Detailed analysis: EndstoneMC--endstone--issue-15](../sources/thread-review/threads/EndstoneMC--endstone--issue-15.md#endstonemc-endstone-15-feature-allow-developers-to-modify-vanilla-commands)
+- thread:EndstoneMC/endstone#150 · 2025-03-06
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/150)
+  - [Detailed analysis: EndstoneMC--endstone--issue-150](../sources/thread-review/threads/EndstoneMC--endstone--issue-150.md#endstonemc-endstone-150-bug-permission-error)
+  - [Detailed analysis: 02-command-interop-permissions](../sources/commit-review/endstone-2025-0601-0700/02-command-interop-permissions.md#stated-problem-and-implemented-direction)
+  - [Detailed analysis: EndstoneMC--endstone--pr-180](../sources/thread-review/threads/EndstoneMC--endstone--pr-180.md#engineering-reading-and-attribution)
+- thread:EndstoneMC/endstone#152 · 2025-03-09
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/152)
+  - [Detailed analysis: EndstoneMC--endstone--issue-152](../sources/thread-review/threads/EndstoneMC--endstone--issue-152.md#endstonemc-endstone-152-bug-bossbar-progress-doesn-t-display-on-linux)
+- thread:EndstoneMC/endstone#154 · 2025-03-12
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/154)
+  - [Detailed analysis: EndstoneMC--endstone--pr-154](../sources/thread-review/threads/EndstoneMC--endstone--pr-154.md#endstonemc-endstone-154-refactor-network-related-classes)
+- thread:EndstoneMC/endstone#155 · 2025-03-12
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/155)
+  - [Detailed analysis: EndstoneMC--endstone--issue-155](../sources/thread-review/threads/EndstoneMC--endstone--issue-155.md#endstonemc-endstone-155-feature-implement-servicemanager-for-cross-language-plugin-interaction)
+- thread:EndstoneMC/endstone#156 · 2025-03-15
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/156)
+  - [Detailed analysis: EndstoneMC--endstone--issue-156](../sources/thread-review/threads/EndstoneMC--endstone--issue-156.md#endstonemc-endstone-156-bug-unknown-crash)
+- thread:EndstoneMC/endstone#157 · 2025-03-17
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/157)
+  - [Detailed analysis: EndstoneMC--endstone--issue-157](../sources/thread-review/threads/EndstoneMC--endstone--issue-157.md#endstonemc-endstone-157-endstone-arm64-support)
+- thread:EndstoneMC/endstone#159 · 2025-03-19
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/159)
+  - [Detailed analysis: EndstoneMC--endstone--issue-159](../sources/thread-review/threads/EndstoneMC--endstone--issue-159.md#endstonemc-endstone-159-bug-the-item-is-not-given-to-the-player)
+- thread:EndstoneMC/endstone#16 · 2024-06-03
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/16)
+  - [Detailed analysis: EndstoneMC--endstone--issue-16](../sources/thread-review/threads/EndstoneMC--endstone--issue-16.md#endstonemc-endstone-16-add-server-dispatchcommand)
+- thread:EndstoneMC/endstone#161 · 2025-03-21
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/161)
+  - [Detailed analysis: EndstoneMC--endstone--pr-161](../sources/thread-review/threads/EndstoneMC--endstone--pr-161.md#endstonemc-endstone-161-feat-devtools-dump-tint-type-for-block)
+- thread:EndstoneMC/endstone#162 · 2025-03-21
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/162)
+  - [Detailed analysis: EndstoneMC--endstone--issue-162](../sources/thread-review/threads/EndstoneMC--endstone--issue-162.md#endstonemc-endstone-162-feature-resource-pack-event)
+- thread:EndstoneMC/endstone#165 · 2025-03-24
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/165)
+  - [Detailed analysis: EndstoneMC--endstone--issue-165](../sources/thread-review/threads/EndstoneMC--endstone--issue-165.md#endstonemc-endstone-165-bug-crash-on-reload)
+- thread:EndstoneMC/endstone#167 · 2025-03-29
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/167)
+  - [Detailed analysis: EndstoneMC--endstone--issue-167](../sources/thread-review/threads/EndstoneMC--endstone--issue-167.md#endstonemc-endstone-167-bug-resource-pack-hook-crash---linux)
+- thread:EndstoneMC/endstone#17 · 2024-06-03
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/17)
+  - [Detailed analysis: EndstoneMC--endstone--issue-17](../sources/thread-review/threads/EndstoneMC--endstone--issue-17.md#endstonemc-endstone-17-feature-add-player-getdevice)
+- thread:EndstoneMC/endstone#170 · 2025-04-06
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/170)
+  - [Detailed analysis: EndstoneMC--endstone--issue-170](../sources/thread-review/threads/EndstoneMC--endstone--issue-170.md#endstonemc-endstone-170-bug-player-playsound-doesn-t-work)
+  - [Detailed analysis: 01-network-policy](../sources/commit-review/endstone-2025-0501-0600/01-network-policy.md#commit-517)
+- thread:EndstoneMC/endstone#171 · 2025-04-10
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/171)
+  - [Detailed analysis: EndstoneMC--endstone--issue-171](../sources/thread-review/threads/EndstoneMC--endstone--issue-171.md#endstonemc-endstone-171-bug-serverplayer-setlocalplayerasinitialized-is-unsafe)
+  - [Detailed analysis: 01-network-policy](../sources/commit-review/endstone-2025-0501-0600/01-network-policy.md#causal-chain-and-tradeoffs)
+- thread:EndstoneMC/endstone#174 · 2025-04-16
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/174)
+  - [Detailed analysis: EndstoneMC--endstone--pr-174](../sources/thread-review/threads/EndstoneMC--endstone--pr-174.md#endstonemc-endstone-174-feature-1-21-80-support)
+  - [Detailed analysis: 05-merges-and-attribution](../sources/commit-review/endstone-2025-0401-0500/05-merges-and-attribution.md#exact-coverage-and-causal-reuse)
+  - [Detailed analysis: 04-native-ports-build-tests](../sources/commit-review/endstone-2025-0401-0500/04-native-ports-build-tests.md#two-branch-tips-not-one-chronological-tree)
+  - [Detailed analysis: 02-build-native-abi](../sources/commit-review/endstone-2025-0501-0600/02-build-native-abi.md#branches-and-mechanical-evidence)
+- thread:EndstoneMC/endstone#175 · 2025-04-18
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/175)
+  - [Detailed analysis: EndstoneMC--endstone--issue-175](../sources/thread-review/threads/EndstoneMC--endstone--issue-175.md#endstonemc-endstone-175-bug-actordamageevent-and-blockbreakevent)
+  - [Detailed analysis: 03-release-updater-lifecycle](../sources/commit-review/endstone-2025-0601-0700/03-release-updater-lifecycle.md#background-work-is-added-and-withdrawn)
+  - [Detailed analysis: 02-damage-death-and-native-abi](../sources/commit-review/endstone-2025-0901-1000/02-damage-death-and-native-abi.md#damage-boundary-evolution)
+- thread:EndstoneMC/endstone#178 · 2025-05-08
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/178)
+  - [Detailed analysis: EndstoneMC--endstone--issue-178](../sources/thread-review/threads/EndstoneMC--endstone--issue-178.md#endstonemc-endstone-178-bug-an-error-is-displayed-when-the-form-is-displayed)
+- thread:EndstoneMC/endstone#18 · 2024-06-03
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/18)
+  - [Detailed analysis: EndstoneMC--endstone--issue-18](../sources/thread-review/threads/EndstoneMC--endstone--issue-18.md#endstonemc-endstone-18-feature-add-server-getmaxplayers)
+- thread:EndstoneMC/endstone#180 · 2025-05-16
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/180)
+  - [Detailed analysis: EndstoneMC--endstone--pr-180](../sources/thread-review/threads/EndstoneMC--endstone--pr-180.md#endstonemc-endstone-180-refactor-the-command-api)
+  - [Detailed analysis: 02-command-interop-permissions](../sources/commit-review/endstone-2025-0601-0700/02-command-interop-permissions.md#stated-problem-and-implemented-direction)
+  - [Detailed analysis: EndstoneMC--endstone--issue-150](../sources/thread-review/threads/EndstoneMC--endstone--issue-150.md#engineering-reading-and-attribution)
+  - [Detailed analysis: 05-command-build-release](../sources/commit-review/endstone-2025-0701-0800/05-command-build-release.md#reproduction-and-tests-are-distinct-from-a-fix)
+- thread:EndstoneMC/endstone#181 · 2025-05-18
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/181)
+  - [Detailed analysis: EndstoneMC--endstone--issue-181](../sources/thread-review/threads/EndstoneMC--endstone--issue-181.md#endstonemc-endstone-181-bug-crash-when-executing-dispatchcommand-with-asynic-function)
+- thread:EndstoneMC/endstone#182 · 2025-05-18
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/182)
+  - [Detailed analysis: EndstoneMC--endstone--issue-182](../sources/thread-review/threads/EndstoneMC--endstone--issue-182.md#endstonemc-endstone-182-bug-crash-when-retrieving-offline-player-objects)
+- thread:EndstoneMC/endstone#183 · 2025-05-18
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/183)
+  - [Detailed analysis: EndstoneMC--endstone--issue-183](../sources/thread-review/threads/EndstoneMC--endstone--issue-183.md#endstonemc-endstone-183-bug-unknown-error)
+- thread:EndstoneMC/endstone#184 · 2025-05-18
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/184)
+  - [Detailed analysis: EndstoneMC--endstone--pr-184](../sources/thread-review/threads/EndstoneMC--endstone--pr-184.md#endstonemc-endstone-184-refactor-permission-api)
+  - [Detailed analysis: 02-permissions-and-interaction](../sources/commit-review/endstone-2025-0801-0900/02-permissions-and-interaction.md#explicit-design-rationale)
+- thread:EndstoneMC/endstone#185 · 2025-05-20
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/185)
+  - [Detailed analysis: EndstoneMC--endstone--issue-185](../sources/thread-review/threads/EndstoneMC--endstone--issue-185.md#endstonemc-endstone-185-feature)
+  - [Detailed analysis: 03-release-updater-lifecycle](../sources/commit-review/endstone-2025-0601-0700/03-release-updater-lifecycle.md#safer-update-defaults-with-bounded-overwrite-exceptions)
+  - [Detailed analysis: 05-command-build-release](../sources/commit-review/endstone-2025-0701-0800/05-command-build-release.md#reproduction-and-tests-are-distinct-from-a-fix)
+- thread:EndstoneMC/endstone#186 · 2025-05-22
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/186)
+  - [Detailed analysis: EndstoneMC--endstone--issue-186](../sources/thread-review/threads/EndstoneMC--endstone--issue-186.md#endstonemc-endstone-186-feature-improve-player-object-creation-logic)
+- thread:EndstoneMC/endstone#187 · 2025-05-23
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/187)
+  - [Detailed analysis: EndstoneMC--endstone--issue-187](../sources/thread-review/threads/EndstoneMC--endstone--issue-187.md#endstonemc-endstone-187-bug-install-error-code-5)
+- thread:EndstoneMC/endstone#188 · 2025-05-24
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/188)
+  - [Detailed analysis: EndstoneMC--endstone--pr-188](../sources/thread-review/threads/EndstoneMC--endstone--pr-188.md#endstonemc-endstone-188-feat-add-playeritemconsumeevent)
+  - [Detailed analysis: 05-consume-collaboration](../sources/commit-review/endstone-2025-0601-0700/05-consume-collaboration.md#actual-people-and-causal-order)
+- thread:EndstoneMC/endstone#189 · 2025-05-26
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/189)
+  - [Detailed analysis: EndstoneMC--endstone--pr-189](../sources/thread-review/threads/EndstoneMC--endstone--pr-189.md#endstonemc-endstone-189-feat-new-itemtype-api)
+  - [Detailed analysis: 06-itemtype-contract](../sources/commit-review/endstone-2025-0601-0700/06-itemtype-contract.md#explicit-motivation-and-breaking-change)
+  - [Detailed analysis: 01-item-inventory](../sources/commit-review/endstone-2025-0701-0800/01-item-inventory.md#why-this-chain-matters)
+- thread:EndstoneMC/endstone#19 · 2024-06-04
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/19)
+  - [Detailed analysis: EndstoneMC--endstone--issue-19](../sources/thread-review/threads/EndstoneMC--endstone--issue-19.md#endstonemc-endstone-19-feature-allow-users-to-get-player-by-name)
+- thread:EndstoneMC/endstone#190 · 2025-05-28
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/190)
+  - [Detailed analysis: EndstoneMC--endstone--issue-190](../sources/thread-review/threads/EndstoneMC--endstone--issue-190.md#endstonemc-endstone-190-bug-ban-command-error)
+- thread:EndstoneMC/endstone#191 · 2025-05-31
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/191)
+  - [Detailed analysis: EndstoneMC--endstone--issue-191](../sources/thread-review/threads/EndstoneMC--endstone--issue-191.md#endstonemc-endstone-191-bug-funchookerroriprelativeoffset-error-when-attempting-to-start-container)
+- thread:EndstoneMC/endstone#192 · 2025-06-01
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/192)
+  - [Detailed analysis: EndstoneMC--endstone--issue-192](../sources/thread-review/threads/EndstoneMC--endstone--issue-192.md#endstonemc-endstone-192-load-plugin-before-server-starts-add-ons-processing)
+- thread:EndstoneMC/endstone#194 · 2025-06-08
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/194)
+  - [Detailed analysis: EndstoneMC--endstone--issue-194](../sources/thread-review/threads/EndstoneMC--endstone--issue-194.md#endstonemc-endstone-194-bug-behavior-pack-custom-command-integration)
+- thread:EndstoneMC/endstone#195 · 2025-06-09
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/195)
+  - [Detailed analysis: EndstoneMC--endstone--issue-195](../sources/thread-review/threads/EndstoneMC--endstone--issue-195.md#endstonemc-endstone-195-feature-support-for-cdn-resource-packs)
+- thread:EndstoneMC/endstone#197 · 2025-06-14
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/197)
+  - [Detailed analysis: EndstoneMC--endstone--issue-197](../sources/thread-review/threads/EndstoneMC--endstone--issue-197.md#endstonemc-endstone-197-bug-playerjoinevent-delayed)
+- thread:EndstoneMC/endstone#199 · 2025-06-15
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/199)
+  - [Detailed analysis: EndstoneMC--endstone--pr-199](../sources/thread-review/threads/EndstoneMC--endstone--pr-199.md#endstonemc-endstone-199-feature-1-21-90-support-wip)
+- thread:EndstoneMC/endstone#2 · 2023-09-06
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/2)
+  - [Detailed analysis: EndstoneMC--endstone--pr-2](../sources/thread-review/threads/EndstoneMC--endstone--pr-2.md#endstonemc-endstone-2-new-hook-system)
+- thread:EndstoneMC/endstone#20 · 2024-06-12
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/20)
+  - [Detailed analysis: EndstoneMC--endstone--issue-20](../sources/thread-review/threads/EndstoneMC--endstone--issue-20.md#endstonemc-endstone-20-better-plugins-feature)
+- thread:EndstoneMC/endstone#200 · 2025-06-15
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/200)
+  - [Detailed analysis: EndstoneMC--endstone--pr-200](../sources/thread-review/threads/EndstoneMC--endstone--pr-200.md#endstonemc-endstone-200-feat-add-playerpickupitemevent-chunkunloadevent-and-chunkloadevent-wip)
+  - [Detailed analysis: 01-lifecycle-and-value-contracts](../sources/commit-review/endstone-2025-0801-0900/01-lifecycle-and-value-contracts.md#what-changed-and-why-it-matters)
+- thread:EndstoneMC/endstone#203 · 2025-06-17
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/203)
+  - [Detailed analysis: EndstoneMC--endstone--issue-203](../sources/thread-review/threads/EndstoneMC--endstone--issue-203.md#endstonemc-endstone-203-v0-9-0-changes-minecraft-server-version-to-1-21-90-beta28)
+- thread:EndstoneMC/endstone#204 · 2025-06-17
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/204)
+  - [Detailed analysis: EndstoneMC--endstone--issue-204](../sources/thread-review/threads/EndstoneMC--endstone--issue-204.md#endstonemc-endstone-204-answer-to-latest-v0-9-0-question-that-was-already-closed)
+- thread:EndstoneMC/endstone#205 · 2025-06-18
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/205)
+  - [Detailed analysis: EndstoneMC--endstone--issue-205](../sources/thread-review/threads/EndstoneMC--endstone--issue-205.md#endstonemc-endstone-205-bug-jigsawstructuremetadata-error)
+- thread:EndstoneMC/endstone#206 · 2025-06-19
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/206)
+  - [Detailed analysis: EndstoneMC--endstone--issue-206](../sources/thread-review/threads/EndstoneMC--endstone--issue-206.md#endstonemc-endstone-206-bug-failed-to-install-dll-error-1114)
+- thread:EndstoneMC/endstone#207 · 2025-06-20
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/207)
+  - [Detailed analysis: EndstoneMC--endstone--issue-207](../sources/thread-review/threads/EndstoneMC--endstone--issue-207.md#endstonemc-endstone-207-bug-client-side-texture-packs-can-not-be-denied)
+- thread:EndstoneMC/endstone#210 · 2025-06-29
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/210)
+  - [Detailed analysis: EndstoneMC--endstone--issue-210](../sources/thread-review/threads/EndstoneMC--endstone--issue-210.md#endstonemc-endstone-210-feature-itemuse-event)
+- thread:EndstoneMC/endstone#211 · 2025-07-05
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/211)
+  - [Detailed analysis: EndstoneMC--endstone--issue-211](../sources/thread-review/threads/EndstoneMC--endstone--issue-211.md#endstonemc-endstone-211-feature-ability-to-write-to-subprocesses)
+  - [Detailed analysis: 04-protocol-parser-and-configuration](../sources/commit-review/endstone-2025-0901-1000/04-protocol-parser-and-configuration.md#subprocess-input-across-language-boundaries)
+- thread:EndstoneMC/endstone#215 · 2025-07-09
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/215)
+  - [Detailed analysis: EndstoneMC--endstone--pr-215](../sources/thread-review/threads/EndstoneMC--endstone--pr-215.md#endstonemc-endstone-215-feat-complete-the-map-api-wip)
+  - [Detailed analysis: 06-integration-and-coverage](../sources/commit-review/endstone-2025-1001-1100/06-integration-and-coverage.md#graph-rather-than-adjacent-dates)
+  - [Detailed analysis: 01-items-and-actor-ownership](../sources/commit-review/endstone-2025-1001-1100/01-items-and-actor-ownership.md#metadata-redesign-and-preservation-cost)
+  - [Detailed analysis: 04-map-rendering-and-events](../sources/commit-review/endstone-2025-1001-1100/04-map-rendering-and-events.md#initial-api-and-successive-corrections)
+  - [Detailed analysis: 06-integration-attribution-and-coverage](../sources/commit-review/endstone-2025-1201-1300/06-integration-attribution-and-coverage.md#reuse-and-credit)
+- thread:EndstoneMC/endstone#216 · 2025-07-14
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/216)
+  - [Detailed analysis: EndstoneMC--endstone--issue-216](../sources/thread-review/threads/EndstoneMC--endstone--issue-216.md#endstonemc-endstone-216-bug-docker-image-permission-problems)
+- thread:EndstoneMC/endstone#218 · 2025-07-16
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/218)
+  - [Detailed analysis: EndstoneMC--endstone--pr-218](../sources/thread-review/threads/EndstoneMC--endstone--pr-218.md#endstonemc-endstone-218-fix-update-description-in-the-document)
+- thread:EndstoneMC/endstone#219 · 2025-07-19
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/219)
+  - [Detailed analysis: EndstoneMC--endstone--issue-219](../sources/thread-review/threads/EndstoneMC--endstone--issue-219.md#endstonemc-endstone-219-bug-reloaddata-function-crashs-the-server-with-script-api)
+  - [Detailed analysis: EndstoneMC--endstone--pr-272](../sources/thread-review/threads/EndstoneMC--endstone--pr-272.md#complete-patch-inspection)
+  - [Detailed analysis: 03-native-lifecycle-and-ports](../sources/commit-review/endstone-2025-1001-1100/03-native-lifecycle-and-ports.md#porting-and-lifecycle-are-interleaved)
+- thread:EndstoneMC/endstone#22 · 2024-06-25
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/22)
+  - [Detailed analysis: EndstoneMC--endstone--issue-22](../sources/thread-review/threads/EndstoneMC--endstone--issue-22.md#endstonemc-endstone-22-bug-unicodedecodeerror-during-server-startup)
+- thread:EndstoneMC/endstone#220 · 2025-07-19
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/220)
+  - [Detailed analysis: EndstoneMC--endstone--pr-220](../sources/thread-review/threads/EndstoneMC--endstone--pr-220.md#endstonemc-endstone-220-fix-server-name-call-in-python-api)
+- thread:EndstoneMC/endstone#221 · 2025-07-20
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/221)
+  - [Detailed analysis: EndstoneMC--endstone--issue-221](../sources/thread-review/threads/EndstoneMC--endstone--issue-221.md#endstonemc-endstone-221-bug-error-while-importing-form-button-class-in-python-api)
+  - [Detailed analysis: 01-identity-permissions-and-bindings](../sources/commit-review/endstone-2025-0901-1000/01-identity-permissions-and-bindings.md#api-usability-and-reported-rationale)
+- thread:EndstoneMC/endstone#222 · 2025-07-21
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/222)
+  - [Detailed analysis: EndstoneMC--endstone--pr-222](../sources/thread-review/threads/EndstoneMC--endstone--pr-222.md#endstonemc-endstone-222-fix-enable-endstone-to-receive-input-from-inherited-stdin-in-a-subprocess)
+  - [Detailed analysis: EndstoneMC--endstone--issue-211](../sources/thread-review/threads/EndstoneMC--endstone--issue-211.md#engineering-reading-and-attribution)
+  - [Detailed analysis: 06-releases-docs-and-integration](../sources/commit-review/endstone-2025-0901-1000/06-releases-docs-and-integration.md#reuse-gaps-and-efficiency)
+  - [Detailed analysis: 04-protocol-parser-and-configuration](../sources/commit-review/endstone-2025-0901-1000/04-protocol-parser-and-configuration.md#subprocess-input-across-language-boundaries)
+- thread:EndstoneMC/endstone#223 · 2025-07-22
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/223)
+  - [Detailed analysis: EndstoneMC--endstone--pr-223](../sources/thread-review/threads/EndstoneMC--endstone--pr-223.md#endstonemc-endstone-223-fix-mkdocs-moved-into-new-year)
+- thread:EndstoneMC/endstone#224 · 2025-07-22
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/224)
+  - [Detailed analysis: EndstoneMC--endstone--pr-224](../sources/thread-review/threads/EndstoneMC--endstone--pr-224.md#endstonemc-endstone-224-feat-1-21-100-support)
+  - [Detailed analysis: 06-releases-docs-and-integration](../sources/commit-review/endstone-2025-0901-1000/06-releases-docs-and-integration.md#reuse-gaps-and-efficiency)
+  - [Detailed analysis: 02-damage-death-and-native-abi](../sources/commit-review/endstone-2025-0901-1000/02-damage-death-and-native-abi.md#port-reuse-and-structural-checks)
+  - [Detailed analysis: prior-pr-224-dossier](../sources/commit-review/endstone-2025-0901-1000/context/prior-pr-224-dossier.md#endstonemc-endstone-224-feat-1-21-100-support)
+- thread:EndstoneMC/endstone#226 · 2025-07-23
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/226)
+  - [Detailed analysis: EndstoneMC--endstone--pr-226](../sources/thread-review/threads/EndstoneMC--endstone--pr-226.md#endstonemc-endstone-226-changed-venvdir-to-home-virtualenvs-endstone-to-avoid-polluting-users-home-directory)
+- thread:EndstoneMC/endstone#227 · 2025-07-24
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/227)
+  - [Detailed analysis: EndstoneMC--endstone--issue-227](../sources/thread-review/threads/EndstoneMC--endstone--issue-227.md#endstonemc-endstone-227-bug-resource-pack-loading-bugs)
+- thread:EndstoneMC/endstone#228 · 2025-07-25
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/228)
+  - [Detailed analysis: EndstoneMC--endstone--issue-228](../sources/thread-review/threads/EndstoneMC--endstone--issue-228.md#endstonemc-endstone-228-bug-server-crashes-on-running-reload-after-updating-plugins-written-in-c)
+  - [Detailed analysis: 05-plugin-lifecycle-and-loading](../sources/commit-review/endstone-2025-0901-1000/05-plugin-lifecycle-and-loading.md#reported-failure-and-implemented-response)
+- thread:EndstoneMC/endstone#229 · 2025-07-25
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/229)
+  - [Detailed analysis: EndstoneMC--endstone--issue-229](../sources/thread-review/threads/EndstoneMC--endstone--issue-229.md#endstonemc-endstone-229-feature-add-format-support-to-playerchatevent)
+- thread:EndstoneMC/endstone#230 · 2025-07-26
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/230)
+  - [Detailed analysis: EndstoneMC--endstone--issue-230](../sources/thread-review/threads/EndstoneMC--endstone--issue-230.md#endstonemc-endstone-230-bug-causes-argument-to-get-cut-short)
+  - [Detailed analysis: 04-protocol-parser-and-configuration](../sources/commit-review/endstone-2025-0901-1000/04-protocol-parser-and-configuration.md#parser-fix-and-its-follow-up)
+- thread:EndstoneMC/endstone#232 · 2025-07-27
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/232)
+  - [Detailed analysis: EndstoneMC--endstone--pr-232](../sources/thread-review/threads/EndstoneMC--endstone--pr-232.md#endstonemc-endstone-232-avg-tps-shows-own-color)
+- thread:EndstoneMC/endstone#233 · 2025-08-01
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/233)
+  - [Detailed analysis: EndstoneMC--endstone--pr-233](../sources/thread-review/threads/EndstoneMC--endstone--pr-233.md#endstonemc-endstone-233-feat-improve-playerdeathevent-wip)
+- thread:EndstoneMC/endstone#234 · 2025-08-01
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/234)
+  - [Detailed analysis: EndstoneMC--endstone--pr-234](../sources/thread-review/threads/EndstoneMC--endstone--pr-234.md#endstonemc-endstone-234-feat-improve-actordeathevent-and-playerdeathevent-wip)
+- thread:EndstoneMC/endstone#235 · 2025-08-04
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/235)
+  - [Detailed analysis: EndstoneMC--endstone--issue-235](../sources/thread-review/threads/EndstoneMC--endstone--issue-235.md#endstonemc-endstone-235-bug-custom-block-bug)
+- thread:EndstoneMC/endstone#237 · 2025-08-05
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/237)
+  - [Detailed analysis: EndstoneMC--endstone--issue-237](../sources/thread-review/threads/EndstoneMC--endstone--issue-237.md#endstonemc-endstone-237-bug-unknown-crash)
+  - [Detailed analysis: 01-identity-permissions-and-bindings](../sources/commit-review/endstone-2025-0901-1000/01-identity-permissions-and-bindings.md#question-and-causal-result)
+- thread:EndstoneMC/endstone#238 · 2025-08-06
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/238)
+  - [Detailed analysis: EndstoneMC--endstone--issue-238](../sources/thread-review/threads/EndstoneMC--endstone--issue-238.md#endstonemc-endstone-238-feature-target-modify-and-disable-command-block-command-sender)
+- thread:EndstoneMC/endstone#239 · 2025-08-07
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/239)
+  - [Detailed analysis: EndstoneMC--endstone--issue-239](../sources/thread-review/threads/EndstoneMC--endstone--issue-239.md#endstonemc-endstone-239-bug-server-sometimes-doesn-t-shutdown-correctly)
+  - [Detailed analysis: 05-plugin-lifecycle-and-loading](../sources/commit-review/endstone-2025-0901-1000/05-plugin-lifecycle-and-loading.md#what-the-sequence-does-not-establish)
+- thread:EndstoneMC/endstone#24 · 2024-06-30
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/24)
+  - [Detailed analysis: EndstoneMC--endstone--issue-24](../sources/thread-review/threads/EndstoneMC--endstone--issue-24.md#endstonemc-endstone-24-feature-add-player-getskin)
+- thread:EndstoneMC/endstone#241 · 2025-08-08
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/241)
+  - [Detailed analysis: EndstoneMC--endstone--issue-241](../sources/thread-review/threads/EndstoneMC--endstone--issue-241.md#endstonemc-endstone-241-bug-server-crashed-when-using-addon-which-has-monsters-jump-scare-attack)
+- thread:EndstoneMC/endstone#242 · 2025-08-08
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/242)
+  - [Detailed analysis: EndstoneMC--endstone--issue-242](../sources/thread-review/threads/EndstoneMC--endstone--issue-242.md#endstonemc-endstone-242-bug-inventory-setitem-does-not-update-the-client-properly)
+  - [Detailed analysis: 03-items-registries-and-inventory](../sources/commit-review/endstone-2025-0901-1000/03-items-registries-and-inventory.md#client-refresh-and-serialization)
+  - [Detailed analysis: 05-command-chat-and-diagnostics](../sources/commit-review/endstone-2025-1001-1100/05-command-chat-and-diagnostics.md#chat-semantics-are-branch-sensitive)
+  - [Detailed analysis: 01-items-and-actor-ownership](../sources/commit-review/endstone-2025-1001-1100/01-items-and-actor-ownership.md#commit-1013)
+- thread:EndstoneMC/endstone#243 · 2025-08-09
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/243)
+  - [Detailed analysis: EndstoneMC--endstone--issue-243](../sources/thread-review/threads/EndstoneMC--endstone--issue-243.md#endstonemc-endstone-243-drop-item-error)
+- thread:EndstoneMC/endstone#244 · 2025-08-10
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/244)
+  - [Detailed analysis: EndstoneMC--endstone--issue-244](../sources/thread-review/threads/EndstoneMC--endstone--issue-244.md#endstonemc-endstone-244-bug-endstone-server-displays-a-banned-message-if-not-whitelisted)
+- thread:EndstoneMC/endstone#245 · 2025-08-11
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/245)
+  - [Detailed analysis: EndstoneMC--endstone--issue-245](../sources/thread-review/threads/EndstoneMC--endstone--issue-245.md#endstonemc-endstone-245-feature-compatibility-for-macos)
+- thread:EndstoneMC/endstone#247 · 2025-08-13
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/247)
+  - [Detailed analysis: EndstoneMC--endstone--issue-247](../sources/thread-review/threads/EndstoneMC--endstone--issue-247.md#endstonemc-endstone-247-bug-unable-to-execute-commands-using-docker-on-macos)
+- thread:EndstoneMC/endstone#248 · 2025-08-17
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/248)
+  - [Detailed analysis: EndstoneMC--endstone--issue-248](../sources/thread-review/threads/EndstoneMC--endstone--issue-248.md#endstonemc-endstone-248-bug-itemstack-constructor-prevents-items-from-being-moved-within-the-inventory)
+- thread:EndstoneMC/endstone#25 · 2024-07-08
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/25)
+  - [Detailed analysis: EndstoneMC--endstone--issue-25](../sources/thread-review/threads/EndstoneMC--endstone--issue-25.md#endstonemc-endstone-25-bug-duplicate-furnace-aux-recipes)
+- thread:EndstoneMC/endstone#251 · 2025-08-20
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/251)
+  - [Detailed analysis: EndstoneMC--endstone--issue-251](../sources/thread-review/threads/EndstoneMC--endstone--issue-251.md#endstonemc-endstone-251-bug-message-argument-fails-with-ending-number)
+- thread:EndstoneMC/endstone#252 · 2025-08-24
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/252)
+  - [Detailed analysis: EndstoneMC--endstone--issue-252](../sources/thread-review/threads/EndstoneMC--endstone--issue-252.md#endstonemc-endstone-252-bug-error-occurred-when-trying-to-register-a-plugin-loader-typeerror-metadatapathfinder-invalidatecaches-m)
+- thread:EndstoneMC/endstone#253 · 2025-08-25
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/253)
+  - [Detailed analysis: EndstoneMC--endstone--issue-253](../sources/thread-review/threads/EndstoneMC--endstone--issue-253.md#endstonemc-endstone-253-feature-add-endstonepluginmanager-clearplugin-endstone-plugin-to-clear-specific-plugin)
+- thread:EndstoneMC/endstone#254 · 2025-08-25
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/254)
+  - [Detailed analysis: EndstoneMC--endstone--pr-254](../sources/thread-review/threads/EndstoneMC--endstone--pr-254.md#endstonemc-endstone-254-feat-add-format-support-to-playerchatevent)
+  - [Detailed analysis: EndstoneMC--endstone--issue-229](../sources/thread-review/threads/EndstoneMC--endstone--issue-229.md#engineering-reading-and-attribution)
+  - [Detailed analysis: 04-protocol-parser-and-configuration](../sources/commit-review/endstone-2025-0901-1000/04-protocol-parser-and-configuration.md#outbound-serialization-and-inbound-reconstruction)
+  - [Detailed analysis: 05-command-chat-and-diagnostics](../sources/commit-review/endstone-2025-1001-1100/05-command-chat-and-diagnostics.md#chat-semantics-are-branch-sensitive)
+- thread:EndstoneMC/endstone#255 · 2025-08-25
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/255)
+  - [Detailed analysis: EndstoneMC--endstone--issue-255](../sources/thread-review/threads/EndstoneMC--endstone--issue-255.md#endstonemc-endstone-255-bug-message-argument-bug)
+  - [Detailed analysis: 05-command-chat-and-diagnostics](../sources/commit-review/endstone-2025-1001-1100/05-command-chat-and-diagnostics.md#a-malformed-command-can-affect-other-commands)
+- thread:EndstoneMC/endstone#257 · 2025-08-26
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/257)
+  - [Detailed analysis: EndstoneMC--endstone--issue-257](../sources/thread-review/threads/EndstoneMC--endstone--issue-257.md#endstonemc-endstone-257-installer-crashed)
+- thread:EndstoneMC/endstone#258 · 2025-08-27
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/258)
+  - [Detailed analysis: EndstoneMC--endstone--issue-258](../sources/thread-review/threads/EndstoneMC--endstone--issue-258.md#endstonemc-endstone-258-feature-enforce-message-type-as-the-last-argument-when-registering-commands)
+  - [Detailed analysis: 05-command-chat-and-diagnostics](../sources/commit-review/endstone-2025-1001-1100/05-command-chat-and-diagnostics.md#a-malformed-command-can-affect-other-commands)
+- thread:EndstoneMC/endstone#259 · 2025-08-27
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/259)
+  - [Detailed analysis: EndstoneMC--endstone--issue-259](../sources/thread-review/threads/EndstoneMC--endstone--issue-259.md#endstonemc-endstone-259-bug-crash-on-armor-item-get-example-player-inventory-helmet)
+- thread:EndstoneMC/endstone#26 · 2024-07-24
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/26)
+  - [Detailed analysis: EndstoneMC--endstone--issue-26](../sources/thread-review/threads/EndstoneMC--endstone--issue-26.md#endstonemc-endstone-26-feature-add-a-reload-command)
+- thread:EndstoneMC/endstone#263 · 2025-09-08
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/263)
+  - [Detailed analysis: EndstoneMC--endstone--pr-263](../sources/thread-review/threads/EndstoneMC--endstone--pr-263.md#endstonemc-endstone-263-refactor-improve-package-structure)
+  - [Detailed analysis: 04-layout-symbols-hook-boundaries](../sources/commit-review/endstone-2025-0001-0200/04-layout-symbols-hook-boundaries.md#generator-and-boundary-limits)
+  - [Detailed analysis: 02-python-packages-and-stubs](../sources/commit-review/endstone-2025-1001-1100/02-python-packages-and-stubs.md#package-change-is-a-coordinated-boundary-change)
+- thread:EndstoneMC/endstone#265 · 2025-09-20
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/265)
+  - [Detailed analysis: EndstoneMC--endstone--issue-265](../sources/thread-review/threads/EndstoneMC--endstone--issue-265.md#endstonemc-endstone-265-reopening-issue-crash-on-item-meta-grab)
+- thread:EndstoneMC/endstone#267 · 2025-09-24
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/267)
+  - [Detailed analysis: EndstoneMC--endstone--issue-267](../sources/thread-review/threads/EndstoneMC--endstone--issue-267.md#endstonemc-endstone-267-feature-พอร-ตปล-กอ-น-voice-chat-จาก-lse-node-js-เป-น-python-สำหร-บ-endstone-บนล-น-กซ)
+- thread:EndstoneMC/endstone#268 · 2025-09-27
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/268)
+  - [Detailed analysis: EndstoneMC--endstone--issue-268](../sources/thread-review/threads/EndstoneMC--endstone--issue-268.md#endstonemc-endstone-268-feature-events-that-are-canceled-override-script-api-s-canceled-events)
+- thread:EndstoneMC/endstone#27 · 2024-07-29
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/27)
+  - [Detailed analysis: EndstoneMC--endstone--issue-27](../sources/thread-review/threads/EndstoneMC--endstone--issue-27.md#endstonemc-endstone-27-bug-in-permissions-op-and-operator-have-the-same-level-of-permission)
+- thread:EndstoneMC/endstone#272 · 2025-09-30
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/272)
+  - [Detailed analysis: EndstoneMC--endstone--pr-272](../sources/thread-review/threads/EndstoneMC--endstone--pr-272.md#endstonemc-endstone-272-feat-1-21-110-support-wip)
+  - [Detailed analysis: 03-native-lifecycle-and-ports](../sources/commit-review/endstone-2025-1001-1100/03-native-lifecycle-and-ports.md#porting-and-lifecycle-are-interleaved)
+- thread:EndstoneMC/endstone#273 · 2025-10-01
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/273)
+  - [Detailed analysis: EndstoneMC--endstone--issue-273](../sources/thread-review/threads/EndstoneMC--endstone--issue-273.md#endstonemc-endstone-273-feature-add-chunk-load-unload-methods)
+- thread:EndstoneMC/endstone#277 · 2025-10-14
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/277)
+  - [Detailed analysis: EndstoneMC--endstone--issue-277](../sources/thread-review/threads/EndstoneMC--endstone--issue-277.md#endstonemc-endstone-277-player-walkspeed-doesn-t-do-anything)
+- thread:EndstoneMC/endstone#278 · 2025-10-17
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/278)
+  - [Detailed analysis: EndstoneMC--endstone--issue-278](../sources/thread-review/threads/EndstoneMC--endstone--issue-278.md#endstonemc-endstone-278-proposal-nbt-apis)
+- thread:EndstoneMC/endstone#28 · 2024-07-29
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/28)
+  - [Detailed analysis: EndstoneMC--endstone--issue-28](../sources/thread-review/threads/EndstoneMC--endstone--issue-28.md#endstonemc-endstone-28-bug-endstone-is-unable-to-find-python-executable-when-use-endstone-in-venv)
+- thread:EndstoneMC/endstone#280 · 2025-10-21
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/280)
+  - [Detailed analysis: EndstoneMC--endstone--issue-280](../sources/thread-review/threads/EndstoneMC--endstone--issue-280.md#endstonemc-endstone-280-feature-disable-endstone-default-commands)
+- thread:EndstoneMC/endstone#282 · 2025-10-25
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/282)
+  - [Detailed analysis: EndstoneMC--endstone--pr-282](../sources/thread-review/threads/EndstoneMC--endstone--pr-282.md#endstonemc-endstone-282-feat-use-py-smartholder-for-passing-objects-between-c-and-python-safely)
+  - [Detailed analysis: 03-native-lifecycle-and-ports](../sources/commit-review/endstone-2025-1001-1100/03-native-lifecycle-and-ports.md#commit-1093)
+- thread:EndstoneMC/endstone#283 · 2025-10-26
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/283)
+  - [Detailed analysis: EndstoneMC--endstone--issue-283](../sources/thread-review/threads/EndstoneMC--endstone--issue-283.md#endstonemc-endstone-283-the-server-failed-to-start)
+- thread:EndstoneMC/endstone#286 · 2025-10-28
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/286)
+  - [Detailed analysis: EndstoneMC--endstone--pr-286](../sources/thread-review/threads/EndstoneMC--endstone--pr-286.md#endstonemc-endstone-286-feat-add-support-for-1-21-120)
+- thread:EndstoneMC/endstone#287 · 2025-10-29
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/287)
+  - [Detailed analysis: EndstoneMC--endstone--issue-287](../sources/thread-review/threads/EndstoneMC--endstone--issue-287.md#endstonemc-endstone-287-bug-crash-when-using-status)
+- thread:EndstoneMC/endstone#288 · 2025-10-29
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/288)
+  - [Detailed analysis: EndstoneMC--endstone--issue-288](../sources/thread-review/threads/EndstoneMC--endstone--issue-288.md#endstonemc-endstone-288-bug-crash-on-could-not-connect-to-minecraft-services-stop-request)
+- thread:EndstoneMC/endstone#289 · 2025-10-30
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/289)
+  - [Detailed analysis: EndstoneMC--endstone--issue-289](../sources/thread-review/threads/EndstoneMC--endstone--issue-289.md#endstonemc-endstone-289-crash-on-iterating-through-loadedchunks)
+- thread:EndstoneMC/endstone#29 · 2024-07-30
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/29)
+  - [Detailed analysis: EndstoneMC--endstone--issue-29](../sources/thread-review/threads/EndstoneMC--endstone--issue-29.md#endstonemc-endstone-29-bug-the-command-register-seems-to-mask-the-reload-enum)
+- thread:EndstoneMC/endstone#290 · 2025-11-01
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/290)
+  - [Detailed analysis: EndstoneMC--endstone--issue-290](../sources/thread-review/threads/EndstoneMC--endstone--issue-290.md#endstonemc-endstone-290-endstoneruntime-dll-error-1114)
+- thread:EndstoneMC/endstone#292 · 2025-11-05
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/292)
+  - [Detailed analysis: EndstoneMC--endstone--issue-292](../sources/thread-review/threads/EndstoneMC--endstone--issue-292.md#endstonemc-endstone-292-feature-event-api)
+- thread:EndstoneMC/endstone#293 · 2025-11-05
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/293)
+  - [Detailed analysis: EndstoneMC--endstone--issue-293](../sources/thread-review/threads/EndstoneMC--endstone--issue-293.md#endstonemc-endstone-293-feature-attribute-api)
+- thread:EndstoneMC/endstone#294 · 2025-11-05
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/294)
+  - [Detailed analysis: EndstoneMC--endstone--issue-294](../sources/thread-review/threads/EndstoneMC--endstone--issue-294.md#endstonemc-endstone-294-feature-potion-effect-api)
+- thread:EndstoneMC/endstone#296 · 2025-11-12
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/296)
+  - [Detailed analysis: EndstoneMC--endstone--issue-296](../sources/thread-review/threads/EndstoneMC--endstone--issue-296.md#endstonemc-endstone-296-feature-access-to-the-unique-member-permissions-inside-of-the-escape-menu)
+- thread:EndstoneMC/endstone#298 · 2025-11-18
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/298)
+  - [Detailed analysis: EndstoneMC--endstone--issue-298](../sources/thread-review/threads/EndstoneMC--endstone--issue-298.md#endstonemc-endstone-298-feature-gamerule-api)
+- thread:EndstoneMC/endstone#299 · 2025-11-21
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/299)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-299](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-299.md#endstonemc-endstone-299-feat-add-blockfromtoevent)
+- thread:EndstoneMC/endstone#3 · 2023-09-08
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/3)
+  - [Detailed analysis: EndstoneMC--endstone--pr-3](../sources/thread-review/threads/EndstoneMC--endstone--pr-3.md#endstonemc-endstone-3-new-command-system)
+- thread:EndstoneMC/endstone#30 · 2024-07-31
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/30)
+  - [Detailed analysis: EndstoneMC--endstone--issue-30](../sources/thread-review/threads/EndstoneMC--endstone--issue-30.md#endstonemc-endstone-30-feature-endstone-should-remove-quotes-from-selector-parameters)
+- thread:EndstoneMC/endstone#300 · 2025-11-22
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/300)
+  - [Detailed analysis: EndstoneMC--endstone--issue-300](../sources/thread-review/threads/EndstoneMC--endstone--issue-300.md#endstonemc-endstone-300-libc-abi-pure-virtual-function-called)
+- thread:EndstoneMC/endstone#304 · 2025-11-25
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/304)
+  - [Detailed analysis: EndstoneMC--endstone--issue-304](../sources/thread-review/threads/EndstoneMC--endstone--issue-304.md#endstonemc-endstone-304-feature-async-config-sqlite-api)
+- thread:EndstoneMC/endstone#308 · 2025-12-03
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/308)
+  - [Detailed analysis: EndstoneMC--endstone--issue-308](../sources/thread-review/threads/EndstoneMC--endstone--issue-308.md#endstonemc-endstone-308-feature-bug-minecraft-education-edition-dedicated-server)
+- thread:EndstoneMC/endstone#309 · 2025-12-09
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/309)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-309](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-309.md#endstonemc-endstone-309-feature-1-21-130-support-wip)
+- thread:EndstoneMC/endstone#31 · 2024-08-01
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/31)
+  - [Detailed analysis: EndstoneMC--endstone--issue-31](../sources/thread-review/threads/EndstoneMC--endstone--issue-31.md#endstonemc-endstone-31-feature-request-to-add-command-execution-result-to-the-return-value-of-server-dispatchcommand)
+- thread:EndstoneMC/endstone#310 · 2025-12-11
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/310)
+  - [Detailed analysis: EndstoneMC--endstone--issue-310](../sources/thread-review/threads/EndstoneMC--endstone--issue-310.md#endstonemc-endstone-310-1)
+- thread:EndstoneMC/endstone#311 · 2025-12-11
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/311)
+  - [Detailed analysis: EndstoneMC--endstone--issue-311](../sources/thread-review/threads/EndstoneMC--endstone--issue-311.md#endstonemc-endstone-311-nautilus-causes-endstone-crash)
+- thread:EndstoneMC/endstone#312 · 2025-12-11
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/312)
+  - [Detailed analysis: EndstoneMC--endstone--issue-312](../sources/thread-review/threads/EndstoneMC--endstone--issue-312.md#endstonemc-endstone-312-unknown-crash)
+- thread:EndstoneMC/endstone#316 · 2025-12-27
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/316)
+  - [Detailed analysis: EndstoneMC--endstone--issue-316](../sources/thread-review/threads/EndstoneMC--endstone--issue-316.md#endstonemc-endstone-316-feature-implement-leftclickair-for-playerinteractevent)
+- thread:EndstoneMC/endstone#317 · 2025-12-31
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/317)
+  - [Detailed analysis: EndstoneMC--endstone--issue-317](../sources/thread-review/threads/EndstoneMC--endstone--issue-317.md#endstonemc-endstone-317-scheduler-tasks-ignore-delay-parameter)
+- thread:EndstoneMC/endstone#318 · 2026-01-02
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/318)
+  - [Detailed analysis: EndstoneMC--endstone--issue-318](../sources/thread-review/threads/EndstoneMC--endstone--issue-318.md#endstonemc-endstone-318-feature-support-download-resources-using-mirrors)
+- thread:EndstoneMC/endstone#319 · 2026-01-04
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/319)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-319](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-319.md#endstonemc-endstone-319-feat-add-noclip-and-verticalflyspeed-to-the-player-api)
+- thread:EndstoneMC/endstone#32 · 2024-08-05
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/32)
+  - [Detailed analysis: EndstoneMC--endstone--issue-32](../sources/thread-review/threads/EndstoneMC--endstone--issue-32.md#endstonemc-endstone-32-bug-creating-a-form-without-a-on-submit-callback-crashes-the-server)
+- thread:EndstoneMC/endstone#320 · 2026-01-05
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/320)
+  - [Detailed analysis: EndstoneMC--endstone--issue-320](../sources/thread-review/threads/EndstoneMC--endstone--issue-320.md#endstonemc-endstone-320-playerportalevent-documented-but-unavailable)
+- thread:EndstoneMC/endstone#321 · 2026-01-08
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/321)
+  - [Detailed analysis: EndstoneMC--endstone--issue-321](../sources/thread-review/threads/EndstoneMC--endstone--issue-321.md#endstonemc-endstone-321-inconsistent-sys-executable-path-in-virtual-environments)
+- thread:EndstoneMC/endstone#323 · 2026-01-13
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/323)
+  - [Detailed analysis: EndstoneMC--endstone--issue-323](../sources/thread-review/threads/EndstoneMC--endstone--issue-323.md#endstonemc-endstone-323-feature-dynamic-property-api)
+- thread:EndstoneMC/endstone#324 · 2026-01-17
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/324)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-324](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-324.md#endstonemc-endstone-324-feat-add-blockfromtoevent)
+- thread:EndstoneMC/endstone#325 · 2026-01-20
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/325)
+  - [Detailed analysis: EndstoneMC--endstone--issue-325](../sources/thread-review/threads/EndstoneMC--endstone--issue-325.md#endstonemc-endstone-325-attachment-changes-do-not-take-effect-immediately)
+  - [Detailed analysis: endstone-325-review](../sources/thread-review/media-supplement-20261020/endstone-325-review.md#endstone-325-supplementary-video-review)
+- thread:EndstoneMC/endstone#326 · 2026-02-01
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/326)
+  - [Detailed analysis: EndstoneMC--endstone--issue-326](../sources/thread-review/threads/EndstoneMC--endstone--issue-326.md#endstonemc-endstone-326-cannot-start-endstone-server-when-windows-user-is-disconnected)
+- thread:EndstoneMC/endstone#327 · 2026-02-10
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/327)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-327](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-327.md#endstonemc-endstone-327-feature-add-26-0-support-wip)
+- thread:EndstoneMC/endstone#328 · 2026-02-11
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/328)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-328](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-328.md#endstonemc-endstone-328-refactor-itemstack-api)
+- thread:EndstoneMC/endstone#329 · 2026-02-12
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/329)
+  - [Detailed analysis: EndstoneMC--endstone--issue-329](../sources/thread-review/threads/EndstoneMC--endstone--issue-329.md#endstonemc-endstone-329-feature-add-blockformevent)
+- thread:EndstoneMC/endstone#33 · 2024-08-10
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/33)
+  - [Detailed analysis: EndstoneMC--endstone--pr-33](../sources/thread-review/threads/EndstoneMC--endstone--pr-33.md#endstonemc-endstone-33-feat-item-add-missing-fields-in-item-h)
+- thread:EndstoneMC/endstone#330 · 2026-02-13
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/330)
+  - [Detailed analysis: EndstoneMC--endstone--issue-330](../sources/thread-review/threads/EndstoneMC--endstone--issue-330.md#endstonemc-endstone-330-docker-latest-image-is-still-0-10-x-needs-0-11-0)
+- thread:EndstoneMC/endstone#331 · 2026-02-13
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/331)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-331](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-331.md#endstonemc-endstone-331-feat-attribute-add-attribute-api)
+- thread:EndstoneMC/endstone#332 · 2026-02-13
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/332)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-332](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-332.md#endstonemc-endstone-332-fix-add-serverlistpingevent-back)
+- thread:EndstoneMC/endstone#334 · 2026-02-14
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/334)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-334](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-334.md#endstonemc-endstone-334-docs-add-link-to-register-event-listeners-tutorial-and-create-plugins-deep-dive-tutorial)
+- thread:EndstoneMC/endstone#335 · 2026-02-15
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/335)
+  - [Detailed analysis: EndstoneMC--endstone--issue-335](../sources/thread-review/threads/EndstoneMC--endstone--issue-335.md#endstonemc-endstone-335-log-files-are-automatically-archived-is-this-the-intended-behavior)
+- thread:EndstoneMC/endstone#339 · 2026-02-27
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/339)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-339](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-339.md#endstonemc-endstone-339-fix-plugin-manager-reverse-destruction-order-of-loaders-to-fix-access)
+- thread:EndstoneMC/endstone#34 · 2024-08-11
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/34)
+  - [Detailed analysis: EndstoneMC--endstone--pr-34](../sources/thread-review/threads/EndstoneMC--endstone--pr-34.md#endstonemc-endstone-34-feat-add-factory-method-for-itemstack-add-furnaceburnduration-to-devtools)
+- thread:EndstoneMC/endstone#343 · 2026-03-06
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/343)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-343](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-343.md#endstonemc-endstone-343-feat-add-debugshape-api)
+- thread:EndstoneMC/endstone#344 · 2026-03-07
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/344)
+  - [Detailed analysis: EndstoneMC--endstone--issue-344](../sources/thread-review/threads/EndstoneMC--endstone--issue-344.md#endstonemc-endstone-344-replaceitem-command-leads-to-kick-of-a-player-crash)
+- thread:EndstoneMC/endstone#35 · 2024-08-15
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/35)
+  - [Detailed analysis: EndstoneMC--endstone--issue-35](../sources/thread-review/threads/EndstoneMC--endstone--issue-35.md#endstonemc-endstone-35-bug-unable-to-start-the-server)
+- thread:EndstoneMC/endstone#350 · 2026-03-11
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/350)
+  - [Detailed analysis: EndstoneMC--endstone--issue-350](../sources/thread-review/threads/EndstoneMC--endstone--issue-350.md#endstonemc-endstone-350-pip-latest-image-is-still-0-10-x-needs-0-11-x)
+- thread:EndstoneMC/endstone#351 · 2026-03-11
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/351)
+  - [Detailed analysis: EndstoneMC--endstone--issue-351](../sources/thread-review/threads/EndstoneMC--endstone--issue-351.md#endstonemc-endstone-351-runtasktimerasync-crashes-when-using-reload)
+- thread:EndstoneMC/endstone#352 · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/352)
+  - [Detailed analysis: EndstoneMC--endstone--issue-352](../sources/thread-review/threads/EndstoneMC--endstone--issue-352.md#endstonemc-endstone-352-playerportalevent-cannot-be-canceled-when-triggered-in-the-end)
+- thread:EndstoneMC/endstone#354 · 2026-03-30
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/354)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-354](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-354.md#endstonemc-endstone-354-feat-add-support-for-26-10)
+- thread:EndstoneMC/endstone#356 · 2026-04-04
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/356)
+  - [Detailed analysis: EndstoneMC--endstone--issue-356](../sources/thread-review/threads/EndstoneMC--endstone--issue-356.md#endstonemc-endstone-356-async-network-packet-processing-via-rewrittenbatchpeer-asio-strand)
+- thread:EndstoneMC/endstone#357 · 2026-04-05
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/357)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-357](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-357.md#endstonemc-endstone-357-refactor-replace-asxxx-with-object-as-t-is-t-via-entt-meta)
+- thread:EndstoneMC/endstone#358 · 2026-04-06
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/358)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-358](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-358.md#endstonemc-endstone-358-feat-introduce-actortype-registry)
+- thread:EndstoneMC/endstone#360 · 2026-04-06
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/360)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-360](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-360.md#endstonemc-endstone-360-refactor-replace-string-based-registry-lookup-with-std-typeindex)
+- thread:EndstoneMC/endstone#368 · 2026-04-07
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/368)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-368](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-368.md#endstonemc-endstone-368-feat-support-custom-python-events-with-optional-cancellation)
+- thread:EndstoneMC/endstone#369 · 2026-04-07
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/369)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-369](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-369.md#endstonemc-endstone-369-fix-correct-type-annotations-for-plugin-and-eventhandler)
+- thread:EndstoneMC/endstone#37 · 2024-08-21
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/37)
+  - [Detailed analysis: EndstoneMC--endstone--issue-37](../sources/thread-review/threads/EndstoneMC--endstone--issue-37.md#endstonemc-endstone-37-feature-call-playerjoinevent-after-receiving-setlocalplayerinitializedpacket)
+- thread:EndstoneMC/endstone#370 · 2026-04-07
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/370)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-370](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-370.md#endstonemc-endstone-370-refactor-use-pip-uninstall-instead-of-folder-deletion-on-plugin-reload)
+- thread:EndstoneMC/endstone#371 · 2026-04-08
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/371)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-371](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-371.md#endstonemc-endstone-371-refactor-replace-dimension-type-enum-with-dimensionid-identifier)
+- thread:EndstoneMC/endstone#372 · 2026-04-08
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/372)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-372](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-372.md#endstonemc-endstone-372-feat-add-restart-command)
+- thread:EndstoneMC/endstone#373 · 2026-04-09
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/373)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-373](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-373.md#endstonemc-endstone-373-feat-add-identifier-type-for-python-bindings)
+- thread:EndstoneMC/endstone#375 · 2026-04-10
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/375)
+  - [Detailed analysis: EndstoneMC--endstone--issue-375](../sources/thread-review/threads/EndstoneMC--endstone--issue-375.md#endstonemc-endstone-375-playerdropitemevent-doesn-t-cancel-correctly-if-item-is-thrown-out-of-main-hand)
+- thread:EndstoneMC/endstone#38 · 2024-08-27
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/38)
+  - [Detailed analysis: EndstoneMC--endstone--issue-38](../sources/thread-review/threads/EndstoneMC--endstone--issue-38.md#endstonemc-endstone-38-bug---installing-a-plugin-under-linux-causes-requirement-conflicts)
+- thread:EndstoneMC/endstone#380 · 2026-04-15
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/380)
+  - [Detailed analysis: EndstoneMC--endstone--issue-380](../sources/thread-review/threads/EndstoneMC--endstone--issue-380.md#endstonemc-endstone-380-plain-c-abi)
+- thread:EndstoneMC/endstone#384 · 2026-04-20
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/384)
+  - [Detailed analysis: EndstoneMC--endstone--issue-384](../sources/thread-review/threads/EndstoneMC--endstone--issue-384.md#endstonemc-endstone-384-unknow-crash-when-call-callevent)
+- thread:EndstoneMC/endstone#387 · 2026-04-25
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/387)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-387](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-387.md#endstonemc-endstone-387-docs-enhance-faq)
+- thread:EndstoneMC/endstone#39 · 2024-08-28
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/39)
+  - [Detailed analysis: EndstoneMC--endstone--issue-39](../sources/thread-review/threads/EndstoneMC--endstone--issue-39.md#endstonemc-endstone-39-feature-error-handling-related)
+- thread:EndstoneMC/endstone#394 · 2026-05-16
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/394)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-394](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-394.md#endstonemc-endstone-394-feat-add-support-for-bds-version-1-26-20)
+- thread:EndstoneMC/endstone#395 · 2026-05-19
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/395)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-395](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-395.md#endstonemc-endstone-395-fix-network-guard-closeconnection-against-double-onconnectionclosed-dispatch)
+- thread:EndstoneMC/endstone#396 · 2026-05-21
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/396)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-396](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-396.md#endstonemc-endstone-396-build-deps-bump-pypa-cibuildwheel-from-3-3-1-to-3-4-1)
+- thread:EndstoneMC/endstone#397 · 2026-05-21
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/397)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-397](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-397.md#endstonemc-endstone-397-build-deps-bump-actions-upload-artifact-from-6-to-7)
+- thread:EndstoneMC/endstone#398 · 2026-05-21
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/398)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-398](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-398.md#endstonemc-endstone-398-chore-deps-bump-docker-login-action-from-3-to-4)
+- thread:EndstoneMC/endstone#399 · 2026-05-21
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/399)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-399](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-399.md#endstonemc-endstone-399-chore-deps-bump-docker-build-push-action-from-6-to-7)
+- thread:EndstoneMC/endstone#4 · 2024-01-30
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/4)
+  - [Detailed analysis: EndstoneMC--endstone--pr-4](../sources/thread-review/threads/EndstoneMC--endstone--pr-4.md#endstonemc-endstone-4-refactor-project-structure)
+- thread:EndstoneMC/endstone#400 · 2026-05-21
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/400)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-400](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-400.md#endstonemc-endstone-400-build-deps-bump-softprops-action-gh-release-from-2-to-3)
+- thread:EndstoneMC/endstone#401 · 2026-05-21
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/401)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-401](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-401.md#endstonemc-endstone-401-chore-deps-bump-sentry-crashpad-from-0-7-17-1-to-0-14-0)
+- thread:EndstoneMC/endstone#406 · 2026-05-28
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/406)
+  - [Detailed analysis: EndstoneMC--endstone--issue-406](../sources/thread-review/threads/EndstoneMC--endstone--issue-406.md#endstonemc-endstone-406-server-crashes-if-1-specific-add-on-exists-add-on-works-on-vanilla-bds)
+- thread:EndstoneMC/endstone#411 · 2026-06-02
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/411)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-411](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-411.md#endstonemc-endstone-411-feat-attribute-attribute-api)
+- thread:EndstoneMC/endstone#412 · 2026-06-02
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/412)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-412](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-412.md#endstonemc-endstone-412-feat-network-offload-packet-codec-to-an-async-strand-pool)
+- thread:EndstoneMC/endstone#413 · 2026-06-07
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/413)
+  - [Detailed analysis: EndstoneMC--endstone--issue-413](../sources/thread-review/threads/EndstoneMC--endstone--issue-413.md#endstonemc-endstone-413-getplayer-misleadingly-returns-player-when-it-returns-player-none)
+- thread:EndstoneMC/endstone#416 · 2026-06-15
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/416)
+  - [Detailed analysis: EndstoneMC--endstone--issue-416](../sources/thread-review/threads/EndstoneMC--endstone--issue-416.md#endstonemc-endstone-416-custom-dimension-crashed-server)
+- thread:EndstoneMC/endstone#417 · 2026-06-16
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/417)
+  - [Detailed analysis: EndstoneMC--endstone--issue-417](../sources/thread-review/threads/EndstoneMC--endstone--issue-417.md#endstonemc-endstone-417-1-26-30-update)
+- thread:EndstoneMC/endstone#420 · 2026-06-30
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/420)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-420](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-420.md#endstonemc-endstone-420-feat-add-26-30-support)
+- thread:EndstoneMC/endstone#421 · 2026-07-01
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/421)
+  - [Detailed analysis: EndstoneMC--endstone--issue-421](../sources/thread-review/threads/EndstoneMC--endstone--issue-421.md#endstonemc-endstone-421-permission-attachments-are-use-after-free-when-removed-while-still-referenced-shared-ownership-fix-abi-bre)
+- thread:EndstoneMC/endstone#423 · 2026-07-05
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/423)
+  - [Detailed analysis: EndstoneMC--endstone--issue-423](../sources/thread-review/threads/EndstoneMC--endstone--issue-423.md#endstonemc-endstone-423-cannot-join-dedicated-server-using-docker-image-endstone-0-11-5)
+- thread:EndstoneMC/endstone#424 · 2026-07-07
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/424)
+  - [Detailed analysis: EndstoneMC--endstone--issue-424](../sources/thread-review/threads/EndstoneMC--endstone--issue-424.md#endstonemc-endstone-424-death-messages-not-showing-up)
+- thread:EndstoneMC/endstone#425 · 2026-07-08
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/425)
+  - [Detailed analysis: EndstoneMC--endstone--issue-425](../sources/thread-review/threads/EndstoneMC--endstone--issue-425.md#endstonemc-endstone-425-custom-dimensions-don-t-show)
+- thread:EndstoneMC/endstone#426 · 2026-07-08
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/426)
+  - [Detailed analysis: EndstoneMC--endstone--issue-426](../sources/thread-review/threads/EndstoneMC--endstone--issue-426.md#endstonemc-endstone-426-custom-map-renderers-are-not-called-when-the-map-has-no-decorations)
+- thread:EndstoneMC/endstone#427 · 2026-07-09
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/427)
+  - [Detailed analysis: EndstoneMC--endstone--issue-427](../sources/thread-review/threads/EndstoneMC--endstone--issue-427.md#endstonemc-endstone-427-docs-show-development-on-latest-and-not-latest-stable)
+- thread:EndstoneMC/endstone#428 · 2026-07-09
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/428)
+  - [Detailed analysis: EndstoneMC--endstone--issue-428](../sources/thread-review/threads/EndstoneMC--endstone--issue-428.md#endstonemc-endstone-428-ability-to-control-updating-of-client-on-block-settype)
+- thread:EndstoneMC/endstone#429 · 2026-07-09
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/429)
+  - [Detailed analysis: EndstoneMC--endstone--issue-429](../sources/thread-review/threads/EndstoneMC--endstone--issue-429.md#endstonemc-endstone-429-crashpadhandler-fails-with-missing-libc-when-running-via-pterodactyl-egg)
+- thread:EndstoneMC/endstone#43 · 2024-09-01
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/43)
+  - [Detailed analysis: EndstoneMC--endstone--issue-43](../sources/thread-review/threads/EndstoneMC--endstone--issue-43.md#endstonemc-endstone-43-feature-add-ban-and-banip-as-built-in-commands)
+- thread:EndstoneMC/endstone#430 · 2026-07-10
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/430)
+  - [Detailed analysis: EndstoneMC--endstone--issue-430](../sources/thread-review/threads/EndstoneMC--endstone--issue-430.md#endstonemc-endstone-430-feature-sendactionbar)
+- thread:EndstoneMC/endstone#431 · 2026-07-12
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/431)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-431](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-431.md#endstonemc-endstone-431-add-setuptools-scm-to-build-system-requires)
+- thread:EndstoneMC/endstone#432 · 2026-07-15
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/432)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-432](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-432.md#endstonemc-endstone-432-fix-nbt-handle-empty-bytearraytag-in-std-formatter)
+- thread:EndstoneMC/endstone#437 · 2026-07-17
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/437)
+  - [Detailed analysis: EndstoneMC--endstone--issue-437](../sources/thread-review/threads/EndstoneMC--endstone--issue-437.md#endstonemc-endstone-437-bug-std-format-with-identifier-t-fails-to-compile-on-clang-18-libc-registry-h-itemstack-h)
+- thread:EndstoneMC/endstone#439 · 2026-07-17
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/439)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-439](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-439.md#endstonemc-endstone-439-drop-the-private-export-pkg-cache-workaround-now-that-conan-py-build-0-6-cleans-up-natively)
+- thread:EndstoneMC/endstone#440 · 2026-07-17
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/440)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-440](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-440.md#endstonemc-endstone-440-include-the-endstone-package-in-the-sdist)
+- thread:EndstoneMC/endstone#442 · 2026-07-20
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/442)
+  - [Detailed analysis: EndstoneMC--endstone--issue-442](../sources/thread-review/threads/EndstoneMC--endstone--issue-442.md#endstonemc-endstone-442-the-seed-isn-t-hiding)
+- thread:EndstoneMC/endstone#443 · 2026-07-22
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/443)
+  - [Detailed analysis: EndstoneMC--endstone--issue-443](../sources/thread-review/threads/EndstoneMC--endstone--issue-443.md#endstonemc-endstone-443-nbt-serialization-crash)
+- thread:EndstoneMC/endstone#448 · 2026-07-30
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/448)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-448](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-448.md#endstonemc-endstone-448-feat-event-add-player-sneak-and-sprint-events)
+- thread:EndstoneMC/endstone#45 · 2024-09-03
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/45)
+  - [Detailed analysis: EndstoneMC--endstone--issue-45](../sources/thread-review/threads/EndstoneMC--endstone--issue-45.md#endstonemc-endstone-45-crash-during-gameplay)
+- thread:EndstoneMC/endstone#451 · 2026-07-30
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/451)
+  - [Detailed analysis: EndstoneMC--endstone--issue-451](../sources/thread-review/threads/EndstoneMC--endstone--issue-451.md#endstonemc-endstone-451-strange-level-crash)
+- thread:EndstoneMC/endstone#452 · 2026-07-30
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/452)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-452](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-452.md#endstonemc-endstone-452-feat-event-add-player-sneak-and-sprint-events)
+- thread:EndstoneMC/endstone#454 · 2026-08-01
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/454)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-454](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-454.md#endstonemc-endstone-454-fix-stubgen-annotate-server-getplayer-as-player-none)
+- thread:EndstoneMC/endstone#457 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/457)
+  - [Detailed analysis: EndstoneMC--endstone--issue-457](../sources/thread-review/threads/EndstoneMC--endstone--issue-457.md#endstonemc-endstone-457-feature-need-update-to-26-40)
+- thread:EndstoneMC/endstone#458 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/458)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-458](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-458.md#endstonemc-endstone-458-feat-add-26-40-support)
+- thread:EndstoneMC/endstone#459 · 2026-08-05
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/459)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-459](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-459.md#endstonemc-endstone-459-fix-resolve-linux-packet-compatibility-issues-for-26-40)
+- thread:EndstoneMC/endstone#46 · 2024-09-04
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/46)
+  - [Detailed analysis: EndstoneMC--endstone--issue-46](../sources/thread-review/threads/EndstoneMC--endstone--issue-46.md#endstonemc-endstone-46-publish-vanilla-bedrock-data-blobs-in-a-separate-repository)
+- thread:EndstoneMC/endstone#464 · 2026-08-06
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/464)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-464](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-464.md#endstonemc-endstone-464-add-chinese-readme-doc)
+- thread:EndstoneMC/endstone#465 · 2026-08-07
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/465)
+  - [Detailed analysis: EndstoneMC--endstone--issue-465](../sources/thread-review/threads/EndstoneMC--endstone--issue-465.md#endstonemc-endstone-465-clients-time-out-on-bds-1-26-40-because-endstone-sends-an-incomplete-raknet-pong)
+- thread:EndstoneMC/endstone#469 · 2026-08-08
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/469)
+  - [Detailed analysis: EndstoneMC--endstone--issue-469](../sources/thread-review/threads/EndstoneMC--endstone--issue-469.md#endstonemc-endstone-469-server-crash)
+- thread:EndstoneMC/endstone#47 · 2024-09-04
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/47)
+  - [Detailed analysis: EndstoneMC--endstone--issue-47](../sources/thread-review/threads/EndstoneMC--endstone--issue-47.md#endstonemc-endstone-47-bug-i-can-t-load-dll-plugins)
+- thread:EndstoneMC/endstone#471 · 2026-08-09
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/471)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-471](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-471.md#endstonemc-endstone-471-replace-fetchcontentdeclare-with-plain-findpackage-for-expected-lite)
+- thread:EndstoneMC/endstone#473 · 2026-08-09
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/473)
+  - [Detailed analysis: EndstoneMC--endstone--issue-473](../sources/thread-review/threads/EndstoneMC--endstone--issue-473.md#endstonemc-endstone-473-can-mapitemsaveddata-class-be-implemented)
+- thread:EndstoneMC/endstone#474 · 2026-08-09
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/474)
+  - [Detailed analysis: EndstoneMC--endstone--issue-474](../sources/thread-review/threads/EndstoneMC--endstone--issue-474.md#endstonemc-endstone-474-add-api-access-to-item-frame-contents)
+- thread:EndstoneMC/endstone#475 · 2026-08-11
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/475)
+  - [Detailed analysis: EndstoneMC--endstone--issue-475](../sources/thread-review/threads/EndstoneMC--endstone--issue-475.md#endstonemc-endstone-475-color-particle)
+- thread:EndstoneMC/endstone#476 · 2026-08-12
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/476)
+  - [Detailed analysis: EndstoneMC--endstone--issue-476](../sources/thread-review/threads/EndstoneMC--endstone--issue-476.md#endstonemc-endstone-476-per-player-entity-and-block-visibility)
+- thread:EndstoneMC/endstone#48 · 2024-09-05
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/48)
+  - [Detailed analysis: EndstoneMC--endstone--issue-48](../sources/thread-review/threads/EndstoneMC--endstone--issue-48.md#endstonemc-endstone-48-bug-reload-command-should-stop-and-remove-all-scheduled-tasks)
+- thread:EndstoneMC/endstone#489 · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/489)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-489](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-489.md#endstonemc-endstone-489-feat-event-add-playershearactorevent)
+- thread:EndstoneMC/endstone#49 · 2024-09-13
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/49)
+  - [Detailed analysis: EndstoneMC--endstone--issue-49](../sources/thread-review/threads/EndstoneMC--endstone--issue-49.md#endstonemc-endstone-49-random-crash)
+- thread:EndstoneMC/endstone#50 · 2024-09-14
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/50)
+  - [Detailed analysis: EndstoneMC--endstone--pr-50](../sources/thread-review/threads/EndstoneMC--endstone--pr-50.md#endstonemc-endstone-50-fix-spelling-of-recommended)
+- thread:EndstoneMC/endstone#504 · 2026-08-20
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/504)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-504](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-504.md#endstonemc-endstone-504-feat-event-add-playershearactorevent)
+- thread:EndstoneMC/endstone#509 · 2026-08-21
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/509)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-509](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-509.md#endstonemc-endstone-509-feat-command-add-a-brigadier-style-command-tree-api)
+- thread:EndstoneMC/endstone#51 · 2024-09-14
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/51)
+  - [Detailed analysis: EndstoneMC--endstone--issue-51](../sources/thread-review/threads/EndstoneMC--endstone--issue-51.md#endstonemc-endstone-51-gametest-simulated-players-causes-server-crash)
+- thread:EndstoneMC/endstone#510 · 2026-08-22
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/510)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-510](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-510.md#endstonemc-endstone-510-feat-add-public-c-metrics-service-api)
+- thread:EndstoneMC/endstone#513 · 2026-08-23
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/513)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-513](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-513.md#endstonemc-endstone-513-feat-player-add-a-type-safe-ability-api)
+- thread:EndstoneMC/endstone#514 · 2026-08-23
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/514)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-514](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-514.md#endstonemc-endstone-514-perf-network-compress-packets-with-libdeflate)
+- thread:EndstoneMC/endstone#517 · 2026-08-27
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/517)
+  - [Detailed analysis: EndstoneMC--endstone--issue-517](../sources/thread-review/threads/EndstoneMC--endstone--issue-517.md#endstonemc-endstone-517-map-symbol-x-bug)
+- thread:EndstoneMC/endstone#518 · 2026-08-28
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/518)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-518](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-518.md#endstonemc-endstone-518-feat-add-support-for-bds-1-26-45)
+- thread:EndstoneMC/endstone#52 · 2024-09-15
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/52)
+  - [Detailed analysis: EndstoneMC--endstone--issue-52](../sources/thread-review/threads/EndstoneMC--endstone--issue-52.md#endstonemc-endstone-52-bug-server-crashes-when-using-a-map-with-beta-api-enabled)
+- thread:EndstoneMC/endstone#522 · 2026-08-31
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/522)
+  - [Detailed analysis: EndstoneMC--endstone--issue-522](../sources/thread-review/threads/EndstoneMC--endstone--issue-522.md#endstonemc-endstone-522-feature-client-support)
+- thread:EndstoneMC/endstone#525 · 2026-09-05
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/525)
+  - [Detailed analysis: EndstoneMC--endstone--issue-525](../sources/thread-review/threads/EndstoneMC--endstone--issue-525.md#endstonemc-endstone-525-bug-endstonebossbar-send-uses-player-uuid-to-the-boss)
+- thread:EndstoneMC/endstone#528 · 2026-09-06
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/528)
+  - [Detailed analysis: EndstoneMC--endstone--issue-528](../sources/thread-review/threads/EndstoneMC--endstone--issue-528.md#endstonemc-endstone-528-segfault-in-scriptitemgameplayhandler-handleevent2-identical-stack-trace-on-two-separate-crashes-different)
+- thread:EndstoneMC/endstone#53 · 2024-09-15
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/53)
+  - [Detailed analysis: EndstoneMC--endstone--issue-53](../sources/thread-review/threads/EndstoneMC--endstone--issue-53.md#endstonemc-endstone-53-bug-command-sender-should-be-player-when-using-player-performcommand)
+- thread:EndstoneMC/endstone#532 · 2026-09-15
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/532)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-532](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-532.md#endstonemc-endstone-532-fix-boss-use-a-stable-id-for-each-boss-bar)
+- thread:EndstoneMC/endstone#534 · 2026-09-16
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/534)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-534](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-534.md#endstonemc-endstone-534-feat-add-26-51-support)
+- thread:EndstoneMC/endstone#535 · 2026-09-16
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/535)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-535](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-535.md#endstonemc-endstone-535-fix-map-preserve-static-map-decorations)
+- thread:EndstoneMC/endstone#536 · 2026-09-17
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/536)
+  - [Detailed analysis: EndstoneMC--endstone--issue-536](../sources/thread-review/threads/EndstoneMC--endstone--issue-536.md#endstonemc-endstone-536-poplar-leaves-decay-incorrectly-on-bds-1-26-51-with-endstone-0-11-11)
+- thread:EndstoneMC/endstone#537 · 2026-09-18
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/537)
+  - [Detailed analysis: EndstoneMC--endstone--issue-537](../sources/thread-review/threads/EndstoneMC--endstone--issue-537.md#endstonemc-endstone-537-maps-in-simulated-chunks-are-initialized-every-tick)
+- thread:EndstoneMC/endstone#538 · 2026-09-19
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/538)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-538](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-538.md#endstonemc-endstone-538-feat-network-make-nethernet-behave-like-raknet-operationally)
+- thread:EndstoneMC/endstone#539 · 2026-09-19
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/539)
+  - [Detailed analysis: EndstoneMC--endstone--issue-539](../sources/thread-review/threads/EndstoneMC--endstone--issue-539.md#endstonemc-endstone-539-intermittent-exceptionaccessviolation-inside-vanilla-level-tick-4-ticks-after-a-player-s-natural-disconnec)
+- thread:EndstoneMC/endstone#54 · 2024-09-15
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/54)
+  - [Detailed analysis: EndstoneMC--endstone--issue-54](../sources/thread-review/threads/EndstoneMC--endstone--issue-54.md#endstonemc-endstone-54-feature-add-support-for-python-3-13)
+- thread:EndstoneMC/endstone#540 · 2026-09-28
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/540)
+  - [Detailed analysis: EndstoneMC--endstone--issue-540](../sources/thread-review/threads/EndstoneMC--endstone--issue-540.md#endstonemc-endstone-540-add-a-native-player-sendactionbar-feature-to-endstone-python-plugins)
+- thread:EndstoneMC/endstone#541 · 2026-10-05
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/541)
+  - [Detailed analysis: EndstoneMC--endstone--issue-541](../sources/thread-review/threads/EndstoneMC--endstone--issue-541.md#endstonemc-endstone-541-bug-explosions-wind-charge-items-and-wind-burst-mace-enchantment-do-not-function)
+- thread:EndstoneMC/endstone#542 · 2026-10-06
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/542)
+  - [Detailed analysis: EndstoneMC--endstone--issue-542](../sources/thread-review/threads/EndstoneMC--endstone--issue-542.md#endstonemc-endstone-542-cushions-are-not-usable-update-to-hotfix-26-52)
+- thread:EndstoneMC/endstone#543 · 2026-10-06
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/543)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-543](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-543.md#endstonemc-endstone-543-perf-python-reuse-the-primary-thread-state)
+- thread:EndstoneMC/endstone#544 · 2026-10-06
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/544)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-544](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-544.md#endstonemc-endstone-544-fix-redstone-drop-a-power-source-s-links-to-blocks-that-are-gone)
+- thread:EndstoneMC/endstone#545 · 2026-10-06
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/545)
+  - [Detailed analysis: EndstoneMC--endstone--issue-545](../sources/thread-review/threads/EndstoneMC--endstone--issue-545.md#endstonemc-endstone-545-running-endstone-on-older-bds-versions)
+- thread:EndstoneMC/endstone#546 · 2026-10-08
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/546)
+  - [Detailed analysis: EndstoneMC--endstone--issue-546](../sources/thread-review/threads/EndstoneMC--endstone--issue-546.md#endstonemc-endstone-546-playerlist-is-decoded-once-per-recipient-to-fill-the-show-player-cache)
+- thread:EndstoneMC/endstone#548 · 2026-10-10
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/548)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-548](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-548.md#endstonemc-endstone-548-perf-network-look-up-the-peer-and-player-in-o-1-on-the-packet-event-path)
+- thread:EndstoneMC/endstone#55 · 2024-09-15
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/55)
+  - [Detailed analysis: EndstoneMC--endstone--issue-55](../sources/thread-review/threads/EndstoneMC--endstone--issue-55.md#endstonemc-endstone-55-feature-add-player-sendrawpacket-to-allow-sending-payloads-directly-to-a-player)
+- thread:EndstoneMC/endstone#550 · 2026-10-13
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/550)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-550](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-550.md#endstonemc-endstone-550-perf-level-feed-the-chunk-generation-workers)
+- thread:EndstoneMC/endstone#553 · 2026-10-16
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/553)
+  - [Detailed analysis: EndstoneMC--endstone--issue-553](../sources/thread-review/threads/EndstoneMC--endstone--issue-553.md#endstonemc-endstone-553-crash-on-startup-when-enable-script-false)
+- thread:EndstoneMC/endstone#554 · 2026-10-17
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/554)
+  - [Detailed analysis: EndstoneMC--endstone--pull_request-554](../sources/thread-review/threads/EndstoneMC--endstone--pull_request-554.md#endstonemc-endstone-554-fix-command-avoid-ambiguous-ban-and-ban-ip-command-grammar)
+- thread:EndstoneMC/endstone#556 · 2026-10-18
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/556)
+  - [Detailed analysis: EndstoneMC--endstone--issue-556](../sources/thread-review/threads/EndstoneMC--endstone--issue-556.md#endstonemc-endstone-556-serverlistpingevent-not-called-when-ping-response-is-128-bytes-signed-char-length-check)
+- thread:EndstoneMC/endstone#557 · 2026-10-18
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/557)
+  - [Detailed analysis: EndstoneMC--endstone--issue-557](../sources/thread-review/threads/EndstoneMC--endstone--issue-557.md#endstonemc-endstone-557-getserverplayer-scans-all-players-on-every-packet-when-packetsendevent-is-registered)
+- thread:EndstoneMC/endstone#56 · 2024-09-16
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/56)
+  - [Detailed analysis: EndstoneMC--endstone--issue-56](../sources/thread-review/threads/EndstoneMC--endstone--issue-56.md#endstonemc-endstone-56-feature-make-console-can-auto-complete-and-highlight)
+- thread:EndstoneMC/endstone#57 · 2024-09-17
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/57)
+  - [Detailed analysis: EndstoneMC--endstone--issue-57](../sources/thread-review/threads/EndstoneMC--endstone--issue-57.md#endstonemc-endstone-57-feature-save-the-world-when-on-server-crash)
+- thread:EndstoneMC/endstone#58 · 2024-09-19
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/58)
+  - [Detailed analysis: EndstoneMC--endstone--pr-58](../sources/thread-review/threads/EndstoneMC--endstone--pr-58.md#endstonemc-endstone-58-feat-devtool-add-biome-export-add-exportall-button)
+- thread:EndstoneMC/endstone#59 · 2024-09-22
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/59)
+  - [Detailed analysis: EndstoneMC--endstone--issue-59](../sources/thread-review/threads/EndstoneMC--endstone--issue-59.md#endstonemc-endstone-59-bug-event-block-type-conversion-error-in-blockplaceevent)
+- thread:EndstoneMC/endstone#61 · 2024-09-26
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/61)
+  - [Detailed analysis: EndstoneMC--endstone--issue-61](../sources/thread-review/threads/EndstoneMC--endstone--issue-61.md#endstonemc-endstone-61-bug-using-addon-scriptapi-to-call-the-registered-command-causes-a-crash)
+- thread:EndstoneMC/endstone#62 · 2024-09-26
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/62)
+  - [Detailed analysis: EndstoneMC--endstone--pr-62](../sources/thread-review/threads/EndstoneMC--endstone--pr-62.md#endstonemc-endstone-62-feat-devtools-add-more-block-shapes-data)
+- thread:EndstoneMC/endstone#63 · 2024-09-26
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/63)
+  - [Detailed analysis: EndstoneMC--endstone--issue-63](../sources/thread-review/threads/EndstoneMC--endstone--issue-63.md#endstonemc-endstone-63-feature-encrypted-resource-pack-support)
+- thread:EndstoneMC/endstone#64 · 2024-09-29
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/64)
+  - [Detailed analysis: EndstoneMC--endstone--issue-64](../sources/thread-review/threads/EndstoneMC--endstone--issue-64.md#endstonemc-endstone-64-feature-add-possibility-to-perform-scriptevent-command)
+- thread:EndstoneMC/endstone#66 · 2024-09-30
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/66)
+  - [Detailed analysis: EndstoneMC--endstone--issue-66](../sources/thread-review/threads/EndstoneMC--endstone--issue-66.md#endstonemc-endstone-66-bug-crash-getting-player-name-when-listening-to-events)
+- thread:EndstoneMC/endstone#67 · 2024-09-30
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/67)
+  - [Detailed analysis: EndstoneMC--endstone--issue-67](../sources/thread-review/threads/EndstoneMC--endstone--issue-67.md#endstonemc-endstone-67-feature-blockupdate-event)
+- thread:EndstoneMC/endstone#68 · 2024-10-01
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/68)
+  - [Detailed analysis: EndstoneMC--endstone--pr-68](../sources/thread-review/threads/EndstoneMC--endstone--pr-68.md#endstonemc-endstone-68-fix-expected-lite-dependency-tag)
+- thread:EndstoneMC/endstone#69 · 2024-10-01
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/69)
+  - [Detailed analysis: EndstoneMC--endstone--issue-69](../sources/thread-review/threads/EndstoneMC--endstone--issue-69.md#endstonemc-endstone-69-feature-add-inventory-item-manipulation)
+- thread:EndstoneMC/endstone#70 · 2024-10-02
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/70)
+  - [Detailed analysis: EndstoneMC--endstone--issue-70](../sources/thread-review/threads/EndstoneMC--endstone--issue-70.md#endstonemc-endstone-70-endstone-crashed-on-linux)
+- thread:EndstoneMC/endstone#71 · 2024-10-05
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/71)
+  - [Detailed analysis: EndstoneMC--endstone--issue-71](../sources/thread-review/threads/EndstoneMC--endstone--issue-71.md#endstonemc-endstone-71-endstoneruntime-dll-access-denied)
+- thread:EndstoneMC/endstone#72 · 2024-10-07
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/72)
+  - [Detailed analysis: EndstoneMC--endstone--issue-72](../sources/thread-review/threads/EndstoneMC--endstone--issue-72.md#endstonemc-endstone-72-feature-add-i18n-api-for-multilingual-support-in-endstone)
+- thread:EndstoneMC/endstone#73 · 2024-10-07
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/73)
+  - [Detailed analysis: EndstoneMC--endstone--issue-73](../sources/thread-review/threads/EndstoneMC--endstone--issue-73.md#endstonemc-endstone-73-feature-add-an-event-for-scriptevent-command)
+- thread:EndstoneMC/endstone#74 · 2024-10-11
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/74)
+  - [Detailed analysis: EndstoneMC--endstone--pr-74](../sources/thread-review/threads/EndstoneMC--endstone--pr-74.md#endstonemc-endstone-74-feat-dump-default-state-for-each-block-type)
+- thread:EndstoneMC/endstone#75 · 2024-10-11
+  - [Public source](https://github.com/EndstoneMC/endstone/pull/75)
+  - [Detailed analysis: EndstoneMC--endstone--pr-75](../sources/thread-review/threads/EndstoneMC--endstone--pr-75.md#endstonemc-endstone-75-make-fields-public-for-serverlistpingevent)
+- thread:EndstoneMC/endstone#76 · 2024-10-12
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/76)
+  - [Detailed analysis: EndstoneMC--endstone--issue-76](../sources/thread-review/threads/EndstoneMC--endstone--issue-76.md#endstonemc-endstone-76-bug-when-i-create-a-boss-bar-and-set-it-up-through-addplayer-the-boss-bar-is-seen-for-0-1-seconds-and-then-)
+- thread:EndstoneMC/endstone#77 · 2024-10-12
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/77)
+  - [Detailed analysis: EndstoneMC--endstone--issue-77](../sources/thread-review/threads/EndstoneMC--endstone--issue-77.md#endstonemc-endstone-77-feature-add-support-for-sending-addactorpacket-to-players)
+- thread:EndstoneMC/endstone#79 · 2024-10-16
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/79)
+  - [Detailed analysis: EndstoneMC--endstone--issue-79](../sources/thread-review/threads/EndstoneMC--endstone--issue-79.md#endstonemc-endstone-79-bug-scriptevent-not-being-registered-properly)
+- thread:EndstoneMC/endstone#85 · 2024-10-29
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/85)
+  - [Detailed analysis: EndstoneMC--endstone--issue-85](../sources/thread-review/threads/EndstoneMC--endstone--issue-85.md#endstonemc-endstone-85-server-side-anticheat)
+- thread:EndstoneMC/endstone#86 · 2024-11-02
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/86)
+  - [Detailed analysis: EndstoneMC--endstone--issue-86](../sources/thread-review/threads/EndstoneMC--endstone--issue-86.md#endstonemc-endstone-86-it-s-not-working-in-arm64-debian)
+- thread:EndstoneMC/endstone#90 · 2024-11-14
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/90)
+  - [Detailed analysis: EndstoneMC--endstone--issue-90](../sources/thread-review/threads/EndstoneMC--endstone--issue-90.md#endstonemc-endstone-90-native-restarts)
+- thread:EndstoneMC/endstone#91 · 2024-11-15
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/91)
+  - [Detailed analysis: EndstoneMC--endstone--issue-91](../sources/thread-review/threads/EndstoneMC--endstone--issue-91.md#endstonemc-endstone-91-feature-add-source-attribute-for-actordeathevent-and-isplayer-attribute-for-actor)
+  - [Detailed analysis: 02-entity-ownership-python](../sources/commit-review/endstone-2025-0101-0200/02-entity-ownership-python.md#wrapper-identity-and-language-contracts)
+  - [Detailed analysis: 03-damage-causal-identity](../sources/commit-review/endstone-2025-0101-0200/03-damage-causal-identity.md#requirement-and-attribution)
+- thread:EndstoneMC/endstone#94 · 2024-11-27
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/94)
+  - [Detailed analysis: EndstoneMC--endstone--issue-94](../sources/thread-review/threads/EndstoneMC--endstone--issue-94.md#endstonemc-endstone-94-bug-can-t-start-the-endstone-undefined-symbol-pypropertytype)
+- thread:EndstoneMC/endstone#95 · 2024-11-28
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/95)
+  - [Detailed analysis: EndstoneMC--endstone--issue-95](../sources/thread-review/threads/EndstoneMC--endstone--issue-95.md#endstonemc-endstone-95-feature-hooking)
+- thread:EndstoneMC/endstone#96 · 2024-11-28
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/96)
+  - [Detailed analysis: EndstoneMC--endstone--issue-96](../sources/thread-review/threads/EndstoneMC--endstone--issue-96.md#endstonemc-endstone-96-second-name-for-player)
+- thread:EndstoneMC/endstone#97 · 2024-11-29
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/97)
+  - [Detailed analysis: EndstoneMC--endstone--issue-97](../sources/thread-review/threads/EndstoneMC--endstone--issue-97.md#endstonemc-endstone-97-feature-nbt-api-for-itemstack)
+- thread:EndstoneMC/endstone#98 · 2024-12-01
+  - [Public source](https://github.com/EndstoneMC/endstone/issues/98)
+  - [Detailed analysis: EndstoneMC--endstone--issue-98](../sources/thread-review/threads/EndstoneMC--endstone--issue-98.md#endstonemc-endstone-98-feature-issue-with-loading-custom-plugins-in-endstone-due-to-plugin-loading-mechanism)
+- thread:EndstoneMC/endweave#13 · 2026-04-04
+  - [Public source](https://github.com/EndstoneMC/endweave/issues/13)
+  - [Detailed analysis: EndstoneMC--endweave--issue-13](../sources/thread-review/threads/EndstoneMC--endweave--issue-13.md#endstonemc-endweave-13-crash-on-invalid-packetsendevent)
+- thread:EndstoneMC/endweave#23 · 2026-05-07
+  - [Public source](https://github.com/EndstoneMC/endweave/issues/23)
+  - [Detailed analysis: EndstoneMC--endweave--issue-23](../sources/thread-review/threads/EndstoneMC--endweave--issue-23.md#endstonemc-endweave-23-craftingdata)
+- thread:EndstoneMC/endweave#24 · 2026-05-07
+  - [Public source](https://github.com/EndstoneMC/endweave/issues/24)
+  - [Detailed analysis: EndstoneMC--endweave--issue-24](../sources/thread-review/threads/EndstoneMC--endweave--issue-24.md#endstonemc-endweave-24-food-bug)
+  - [Detailed analysis: endweave-24-review](../sources/thread-review/media-supplement-20261020/endweave-24-review.md#endweave-24-supplementary-video-review)
+- thread:EndstoneMC/endweave#25 · 2026-05-07
+  - [Public source](https://github.com/EndstoneMC/endweave/issues/25)
+  - [Detailed analysis: EndstoneMC--endweave--issue-25](../sources/thread-review/threads/EndstoneMC--endweave--issue-25.md#endstonemc-endweave-25-an-error-has-occurred)
+- thread:EndstoneMC/endweave#26 · 2026-05-08
+  - [Public source](https://github.com/EndstoneMC/endweave/issues/26)
+  - [Detailed analysis: EndstoneMC--endweave--issue-26](../sources/thread-review/threads/EndstoneMC--endweave--issue-26.md#endstonemc-endweave-26-furnace-crash)
+- thread:EndstoneMC/endweave#4 · 2026-03-25
+  - [Public source](https://github.com/EndstoneMC/endweave/pull/4)
+  - [Detailed analysis: EndstoneMC--endweave--pull_request-4](../sources/thread-review/threads/EndstoneMC--endweave--pull_request-4.md#endstonemc-endweave-4-feat-add-support-for-v898-and-v860-v859)
+- thread:EndstoneMC/endweave#48 · 2026-09-12
+  - [Public source](https://github.com/EndstoneMC/endweave/pull/48)
+  - [Detailed analysis: EndstoneMC--endweave--pull_request-48](../sources/thread-review/threads/EndstoneMC--endweave--pull_request-48.md#endstonemc-endweave-48-bump-endstone-from-0-11-2-to-0-11-10)
+- thread:EndstoneMC/endweave#54 · 2026-09-25
+  - [Public source](https://github.com/EndstoneMC/endweave/issues/54)
+  - [Detailed analysis: EndstoneMC--endweave--issue-54](../sources/thread-review/threads/EndstoneMC--endweave--issue-54.md#endstonemc-endweave-54-v0-5-1-missing-windows-cp312-abi3-wheel-python-3-12-users-cannot-install-on-endstone-0-11-11)
+- thread:EndstoneMC/endweave#7 · 2026-03-30
+  - [Public source](https://github.com/EndstoneMC/endweave/pull/7)
+  - [Detailed analysis: EndstoneMC--endweave--pull_request-7](../sources/thread-review/threads/EndstoneMC--endweave--pull_request-7.md#endstonemc-endweave-7-fix-map-biome-definitions-for-v898-to-v924)
+- thread:EndstoneMC/python-example-plugin#3 · 2025-11-17
+  - [Public source](https://github.com/EndstoneMC/python-example-plugin/issues/3)
+  - [Detailed analysis: EndstoneMC--python-example-plugin--issue-3](../sources/thread-review/threads/EndstoneMC--python-example-plugin--issue-3.md#endstonemc-python-example-plugin-3-method-does-not-exist)
+- thread:EndstoneMC/scripting-nodejs-release#1 · 2026-08-09
+  - [Public source](https://github.com/EndstoneMC/scripting-nodejs-release/issues/1)
+  - [Detailed analysis: EndstoneMC--scripting-nodejs-release--issue-1](../sources/thread-review/threads/EndstoneMC--scripting-nodejs-release--issue-1.md#endstonemc-scripting-nodejs-release-1-npm-package-resolution-from-inside-a-pack-causes-a-hard-crash)
+- thread:EndstoneMC/scripting-nodejs-release#2 · 2026-08-09
+  - [Public source](https://github.com/EndstoneMC/scripting-nodejs-release/issues/2)
+  - [Detailed analysis: EndstoneMC--scripting-nodejs-release--issue-2](../sources/thread-review/threads/EndstoneMC--scripting-nodejs-release--issue-2.md#endstonemc-scripting-nodejs-release-2-not-working-on-linux-ubuntu)
+- thread:EndstoneMC/scripting-nodejs-release#3 · 2026-08-09
+  - [Public source](https://github.com/EndstoneMC/scripting-nodejs-release/issues/3)
+  - [Detailed analysis: EndstoneMC--scripting-nodejs-release--issue-3](../sources/thread-review/threads/EndstoneMC--scripting-nodejs-release--issue-3.md#endstonemc-scripting-nodejs-release-3-reload-crashes-the-server-with-plugin)
+- thread:EndstoneMC/scripting-nodejs-release#4 · 2026-09-22
+  - [Public source](https://github.com/EndstoneMC/scripting-nodejs-release/issues/4)
+  - [Detailed analysis: EndstoneMC--scripting-nodejs-release--issue-4](../sources/thread-review/threads/EndstoneMC--scripting-nodejs-release--issue-4.md#endstonemc-scripting-nodejs-release-4-support-endstone-1-26-51)
+- thread:JakubAndrysek/MkDoxy#103 · 2024-05-01
+  - [Public source](https://github.com/JakubAndrysek/MkDoxy/pull/103)
+  - [Detailed analysis: JakubAndrysek--MkDoxy--pull_request-103](../sources/thread-review/threads/JakubAndrysek--MkDoxy--pull_request-103.md#jakubandrysek-mkdoxy-103-fix-executable-not-found-when-the-current-working-directory-cwd-is-set-to-config-file-path)
+- thread:JakubAndrysek/MkDoxy#75 · 2023-08-30
+  - [Public source](https://github.com/JakubAndrysek/MkDoxy/issues/75)
+  - [Detailed analysis: JakubAndrysek--MkDoxy--issue-75](../sources/thread-review/threads/JakubAndrysek--MkDoxy--issue-75.md#jakubandrysek-mkdoxy-75-how-to-find-an-execution-issue)
+- thread:Karumi/Dexter#107 · 2017-01-16
+  - [Public source](https://github.com/Karumi/Dexter/issues/107)
+  - [Detailed analysis: Karumi--Dexter--issue-107](../sources/thread-review/threads/Karumi--Dexter--issue-107.md#karumi-dexter-107-caused-by-java-lang-nullpointerexception-attempt-to-invoke-virtual-method-void-com-karumi-dexter-dexterinstance-)
+- thread:LiteLDev/LeviLamina#1529 · 2024-05-07
+  - [Public source](https://github.com/LiteLDev/LeviLamina/pull/1529)
+  - [Detailed analysis: LiteLDev--LeviLamina--pull_request-1529](../sources/thread-review/threads/LiteLDev--LeviLamina--pull_request-1529.md#liteldev-levilamina-1529-update-materialtype-h)
+- thread:NukkitR/RakNetty#1 · 2021-08-09
+  - [Public source](https://github.com/NukkitR/RakNetty/issues/1)
+  - [Detailed analysis: NukkitR__RakNetty-1](../sources/thread-review/threads/dossiers/NukkitR__RakNetty-1.md#nukkitr-raknetty-1-what-will-it-be)
+- thread:PocketMine/PocketMine-MP#2433 · 2014-12-22
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/2433)
+  - [Detailed analysis: PocketMine__PocketMine-MP-2433](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-2433.md#pocketmine-pocketmine-mp-2433-the-tps-went-to-almost-zero-when-a-player-is-joining-and-player-will-be-teleported-to-the-past-posit)
+- thread:PocketMine/PocketMine-MP#2443 · 2014-12-24
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/2443)
+  - [Detailed analysis: PocketMine__PocketMine-MP-2443](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-2443.md#pocketmine-pocketmine-mp-2443-bug-in-unconnected-pong)
+- thread:PocketMine/PocketMine-MP#2469 · 2014-12-30
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/2469)
+  - [Detailed analysis: PocketMine__PocketMine-MP-2469](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-2469.md#pocketmine-pocketmine-mp-2469-since-pmmp-soft-201-tps-fall-to-0-when-player-first-generating-chunks)
+- thread:PocketMine/PocketMine-MP#2809 · 2015-03-27
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/2809)
+  - [Detailed analysis: PocketMine__PocketMine-MP-2809](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-2809.md#pocketmine-pocketmine-mp-2809-i-have-no-idea-how-to-get-the-event-when-one-player-s-inventory-change)
+- thread:PocketMine/PocketMine-MP#2849 · 2015-04-10
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/2849)
+  - [Detailed analysis: PocketMine__PocketMine-MP-2849](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-2849.md#pocketmine-pocketmine-mp-2849-addparticle-in-level-doesn-t-work)
+- thread:PocketMine/PocketMine-MP#2852 · 2015-04-11
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/2852)
+  - [Detailed analysis: PocketMine__PocketMine-MP-2852](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-2852.md#pocketmine-pocketmine-mp-2852-about-the-translate)
+- thread:PocketMine/PocketMine-MP#2925 · 2015-04-22
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/2925)
+  - [Detailed analysis: PocketMine__PocketMine-MP-2925](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-2925.md#pocketmine-pocketmine-mp-2925-colors-doesn-t-work-properly-on-windows)
+- thread:PocketMine/PocketMine-MP#2928 · 2015-04-23
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/2928)
+  - [Detailed analysis: PocketMine__PocketMine-MP-2928](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-2928.md#pocketmine-pocketmine-mp-2928-color-issue-is-still-there)
+- thread:PocketMine/PocketMine-MP#2962 · 2015-04-30
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/2962)
+  - [Detailed analysis: PocketMine__PocketMine-MP-2962](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-2962.md#pocketmine-pocketmine-mp-2962-unregistergenerator-seems-not-work)
+- thread:PocketMine/PocketMine-MP#3034 · 2015-05-19
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/3034)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3034](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3034.md#pocketmine-pocketmine-mp-3034-server-crash-build-1147-while-joining-client-build-11)
+- thread:PocketMine/PocketMine-MP#3035 · 2015-05-19
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/3035)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3035](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3035.md#pocketmine-pocketmine-mp-3035-not-a-plugin-problem)
+- thread:PocketMine/PocketMine-MP#3383 · 2015-08-17
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/3383)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3383](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3383.md#pocketmine-pocketmine-mp-3383-running-up-slabs-makes-you-jump)
+- thread:PocketMine/PocketMine-MP#3412 · 2015-08-25
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/3412)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3412](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3412.md#pocketmine-pocketmine-mp-3412-sethealth-bug)
+- thread:PocketMine/PocketMine-MP#3429 · 2015-08-30
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/pull/3429)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3429](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3429.md#pocketmine-pocketmine-mp-3429-fixed-color-in-some-language)
+- thread:PocketMine/PocketMine-MP#3463 · 2015-09-11
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/3463)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3463](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3463.md#pocketmine-pocketmine-mp-3463-player-hasfirstplayed-returns-a-consistent-value)
+- thread:PocketMine/PocketMine-MP#3490 · 2015-09-15
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/3490)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3490](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3490.md#pocketmine-pocketmine-mp-3490-invalid-name-error)
+- thread:PocketMine/PocketMine-MP#3508 · 2015-09-20
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/3508)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3508](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3508.md#pocketmine-pocketmine-mp-3508-bug-when-transporting-the-player)
+- thread:PocketMine/PocketMine-MP#3512 · 2015-09-22
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/pull/3512)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3512](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3512.md#pocketmine-pocketmine-mp-3512-fixed-crash-when-using-plugin-getlogger)
+- thread:PocketMine/PocketMine-MP#3513 · 2015-09-22
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/3513)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3513](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3513.md#pocketmine-pocketmine-mp-3513-big-problem-in-pm-1-6)
+- thread:PocketMine/PocketMine-MP#3527 · 2015-09-26
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/3527)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3527](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3527.md#pocketmine-pocketmine-mp-3527-parameter-miss-in-level-php-line-1230)
+- thread:PocketMine/PocketMine-MP#3533 · 2015-09-27
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/pull/3533)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3533](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3533.md#pocketmine-pocketmine-mp-3533-fix-event-call-when-applying-effects)
+- thread:PocketMine/PocketMine-MP#3541 · 2015-09-29
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/3541)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3541](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3541.md#pocketmine-pocketmine-mp-3541-server-crashes-daily)
+- thread:PocketMine/PocketMine-MP#3542 · 2015-09-30
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/3542)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3542](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3542.md#pocketmine-pocketmine-mp-3542-i-cant-make-a-server-pocketmine)
+- thread:PocketMine/PocketMine-MP#3548 · 2015-10-01
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/pull/3548)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3548](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3548.md#pocketmine-pocketmine-mp-3548-fixed-fire-resistance-effect)
+- thread:PocketMine/PocketMine-MP#3562 · 2015-10-06
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/3562)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3562](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3562.md#pocketmine-pocketmine-mp-3562-messages-incorrect-in-last-build-0-error-is-back)
+- thread:PocketMine/PocketMine-MP#3568 · 2015-10-07
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/pull/3568)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3568](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3568.md#pocketmine-pocketmine-mp-3568-fixed-recursive-call)
+- thread:PocketMine/PocketMine-MP#3574 · 2015-10-09
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/issues/3574)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3574](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3574.md#pocketmine-pocketmine-mp-3574-crash-when-player-gets-kicked-with-custom-message)
+- thread:PocketMine/PocketMine-MP#3576 · 2015-10-09
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/pull/3576)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3576](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3576.md#pocketmine-pocketmine-mp-3576-damned-git-desktop)
+- thread:PocketMine/PocketMine-MP#3579 · 2015-10-11
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/pull/3579)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3579](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3579.md#pocketmine-pocketmine-mp-3579-implement-method-getresult)
+- thread:PocketMine/PocketMine-MP#3595 · 2015-10-13
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/pull/3595)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3595](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3595.md#pocketmine-pocketmine-mp-3595-better-grass-spreading-and-added-dirt)
+- thread:PocketMine/PocketMine-MP#3625 · 2015-10-18
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/pull/3625)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3625](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3625.md#pocketmine-pocketmine-mp-3625-fixed-wrong-exception-message)
+- thread:PocketMine/PocketMine-MP#3658 · 2015-10-27
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/pull/3658)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3658](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3658.md#pocketmine-pocketmine-mp-3658-arrow-crash-fix)
+- thread:PocketMine/PocketMine-MP#3662 · 2015-10-31
+  - [Public source](https://github.com/PocketMine/PocketMine-MP/pull/3662)
+  - [Detailed analysis: PocketMine__PocketMine-MP-3662](../sources/thread-review/threads/dossiers/PocketMine__PocketMine-MP-3662.md#pocketmine-pocketmine-mp-3662-fix-autosave-in-playerquitevent)
+- thread:SeriousCache/UABE#102 · 2017-01-26
+  - [Public source](https://github.com/SeriousCache/UABE/issues/102)
+  - [Detailed analysis: SeriousCache__UABE-102](../sources/thread-review/threads/dossiers/SeriousCache__UABE-102.md#seriouscache-uabe-102-feature-request-packing-files)
+- thread:adamfisk/LittleProxy#313 · 2016-07-18
+  - [Public source](https://github.com/adamfisk/LittleProxy/issues/313)
+  - [Detailed analysis: adamfisk__LittleProxy-313](../sources/thread-review/threads/dossiers/adamfisk__LittleProxy-313.md#adamfisk-littleproxy-313-leak-bytebuf-release-was-not-called-before-it-s-garbage-collected)
+- thread:adamfisk/LittleProxy#325 · 2016-12-08
+  - [Public source](https://github.com/adamfisk/LittleProxy/issues/325)
+  - [Detailed analysis: adamfisk__LittleProxy-325](../sources/thread-review/threads/dossiers/adamfisk__LittleProxy-325.md#adamfisk-littleproxy-325-how-to-install-littleproxy-cert-on-android-devices)
+- thread:conan-io/conan-center-index#22165 · 2024-01-05
+  - [Public source](https://github.com/conan-io/conan-center-index/pull/22165)
+  - [Detailed analysis: conan-io__conan-center-index-22165](../sources/thread-review/threads/dossiers/conan-io__conan-center-index-22165.md#conan-io-conan-center-index-22165-minhook-add-minhook-cci-20240114-recipe)
+- thread:conan-io/conan-center-index#22200 · 2024-01-08
+  - [Public source](https://github.com/conan-io/conan-center-index/pull/22200)
+  - [Detailed analysis: conan-io__conan-center-index-22200](../sources/thread-review/threads/dossiers/conan-io__conan-center-index-22200.md#conan-io-conan-center-index-22200-funchook-add-funchook-1-1-3-recipe)
+- thread:conan-io/conan-center-index#22224 · 2024-01-09
+  - [Public source](https://github.com/conan-io/conan-center-index/pull/22224)
+  - [Detailed analysis: conan-io__conan-center-index-22224](../sources/thread-review/threads/dossiers/conan-io__conan-center-index-22224.md#conan-io-conan-center-index-22224-funchook-add-funchook-1-1-3-recipe)
+- thread:conan-io/conan-center-index#25731 · 2024-10-27
+  - [Public source](https://github.com/conan-io/conan-center-index/pull/25731)
+  - [Detailed analysis: conan-io__conan-center-index-25731](../sources/thread-review/threads/dossiers/conan-io__conan-center-index-25731.md#conan-io-conan-center-index-25731-entt-add-version-3-14-0)
+- thread:conan-io/conan-center-index#27188 · 2025-04-08
+  - [Public source](https://github.com/conan-io/conan-center-index/pull/27188)
+  - [Detailed analysis: conan-io__conan-center-index-27188](../sources/thread-review/threads/dossiers/conan-io__conan-center-index-27188.md#conan-io-conan-center-index-27188-glew-cmake-4-support)
+- thread:conan-io/conan-center-index#28517 · 2025-10-04
+  - [Public source](https://github.com/conan-io/conan-center-index/pull/28517)
+  - [Detailed analysis: conan-io__conan-center-index-28517](../sources/thread-review/threads/dossiers/conan-io__conan-center-index-28517.md#conan-io-conan-center-index-28517-llvm-core-add-version-20-1-6)
+- thread:endstone-essentials/discord#1 · 2024-06-02
+  - [Public source](https://github.com/endstone-essentials/discord/pull/1)
+  - [Detailed analysis: endstone-essentials__discord-1](../sources/thread-review/threads/dossiers/endstone-essentials__discord-1.md#endstone-essentials-discord-1-feat-embedded-message)
+- thread:endstone-essentials/sidebar#2 · 2025-02-05
+  - [Public source](https://github.com/endstone-essentials/sidebar/issues/2)
+  - [Detailed analysis: endstone-essentials__sidebar-2](../sources/thread-review/threads/dossiers/endstone-essentials__sidebar-2.md#endstone-essentials-sidebar-2-attributeerror-endstone-internal-endstonepython-server-object-has-no-attribute-getnewscoreboard)
+- thread:fengberd/PocketServer#28 · 2016-10-10
+  - [Public source](https://github.com/fengberd/PocketServer/pull/28)
+  - [Detailed analysis: fengberd__PocketServer-28](../sources/thread-review/threads/dossiers/fengberd__PocketServer-28.md#fengberd-pocketserver-28-typos-and-grammar)
+- thread:fusesource/jansi#34 · 2015-05-13
+  - [Public source](https://github.com/fusesource/jansi/issues/34)
+  - [Detailed analysis: fusesource__jansi-34](../sources/thread-review/threads/dossiers/fusesource__jansi-34.md#fusesource-jansi-34-isatty-test-on-windows-8-1-64bit)
+- thread:ganskef/LittleProxy-mitm#26 · 2017-03-05
+  - [Public source](https://github.com/ganskef/LittleProxy-mitm/issues/26)
+  - [Detailed analysis: ganskef__LittleProxy-mitm-26](../sources/thread-review/threads/dossiers/ganskef__LittleProxy-mitm-26.md#ganskef-littleproxy-mitm-26-use-guava-instead-of-common-io)
+- thread:lysine-dev/okhttp#2764 · 2016-08-01
+  - [Public source](https://github.com/lysine-dev/okhttp/issues/2764)
+  - [Detailed analysis: lysine-dev__okhttp-2764](../sources/thread-review/threads/dossiers/lysine-dev__okhttp-2764.md#lysine-dev-okhttp-2764-bug-with-cookie-parsing)
+- thread:netty/netty#5893 · 2016-10-05
+  - [Public source](https://github.com/netty/netty/issues/5893)
+  - [Detailed analysis: netty__netty-5893](../sources/thread-review/threads/dossiers/netty__netty-5893.md#netty-netty-5893-server-stops-working-after-the-exceptioncaught-being-called)
+- thread:numpy/numpy#24833 · 2023-09-29
+  - [Public source](https://github.com/numpy/numpy/issues/24833)
+  - [Detailed analysis: numpy__numpy-24833](../sources/thread-review/threads/dossiers/numpy__numpy-24833.md#numpy-numpy-24833-bug-importing-embedded-numpy-hangs-on-windows)
+- thread:scikit-build/scikit-build-core#739 · 2024-05-09
+  - [Public source](https://github.com/scikit-build/scikit-build-core/pull/739)
+  - [Detailed analysis: scikit-build__scikit-build-core-739](../sources/thread-review/threads/dossiers/scikit-build__scikit-build-core-739.md#scikit-build-scikit-build-core-739-docs-fix-example-of-configuration-overrides-in-configuration-md)
+- thread:tsl-imperial/cive70111_25_demo1#1 · 2025-09-29
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/pull/1)
+  - [Detailed analysis: tsl-imperial__cive70111_25_demo1-1](../sources/thread-review/threads/dossiers/tsl-imperial__cive70111_25_demo1-1.md#tsl-imperial-cive7011125demo1-1-add-my-personal-website-vincent)
+- thread:tsl-imperial/cive70111_25_demo1#2 · 2025-10-03
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/pull/2)
+  - [Detailed analysis: tsl-imperial__cive70111_25_demo1-2](../sources/thread-review/threads/dossiers/tsl-imperial__cive70111_25_demo1-2.md#tsl-imperial-cive7011125demo1-2-add-vincent-s-website)
+- thread:tsl-imperial/cive70111_25_demo1#30 · 2025-10-17
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/pull/30)
+  - [Detailed analysis: tsl-imperial__cive70111_25_demo1-30](../sources/thread-review/threads/dossiers/tsl-imperial__cive70111_25_demo1-30.md#tsl-imperial-cive7011125demo1-30-update-gallery-md)
+- thread:tsl-imperial/cive70111_25_demo1#32 · 2025-10-17
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/pull/32)
+  - [Detailed analysis: tsl-imperial__cive70111_25_demo1-32](../sources/thread-review/threads/dossiers/tsl-imperial__cive70111_25_demo1-32.md#tsl-imperial-cive7011125demo1-32-add-my-website-link-to-gallery-kenta-matsui)
+- thread:tsl-imperial/cive70111_25_demo1#6 · 2025-10-04
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/pull/6)
+  - [Detailed analysis: tsl-imperial__cive70111_25_demo1-6](../sources/thread-review/threads/dossiers/tsl-imperial__cive70111_25_demo1-6.md#tsl-imperial-cive7011125demo1-6-james-website)
+- thread:tsl-imperial/cive70111_25_demo1#7 · 2025-10-04
+  - [Public source](https://github.com/tsl-imperial/cive70111_25_demo1/pull/7)
+  - [Detailed analysis: tsl-imperial__cive70111_25_demo1-7](../sources/thread-review/threads/dossiers/tsl-imperial__cive70111_25_demo1-7.md#tsl-imperial-cive7011125demo1-7-update-gallery-md)
+- thread:wu-vincent/scikit-build-core-conan#10 · 2026-01-27
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/pull/10)
+  - [Detailed analysis: wu-vincent__scikit-build-core-conan-10](../sources/thread-review/threads/dossiers/wu-vincent__scikit-build-core-conan-10.md#wu-vincent-scikit-build-core-conan-10-remove-future-annotations-from-settings-py)
+- thread:wu-vincent/scikit-build-core-conan#11 · 2026-01-31
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/issues/11)
+  - [Detailed analysis: wu-vincent__scikit-build-core-conan-11](../sources/thread-review/threads/dossiers/wu-vincent__scikit-build-core-conan-11.md#wu-vincent-scikit-build-core-conan-11-v0-9-1-breaks-with-typeerror-cannot-create-types-uniontype-instances)
+- thread:wu-vincent/scikit-build-core-conan#5 · 2024-12-13
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/pull/5)
+  - [Detailed analysis: wu-vincent__scikit-build-core-conan-5](../sources/thread-review/threads/dossiers/wu-vincent__scikit-build-core-conan-5.md#wu-vincent-scikit-build-core-conan-5-directly-call-conan-api-functions-instead-of-conan-cli)
+- thread:wu-vincent/scikit-build-core-conan#6 · 2025-01-10
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/pull/6)
+  - [Detailed analysis: wu-vincent__scikit-build-core-conan-6](../sources/thread-review/threads/dossiers/wu-vincent__scikit-build-core-conan-6.md#wu-vincent-scikit-build-core-conan-6-splitting-profiles-for-host-and-build-once-again)
+- thread:wu-vincent/scikit-build-core-conan#8 · 2025-06-04
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/issues/8)
+  - [Detailed analysis: wu-vincent__scikit-build-core-conan-8](../sources/thread-review/threads/dossiers/wu-vincent__scikit-build-core-conan-8.md#wu-vincent-scikit-build-core-conan-8-building-wheels-fails-since-scikit-build-core-v0-11-4)
+- thread:wu-vincent/scikit-build-core-conan#9 · 2025-10-17
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/issues/9)
+  - [Detailed analysis: wu-vincent__scikit-build-core-conan-9](../sources/thread-review/threads/dossiers/wu-vincent__scikit-build-core-conan-9.md#wu-vincent-scikit-build-core-conan-9-specifying-multiple-values-for-build)

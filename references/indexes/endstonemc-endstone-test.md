@@ -1,0 +1,526 @@
+<!-- retrieval: {"source_type":"navigation","topics":["source-navigation"],"limitations":"Navigation aid only. Linked entries point to public sources and related analysis; the links do not certify implementation or runtime behavior."} -->
+# Source index: EndstoneMC/endstone-test {#source-index}
+
+## Sources {#sources}
+
+The links below group publicly traceable source material with related analysis.
+
+- commit:02e046d39d5ac799d731425a6cc2ccbeae883690 · 2025-03-21
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/02e046d39d5ac799d731425a6cc2ccbeae883690)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:03daa44930a2eabba3591b520341fca01e813d33 · 2025-07-18
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/03daa44930a2eabba3591b520341fca01e813d33)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:04b0ffac23aa634048a6d87cd1f38856cc783f87 · 2025-06-16
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/04b0ffac23aa634048a6d87cd1f38856cc783f87)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+- commit:05045fa52d52b378fd2ce04ab55c00f7709971d4 · 2024-08-28
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/05045fa52d52b378fd2ce04ab55c00f7709971d4)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:09d1a5006d043cf482faa79f60cb7d18982fe8c8 · 2024-12-23
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/09d1a5006d043cf482faa79f60cb7d18982fe8c8)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:0acac8e2f7325cfeb6a32fbcc952a1488d151183 · 2024-08-02
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/0acac8e2f7325cfeb6a32fbcc952a1488d151183)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#server)
+- commit:0f9553f83d5568b87856018d7a4101dbdd476ffb · 2025-11-16
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/0f9553f83d5568b87856018d7a4101dbdd476ffb)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:11bc153359e6caf403f98495870d5961f860206b · 2024-07-25
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/11bc153359e6caf403f98495870d5961f860206b)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#scoreboard)
+- commit:11e5797e60622fdbd518bb69a7f66ff283fbf5fe · 2024-06-24
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/11e5797e60622fdbd518bb69a7f66ff283fbf5fe)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+- commit:15a5d56db584e2d61b4ea59bd8ee465de7a2ef2c · 2025-03-23
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/15a5d56db584e2d61b4ea59bd8ee465de7a2ef2c)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+- commit:16c4963c74ac2c9fc46f66ac0fc75e331ffeed14 · 2025-11-01
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/16c4963c74ac2c9fc46f66ac0fc75e331ffeed14)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:175725bd58b9b66b9b8cc2c8126eb68bc582b3ab · 2025-06-10
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/175725bd58b9b66b9b8cc2c8126eb68bc582b3ab)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+- commit:1c68c408c856229839e4cd411feb708fd4f02296 · 2024-06-21
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/1c68c408c856229839e4cd411feb708fd4f02296)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+- commit:1d2ae7236b4dff217939c02687e81790cbd13226 · 2025-06-22
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/1d2ae7236b4dff217939c02687e81790cbd13226)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#registry)
+- commit:1d38a954190acf522bb10a3c0b7847d335b0bff7 · 2024-06-14
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/1d38a954190acf522bb10a3c0b7847d335b0bff7)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+- commit:1f7f16738b6ff634068a02f38b8444eb368207fb · 2024-06-15
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/1f7f16738b6ff634068a02f38b8444eb368207fb)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#permissions)
+- commit:2004388e249c8cb977b1637b60a0e70823929ea6 · 2024-07-25
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/2004388e249c8cb977b1637b60a0e70823929ea6)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:213630f8a6ce06560da173373cce295dd3b57008 · 2024-06-14
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/213630f8a6ce06560da173373cce295dd3b57008)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#server)
+- commit:21618b7ff6d3a7072657cfaf06061f031338adf3 · 2025-10-16
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/21618b7ff6d3a7072657cfaf06061f031338adf3)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#map)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+- commit:21b15822931081eb26a4524bf4a6df00d2a2bdce · 2024-09-25
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/21b15822931081eb26a4524bf4a6df00d2a2bdce)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:21f641f6d0607fd353ac4e3d98dd47aaefb40698 · 2024-10-07
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/21f641f6d0607fd353ac4e3d98dd47aaefb40698)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:2361546b2cd3ff1e0b7a3816b128e5a294b1c8e1 · 2025-05-28
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/2361546b2cd3ff1e0b7a3816b128e5a294b1c8e1)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#server)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:23de337f03991239da11ed272d364c6b568c8761 · 2024-10-07
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/23de337f03991239da11ed272d364c6b568c8761)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#server)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#scoreboard)
+- commit:25cb1bbc164f237f99ee7cd5d5131e735c9e3806 · 2025-01-22
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/25cb1bbc164f237f99ee7cd5d5131e735c9e3806)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:263d5640e81fc09d658580cdddf64bf902b7c524 · 2025-05-14
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/263d5640e81fc09d658580cdddf64bf902b7c524)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#asyncio)
+- commit:274764717787af7d03076e8f99c8dcb33a4dc6ee · 2024-10-22
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/274764717787af7d03076e8f99c8dcb33a4dc6ee)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#scoreboard)
+- commit:29c0cb3051407147255f301d39fb3b2b6c245656 · 2025-11-16
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/29c0cb3051407147255f301d39fb3b2b6c245656)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:2c6838d6d4ea74da8d03d862ff8ccee02aeb852c · 2025-06-10
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/2c6838d6d4ea74da8d03d862ff8ccee02aeb852c)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+- commit:2e71048d21b011d9815d53440c49a1e67d5e39c8 · 2025-07-24
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/2e71048d21b011d9815d53440c49a1e67d5e39c8)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:2fa0568c77293ac12328745e9a236ac6f2275bf8 · 2025-06-16
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/2fa0568c77293ac12328745e9a236ac6f2275bf8)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#permissions)
+- commit:34727a3b41c209749e257146890ad8b0123a39ce · 2024-06-17
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/34727a3b41c209749e257146890ad8b0123a39ce)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:3661f3ecfe5df25f97da8460668c204f4bd31bbf · 2024-10-17
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/3661f3ecfe5df25f97da8460668c204f4bd31bbf)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:371c107ff5013d06653755f9e0bfd5e5350a14b8 · 2025-05-27
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/371c107ff5013d06653755f9e0bfd5e5350a14b8)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#registry)
+- commit:372ae09fbde0234e5ac1fdeecc1aef9e847148a8 · 2025-10-15
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/372ae09fbde0234e5ac1fdeecc1aef9e847148a8)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#registry)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#map)
+- commit:3b5bcf3f684525e5b7588899ac169449a29efb43 · 2025-06-16
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/3b5bcf3f684525e5b7588899ac169449a29efb43)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#permissions)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:3db623de43b26b346ed1963a4876dc9fada428a2 · 2024-10-20
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/3db623de43b26b346ed1963a4876dc9fada428a2)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:40afdf7d2cd322c98026e3487131183b54794bff · 2025-06-19
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/40afdf7d2cd322c98026e3487131183b54794bff)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:43df9b8b0f359575659eb49b2d938378a89370aa · 2024-09-02
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/43df9b8b0f359575659eb49b2d938378a89370aa)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#blocks)
+- commit:46fef5ebb50626fd41f42f138905c376036479f4 · 2025-07-11
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/46fef5ebb50626fd41f42f138905c376036479f4)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:4a946865b31d5bed19bcf7e2cd8e29515df811e3 · 2024-10-25
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/4a946865b31d5bed19bcf7e2cd8e29515df811e3)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#server)
+- commit:4b40d1ca929897261e0866a49332f81ab0c40852 · 2024-08-23
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/4b40d1ca929897261e0866a49332f81ab0c40852)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:4d3feb3089fc797c4e2922189ae25839f7d0ae1f · 2025-08-06
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/4d3feb3089fc797c4e2922189ae25839f7d0ae1f)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+- commit:4e931a07bbc8a39df44b00297cc00b15d439a11f · 2024-09-01
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/4e931a07bbc8a39df44b00297cc00b15d439a11f)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:52036d93f4d38df80ed67afa61c3dddc73c5d529 · 2025-05-14
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/52036d93f4d38df80ed67afa61c3dddc73c5d529)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+- commit:5278e4cd7b1eee0975a179187c61f51db9829b4b · 2025-11-08
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/5278e4cd7b1eee0975a179187c61f51db9829b4b)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#registry)
+- commit:55ab343229ee422a1e7b1bae4b3ff17956af1cfb · 2025-06-19
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/55ab343229ee422a1e7b1bae4b3ff17956af1cfb)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+- commit:58ac99e2223f827903566461b5d6713506479e01 · 2024-08-29
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/58ac99e2223f827903566461b5d6713506479e01)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:5999b7de0c51134bb05cd5076a1c9bb9fd789d91 · 2024-07-23
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/5999b7de0c51134bb05cd5076a1c9bb9fd789d91)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:5bf29d476bf4bc44a287a3a0f3f0ca496f23dc9c · 2025-02-12
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/5bf29d476bf4bc44a287a3a0f3f0ca496f23dc9c)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#blocks)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#server)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:620fa0ff28b7eca2d547ae13121f216580d9f3b4 · 2025-03-28
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/620fa0ff28b7eca2d547ae13121f216580d9f3b4)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+- commit:6262362fbead824d2598d57c80b303237179ce32 · 2024-06-18
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/6262362fbead824d2598d57c80b303237179ce32)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+- commit:661a8a05518f71a43c27ebc3a652ff1946a004cc · 2025-01-09
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/661a8a05518f71a43c27ebc3a652ff1946a004cc)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+- commit:6a24262169bdda8fcda291c98584cc37245d4b41 · 2024-09-17
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/6a24262169bdda8fcda291c98584cc37245d4b41)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:6a975cd75f7f68f2b3c602c71e767426566f0fa1 · 2025-03-26
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/6a975cd75f7f68f2b3c602c71e767426566f0fa1)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:6ba7602ccc4d942d070ddb8163993974369557a2 · 2025-07-16
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/6ba7602ccc4d942d070ddb8163993974369557a2)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+- commit:7044558520c8bb18429831433c73ce494e15c9e0 · 2025-05-18
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/7044558520c8bb18429831433c73ce494e15c9e0)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#asyncio)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#permissions)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#server)
+- commit:705752171f2144ec8a14ca1f4d4a26d2176f39af · 2024-07-30
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/705752171f2144ec8a14ca1f4d4a26d2176f39af)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+- commit:715c2f9d33994b809696eeab3358553c30bf128f · 2024-09-02
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/715c2f9d33994b809696eeab3358553c30bf128f)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#blocks)
+- commit:72d5270f8843580e2ac74926baa1bd97ef78c24c · 2024-06-14
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/72d5270f8843580e2ac74926baa1bd97ef78c24c)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#server)
+- commit:7536d91ed72a71950722cf0f9d051ea15ca48bda · 2025-01-12
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/7536d91ed72a71950722cf0f9d051ea15ca48bda)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+- commit:76c9b699d4b48f7679dc11810fcea51b62be18b9 · 2024-07-28
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/76c9b699d4b48f7679dc11810fcea51b62be18b9)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+- commit:7739c4367bf2bfd5b7f11a3548a58cc80d89c374 · 2024-07-10
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/7739c4367bf2bfd5b7f11a3548a58cc80d89c374)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+- commit:7943b0e7bd6ffceb217b45bbbbb6aa5102fde9c5 · 2024-09-04
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/7943b0e7bd6ffceb217b45bbbbb6aa5102fde9c5)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#scoreboard)
+- commit:79e957967dde8e8bdf2055f1c89f3e7fb0e71748 · 2025-02-21
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/79e957967dde8e8bdf2055f1c89f3e7fb0e71748)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#blocks)
+- commit:7a90f07f097e3cc3a86a13105587d6ed6a5653c0 · 2025-08-06
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/7a90f07f097e3cc3a86a13105587d6ed6a5653c0)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:7aa14c0c125c71e556dc5fafbae34e27fc521860 · 2024-07-23
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/7aa14c0c125c71e556dc5fafbae34e27fc521860)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:7b1bb5dac67ffbe204160e1212fa0e78b2b10e57 · 2025-11-14
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/7b1bb5dac67ffbe204160e1212fa0e78b2b10e57)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:7b4ff16730b12b233ee7a5b3c24fb23575cec86c · 2024-07-22
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/7b4ff16730b12b233ee7a5b3c24fb23575cec86c)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#scoreboard)
+- commit:7dceab75961e9286708d4fbee69096ae7f300661 · 2024-10-20
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/7dceab75961e9286708d4fbee69096ae7f300661)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:7eb10fd531b787df81d03da0417acfd892d1574d · 2025-11-08
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/7eb10fd531b787df81d03da0417acfd892d1574d)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#registry)
+- commit:802f7e737ef174de9bd895eb8b0ad502037b37c3 · 2024-09-03
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/802f7e737ef174de9bd895eb8b0ad502037b37c3)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:825c2b61b3c35f5a8166690980589ff75a608266 · 2025-06-22
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/825c2b61b3c35f5a8166690980589ff75a608266)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#registry)
+- commit:85d14c9400652a8ec86f303d8aef3db88f7e5e93 · 2024-10-22
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/85d14c9400652a8ec86f303d8aef3db88f7e5e93)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+- commit:884f80eb73577163308d237f5e54c17a3b3c02f4 · 2025-11-02
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/884f80eb73577163308d237f5e54c17a3b3c02f4)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:88f2178be7ffdea739d56f08128f82c9e5bf237c · 2025-10-26
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/88f2178be7ffdea739d56f08128f82c9e5bf237c)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#asyncio)
+- commit:8df3581e0fd82f0e1cd678062f63a71dbe7219c5 · 2025-03-14
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/8df3581e0fd82f0e1cd678062f63a71dbe7219c5)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:8e9f096cc25551951d29b1add975f22a25930957 · 2025-06-19
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/8e9f096cc25551951d29b1add975f22a25930957)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:8efaea19f4a042789757c76f99e2a02312e2c1b1 · 2025-08-25
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/8efaea19f4a042789757c76f99e2a02312e2c1b1)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:91499fedfd32434ba34aa3585d962e5669636ed7 · 2025-05-08
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/91499fedfd32434ba34aa3585d962e5669636ed7)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+- commit:918b82fd8cd4977c7ebd8a17256702014bd43a60 · 2024-10-29
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/918b82fd8cd4977c7ebd8a17256702014bd43a60)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#scoreboard)
+- commit:96175fb90b7f5be6f3bde9186721353531fed60e · 2024-07-28
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/96175fb90b7f5be6f3bde9186721353531fed60e)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+- commit:97c54f172b4af676e080fa3490f7db96d6758e2c · 2024-07-26
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/97c54f172b4af676e080fa3490f7db96d6758e2c)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#scoreboard)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#server)
+- commit:99befe91ac09e19cd500eaae6c20b4edcbead386 · 2024-06-15
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/99befe91ac09e19cd500eaae6c20b4edcbead386)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#server)
+- commit:9ed0a613d33dca3ce952c4ab70bb428cb946b220 · 2024-07-24
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/9ed0a613d33dca3ce952c4ab70bb428cb946b220)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+- commit:9fb4a9aaa85c4dabcd83be29f757de947ca56fbe · 2025-10-24
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/9fb4a9aaa85c4dabcd83be29f757de947ca56fbe)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#map)
+- commit:a47cc14e531781365dd45c75755149ef21406d5a · 2024-08-23
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/a47cc14e531781365dd45c75755149ef21406d5a)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:a62e0623e9f9ed8b247e296209354bb7c5fb9e20 · 2025-07-18
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/a62e0623e9f9ed8b247e296209354bb7c5fb9e20)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:a73afa3e6dea8c56080edb94013750172e5eca99 · 2025-02-23
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/a73afa3e6dea8c56080edb94013750172e5eca99)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:a9281fe74ef5b466b200ba5e68bafc230628a549 · 2024-06-14
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/a9281fe74ef5b466b200ba5e68bafc230628a549)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+- commit:a9a77494fbad06ea53ed5613943043823b4a73f4 · 2024-09-04
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/a9a77494fbad06ea53ed5613943043823b4a73f4)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:aba4cfecf5a6f257803c1d56747c14571b978d03 · 2024-07-11
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/aba4cfecf5a6f257803c1d56747c14571b978d03)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+- commit:ac45466b495276b68f877cba519997666d33f2b9 · 2025-07-24
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/ac45466b495276b68f877cba519997666d33f2b9)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+- commit:ac54b9dc7deeedc8b2815692b2e979cc719fdda4 · 2024-06-14
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/ac54b9dc7deeedc8b2815692b2e979cc719fdda4)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:ac7e55ad0a2705566e881e8a82727fc54bb2611b · 2025-07-18
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/ac7e55ad0a2705566e881e8a82727fc54bb2611b)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+- commit:ace344f060f68dd4a2e503d53f17fa8873028c08 · 2025-03-10
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/ace344f060f68dd4a2e503d53f17fa8873028c08)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#server)
+- commit:ae552ff8e04b77809d6792154705577c35d40eb4 · 2024-09-09
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/ae552ff8e04b77809d6792154705577c35d40eb4)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#server)
+- commit:aef5b0ec770a02ce2a57ebcaf50fe898a54f696d · 2025-05-30
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/aef5b0ec770a02ce2a57ebcaf50fe898a54f696d)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#server)
+- commit:b0d749424e21ab569535a1952d9dcee6d7bd522e · 2025-03-27
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/b0d749424e21ab569535a1952d9dcee6d7bd522e)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:b1302711a1631b008ae86285d80fe861d4a39105 · 2025-10-15
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/b1302711a1631b008ae86285d80fe861d4a39105)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#map)
+- commit:b1cce60d5c494812b30790569970467ce2e7b7e8 · 2024-06-15
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/b1cce60d5c494812b30790569970467ce2e7b7e8)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#server)
+- commit:b2d5835eb41c849f4163f7cc7b70554628c7625b · 2024-09-09
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/b2d5835eb41c849f4163f7cc7b70554628c7625b)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#server)
+- commit:b4e2f26897606bc62479c5f1fb9f745e22e1807b · 2024-09-05
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/b4e2f26897606bc62479c5f1fb9f745e22e1807b)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#scoreboard)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:b6d1249f44ecaef8343b60f9cf264144a648c522 · 2025-05-28
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/b6d1249f44ecaef8343b60f9cf264144a648c522)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:b8ced0e8d0133e8da9a920f94153dbf630bb1e29 · 2025-05-18
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/b8ced0e8d0133e8da9a920f94153dbf630bb1e29)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#permissions)
+- commit:b91f618968cf4a747a885a98aa1913ae03aef9bc · 2025-03-28
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/b91f618968cf4a747a885a98aa1913ae03aef9bc)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#blocks)
+- commit:bd698d69e544dee58d5c1c743083055203790434 · 2024-10-22
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/bd698d69e544dee58d5c1c743083055203790434)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+- commit:bfabc7a6471b54f3a5b6cb3a94c1c0b99723ac8e · 2024-09-03
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/bfabc7a6471b54f3a5b6cb3a94c1c0b99723ac8e)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:c4d92ee3614ebb35ff5c1857409018a890571f31 · 2025-05-08
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/c4d92ee3614ebb35ff5c1857409018a890571f31)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+- commit:c5c0d91ee96554649e8f55783bdf2777134b17a4 · 2025-08-06
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/c5c0d91ee96554649e8f55783bdf2777134b17a4)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+- commit:c71be05a9ebe393dba557d84c19e44f28696b1ae · 2024-09-01
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/c71be05a9ebe393dba557d84c19e44f28696b1ae)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#scoreboard)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+- commit:c77e489f40d058b7d4afd206d1eeeeec634979ef · 2025-05-11
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/c77e489f40d058b7d4afd206d1eeeeec634979ef)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+- commit:c8f16c67247ae413d03fe6334b77f8d0aa7c23df · 2025-03-17
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/c8f16c67247ae413d03fe6334b77f8d0aa7c23df)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+- commit:ca454a496a784287d6be24dcd3932df895a84114 · 2025-10-15
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/ca454a496a784287d6be24dcd3932df895a84114)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#registry)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+- commit:cbcb157a8b710a9475d8c1f5dfc2b69d31419374 · 2024-06-17
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/cbcb157a8b710a9475d8c1f5dfc2b69d31419374)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:ce1bb0d665c98d79f1c5ba4e9f701f22255a973c · 2024-07-24
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/ce1bb0d665c98d79f1c5ba4e9f701f22255a973c)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:ce33c22754cc4d5c419348b10031c73a365cdf41 · 2024-09-06
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/ce33c22754cc4d5c419348b10031c73a365cdf41)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:cf9227ee52bda2994e82496553769158b27ac181 · 2024-07-12
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/cf9227ee52bda2994e82496553769158b27ac181)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+- commit:cf969fd5fd5bebe89117157427b6960e6e4f04e0 · 2024-08-07
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/cf969fd5fd5bebe89117157427b6960e6e4f04e0)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+- commit:d10920fea8bb810a19db9236d33972cb102da28c · 2025-03-01
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/d10920fea8bb810a19db9236d33972cb102da28c)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+- commit:d23b342c2564e492a2d8627b890d151f6335dd2a · 2025-08-06
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/d23b342c2564e492a2d8627b890d151f6335dd2a)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:d3dee8148c6f86fbd17ea41ea0cebefe8f30d698 · 2024-08-02
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/d3dee8148c6f86fbd17ea41ea0cebefe8f30d698)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:d9e05d60f5c4ef88d2a9eae0e9842fa1ba699bb1 · 2025-10-15
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/d9e05d60f5c4ef88d2a9eae0e9842fa1ba699bb1)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#map)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+- commit:dbd6c53cfd58d029cffd2ed4f0277600a593a6a0 · 2025-10-12
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/dbd6c53cfd58d029cffd2ed4f0277600a593a6a0)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+- commit:dfc9be7b0842939ced2d3413c26061e460ad982f · 2024-09-09
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/dfc9be7b0842939ced2d3413c26061e460ad982f)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#blocks)
+- commit:e02a2a0d162e12483c42240f856ef89f7e65fe0a · 2025-11-01
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/e02a2a0d162e12483c42240f856ef89f7e65fe0a)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:e3cc9150c64366a1126444650ef72b0d42459fec · 2025-11-25
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/e3cc9150c64366a1126444650ef72b0d42459fec)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#scoreboard)
+- commit:e54ef77904f090ee2063c608851a0ccad95e61f4 · 2025-04-12
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/e54ef77904f090ee2063c608851a0ccad95e61f4)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+- commit:e92b5eb320480ff0b010a3704cc3f850f0f5ff4b · 2024-07-28
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/e92b5eb320480ff0b010a3704cc3f850f0f5ff4b)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#server)
+- commit:e9d40c2a8b51bf461a587356ed42c889d9dc28ad · 2024-10-28
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/e9d40c2a8b51bf461a587356ed42c889d9dc28ad)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+- commit:ea1e8a533efe266683affdf66ded0042c698918d · 2025-10-15
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/ea1e8a533efe266683affdf66ded0042c698918d)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#map)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+- commit:ead0a246c74b7893444bbbe27c0ede2c5fa86623 · 2024-07-12
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/ead0a246c74b7893444bbbe27c0ede2c5fa86623)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+- commit:ec261217dbce13ea7a53e5d6468e611ef510a687 · 2024-10-05
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/ec261217dbce13ea7a53e5d6468e611ef510a687)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#scoreboard)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#server)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#blocks)
+- commit:ec78e64ece863a4d3f24fe0103d11f0519f103b5 · 2024-07-25
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/ec78e64ece863a4d3f24fe0103d11f0519f103b5)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+- commit:edd3b4d81f6c3c981fac2e4928849618e45cce91 · 2025-04-06
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/edd3b4d81f6c3c981fac2e4928849618e45cce91)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:f33ba6b28f5b732ab87a496bf8bd5b3f1f35e430 · 2025-06-19
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/f33ba6b28f5b732ab87a496bf8bd5b3f1f35e430)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:f437de4447518f53d87a4af64185c532ddf23316 · 2025-06-19
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/f437de4447518f53d87a4af64185c532ddf23316)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:f5f3b99171ea62884732629c7022a60fa8bbfc3e · 2024-10-11
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/f5f3b99171ea62884732629c7022a60fa8bbfc3e)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+- commit:f6fb36e03fac7defc737ac44b4437c68f7bb8db3 · 2025-03-17
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/f6fb36e03fac7defc737ac44b4437c68f7bb8db3)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:f730d7e7f20cc211e407dbd6f6afe29e3147cecd · 2025-05-09
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/f730d7e7f20cc211e407dbd6f6afe29e3147cecd)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#registry)
+- commit:f865e6383360c66eeb06d84103279cf1c67c5888 · 2025-10-25
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/f865e6383360c66eeb06d84103279cf1c67c5888)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#map)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:fd0cbd1a1f01dfb1167d7c642518d7df720e1faf · 2025-03-13
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/fd0cbd1a1f01dfb1167d7c642518d7df720e1faf)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#commands)
+- commit:fd5ca20eb1edd035761f2e82db3d17db8dfb3320 · 2025-07-16
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/fd5ca20eb1edd035761f2e82db3d17db8dfb3320)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+- commit:fde3496c2419f07103026e72aa904b82b7b3b3e5 · 2025-05-25
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/fde3496c2419f07103026e72aa904b82b7b3b3e5)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#events)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#player)
+- commit:ff74787f3b15170f7514cdc2f08b9d4cc38ec666 · 2025-11-11
+  - [Public source](https://github.com/EndstoneMC/endstone-test/commit/ff74787f3b15170f7514cdc2f08b9d4cc38ec666)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#harness)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#inventory)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-test-all/dossiers.md#registry)

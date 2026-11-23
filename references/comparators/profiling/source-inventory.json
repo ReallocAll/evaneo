@@ -1,0 +1,373 @@
+{
+  "schema_version": 1,
+  "scope": "Four bounded external comparators. Pinned code and dated official documentation; no claim of latest versions or exhaustive project review.",
+  "tag_resolutions": [
+    {
+      "repository": "torvalds/linux",
+      "tag": "v6.17",
+      "tag_object_sha": "6063257da111c7639d020c5f15bfb37fb839d8b6",
+      "commit_sha": "e5f0a698b34ed76002dc5cff3804a61c80233a7a",
+      "verification_urls": [
+        "https://api.github.com/repos/torvalds/linux/git/ref/tags/v6.17",
+        "https://api.github.com/repos/torvalds/linux/git/tags/6063257da111c7639d020c5f15bfb37fb839d8b6"
+      ]
+    },
+    {
+      "repository": "wolfpld/tracy",
+      "tag": "v0.11.1",
+      "commit_sha": "5d542dc09f3d9378d005092a4ad446bd405f819a",
+      "verification_urls": [
+        "https://api.github.com/repos/wolfpld/tracy/git/ref/tags/v0.11.1"
+      ]
+    },
+    {
+      "repository": "sqlite/sqlite",
+      "tag": "version-3.46.1",
+      "commit_sha": "f3d536d37825302e31ed0eddd811c689f38f85a3",
+      "verification_urls": [
+        "https://api.github.com/repos/sqlite/sqlite/git/ref/tags/version-3.46.1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "repo": "torvalds/linux",
+      "ref": "e5f0a698b34ed76002dc5cff3804a61c80233a7a",
+      "path": "Documentation/userspace-api/perf_ring_buffer.rst",
+      "raw_url": "https://raw.githubusercontent.com/torvalds/linux/e5f0a698b34ed76002dc5cff3804a61c80233a7a/Documentation/userspace-api/perf_ring_buffer.rst",
+      "url": "https://github.com/torvalds/linux/blob/e5f0a698b34ed76002dc5cff3804a61c80233a7a/Documentation/userspace-api/perf_ring_buffer.rst",
+      "id": "P01",
+      "case_ids": [
+        "PT01"
+      ],
+      "role": "primary documentation",
+      "version": "Linux v6.17",
+      "evidence_needles": [
+        "PERF_RECORD_LOST",
+        "Memory synchronization"
+      ],
+      "inspected_spans": [
+        {
+          "first_line": 438,
+          "last_line": 491,
+          "supports": "Distinct overwrite/non-overwrite loss semantics"
+        },
+        {
+          "first_line": 523,
+          "last_line": 585,
+          "supports": "Consumer publication and memory-order contract"
+        }
+      ]
+    },
+    {
+      "repo": "torvalds/linux",
+      "ref": "e5f0a698b34ed76002dc5cff3804a61c80233a7a",
+      "path": "kernel/events/core.c",
+      "raw_url": "https://raw.githubusercontent.com/torvalds/linux/e5f0a698b34ed76002dc5cff3804a61c80233a7a/kernel/events/core.c",
+      "url": "https://github.com/torvalds/linux/blob/e5f0a698b34ed76002dc5cff3804a61c80233a7a/kernel/events/core.c",
+      "id": "P03",
+      "case_ids": [
+        "PT01"
+      ],
+      "role": "primary source",
+      "version": "Linux v6.17",
+      "evidence_needles": [
+        "perf_sample_event_took",
+        "perf_event_max_sample_rate"
+      ],
+      "inspected_spans": [
+        {
+          "first_line": 600,
+          "last_line": 664,
+          "supports": "Observer-duration feedback and sample-rate ceiling"
+        }
+      ]
+    },
+    {
+      "repo": "torvalds/linux",
+      "ref": "e5f0a698b34ed76002dc5cff3804a61c80233a7a",
+      "path": "kernel/events/ring_buffer.c",
+      "raw_url": "https://raw.githubusercontent.com/torvalds/linux/e5f0a698b34ed76002dc5cff3804a61c80233a7a/kernel/events/ring_buffer.c",
+      "url": "https://github.com/torvalds/linux/blob/e5f0a698b34ed76002dc5cff3804a61c80233a7a/kernel/events/ring_buffer.c",
+      "id": "P02",
+      "case_ids": [
+        "PT01"
+      ],
+      "role": "primary source",
+      "version": "Linux v6.17",
+      "evidence_needles": [
+        "PERF_RECORD_LOST",
+        "local_inc(&rb->lost)"
+      ],
+      "inspected_spans": [
+        {
+          "first_line": 152,
+          "last_line": 270,
+          "supports": "Space admission, deferred loss record, failed admission count"
+        }
+      ]
+    },
+    {
+      "repo": "torvalds/linux",
+      "ref": "e5f0a698b34ed76002dc5cff3804a61c80233a7a",
+      "path": "Documentation/core-api/list.rst",
+      "raw_url": "https://raw.githubusercontent.com/torvalds/linux/e5f0a698b34ed76002dc5cff3804a61c80233a7a/Documentation/core-api/list.rst",
+      "url": "https://github.com/torvalds/linux/blob/e5f0a698b34ed76002dc5cff3804a61c80233a7a/Documentation/core-api/list.rst",
+      "id": "L01",
+      "case_ids": [
+        "PT03"
+      ],
+      "role": "primary documentation",
+      "version": "Linux v6.17",
+      "evidence_needles": [
+        "Nicolas Frattaroli",
+        "poor data locality"
+      ],
+      "inspected_spans": [
+        {
+          "first_line": 14,
+          "last_line": 70,
+          "supports": "Intrusive circular-list rationale and locality counterexample"
+        }
+      ]
+    },
+    {
+      "repo": "torvalds/linux",
+      "ref": "e5f0a698b34ed76002dc5cff3804a61c80233a7a",
+      "path": "include/linux/list.h",
+      "raw_url": "https://raw.githubusercontent.com/torvalds/linux/e5f0a698b34ed76002dc5cff3804a61c80233a7a/include/linux/list.h",
+      "url": "https://github.com/torvalds/linux/blob/e5f0a698b34ed76002dc5cff3804a61c80233a7a/include/linux/list.h",
+      "id": "L02",
+      "case_ids": [
+        "PT03"
+      ],
+      "role": "primary source",
+      "version": "Linux v6.17",
+      "evidence_needles": [
+        "INIT_LIST_HEAD",
+        "LIST_POISON1",
+        "list_del_init"
+      ],
+      "inspected_spans": [
+        {
+          "first_line": 23,
+          "last_line": 232,
+          "supports": "Head initialization, adjacency checks, uniform link operations, poisoning"
+        },
+        {
+          "first_line": 282,
+          "last_line": 289,
+          "supports": "Deletion with reinitialization"
+        }
+      ]
+    },
+    {
+      "repo": "wolfpld/tracy",
+      "ref": "5d542dc09f3d9378d005092a4ad446bd405f819a",
+      "path": "manual/tracy.tex",
+      "raw_url": "https://raw.githubusercontent.com/wolfpld/tracy/5d542dc09f3d9378d005092a4ad446bd405f819a/manual/tracy.tex",
+      "url": "https://github.com/wolfpld/tracy/blob/5d542dc09f3d9378d005092a4ad446bd405f819a/manual/tracy.tex",
+      "id": "T01",
+      "case_ids": [
+        "PT02"
+      ],
+      "role": "primary documentation",
+      "version": "Tracy v0.11.1",
+      "evidence_needles": [
+        "TRACY\\_NO\\_EXIT",
+        "TRACY\\_MANUAL\\_LIFETIME"
+      ],
+      "inspected_spans": [
+        {
+          "first_line": 519,
+          "last_line": 573,
+          "supports": "Short-lived capture, on-demand recording and explicit lifetime"
+        },
+        {
+          "first_line": 1005,
+          "last_line": 1023,
+          "supports": "Retained string data and module unload"
+        },
+        {
+          "first_line": 1394,
+          "last_line": 1398,
+          "supports": "Exit inside active zone warning"
+        }
+      ]
+    },
+    {
+      "repo": "wolfpld/tracy",
+      "ref": "5d542dc09f3d9378d005092a4ad446bd405f819a",
+      "path": "public/client/TracyProfiler.cpp",
+      "raw_url": "https://raw.githubusercontent.com/wolfpld/tracy/5d542dc09f3d9378d005092a4ad446bd405f819a/public/client/TracyProfiler.cpp",
+      "url": "https://github.com/wolfpld/tracy/blob/5d542dc09f3d9378d005092a4ad446bd405f819a/public/client/TracyProfiler.cpp",
+      "id": "T02",
+      "case_ids": [
+        "PT02"
+      ],
+      "role": "primary source",
+      "version": "Tracy v0.11.1",
+      "evidence_needles": [
+        "ShutdownProfiler",
+        "m_shutdownFinished",
+        "DequeueStatus::QueueEmpty"
+      ],
+      "inspected_spans": [
+        {
+          "first_line": 1192,
+          "last_line": 1223,
+          "supports": "Explicit startup and destruction"
+        },
+        {
+          "first_line": 1790,
+          "last_line": 1812,
+          "supports": "No-exit connection-wait branch"
+        },
+        {
+          "first_line": 2047,
+          "last_line": 2133,
+          "supports": "Termination drain and query phase"
+        }
+      ]
+    },
+    {
+      "repo": "wolfpld/tracy",
+      "ref": "5d542dc09f3d9378d005092a4ad446bd405f819a",
+      "path": "public/client/TracySysTrace.cpp",
+      "raw_url": "https://raw.githubusercontent.com/wolfpld/tracy/5d542dc09f3d9378d005092a4ad446bd405f819a/public/client/TracySysTrace.cpp",
+      "url": "https://github.com/wolfpld/tracy/blob/5d542dc09f3d9378d005092a4ad446bd405f819a/public/client/TracySysTrace.cpp",
+      "id": "T03",
+      "case_ids": [],
+      "role": "corroborating source, not used as a case premise",
+      "version": "Tracy v0.11.1",
+      "evidence_needles": [
+        "TRACY_SAMPLING_HZ",
+        "pe.sample_freq"
+      ],
+      "inspected_spans": [
+        {
+          "first_line": 1,
+          "last_line": 35,
+          "supports": "Sampling frequency configuration"
+        },
+        {
+          "first_line": 824,
+          "last_line": 880,
+          "supports": "Linux sampling setup"
+        }
+      ]
+    },
+    {
+      "repo": "sqlite/sqlite",
+      "ref": "f3d536d37825302e31ed0eddd811c689f38f85a3",
+      "path": "test/malloc_common.tcl",
+      "raw_url": "https://raw.githubusercontent.com/sqlite/sqlite/f3d536d37825302e31ed0eddd811c689f38f85a3/test/malloc_common.tcl",
+      "url": "https://github.com/sqlite/sqlite/blob/f3d536d37825302e31ed0eddd811c689f38f85a3/test/malloc_common.tcl",
+      "id": "S03",
+      "case_ids": [
+        "PT04"
+      ],
+      "role": "primary source",
+      "version": "SQLite 3.46.1",
+      "evidence_needles": [
+        "oom-persistent",
+        "faultsim_test_proc",
+        "if {$nfail==0}"
+      ],
+      "inspected_spans": [
+        {
+          "first_line": 26,
+          "last_line": 50,
+          "supports": "Transient and persistent failure modes"
+        },
+        {
+          "first_line": 326,
+          "last_line": 391,
+          "supports": "Per-position fault loop, independent post-fault oracle, termination"
+        }
+      ]
+    },
+    {
+      "repo": "sqlite/sqlite",
+      "ref": "f3d536d37825302e31ed0eddd811c689f38f85a3",
+      "path": "src/test_malloc.c",
+      "raw_url": "https://raw.githubusercontent.com/sqlite/sqlite/f3d536d37825302e31ed0eddd811c689f38f85a3/src/test_malloc.c",
+      "url": "https://github.com/sqlite/sqlite/blob/f3d536d37825302e31ed0eddd811c689f38f85a3/src/test_malloc.c",
+      "id": "S04",
+      "case_ids": [
+        "PT04"
+      ],
+      "role": "primary source",
+      "version": "SQLite 3.46.1",
+      "evidence_needles": [
+        "faultsimStep",
+        "memfault.nRepeat--"
+      ],
+      "inspected_spans": [
+        {
+          "first_line": 29,
+          "last_line": 128,
+          "supports": "Allocator fault countdown, repeat count and actual wrapper"
+        }
+      ]
+    },
+    {
+      "repo": null,
+      "ref": null,
+      "path": null,
+      "raw_url": "https://sqlite.org/testing.html",
+      "url": "https://sqlite.org/testing.html",
+      "pinning": "Unversioned official documentation; this digest identifies the acquired snapshot only, not a SQLite release.",
+      "id": "S01",
+      "case_ids": [
+        "PT04"
+      ],
+      "role": "primary project practice account",
+      "version": "Unversioned page snapshot retrieved 2026-10-20",
+      "evidence_needles": [
+        "id=\"mutation_testing\"",
+        "cost effective"
+      ],
+      "inspected_spans": [
+        {
+          "first_line": 895,
+          "last_line": 1010,
+          "supports": "Delivery build rerun, mutation testing, performance-only mutations, MC/DC cost"
+        }
+      ]
+    },
+    {
+      "repo": null,
+      "ref": null,
+      "path": null,
+      "raw_url": "https://sqlite.org/th3.html",
+      "url": "https://sqlite.org/th3.html",
+      "pinning": "Unversioned official documentation; this digest identifies the acquired snapshot only, not a SQLite release.",
+      "id": "S02",
+      "case_ids": [
+        "PT04"
+      ],
+      "role": "primary project practice account",
+      "version": "Unversioned page snapshot retrieved 2026-10-20",
+      "evidence_needles": [
+        "id=\"mutation_testing\"",
+        "mutation-test.tcl"
+      ],
+      "inspected_spans": [
+        {
+          "first_line": 498,
+          "last_line": 554,
+          "supports": "Mutation driver and licensing boundary"
+        }
+      ]
+    }
+  ],
+  "excluded_claims": [
+    "No measured profiler overhead or loss rate",
+    "No upstream test execution or TH3 inspection",
+    "No attribution of external designs to unrelated individuals",
+    "No runtime reproduction of the existing Spark static review",
+    "No assertion that a queue change solves event-time ordering",
+    "No instruction to disable kernel sampling protections"
+  ]
+}

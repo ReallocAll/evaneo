@@ -1,0 +1,28 @@
+<!-- retrieval: {"source_ids":["public:commit:40762c1d7e31c2fddba4615ddcbb56a288c0b8e6","public:commit:4f1d103c640a1e85b0afd99ed43cb7f860ff7b83","public:commit:517d1664a8b7d039ec42efb0b0bf702395607c6a","public:commit:93082ea9a15fd37f7d558b884b5f3eb7f8b07e38","public:commit:b8b7fdf21e2d06c497bf1eef17502c84465e7b91","public:commit:e2240e5febf1d1bdcec992b4a76ab310e3fe89e8","public:commit:e33153704294452045cfccf1e23642d3adac3bd8","public:commit:e5484379ebc28db341296d9359f7bfb19cb81e6e","public:commit:eff618c0d2ebfe2e1d2c2c3c9ce1acfc83080e96"],"source_type":"public","date":"2025-01-03..2026-03-23","topics":["ffi","testing","build","recovery","diagnosis","documentation","review","selection"],"limitations":"Static source analysis. Reported tests and outcomes are not independently executed; read the case-specific limits and dated revisions."} -->
+<a id="native-crash-handler-distribution-abi-boundary-version-provenance-and-bounded-release-recovery"></a>
+# Native crash-handler distribution: ABI boundary, version provenance and bounded release recovery {#native-crash-handler-distribution-abi-boundary-version-provenance-and-bounded-release-recovery}
+
+## What this repository does {#what-this-repository-does}
+This package builds and distributes upstream Sentry-native/Google Crashpad executables in Python wheels. It is not a crash-capture algorithm implementation. CMake derives upstream version from the first three packaging-version components, downloads that sentry-native release, builds handler and Windows WER library, optionally strips the executable, and installs package data. A Python console entry point forwards command arguments and returns the executable's exit code. A fourth version component represents packaging-only revisions. The early missing version-input filename is repaired to restore this identity chain.
+
+The wrapper wheel is platform-specific but declares Python ABI independence (py2.py3), so CI builds through a single cp311 selector instead of rebuilding the same executable for each Python. That declaration is not independently tested compatibility. Upstream download is version-addressed but no URL_HASH is declared. Linux repair excludes libcurl from bundling; Crashpad uses bundled rather than system zlib. These are real dependency-boundary choices and need runtime-library inspection before a portability claim. The LICENSE becomes Apache-2.0 but the project classifier still says MIT in the final snapshot.
+
+## Release and recovery chain {#release-and-recovery-chain}
+Wheel and source-distribution jobs upload separately named artifacts, a dependent publish job merges them, then selects PyPI/TestPyPI and creates a tagged GitHub release. Manual input can override source/package versions. This is release configuration, not proof any particular artifact was built or published. The merged Dependabot PR updates the publisher action with no merge-only diff. Four later bot-authored changes update cibuildwheel, QEMU and upload/download artifact actions; their separate full messages and patches are preserved so target credit is not broadened.
+
+After the source selector advances to sentry-native 0.12.6 and action updates land, the target explicitly removes failing musllinux, macOS and aarch64 jobs, preserving reported passing manylinux x86_64 and Windows variants. Message names deprecated macOS x86 runner, arm64 failure and QEMU/aarch64 issues, with re-enabling conditional on upstream build problems being resolved. It does not provide build logs, so retain author-reported status. The next reviewed commit refreshes Windows runners. The README's former all-platform list is not updated by the narrowing patch and must not be used as the final supported matrix.
+
+## How to apply and limits {#how-to-apply-and-limits}
+For native helper packages, separate upstream source version, packaging revision, Python ABI tag, target platform and actual runtime dependencies. On release failure, identify which artifact/platform gate fails, preserve supported outputs deliberately, and document reduced coverage. Neither a dependency bump nor matrix exclusion proves upstream correctness. No native binary, crash dump, stack-symbol file or upload flow was executed/inspected; the review cannot establish crash reliability, privacy, symbolication quality or Windows behavior. No binary files change in the target diffs, and no upstream source semantics were invented for the one-line version bump.
+
+## Complete per-SHA navigation {#complete-per-sha-navigation}
+
+- [01 b8b7fdf21e2d — Initial commit](dossiers/01-b8b7fdf21e2d06c497bf1eef17502c84465e7b91.md)
+- [02 4f1d103c640a — feat: add project files](dossiers/02-4f1d103c640a1e85b0afd99ed43cb7f860ff7b83.md)
+- [03 40762c1d7e31 — fix: correct version input file in pyproject.toml](dossiers/03-40762c1d7e31c2fddba4615ddcbb56a288c0b8e6.md)
+- [04 517d1664a8b7 — chore: tweak build options](dossiers/04-517d1664a8b7d039ec42efb0b0bf702395607c6a.md)
+- [05 e33153704294 — Merge pull request #1 from EndstoneMC/dependabot/github_actions/dot-github/workflows/pypa/gh-action-pypi-publish-1.13.0](dossiers/05-e33153704294452045cfccf1e23642d3adac3bd8.md)
+- [06 e2240e5febf1 — Bump sentry-native from 0.7.17 to 0.12.6](dossiers/06-e2240e5febf1d1bdcec992b4a76ab310e3fe89e8.md)
+- [07 93082ea9a15f — Overhaul repo: README, update actions, trim .gitignore, add dependabot](dossiers/07-93082ea9a15fd37f7d558b884b5f3eb7f8b07e38.md)
+- [08 e5484379ebc2 — Disable failing builds: musllinux, macOS, aarch64](dossiers/08-e5484379ebc28db341296d9359f7bfb19cb81e6e.md)
+- [09 eff618c0d2eb — Update Windows runner from windows-2019 to windows-2022](dossiers/09-eff618c0d2ebfe2e1d2c2c3c9ce1acfc83080e96.md)

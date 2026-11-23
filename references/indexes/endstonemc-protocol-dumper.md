@@ -1,0 +1,478 @@
+<!-- retrieval: {"source_type":"navigation","topics":["source-navigation"],"limitations":"Navigation aid only. Linked entries point to public sources and related analysis; the links do not certify implementation or runtime behavior."} -->
+# Source index: EndstoneMC/protocol-dumper {#source-index}
+
+## Sources {#sources}
+
+The links below group publicly traceable source material with related analysis.
+
+- commit:00cb24ca873da1e81bf7d8071a93409ed283dc0c · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/00cb24ca873da1e81bf7d8071a93409ed283dc0c)
+  - [Detailed analysis: 073-00cb24ca873d](../sources/commit-review/protocol-dumper-all/dossiers/073-00cb24ca873d.md#073-trim-the-latest-resolution-block)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:021dc0635cf75723297a0dfc1a3870e017156ac5 · 2026-04-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/021dc0635cf75723297a0dfc1a3870e017156ac5)
+  - [Detailed analysis: 008-021dc0635cf7](../sources/commit-review/protocol-dumper-all/dossiers/008-021dc0635cf7.md#008-output-to-data-proto-relative-to-dll-location)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:074925d133f43bcdf3ab0a64462d6821f0536066 · 2026-10-13
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/074925d133f43bcdf3ab0a64462d6821f0536066)
+  - [Detailed analysis: 117-074925d133f4](../sources/commit-review/protocol-dumper-all/dossiers/117-074925d133f4.md#117-pin-entt-past-the-metaobject-rework-for-1-26-70)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:089d7f064e953d5ec915c748569aae22973c707a · 2026-04-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/089d7f064e953d5ec915c748569aae22973c707a)
+  - [Detailed analysis: 010-089d7f064e95](../sources/commit-review/protocol-dumper-all/dossiers/010-089d7f064e95.md#010-replace-hardcoded-rvas-with-funchook-libhat-sigscan)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:09ef24daf3feb7d57348515c4bd07e74352becf7 · 2026-04-15
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/09ef24daf3feb7d57348515c4bd07e74352becf7)
+  - [Detailed analysis: 028-09ef24daf3fe](../sources/commit-review/protocol-dumper-all/dossiers/028-09ef24daf3fe.md#028-flatten-variant-alternatives-to-a-plain-string-array-under-of)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:0d27b5235297b0f8c6acc5c91ef1f60cdb3dfd16 · 2026-04-15
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/0d27b5235297b0f8c6acc5c91ef1f60cdb3dfd16)
+  - [Detailed analysis: 027-0d27b5235297](../sources/commit-review/protocol-dumper-all/dossiers/027-0d27b5235297.md#027-emit-tagged-variant-fields-with-tag-and-alternatives)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:11a6c467d63a2c513266967f2b00f7c58ae0958b · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/11a6c467d63a2c513266967f2b00f7c58ae0958b)
+  - [Detailed analysis: 089-11a6c467d63a](../sources/commit-review/protocol-dumper-all/dossiers/089-11a6c467d63a.md#089-derive-enum-wire-signedness-from-the-underlying-type-not-metatraits)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:11bd1f2fe0659e9bcb14891b3f5eaee333af5460 · 2026-08-16
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/11bd1f2fe0659e9bcb14891b3f5eaee333af5460)
+  - [Detailed analysis: 105-11bd1f2fe065](../sources/commit-review/protocol-dumper-all/dossiers/105-11bd1f2fe065.md#105-cut-a-bindpackets-pattern-for-1-21-132-which-no-1-21-130-sig-finds)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:143c54a6adb26ae64ac151f5730c0744d107f61b · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/143c54a6adb26ae64ac151f5730c0744d107f61b)
+  - [Detailed analysis: 080-143c54a6adb2](../sources/commit-review/protocol-dumper-all/dossiers/080-143c54a6adb2.md#080-note-the-sigscan-anchor-for-re-deriving-the-bindpackets-pattern)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:15d130c0e2e25dd1df075a33604905e7f24c1ee0 · 2026-04-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/15d130c0e2e25dd1df075a33604905e7f24c1ee0)
+  - [Detailed analysis: 003-15d130c0e2e2](../sources/commit-review/protocol-dumper-all/dossiers/003-15d130c0e2e2.md#003-use-spdlog-for-logging-and-argparse-for-injector-cli)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:17007e370e6c10da5731c5f18d85adac7003e198 · 2026-04-15
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/17007e370e6c10da5731c5f18d85adac7003e198)
+  - [Detailed analysis: 022-17007e370e6c](../sources/commit-review/protocol-dumper-all/dossiers/022-17007e370e6c.md#022-build-with-clang-cl-lld-link-for-bds-preview-abi-parity)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:1819ed4ba79be102cd3adafbf2508db72df49833 · 2026-04-21
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/1819ed4ba79be102cd3adafbf2508db72df49833)
+  - [Detailed analysis: 041-1819ed4ba79b](../sources/commit-review/protocol-dumper-all/dossiers/041-1819ed4ba79b.md#041-consolidate-utility-functions-into-visitor)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:18980fd0f64f6860917f5faa9dfd4cd7d8f5a197 · 2026-04-21
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/18980fd0f64f6860917f5faa9dfd4cd7d8f5a197)
+  - [Detailed analysis: 042-18980fd0f64f](../sources/commit-review/protocol-dumper-all/dossiers/042-18980fd0f64f.md#042-flatten-field-struct-introduce-fieldtype-variants-for-simplified-modeling-refactor-json-serialization-and-align-error-logging-)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:1dfee078303df4b96fb89c99873db3843eb11de7 · 2026-08-14
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/1dfee078303df4b96fb89c99873db3843eb11de7)
+  - [Detailed analysis: 100-1dfee078303d](../sources/commit-review/protocol-dumper-all/dossiers/100-1dfee078303d.md#100-drop-the-1-26-0-24-pattern-only-latest-preview-builds-are-targets)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:2219d21956e5648e6ea430e7e7177bf725a0f004 · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/2219d21956e5648e6ea430e7e7177bf725a0f004)
+  - [Detailed analysis: 114-2219d21956e5](../sources/commit-review/protocol-dumper-all/dossiers/114-2219d21956e5.md#114-publish-the-enum-names-cereal-serializes-not-the-ones-it-declares)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:2320d41345d05ff83d4260479c27d324f1d5659e · 2026-04-15
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/2320d41345d05ff83d4260479c27d324f1d5659e)
+  - [Detailed analysis: 026-2320d41345d0](../sources/commit-review/protocol-dumper-all/dossiers/026-2320d41345d0.md#026-mirror-memberdescriptor-and-sibling-cereal-descriptor-types)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:261d868dfaa4aeb02204db32c29746282eb29dd4 · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/261d868dfaa4aeb02204db32c29746282eb29dd4)
+  - [Detailed analysis: 111-261d868dfaa4](../sources/commit-review/protocol-dumper-all/dossiers/111-261d868dfaa4.md#111-emit-cereal-s-const-selectors-as-the-constants-they-are)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:27e8fe80ca8491dc4dd3e6eedd45715e5379197a · 2026-04-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/27e8fe80ca8491dc4dd3e6eedd45715e5379197a)
+  - [Detailed analysis: 007-27e8fe80ca84](../sources/commit-review/protocol-dumper-all/dossiers/007-27e8fe80ca84.md#007-add-readme-with-architecture-docs-and-cereal-internals)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:2826f72605bb8fb17a7aaa87c87d5a025e7a1b35 · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/2826f72605bb8fb17a7aaa87c87d5a025e7a1b35)
+  - [Detailed analysis: 063-2826f72605bb](../sources/commit-review/protocol-dumper-all/dossiers/063-2826f72605bb.md#063-add-funchook-dependency-via-fetchcontent)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:282e520745d250e6351617c76350f4fb5c9fc549 · 2026-09-15
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/282e520745d250e6351617c76350f4fb5c9fc549)
+  - [Detailed analysis: 115-282e520745d2](../sources/commit-review/protocol-dumper-all/dossiers/115-282e520745d2.md#115-sort-a-stable-build-above-the-previews-whose-changes-it-ships)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:29681ff57953e632f44012b210e1349df76e88a5 · 2026-04-19
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/29681ff57953e632f44012b210e1349df76e88a5)
+  - [Detailed analysis: 039-29681ff57953](../sources/commit-review/protocol-dumper-all/dossiers/039-29681ff57953.md#039-encapsulate-dump-pipeline-inside-visitor-emit-protocol-aggregate)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:2b59e7b17318f04b13c16222577f1d86a3892cbe · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/2b59e7b17318f04b13c16222577f1d86a3892cbe)
+  - [Detailed analysis: 091-2b59e7b17318](../sources/commit-review/protocol-dumper-all/dossiers/091-2b59e7b17318.md#091-spell-version-gates-with-bedrockserverversionencode)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:2e29dadb56ebb68957ac76bad16cd01658ff47b4 · 2026-04-15
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/2e29dadb56ebb68957ac76bad16cd01658ff47b4)
+  - [Detailed analysis: 030-2e29dadb56eb](../sources/commit-review/protocol-dumper-all/dossiers/030-2e29dadb56eb.md#030-use-varint-uvarint-naming-for-compressed-integer-wire-types)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:2f6ceaf4ef3f237210e4b8c0f7130aa80ff33697 · 2026-05-02
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/2f6ceaf4ef3f237210e4b8c0f7130aa80ff33697)
+  - [Detailed analysis: 060-2f6ceaf4ef3f](../sources/commit-review/protocol-dumper-all/dossiers/060-2f6ceaf4ef3f.md#060-drop-unused-minecraftpackets-createpacket-and-remove-empty-source-files)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:30d750f852cdfa0e5a84cfbff4e802a187f79ea4 · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/30d750f852cdfa0e5a84cfbff4e802a187f79ea4)
+  - [Detailed analysis: 075-30d750f852cd](../sources/commit-review/protocol-dumper-all/dossiers/075-30d750f852cd.md#075-remove-build-yml-ci-workflow)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:322a3803327eeeb8e54649c6c6db27d7168a0516 · 2026-08-05
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/322a3803327eeeb8e54649c6c6db27d7168a0516)
+  - [Detailed analysis: 097-322a3803327e](../sources/commit-review/protocol-dumper-all/dossiers/097-322a3803327e.md#097-pin-the-1-26-50-entt-to-the-v4-0-0-tag)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:32389ce96afba93c85c28ad815c3b82c021256c8 · 2026-04-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/32389ce96afba93c85c28ad815c3b82c021256c8)
+  - [Detailed analysis: 016-32389ce96afb](../sources/commit-review/protocol-dumper-all/dossiers/016-32389ce96afb.md#016-flesh-out-bds-type-layouts-and-wire-reflectionctx-via-servicelocator)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:32d4aef9fe5236e0b62c416d8273077e9bb56dec · 2026-04-21
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/32d4aef9fe5236e0b62c416d8273077e9bb56dec)
+  - [Detailed analysis: 046-32d4aef9fe52](../sources/commit-review/protocol-dumper-all/dossiers/046-32d4aef9fe52.md#046-remove-schemadescription-dependency)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:33c867794466cec0bdb70d1aaae26a7ea75ad6b5 · 2026-04-19
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/33c867794466cec0bdb70d1aaae26a7ea75ad6b5)
+  - [Detailed analysis: 038-33c867794466](../sources/commit-review/protocol-dumper-all/dossiers/038-33c867794466.md#038-refactor-writer-into-visitor-style-writer-base-with-jsonwriter-impl)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:35a51e1f2cf7d018ead06cd0a5100c65ad8e6c79 · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/35a51e1f2cf7d018ead06cd0a5100c65ad8e6c79)
+  - [Detailed analysis: 064-35a51e1f2cf7](../sources/commit-review/protocol-dumper-all/dossiers/064-35a51e1f2cf7.md#064-hook-packetserialization-bindpackets-to-drive-dump)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:38665ad344786837ae860f3b0277685197148c6d · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/38665ad344786837ae860f3b0277685197148c6d)
+  - [Detailed analysis: 082-38665ad34478](../sources/commit-review/protocol-dumper-all/dossiers/082-38665ad34478.md#082-update-signatures)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:3920f1340c362098370e8f16268ae37f9be8ac3d · 2026-04-15
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/3920f1340c362098370e8f16268ae37f9be8ac3d)
+  - [Detailed analysis: 021-3920f1340c36](../sources/commit-review/protocol-dumper-all/dossiers/021-3920f1340c36.md#021-target-preview-builds-only-drop-runtime-build-selection)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:3b4248d8da5b8483a47d6df237bf9650c3ac9206 · 2026-04-15
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/3b4248d8da5b8483a47d6df237bf9650c3ac9206)
+  - [Detailed analysis: 029-3b4248d8da5b](../sources/commit-review/protocol-dumper-all/dossiers/029-3b4248d8da5b.md#029-rename-variant-of-to-values-and-restructure-enum-json-keys)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:3e7b224d4863e60b873a6da25638e9ade572ec6c · 2026-05-02
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/3e7b224d4863e60b873a6da25638e9ade572ec6c)
+  - [Detailed analysis: 059-3e7b224d4863](../sources/commit-review/protocol-dumper-all/dossiers/059-3e7b224d4863.md#059-reorder-type-field-assignment-in-switchon-tojson-for-consistent-output)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:3ebf3fb3d16d360dd9ec309c8ec9660783d07a05 · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/3ebf3fb3d16d360dd9ec309c8ec9660783d07a05)
+  - [Detailed analysis: 077-3ebf3fb3d16d](../sources/commit-review/protocol-dumper-all/dossiers/077-3ebf3fb3d16d.md#077-install-libelf-dev-in-ci-so-libhat-s-linux-backend-links)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:3f3ca659010bb45d21ba88a6d33ad1cabbab4119 · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/3f3ca659010bb45d21ba88a6d33ad1cabbab4119)
+  - [Detailed analysis: 066-3f3ca659010b](../sources/commit-review/protocol-dumper-all/dossiers/066-3f3ca659010b.md#066-tagged-leveled-logging-in-main-cpp-deduce-bindpacketsfn-type)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:3ffd6c5063cbafc176337f6d4d4b1d09498afe3e · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/3ffd6c5063cbafc176337f6d4d4b1d09498afe3e)
+  - [Detailed analysis: 094-3ffd6c5063cb](../sources/commit-review/protocol-dumper-all/dossiers/094-3ffd6c5063cb.md#094-resolve-every-nested-type-through-the-traits-aware-path)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:40020e05bd37d14079e3c80c7c111d092c0d6223 · 2026-08-14
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/40020e05bd37d14079e3c80c7c111d092c0d6223)
+  - [Detailed analysis: 101-40020e05bd37](../sources/commit-review/protocol-dumper-all/dossiers/101-40020e05bd37.md#101-record-where-the-1-21-floor-actually-sits-and-what-blocks-lowering-it)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:4012b0edd80b859de416a57ea87324b79528f341 · 2026-04-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/4012b0edd80b859de416a57ea87324b79528f341)
+  - [Detailed analysis: 002-4012b0edd80b](../sources/commit-review/protocol-dumper-all/dossiers/002-4012b0edd80b.md#002-fix-loader-lock-recursive-import-check-and-perf-issues)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:4069abe8c2e3a2ab21c756284c0fae886b7ac60c · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/4069abe8c2e3a2ab21c756284c0fae886b7ac60c)
+  - [Detailed analysis: 112-4069abe8c2e3](../sources/commit-review/protocol-dumper-all/dossiers/112-4069abe8c2e3.md#112-write-a-variant-s-selector-as-the-index-it-is-never-the-tag)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:44fa9858e4911121b7f3bcbdade5f30e4c73573f · 2026-04-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/44fa9858e4911121b7f3bcbdade5f30e4c73573f)
+  - [Detailed analysis: 012-44fa9858e491](../sources/commit-review/protocol-dumper-all/dossiers/012-44fa9858e491.md#012-adopt-hazedumper-style-config-format)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:450ae0d96f2a186f9a594f5c2c6b72b26a498431 · 2026-04-19
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/450ae0d96f2a186f9a594f5c2c6b72b26a498431)
+  - [Detailed analysis: 037-450ae0d96f2a](../sources/commit-review/protocol-dumper-all/dossiers/037-450ae0d96f2a.md#037-tidy-doc-symbol-h-snakecase-constraints-consolidate-dllmain-entry)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:49f4b8ddb38e808b2c407531a578fa874cdf7a2c · 2026-04-21
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/49f4b8ddb38e808b2c407531a578fa874cdf7a2c)
+  - [Detailed analysis: 048-49f4b8ddb38e](../sources/commit-review/protocol-dumper-all/dossiers/048-49f4b8ddb38e.md#048-emit-wire-type-strings-for-enum-integral-and-variant-fields)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:4cef255f4fcfc88029c9f61888716f04a1877eae · 2026-04-24
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/4cef255f4fcfc88029c9f61888716f04a1877eae)
+  - [Detailed analysis: 057-4cef255f4fcf](../sources/commit-review/protocol-dumper-all/dossiers/057-4cef255f4fcf.md#057-emit-field-constraints-and-deprecated-report-dump-counts)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:51bc1cf8f7f990c4ae5915c9361fd6833af2f695 · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/51bc1cf8f7f990c4ae5915c9361fd6833af2f695)
+  - [Detailed analysis: 074-51bc1cf8f7f9](../sources/commit-review/protocol-dumper-all/dossiers/074-51bc1cf8f7f9.md#074-install-bedrock-server-into-a-per-version-directory)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:526bf82a16b62cc2e92aa6693e4070d2c66820ef · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/526bf82a16b62cc2e92aa6693e4070d2c66820ef)
+  - [Detailed analysis: 076-526bf82a16b6](../sources/commit-review/protocol-dumper-all/dossiers/076-526bf82a16b6.md#076-add-scheduled-ci-to-dump-protocol-json-as-artifact)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:5444d7d39ea992373ec6795a24a13ebcc2d63ac2 · 2026-04-15
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/5444d7d39ea992373ec6795a24a13ebcc2d63ac2)
+  - [Detailed analysis: 023-5444d7d39ea9](../sources/commit-review/protocol-dumper-all/dossiers/023-5444d7d39ea9.md#023-introduce-model-visitor-schema-pipeline)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:5b4f245dad3a5dd17053f308c6daa6f04c9ecddd · 2026-05-02
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/5b4f245dad3a5dd17053f308c6daa6f04c9ecddd)
+  - [Detailed analysis: 062-5b4f245dad3a](../sources/commit-review/protocol-dumper-all/dossiers/062-5b4f245dad3a.md#062-switch-toolchain-to-clang-libc-and-load-via-ldpreload)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:5bcc7ae8d0aeabcd7c4929eb562ddfb0060d8972 · 2026-08-05
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/5bcc7ae8d0aeabcd7c4929eb562ddfb0060d8972)
+  - [Detailed analysis: 096-5bcc7ae8d0ae](../sources/commit-review/protocol-dumper-all/dossiers/096-5bcc7ae8d0ae.md#096-match-the-entt-that-bds-1-26-50-was-built-against)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:5d0d1f060d6663502c29f8504b4ddcab5f53fb41 · 2026-04-18
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/5d0d1f060d6663502c29f8504b4ddcab5f53fb41)
+  - [Detailed analysis: 032-5d0d1f060d66](../sources/commit-review/protocol-dumper-all/dossiers/032-5d0d1f060d66.md#032-overhaul-core-pipeline-flatten-models-simplify-visitor-clean-up-output)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:6077f7383b1d7e270bd768b3a3f11c1cbfbbdac9 · 2026-04-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/6077f7383b1d7e270bd768b3a3f11c1cbfbbdac9)
+  - [Detailed analysis: 011-6077f7383b1d](../sources/commit-review/protocol-dumper-all/dossiers/011-6077f7383b1d.md#011-add-config-json-for-signatures-and-offsets)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:61d3a1725962ae4e94f53db69a6351ffc7711aa9 · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/61d3a1725962ae4e94f53db69a6351ffc7711aa9)
+  - [Detailed analysis: 110-61d3a1725962](../sources/commit-review/protocol-dumper-all/dossiers/110-61d3a1725962.md#110-size-the-overriding-set-s-empty-members-which-1-26-0-elided)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:6391c3fb16e5ce2e56f0be4e093e35bb28b338a0 · 2026-04-21
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/6391c3fb16e5ce2e56f0be4e093e35bb28b338a0)
+  - [Detailed analysis: 050-6391c3fb16e5](../sources/commit-review/protocol-dumper-all/dossiers/050-6391c3fb16e5.md#050-add-nooutput-flag-to-type-and-handle-skipped-output-paths-in-visitor)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:66c0317ca2ba5fa68eb569e9ed679bc9a81e0149 · 2026-05-12
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/66c0317ca2ba5fa68eb569e9ed679bc9a81e0149)
+  - [Detailed analysis: 085-66c0317ca2ba](../sources/commit-review/protocol-dumper-all/dossiers/085-66c0317ca2ba.md#085-add-menummapping-to-typedescriptor-for-bds-1-26-30-28)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:6d4deb762a6f86a540fc4f083439a16915150aaf · 2026-04-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/6d4deb762a6f86a540fc4f083439a16915150aaf)
+  - [Detailed analysis: 014-6d4deb762a6f](../sources/commit-review/protocol-dumper-all/dossiers/014-6d4deb762a6f.md#014-resolve-all-symbols-upfront-at-dll-load)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:709fd86175fbf18de95f4a4b612c596306cdc49d · 2026-04-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/709fd86175fbf18de95f4a4b612c596306cdc49d)
+  - [Detailed analysis: 001-709fd86175fb](../sources/commit-review/protocol-dumper-all/dossiers/001-709fd86175fb.md#001-initial-commit-bds-packet-schema-dumper-via-cereal-reflection)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:713dbd28df70b89fd8e6db42081385ce6068a1ab · 2026-09-02
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/713dbd28df70b89fd8e6db42081385ce6068a1ab)
+  - [Detailed analysis: 109-713dbd28df70](../sources/commit-review/protocol-dumper-all/dossiers/109-713dbd28df70.md#109-drop-the-commentary-from-the-update-6-descriptor-fields)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:722e5d223fab37b6e6cd3fd7417a59387cb01a7d · 2026-08-16
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/722e5d223fab37b6e6cd3fd7417a59387cb01a7d)
+  - [Detailed analysis: 104-722e5d223fab](../sources/commit-review/protocol-dumper-all/dossiers/104-722e5d223fab.md#104-read-the-published-branch-back-off-its-readme-not-a-version-json)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:7402cc268c7d5a9c1a206c98e66fdd4320db33b5 · 2026-07-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/7402cc268c7d5a9c1a206c98e66fdd4320db33b5)
+  - [Detailed analysis: 087-7402cc268c7d](../sources/commit-review/protocol-dumper-all/dossiers/087-7402cc268c7d.md#087-emit-cereal-serialize-as-types-as-their-binary-wire-rep-not-the-text-form)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:762acd8a9ce440a4a812a270e882c65248dd843a · 2026-09-02
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/762acd8a9ce440a4a812a270e882c65248dd843a)
+  - [Detailed analysis: 108-762acd8a9ce4](../sources/commit-review/protocol-dumper-all/dossiers/108-762acd8a9ce4.md#108-step-over-the-fields-update-6-added-to-the-cereal-descriptors)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:76f7acb39315618b5e0e1f8fef0ded73e5fdc9db · 2026-04-21
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/76f7acb39315618b5e0e1f8fef0ded73e5fdc9db)
+  - [Detailed analysis: 053-76f7acb39315](../sources/commit-review/protocol-dumper-all/dossiers/053-76f7acb39315.md#053-emit-bool-as-its-own-wire-type-in-serializationtype)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:79d6dac46b67f1d2aefd9e23bc6ad38230e4761f · 2026-04-21
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/79d6dac46b67f1d2aefd9e23bc6ad38230e4761f)
+  - [Detailed analysis: 047-79d6dac46b67](../sources/commit-review/protocol-dumper-all/dossiers/047-79d6dac46b67.md#047-refactor-field-type-introspection-and-serialization-in-visitor)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:7abb21fbb9adca2505dbc176c025beff85c5d6d4 · 2026-04-21
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/7abb21fbb9adca2505dbc176c025beff85c5d6d4)
+  - [Detailed analysis: 044-7abb21fbb9ad](../sources/commit-review/protocol-dumper-all/dossiers/044-7abb21fbb9ad.md#044-order-type-fields-by-ordinal-index-refine-typeref-and-json-output)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:7e8cec3eaf0365843b66889a8f0cc6e89c25209d · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/7e8cec3eaf0365843b66889a8f0cc6e89c25209d)
+  - [Detailed analysis: 084-7e8cec3eaf03](../sources/commit-review/protocol-dumper-all/dossiers/084-7e8cec3eaf03.md#084-support-older-bedrock-server-versions)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:7eafeea21f00f68e1737329600af434431042144 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/7eafeea21f00f68e1737329600af434431042144)
+  - [Detailed analysis: 093-7eafeea21f00](../sources/commit-review/protocol-dumper-all/dossiers/093-7eafeea21f00.md#093-emit-the-member-present-bool-cereal-writes-ahead-of-dynamic-members)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:7fa43d6b505830d1a298584db690d9b03152a61c · 2026-07-20
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/7fa43d6b505830d1a298584db690d9b03152a61c)
+  - [Detailed analysis: 088-7fa43d6b5058](../sources/commit-review/protocol-dumper-all/dossiers/088-7fa43d6b5058.md#088-resolve-conditionally-serialized-members-instead-of-dumping-the-thunk)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:813c276b42058079bd7d81e04589efb8ee48fd63 · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/813c276b42058079bd7d81e04589efb8ee48fd63)
+  - [Detailed analysis: 069-813c276b4205](../sources/commit-review/protocol-dumper-all/dossiers/069-813c276b4205.md#069-refer-to-bedrockserver-via-targetfile-instead-of-path-variables)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:815294db850db0632f97835b6161ad5beb6f6175 · 2026-04-12
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/815294db850db0632f97835b6161ad5beb6f6175)
+  - [Detailed analysis: 018-815294db850d](../sources/commit-review/protocol-dumper-all/dossiers/018-815294db850d.md#018-drop-spdlog-discover-packets-via-cereal-packet-meta-property)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:892cdafe9ada26c0cbaf17328b49cf0ab2601bfd · 2026-04-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/892cdafe9ada26c0cbaf17328b49cf0ab2601bfd)
+  - [Detailed analysis: 005-892cdafe9ada](../sources/commit-review/protocol-dumper-all/dossiers/005-892cdafe9ada.md#005-pin-entt-to-latest-commit-1333fa5)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:8a4240c6381d3ce1909050b2fff075a5c8f5a939 · 2026-04-12
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/8a4240c6381d3ce1909050b2fff075a5c8f5a939)
+  - [Detailed analysis: 017-8a4240c6381d](../sources/commit-review/protocol-dumper-all/dossiers/017-8a4240c6381d.md#017-replace-proto-generator-with-wire-accurate-json-schema-output)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:8a7f17814ca0d76e1363f2e341343d650534f119 · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/8a7f17814ca0d76e1363f2e341343d650534f119)
+  - [Detailed analysis: 092-8a7f17814ca0](../sources/commit-review/protocol-dumper-all/dossiers/092-8a7f17814ca0.md#092-dump-a-one-byte-member-as-int8-ignoring-the-compression-trait)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:8f38ad7a90a5ded7d183838f348c8c7bb10cd820 · 2026-04-18
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/8f38ad7a90a5ded7d183838f348c8c7bb10cd820)
+  - [Detailed analysis: 031-8f38ad7a90a5](../sources/commit-review/protocol-dumper-all/dossiers/031-8f38ad7a90a5.md#031-adopt-kaitai-inspired-schema-type-enum-repeat-switch-on)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:8fdd0544ea966af6572ccb02ab7b98511856adfd · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/8fdd0544ea966af6572ccb02ab7b98511856adfd)
+  - [Detailed analysis: 113-8fdd0544ea96](../sources/commit-review/protocol-dumper-all/dossiers/113-8fdd0544ea96.md#113-take-a-const-selector-s-value-from-the-enum-not-from-the-member-name)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:907907118f5241781a985ac03676ef48717a7005 · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/907907118f5241781a985ac03676ef48717a7005)
+  - [Detailed analysis: 078-907907118f52](../sources/commit-review/protocol-dumper-all/dossiers/078-907907118f52.md#078-bump-checkout-to-v6-and-upload-artifact-to-v7)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:95dc73e14eab727f935ad5b9ebac43605dcad42e · 2026-04-21
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/95dc73e14eab727f935ad5b9ebac43605dcad42e)
+  - [Detailed analysis: 056-95dc73e14eab](../sources/commit-review/protocol-dumper-all/dossiers/056-95dc73e14eab.md#056-remove-schemaredesign-md-final-schema-documented-in-readme-md)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:976cb684c17ad9dd2e733d38a012e1d64c4929e7 · 2026-04-15
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/976cb684c17ad9dd2e733d38a012e1d64c4929e7)
+  - [Detailed analysis: 025-976cb684c17a](../sources/commit-review/protocol-dumper-all/dossiers/025-976cb684c17a.md#025-fall-back-to-entt-type-name-when-cereal-leaves-mname-empty)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:998e9201e494e11dc43987cd4db318a164028f63 · 2026-08-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/998e9201e494e11dc43987cd4db318a164028f63)
+  - [Detailed analysis: 098-998e9201e494](../sources/commit-review/protocol-dumper-all/dossiers/098-998e9201e494.md#098-retire-the-keyed-setter-getter-binding-for-bds-1-26-50-25)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:99d75dc1a94047c0345c765aeab12702c5cbe744 · 2026-04-21
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/99d75dc1a94047c0345c765aeab12702c5cbe744)
+  - [Detailed analysis: 049-99d75dc1a940](../sources/commit-review/protocol-dumper-all/dossiers/049-99d75dc1a940.md#049-support-nested-and-fixed-size-container-types-in-visitor)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:9c67e178cbb50b87920ab764bf340f041c9fe0b4 · 2026-08-16
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/9c67e178cbb50b87920ab764bf340f041c9fe0b4)
+  - [Detailed analysis: 103-9c67e178cbb5](../sources/commit-review/protocol-dumper-all/dossiers/103-9c67e178cbb5.md#103-dump-both-channels-on-the-schedule-and-let-stable-outrank-preview)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+  - [Detailed analysis: protocol-dumper-all-per-source-analysis](../supplements/protocol-dumper-all-per-source-analysis.md#commit-9c67e178cbb50b87920ab764bf340f041c9fe0b4)
+- commit:9d22eaebe8dc5d0c8aed5d8927bee01a8b9077e0 · 2026-04-18
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/9d22eaebe8dc5d0c8aed5d8927bee01a8b9077e0)
+  - [Detailed analysis: 035-9d22eaebe8dc](../sources/commit-review/protocol-dumper-all/dossiers/035-9d22eaebe8dc.md#035-add-github-actions-ci-cd-workflow)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:a02bd7bbcd19f0e1a1cb411bc245e14436a2c560 · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/a02bd7bbcd19f0e1a1cb411bc245e14436a2c560)
+  - [Detailed analysis: 106-a02bd7bbcd19](../sources/commit-review/protocol-dumper-all/dossiers/106-a02bd7bbcd19.md#106-emit-the-uvarint-length-cereal-now-writes-ahead-of-a-byte-array)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:a09ff8dd0f346aa2cbd32a3161f2026e5f14e328 · 2026-04-12
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/a09ff8dd0f346aa2cbd32a3161f2026e5f14e328)
+  - [Detailed analysis: 020-a09ff8dd0f34](../sources/commit-review/protocol-dumper-all/dossiers/020-a09ff8dd0f34.md#020-runtime-build-selection-enum-alias-type-output-name-fixups)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:a11da59aaed0ffcd3bca3f6b873975d8ef8a0b81 · 2026-04-21
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/a11da59aaed0ffcd3bca3f6b873975d8ef8a0b81)
+  - [Detailed analysis: 055-a11da59aaed0](../sources/commit-review/protocol-dumper-all/dossiers/055-a11da59aaed0.md#055-emit-variant-switch-as-type-name-enum-object)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:a391e960ed5e34c6525f3f4c069c91f026751c49 · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/a391e960ed5e34c6525f3f4c069c91f026751c49)
+  - [Detailed analysis: 071-a391e960ed5e](../sources/commit-review/protocol-dumper-all/dossiers/071-a391e960ed5e.md#071-annotate-non-obvious-cmake-choices-for-peer-engineers)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:a39e812a0faf6deec69876be31b1216c40d3dd31 · 2026-04-19
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/a39e812a0faf6deec69876be31b1216c40d3dd31)
+  - [Detailed analysis: 040-a39e812a0faf](../sources/commit-review/protocol-dumper-all/dossiers/040-a39e812a0faf.md#040-refactor-visitor-implementations)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:a7830f41a06b0f47a849578820a0b1f5e738036b · 2026-04-21
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/a7830f41a06b0f47a849578820a0b1f5e738036b)
+  - [Detailed analysis: 052-a7830f41a06b](../sources/commit-review/protocol-dumper-all/dossiers/052-a7830f41a06b.md#052-inline-typewrapper-types-in-visitor-improve-template-specialization-handling-in-type-resolution)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:b209273b33a000fda5630283723f4c6cc9b7273c · 2026-04-21
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/b209273b33a000fda5630283723f4c6cc9b7273c)
+  - [Detailed analysis: 054-b209273b33a0](../sources/commit-review/protocol-dumper-all/dossiers/054-b209273b33a0.md#054-refactor-typespec-formatting-handle-cereal-nulltype-in-json-adjust-json-indentation-in-file-output)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:b5488b2dc09d93d2f4d05070f019ecdb2db51355 · 2026-04-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/b5488b2dc09d93d2f4d05070f019ecdb2db51355)
+  - [Detailed analysis: 006-b5488b2dc09d](../sources/commit-review/protocol-dumper-all/dossiers/006-b5488b2dc09d.md#006-style-reformat-cmakelists-txt)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:b73c2ee98e88086615e5d8f70a81fb411197a8d8 · 2026-08-16
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/b73c2ee98e88086615e5d8f70a81fb411197a8d8)
+  - [Detailed analysis: 102-b73c2ee98e88](../sources/commit-review/protocol-dumper-all/dossiers/102-b73c2ee98e88.md#102-target-stable-bds-builds-not-just-previews)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:b80de45fd42dc496151363d05e594155df15c7ea · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/b80de45fd42dc496151363d05e594155df15c7ea)
+  - [Detailed analysis: 095-b80de45fd42d](../sources/commit-review/protocol-dumper-all/dossiers/095-b80de45fd42d.md#095-splice-only-an-enum-into-the-parent-field-never-an-array)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:bb892b7c5f6f2a7d27fd5a861273828107f59b87 · 2026-04-12
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/bb892b7c5f6f2a7d27fd5a861273828107f59b87)
+  - [Detailed analysis: 019-bb892b7c5f6f](../sources/commit-review/protocol-dumper-all/dossiers/019-bb892b7c5f6f.md#019-follow-readandwriteas-to-payload-schema-dump-types-separately)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:bcabf69afa7c948fce2ce39c01da7a63611ad55e · 2026-04-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/bcabf69afa7c948fce2ce39c01da7a63611ad55e)
+  - [Detailed analysis: 015-bcabf69afa7c](../sources/commit-review/protocol-dumper-all/dossiers/015-bcabf69afa7c.md#015-replace-funchook-config-driven-sigscan-with-inline-libhat-pattern-scanning)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:bf543b49e2ed1cf3ded6fc9f3fded81949659c51 · 2026-04-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/bf543b49e2ed1cf3ded6fc9f3fded81949659c51)
+  - [Detailed analysis: 004-bf543b49e2ed](../sources/commit-review/protocol-dumper-all/dossiers/004-bf543b49e2ed.md#004-pin-dependencies-to-release-tarballs-with-sha256)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:c161dc1cd14314d9761aedbeb0a828b51f62fcd9 · 2026-04-18
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/c161dc1cd14314d9761aedbeb0a828b51f62fcd9)
+  - [Detailed analysis: 034-c161dc1cd143](../sources/commit-review/protocol-dumper-all/dossiers/034-c161dc1cd143.md#034-rewrite-readme-to-match-current-json-schema-output-pipeline)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:c4638f4f46f4cf84d5756cdcc196e4dd4d0addd0 · 2026-04-15
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/c4638f4f46f4cf84d5756cdcc196e4dd4d0addd0)
+  - [Detailed analysis: 024-c4638f4f46f4](../sources/commit-review/protocol-dumper-all/dossiers/024-c4638f4f46f4.md#024-detect-optional-fields-via-entt-metatype-not-cereal-mrequired)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:c53338d70628598b3b79dff107161f70b909c91a · 2026-04-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/c53338d70628598b3b79dff107161f70b909c91a)
+  - [Detailed analysis: 009-c53338d70628](../sources/commit-review/protocol-dumper-all/dossiers/009-c53338d70628.md#009-output-relative-to-host-executable-not-dll)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:c763de090fbf757457853c9c82b202c497be5f28 · 2026-08-14
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/c763de090fbf757457853c9c82b202c497be5f28)
+  - [Detailed analysis: 099-c763de090fbf](../sources/commit-review/protocol-dumper-all/dossiers/099-c763de090fbf.md#099-cut-a-bindpackets-pattern-for-1-26-0-which-matched-neither-shape)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:c9d4a1c146807cc0d2e887baf89e426406d4e747 · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/c9d4a1c146807cc0d2e887baf89e426406d4e747)
+  - [Detailed analysis: 067-c9d4a1c14680](../sources/commit-review/protocol-dumper-all/dossiers/067-c9d4a1c14680.md#067-move-dependencies-into-self-contained-thirdparty-dep-folders)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:d1a5bd78761ae6d700849bf32182d31070208d1d · 2026-04-21
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/d1a5bd78761ae6d700849bf32182d31070208d1d)
+  - [Detailed analysis: 045-d1a5bd78761a](../sources/commit-review/protocol-dumper-all/dossiers/045-d1a5bd78761a.md#045-resolve-and-emit-field-types-in-schema-output)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:d359a2428369d159b52fca874c43f4fcbee42294 · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/d359a2428369d159b52fca874c43f4fcbee42294)
+  - [Detailed analysis: 079-d359a2428369](../sources/commit-review/protocol-dumper-all/dossiers/079-d359a2428369.md#079-replace-handcrafted-log-helpers-with-spdlog)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:d78bf74bcab25f28154ec8bbc6faed3e2e5cb633 · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/d78bf74bcab25f28154ec8bbc6faed3e2e5cb633)
+  - [Detailed analysis: 072-d78bf74bcab2](../sources/commit-review/protocol-dumper-all/dossiers/072-d78bf74bcab2.md#072-make-bedrockserverversion-configurable-default-to-latest)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:d82ceaca74e3d0f0f289a0e415ee450ba5be5ded · 2026-05-02
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/d82ceaca74e3d0f0f289a0e415ee450ba5be5ded)
+  - [Detailed analysis: 061-d82ceaca74e3](../sources/commit-review/protocol-dumper-all/dossiers/061-d82ceaca74e3.md#061-trim-readme-to-essentials)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:db2fb9322f5574d5a9030ec3817a27cadf844a73 · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/db2fb9322f5574d5a9030ec3817a27cadf844a73)
+  - [Detailed analysis: 090-db2fb9322f55](../sources/commit-review/protocol-dumper-all/dossiers/090-db2fb9322f55.md#090-add-mscope-to-memberdescriptor-for-bds-1-26-30-28)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:dc823fc11d69a8ed53774b1a84c99cf12e75b401 · 2026-09-15
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/dc823fc11d69a8ed53774b1a84c99cf12e75b401)
+  - [Detailed analysis: 116-dc823fc11d69](../sources/commit-review/protocol-dumper-all/dossiers/116-dc823fc11d69.md#116-reject-a-version-pinned-to-the-wrong-channel)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:e06a8346050477f402522619ee0574a4b70c3b8b · 2026-07-10
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/e06a8346050477f402522619ee0574a4b70c3b8b)
+  - [Detailed analysis: 086-e06a83460504](../sources/commit-review/protocol-dumper-all/dossiers/086-e06a83460504.md#086-support-bds-1-26-40-u4-prune-and-version-gate-the-cereal-mirrors)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:e3846ad646bcf20c3ccaba8576c7f622e6a6bae2 · 2026-04-19
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/e3846ad646bcf20c3ccaba8576c7f622e6a6bae2)
+  - [Detailed analysis: 036-e3846ad646bc](../sources/commit-review/protocol-dumper-all/dossiers/036-e3846ad646bc.md#036-reformat-readme-for-improved-readability-and-consistency-with-current-schema-details)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:e4e602536f950b794b970319b9039a6868b1a77f · 2026-04-24
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/e4e602536f950b794b970319b9039a6868b1a77f)
+  - [Detailed analysis: 058-e4e602536f95](../sources/commit-review/protocol-dumper-all/dossiers/058-e4e602536f95.md#058-rename-packet-description-to-packet-notes-and-update-serialization-logic)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:e7fc82a050c2bfc3b9cdab8ce5f7779ee7812fc3 · 2026-04-11
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/e7fc82a050c2bfc3b9cdab8ce5f7779ee7812fc3)
+  - [Detailed analysis: 013-e7fc82a050c2](../sources/commit-review/protocol-dumper-all/dossiers/013-e7fc82a050c2.md#013-adopt-bedrockcall-pattern-pin-all-deps-to-release-tarballs)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:ea87a290a8154d850f41fef8aaffa0bbe7ebfbd4 · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/ea87a290a8154d850f41fef8aaffa0bbe7ebfbd4)
+  - [Detailed analysis: 107-ea87a290a815](../sources/commit-review/protocol-dumper-all/dossiers/107-ea87a290a815.md#107-flatten-repeat-to-the-bare-count-or-prefix-type)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:ec802785cb168f374169855476d955c2bead3d88 · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/ec802785cb168f374169855476d955c2bead3d88)
+  - [Detailed analysis: 083-ec802785cb16](../sources/commit-review/protocol-dumper-all/dossiers/083-ec802785cb16.md#083-update-dump-yml)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+  - [Detailed analysis: protocol-dumper-all-per-source-analysis](../supplements/protocol-dumper-all-per-source-analysis.md#commit-ec802785cb168f374169855476d955c2bead3d88)
+- commit:effc8d8b9dd37a6b9a89b4db58a7873cf5a427d7 · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/effc8d8b9dd37a6b9a89b4db58a7873cf5a427d7)
+  - [Detailed analysis: 081-effc8d8b9dd3](../sources/commit-review/protocol-dumper-all/dossiers/081-effc8d8b9dd3.md#081-publish-each-dump-to-endstonemc-protocol-docs-on-a-per-update-branch)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+  - [Detailed analysis: protocol-dumper-all-per-source-analysis](../supplements/protocol-dumper-all-per-source-analysis.md#commit-effc8d8b9dd37a6b9a89b4db58a7873cf5a427d7)
+- commit:f22f8c7e27ea348d83d5bf8cc6ba3508fb2f52e8 · 2026-04-21
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/f22f8c7e27ea348d83d5bf8cc6ba3508fb2f52e8)
+  - [Detailed analysis: 043-f22f8c7e27ea](../sources/commit-review/protocol-dumper-all/dossiers/043-f22f8c7e27ea.md#043-rename-protodumper-to-protocoldumper-across-codebase-and-documentation)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:f31962ba6aad06454a178751720b0c1e911eff60 · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/f31962ba6aad06454a178751720b0c1e911eff60)
+  - [Detailed analysis: 065-f31962ba6aad](../sources/commit-review/protocol-dumper-all/dossiers/065-f31962ba6aad.md#065-drop-orphaned-serverinstance-networksystem-header-tree)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:f41c7e036406bca1ed426d74bf4e9e7b4eb293e8 · 2026-04-21
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/f41c7e036406bca1ed426d74bf4e9e7b4eb293e8)
+  - [Detailed analysis: 051-f41c7e036406](../sources/commit-review/protocol-dumper-all/dossiers/051-f41c7e036406.md#051-handle-nested-std-variant-in-buildtypespec-refactor-buildfield-and-emit-repeat-as-a-tagged-object)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:f9f3f1a9cae89d59831ffb9647c64c200b5abefd · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/f9f3f1a9cae89d59831ffb9647c64c200b5abefd)
+  - [Detailed analysis: 070-f9f3f1a9cae8](../sources/commit-review/protocol-dumper-all/dossiers/070-f9f3f1a9cae8.md#070-enforce---no-undefined-and-supply-linux-getsectiondata-for-libhat)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:fa44a74b180b3ffc449752fed290113082592b2c · 2026-05-04
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/fa44a74b180b3ffc449752fed290113082592b2c)
+  - [Detailed analysis: 068-fa44a74b180b](../sources/commit-review/protocol-dumper-all/dossiers/068-fa44a74b180b.md#068-inject-libprotocoldumper-so-into-bedrockserver-post-build)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)
+- commit:faa47c8275a38f263e0af8c8c05a2e23b6e98021 · 2026-04-18
+  - [Public source](https://github.com/EndstoneMC/protocol-dumper/commit/faa47c8275a38f263e0af8c8c05a2e23b6e98021)
+  - [Detailed analysis: 033-faa47c8275a3](../sources/commit-review/protocol-dumper-all/dossiers/033-faa47c8275a3.md#033-flatten-namespaces-collapse-proto-model-and-proto-output-into-proto)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/protocol-dumper-all/ENGINEERING_SYNTHESIS.md#protocol-dumper-evidence-reversals-and-usable-engineering-lessons)

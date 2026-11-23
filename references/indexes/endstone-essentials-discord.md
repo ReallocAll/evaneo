@@ -1,0 +1,72 @@
+<!-- retrieval: {"source_type":"navigation","topics":["source-navigation"],"limitations":"Navigation aid only. Linked entries point to public sources and related analysis; the links do not certify implementation or runtime behavior."} -->
+# Source index: endstone-essentials/discord {#source-index}
+
+## Sources {#sources}
+
+The links below group publicly traceable source material with related analysis.
+
+- commit:1891a7af834d454829a8e4b21015cfacd9d749ac · 2024-05-24
+  - [Public source](https://github.com/endstone-essentials/discord/commit/1891a7af834d454829a8e4b21015cfacd9d749ac)
+  - [Detailed analysis: Discord: process bridge](../sources/commit-review/plugin-api-evolution/cases/discord-process-bridge.md#discord01-a-chat-bridge-is-a-lifecycle-and-privilege-boundary)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: discord-source-index](../sources/commit-review/plugin-api-evolution/repositories/discord-source-index.md#4-1891a7af834d454829a8e4b21015cfacd9d749ac)
+- commit:1fb047800d471f4c4e63c668039d2bc782937d13 · 2024-05-24
+  - [Public source](https://github.com/endstone-essentials/discord/commit/1fb047800d471f4c4e63c668039d2bc782937d13)
+  - [Detailed analysis: Discord: process bridge](../sources/commit-review/plugin-api-evolution/cases/discord-process-bridge.md#discord01-a-chat-bridge-is-a-lifecycle-and-privilege-boundary)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: discord-source-index](../sources/commit-review/plugin-api-evolution/repositories/discord-source-index.md#3-1fb047800d471f4c4e63c668039d2bc782937d13)
+- commit:30a490a8334bfbf89ee07e9e989ed7b6e7692d2a · 2024-05-24
+  - [Public source](https://github.com/endstone-essentials/discord/commit/30a490a8334bfbf89ee07e9e989ed7b6e7692d2a)
+  - [Detailed analysis: Discord: process bridge](../sources/commit-review/plugin-api-evolution/cases/discord-process-bridge.md#discord01-a-chat-bridge-is-a-lifecycle-and-privilege-boundary)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: discord-source-index](../sources/commit-review/plugin-api-evolution/repositories/discord-source-index.md#9-30a490a8334bfbf89ee07e9e989ed7b6e7692d2a)
+- commit:331e83247e0d3a2d441227cfc8d44548cd663977 · 2024-05-24
+  - [Public source](https://github.com/endstone-essentials/discord/commit/331e83247e0d3a2d441227cfc8d44548cd663977)
+  - [Detailed analysis: Discord: process bridge](../sources/commit-review/plugin-api-evolution/cases/discord-process-bridge.md#discord01-a-chat-bridge-is-a-lifecycle-and-privilege-boundary)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: discord-source-index](../sources/commit-review/plugin-api-evolution/repositories/discord-source-index.md#7-331e83247e0d3a2d441227cfc8d44548cd663977)
+- commit:4c7de7e0e181a38d64a8982d96fd92bc2d3b64a2 · 2024-12-27
+  - [Public source](https://github.com/endstone-essentials/discord/commit/4c7de7e0e181a38d64a8982d96fd92bc2d3b64a2)
+  - [Detailed analysis: Discord: process bridge](../sources/commit-review/plugin-api-evolution/cases/discord-process-bridge.md#discord01-a-chat-bridge-is-a-lifecycle-and-privilege-boundary)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: discord-source-index](../sources/commit-review/plugin-api-evolution/repositories/discord-source-index.md#11-4c7de7e0e181a38d64a8982d96fd92bc2d3b64a2)
+- commit:52e944c2de281ac762b0e642d7dcdc78205682e7 · 2024-08-27
+  - [Public source](https://github.com/endstone-essentials/discord/commit/52e944c2de281ac762b0e642d7dcdc78205682e7)
+  - [Detailed analysis: Discord: process bridge](../sources/commit-review/plugin-api-evolution/cases/discord-process-bridge.md#discord01-a-chat-bridge-is-a-lifecycle-and-privilege-boundary)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: discord-source-index](../sources/commit-review/plugin-api-evolution/repositories/discord-source-index.md#10-52e944c2de281ac762b0e642d7dcdc78205682e7)
+- commit:76338833cb8fbc8430061e6ab87a8f64f5a6fa9f · 2024-05-24
+  - [Public source](https://github.com/endstone-essentials/discord/commit/76338833cb8fbc8430061e6ab87a8f64f5a6fa9f)
+  - [Detailed analysis: Discord: process bridge](../sources/commit-review/plugin-api-evolution/cases/discord-process-bridge.md#discord01-a-chat-bridge-is-a-lifecycle-and-privilege-boundary)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: discord-source-index](../sources/commit-review/plugin-api-evolution/repositories/discord-source-index.md#1-76338833cb8fbc8430061e6ab87a8f64f5a6fa9f)
+- commit:84723200b4353c1a4c0dcbf5cb8aa575c5194452 · 2024-12-27
+  - [Public source](https://github.com/endstone-essentials/discord/commit/84723200b4353c1a4c0dcbf5cb8aa575c5194452)
+  - [Detailed analysis: Discord: process bridge](../sources/commit-review/plugin-api-evolution/cases/discord-process-bridge.md#discord01-a-chat-bridge-is-a-lifecycle-and-privilege-boundary)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: discord-source-index](../sources/commit-review/plugin-api-evolution/repositories/discord-source-index.md#13-84723200b4353c1a4c0dcbf5cb8aa575c5194452)
+- commit:9dff7c214bec83fe37a10a69125b060263d9138a · 2024-05-24
+  - [Public source](https://github.com/endstone-essentials/discord/commit/9dff7c214bec83fe37a10a69125b060263d9138a)
+  - [Detailed analysis: Discord: process bridge](../sources/commit-review/plugin-api-evolution/cases/discord-process-bridge.md#discord01-a-chat-bridge-is-a-lifecycle-and-privilege-boundary)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: discord-source-index](../sources/commit-review/plugin-api-evolution/repositories/discord-source-index.md#6-9dff7c214bec83fe37a10a69125b060263d9138a)
+- commit:ad0f4b216911b3815207b5e0bd3bddec2c8270d9 · 2024-05-24
+  - [Public source](https://github.com/endstone-essentials/discord/commit/ad0f4b216911b3815207b5e0bd3bddec2c8270d9)
+  - [Detailed analysis: Discord: process bridge](../sources/commit-review/plugin-api-evolution/cases/discord-process-bridge.md#discord01-a-chat-bridge-is-a-lifecycle-and-privilege-boundary)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: discord-source-index](../sources/commit-review/plugin-api-evolution/repositories/discord-source-index.md#5-ad0f4b216911b3815207b5e0bd3bddec2c8270d9)
+- commit:bfa37cfb55cde458f9a9401db00c7450fe147325 · 2024-05-24
+  - [Public source](https://github.com/endstone-essentials/discord/commit/bfa37cfb55cde458f9a9401db00c7450fe147325)
+  - [Detailed analysis: Discord: process bridge](../sources/commit-review/plugin-api-evolution/cases/discord-process-bridge.md#discord01-a-chat-bridge-is-a-lifecycle-and-privilege-boundary)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: discord-source-index](../sources/commit-review/plugin-api-evolution/repositories/discord-source-index.md#2-bfa37cfb55cde458f9a9401db00c7450fe147325)
+- commit:f027caf803d085239c023315c5bcd851e0f3897c · 2024-05-24
+  - [Public source](https://github.com/endstone-essentials/discord/commit/f027caf803d085239c023315c5bcd851e0f3897c)
+  - [Detailed analysis: Discord: process bridge](../sources/commit-review/plugin-api-evolution/cases/discord-process-bridge.md#discord01-a-chat-bridge-is-a-lifecycle-and-privilege-boundary)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: discord-source-index](../sources/commit-review/plugin-api-evolution/repositories/discord-source-index.md#8-f027caf803d085239c023315c5bcd851e0f3897c)
+- commit:f6889c02a0c5858b47cb95502a8e9412d243424a · 2024-12-27
+  - [Public source](https://github.com/endstone-essentials/discord/commit/f6889c02a0c5858b47cb95502a8e9412d243424a)
+  - [Detailed analysis: Discord: process bridge](../sources/commit-review/plugin-api-evolution/cases/discord-process-bridge.md#discord01-a-chat-bridge-is-a-lifecycle-and-privilege-boundary)
+  - [Detailed analysis: integration-lessons](../sources/commit-review/plugin-api-evolution/integration-lessons.md#scoped-integration-lessons)
+  - [Detailed analysis: discord-source-index](../sources/commit-review/plugin-api-evolution/repositories/discord-source-index.md#12-f6889c02a0c5858b47cb95502a8e9412d243424a)

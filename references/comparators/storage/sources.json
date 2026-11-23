@@ -1,0 +1,418 @@
+{
+  "schema_version": 1,
+  "attribution_boundary": "SQLite and restic decisions belong to those projects; applying them elsewhere is an independent engineering inference.",
+  "scope": "Four decision cases for Python/native incremental backup workflows; no target-project implementation audit.",
+  "sources": [
+    {
+      "id": "RE-REVISION",
+      "project": "restic",
+      "kind": "release_identity",
+      "url": "https://github.com/restic/restic/commit/d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2",
+      "git_commit": "d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2",
+      "edition": "v0.18.0",
+      "date": "2025-03-27T19:16:56Z",
+      "read_scope": "GitHub commit metadata resolving v0.18.0",
+      "claim_support": "Pins code and documentation sample; not a latest-release claim",
+      "cases": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "SQ-REVISION",
+      "project": "SQLite",
+      "kind": "release_identity",
+      "url": "https://sqlite.org/releaselog/3_51_3.html",
+      "git_commit": "a5333afb9ad1aa473f8963b92caeaa955f47dc74",
+      "edition": "3.51.3",
+      "date": "2026-03-13T10:38:09Z",
+      "sqlite_source_id": "737ae4a34738ffa0c3ff7f9bb18df914dd1cad163f28fd6b6e114a344fe6d618",
+      "read_scope": "Specific 3.51.3 changes, source ID, GitHub tag resolution, VERSION and manifest.uuid",
+      "claim_support": "Version contains the documented WAL-reset fix; not an exhaustive current security/bug audit",
+      "cases": [
+        "S1"
+      ]
+    },
+    {
+      "id": "SQ-ATOMIC",
+      "project": "SQLite",
+      "kind": "official_documentation",
+      "url": "https://sqlite.org/atomiccommit.html",
+      "title": "Atomic Commit In SQLite",
+      "edition": "Live documentation; not pinned to the code edition",
+      "read_scope": "Hardware assumptions; single-file commit 3.5–3.11; rollback 4.2–4.6; journal invalidation alternatives",
+      "claim_support": "Journal-first rollback and last commit boundary; physical flush assumptions; no arbitrary filesystem guarantee",
+      "cases": [
+        "S1"
+      ],
+      "license": "Public domain (SQLite documentation)",
+      "excerpt_policy": "Paraphrase; no long verbatim extract"
+    },
+    {
+      "id": "SQ-WAL",
+      "project": "SQLite",
+      "kind": "official_documentation",
+      "url": "https://sqlite.org/wal.html",
+      "title": "Write-Ahead Logging",
+      "edition": "Live documentation; not pinned to the code edition",
+      "read_scope": "Overview; mechanism and reader end marks; WAL persistent state; bounded WAL discussion; current WAL-reset warning",
+      "claim_support": "WAL differs from rollback; WAL is persistent database state; concurrent operation requirements; explicit current patch caveat",
+      "cases": [
+        "S1"
+      ],
+      "license": "Public domain (SQLite documentation)",
+      "excerpt_policy": "Paraphrase; no long verbatim extract"
+    },
+    {
+      "id": "SQ-SYNC",
+      "project": "SQLite",
+      "kind": "official_documentation",
+      "url": "https://sqlite.org/pragma.html#pragma_synchronous",
+      "title": "PRAGMA synchronous",
+      "edition": "Live documentation; not pinned to the code edition",
+      "read_scope": "OFF/NORMAL/FULL/EXTRA and journal-mode matrix",
+      "claim_support": "Atomic/consistent versus power-failure durable; mode-specific synchronization",
+      "cases": [
+        "S1"
+      ],
+      "license": "Public domain (SQLite documentation)",
+      "excerpt_policy": "Paraphrase; no long verbatim extract"
+    },
+    {
+      "id": "SQ-BACKUP-GUIDE",
+      "project": "SQLite",
+      "kind": "official_documentation",
+      "url": "https://sqlite.org/backup.html",
+      "title": "SQLite Backup API guide",
+      "edition": "Live documentation; not pinned to the code edition",
+      "read_scope": "Online backup introduction, prior external-copy method and its documented drawbacks, source-locking discussion",
+      "claim_support": "Mature API reuse for genuine SQLite sources; does not cover arbitrary BDS storage files",
+      "cases": [
+        "S1"
+      ],
+      "license": "Public domain (SQLite documentation)",
+      "excerpt_policy": "Paraphrase; no long verbatim extract"
+    },
+    {
+      "id": "SQ-BACKUP-API",
+      "project": "SQLite",
+      "kind": "official_documentation",
+      "url": "https://sqlite.org/c3ref/backup_finish.html",
+      "title": "Online Backup API contract",
+      "edition": "Live documentation; not pinned to the code edition",
+      "read_scope": "step completion, finish rollback/return values, locking/restart description",
+      "claim_support": "SQLITE_DONE is completion; successful cleanup is not a substitute",
+      "cases": [
+        "S3"
+      ],
+      "license": "Public domain (SQLite documentation)",
+      "excerpt_policy": "Paraphrase; no long verbatim extract"
+    },
+    {
+      "id": "SQ-LICENSE",
+      "project": "SQLite",
+      "kind": "official_documentation",
+      "url": "https://sqlite.org/copyright.html",
+      "title": "SQLite Copyright",
+      "edition": "Live documentation; not pinned to the code edition",
+      "read_scope": "Public-domain dedication and limitation for some build scripts",
+      "claim_support": "Rights basis for deliverable source/documentation; build scripts not redistributed",
+      "cases": [],
+      "license": "Public domain (SQLite documentation)",
+      "excerpt_policy": "Paraphrase; no long verbatim extract"
+    },
+    {
+      "id": "SQ-PAGER",
+      "project": "SQLite",
+      "kind": "pinned_source_file",
+      "url": "https://github.com/sqlite/sqlite/blob/a5333afb9ad1aa473f8963b92caeaa955f47dc74/src/pager.c",
+      "edition": "3.51.3",
+      "git_commit": "a5333afb9ad1aa473f8963b92caeaa955f47dc74",
+      "read_scope": "Lines 26–108; design prelude compared against initially retrieved 3.50.4 and confirmed identical in 3.51.3",
+      "claim_support": "Rollback-only invariants; explicit synchronous=OFF caveat; not WAL invariants",
+      "cases": [
+        "S1"
+      ],
+      "rendered_documentation_url": null,
+      "license": "Public domain (SQLite deliverable code/documentation)",
+      "excerpt_policy": "No upstream file redistributed; original analysis and short paraphrase only"
+    },
+    {
+      "id": "SQ-BACKUP-C",
+      "project": "SQLite",
+      "kind": "pinned_source_file",
+      "url": "https://github.com/sqlite/sqlite/blob/a5333afb9ad1aa473f8963b92caeaa955f47dc74/src/backup.c",
+      "edition": "3.51.3",
+      "git_commit": "a5333afb9ad1aa473f8963b92caeaa955f47dc74",
+      "read_scope": "Lines 402–565 and 568–618",
+      "claim_support": "Completion commit then DONE; finish rolls back still-open transaction and maps result",
+      "cases": [
+        "S3"
+      ],
+      "rendered_documentation_url": null,
+      "license": "Public domain (SQLite deliverable code/documentation)",
+      "excerpt_policy": "No upstream file redistributed; original analysis and short paraphrase only"
+    },
+    {
+      "id": "RE-DESIGN",
+      "project": "restic",
+      "kind": "pinned_source_file",
+      "url": "https://github.com/restic/restic/blob/d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2/doc/design.rst",
+      "edition": "v0.18.0",
+      "git_commit": "d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2",
+      "read_scope": "Repository Format; Locks (594–639); Read and Write Ordering (641–689)",
+      "claim_support": "Immutable publication, reachability invariants, dependency order, destructive-operation exclusion",
+      "cases": [
+        "S1",
+        "S2",
+        "S4"
+      ],
+      "rendered_documentation_url": "https://restic.readthedocs.io/en/v0.18.0/100_references.html",
+      "license": "BSD-2-Clause",
+      "excerpt_policy": "No upstream file redistributed; original analysis and short paraphrase only"
+    },
+    {
+      "id": "RE-LOCAL",
+      "project": "restic",
+      "kind": "pinned_source_file",
+      "url": "https://github.com/restic/restic/blob/d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2/internal/backend/local/local.go",
+      "edition": "v0.18.0",
+      "git_commit": "d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2",
+      "read_scope": "Save, lines 113–215",
+      "claim_support": "Temporary target-directory file, byte count, sync, close, rename and directory sync; compatibility exceptions",
+      "cases": [
+        "S1"
+      ],
+      "rendered_documentation_url": null,
+      "license": "BSD-2-Clause",
+      "excerpt_policy": "No upstream file redistributed; original analysis and short paraphrase only"
+    },
+    {
+      "id": "RE-LOCAL-UNIX",
+      "project": "restic",
+      "kind": "pinned_source_file",
+      "url": "https://github.com/restic/restic/blob/d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2/internal/backend/local/local_unix.go",
+      "edition": "v0.18.0",
+      "git_commit": "d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2",
+      "read_scope": "Entire short file",
+      "claim_support": "Directory sync implementation and tolerated unsupported/error conditions",
+      "cases": [
+        "S1"
+      ],
+      "rendered_documentation_url": null,
+      "license": "BSD-2-Clause",
+      "excerpt_policy": "No upstream file redistributed; original analysis and short paraphrase only"
+    },
+    {
+      "id": "RE-LOCAL-WINDOWS",
+      "project": "restic",
+      "kind": "pinned_source_file",
+      "url": "https://github.com/restic/restic/blob/d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2/internal/backend/local/local_windows.go",
+      "edition": "v0.18.0",
+      "git_commit": "d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2",
+      "read_scope": "Entire short file",
+      "claim_support": "Directory sync is no-op; readonly adjustment omitted on Windows",
+      "cases": [
+        "S1"
+      ],
+      "rendered_documentation_url": null,
+      "license": "BSD-2-Clause",
+      "excerpt_policy": "No upstream file redistributed; original analysis and short paraphrase only"
+    },
+    {
+      "id": "RE-ARCHIVER",
+      "project": "restic",
+      "kind": "pinned_source_file",
+      "url": "https://github.com/restic/restic/blob/d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2/internal/archiver/archiver.go",
+      "edition": "v0.18.0",
+      "git_commit": "d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2",
+      "read_scope": "Snapshot, lines 848–958",
+      "claim_support": "Flush and successful worker/uploader completion precede SaveSnapshot",
+      "cases": [
+        "S1"
+      ],
+      "rendered_documentation_url": null,
+      "license": "BSD-2-Clause",
+      "excerpt_policy": "No upstream file redistributed; original analysis and short paraphrase only"
+    },
+    {
+      "id": "RE-LOCK-HISTORY",
+      "project": "restic",
+      "kind": "historical_commit",
+      "url": "https://github.com/restic/restic/commit/d92957dd78ca01dc16a7998ca6a9e339fe23044b",
+      "git_commit": "d92957dd78ca01dc16a7998ca6a9e339fe23044b",
+      "date": "2022-10-02T22:19:46Z",
+      "title": "lock: Implement strict lock expiry monitoring",
+      "author": "MichaelEischer",
+      "read_scope": "Commit rationale and changed implementation paths; scope is specific bug mechanism, not a complete historical release audit",
+      "claim_support": "2022 explicit stale ownership after standby and prune, then cancellation tied to lock refresh",
+      "cases": [
+        "S2"
+      ],
+      "license": "BSD-2-Clause for source changes",
+      "excerpt_policy": "Paraphrase; no verbatim diff distributed"
+    },
+    {
+      "id": "RE-LOCK-PRIORITY-HISTORY",
+      "project": "restic",
+      "kind": "historical_commit",
+      "url": "https://github.com/restic/restic/commit/d05f6211d151783cb2f1a26d05e5965ad78a89db",
+      "git_commit": "d05f6211d151783cb2f1a26d05e5965ad78a89db",
+      "date": "2023-05-08T17:04:46Z",
+      "title": "lock: Do not limit backend concurrency for lock files",
+      "author": "MichaelEischer",
+      "read_scope": "Commit rationale and changed implementation paths; scope is specific bug mechanism, not a complete historical release audit",
+      "claim_support": "2023 explicit slow-upload starvation of lock refresh; lock operations bypass data semaphore",
+      "cases": [
+        "S2"
+      ],
+      "license": "BSD-2-Clause for source changes",
+      "excerpt_policy": "Paraphrase; no verbatim diff distributed"
+    },
+    {
+      "id": "RE-LOCK",
+      "project": "restic",
+      "kind": "pinned_source_file",
+      "url": "https://github.com/restic/restic/blob/d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2/internal/restic/lock.go",
+      "edition": "v0.18.0",
+      "git_commit": "d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2",
+      "read_scope": "NewLock 101–140; conflict checks 154–210; Stale 252–287; Refresh/RefreshStaleLock 307–395",
+      "claim_support": "Acquisition checks, expiry, and old-lock continuity checks for stale renewal; not generic consensus proof",
+      "cases": [
+        "S2"
+      ],
+      "rendered_documentation_url": null,
+      "license": "BSD-2-Clause",
+      "excerpt_policy": "No upstream file redistributed; original analysis and short paraphrase only"
+    },
+    {
+      "id": "RE-LOCK-MANAGER",
+      "project": "restic",
+      "kind": "pinned_source_file",
+      "url": "https://github.com/restic/restic/blob/d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2/internal/repository/lock.go",
+      "edition": "v0.18.0",
+      "git_commit": "d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2",
+      "read_scope": "Default intervals; Lock 40–105; refresh/monitor/stale path 119–271",
+      "claim_support": "Returned context, expiry monitoring, conditional recovery with freeze, failure cancellation before unfreeze",
+      "cases": [
+        "S2"
+      ],
+      "rendered_documentation_url": null,
+      "license": "BSD-2-Clause",
+      "excerpt_policy": "No upstream file redistributed; original analysis and short paraphrase only"
+    },
+    {
+      "id": "RE-SEMA",
+      "project": "restic",
+      "kind": "pinned_source_file",
+      "url": "https://github.com/restic/restic/blob/d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2/internal/backend/sema/backend.go",
+      "edition": "v0.18.0",
+      "git_commit": "d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2",
+      "read_scope": "typeDependentLimit, Freeze/Unfreeze, Save, lines 36–73",
+      "claim_support": "Lock operations bypass ordinary semaphore; freeze gates new operations, not all in-flight I/O",
+      "cases": [
+        "S2"
+      ],
+      "rendered_documentation_url": null,
+      "license": "BSD-2-Clause",
+      "excerpt_policy": "No upstream file redistributed; original analysis and short paraphrase only"
+    },
+    {
+      "id": "RE-CHECK-DOC",
+      "project": "restic",
+      "kind": "pinned_source_file",
+      "url": "https://github.com/restic/restic/blob/d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2/doc/045_working_with_repos.rst",
+      "edition": "v0.18.0",
+      "git_commit": "d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2",
+      "read_scope": "Checking integrity and consistency; read-data and subset options; cache warning",
+      "claim_support": "Structural versus data verification; fresh temporary cache; damage affects later snapshots; sample caveats",
+      "cases": [
+        "S3"
+      ],
+      "rendered_documentation_url": "https://restic.readthedocs.io/en/v0.18.0/045_working_with_repos.html#checking-integrity-and-consistency",
+      "license": "BSD-2-Clause",
+      "excerpt_policy": "No upstream file redistributed; original analysis and short paraphrase only"
+    },
+    {
+      "id": "RE-CHECK-CODE",
+      "project": "restic",
+      "kind": "pinned_source_file",
+      "url": "https://github.com/restic/restic/blob/d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2/cmd/restic/cmd_check.go",
+      "edition": "v0.18.0",
+      "git_commit": "d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2",
+      "read_scope": "Options 70–110; cache setup 170–220; read-data branches and selectors 398–500",
+      "claim_support": "Deterministic ID bucket; fresh random pack selection; size converted to percentage rather than strict byte cap",
+      "cases": [
+        "S3"
+      ],
+      "rendered_documentation_url": null,
+      "license": "BSD-2-Clause",
+      "excerpt_policy": "No upstream file redistributed; original analysis and short paraphrase only"
+    },
+    {
+      "id": "RE-BACKUP-DOC",
+      "project": "restic",
+      "kind": "pinned_source_file",
+      "url": "https://github.com/restic/restic/blob/d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2/doc/040_backup.rst",
+      "edition": "v0.18.0",
+      "git_commit": "d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2",
+      "read_scope": "File change detection; stdin/from-command; space requirements; exit status codes",
+      "claim_support": "Metadata heuristic rationale; producer status completeness; partial versus failed backup distinctions",
+      "cases": [
+        "S3"
+      ],
+      "rendered_documentation_url": null,
+      "license": "BSD-2-Clause",
+      "excerpt_policy": "No upstream file redistributed; original analysis and short paraphrase only"
+    },
+    {
+      "id": "RE-PRUNE-DOC",
+      "project": "restic",
+      "kind": "pinned_source_file",
+      "url": "https://github.com/restic/restic/blob/d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2/doc/060_forget.rst",
+      "edition": "v0.18.0",
+      "git_commit": "d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2",
+      "read_scope": "Opening forget/prune distinction; Customize pruning; Recovering from no free space errors",
+      "claim_support": "Separate retention and physical reclamation; budget and unused-space tradeoff; scratch space and exceptional recovery mode",
+      "cases": [
+        "S4"
+      ],
+      "rendered_documentation_url": "https://restic.readthedocs.io/en/v0.18.0/060_forget.html",
+      "license": "BSD-2-Clause",
+      "excerpt_policy": "No upstream file redistributed; original analysis and short paraphrase only"
+    },
+    {
+      "id": "RE-PRUNE-CODE",
+      "project": "restic",
+      "kind": "pinned_source_file",
+      "url": "https://github.com/restic/restic/blob/d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2/internal/repository/prune.go",
+      "edition": "v0.18.0",
+      "git_commit": "d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2",
+      "read_scope": "Planning candidate order/budget 430–523; Execute/deleteFiles 530–648",
+      "claim_support": "Avoid repeated tiny repacks; budget priority; normal copy/reindex/delete ordering; truly unreferenced deletion can precede repack",
+      "cases": [
+        "S4"
+      ],
+      "rendered_documentation_url": null,
+      "license": "BSD-2-Clause",
+      "excerpt_policy": "No upstream file redistributed; original analysis and short paraphrase only"
+    },
+    {
+      "id": "RE-LICENSE",
+      "project": "restic",
+      "kind": "pinned_source_file",
+      "url": "https://github.com/restic/restic/blob/d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2/LICENSE",
+      "edition": "v0.18.0",
+      "git_commit": "d401ad6c1ec93a8fbcfcd9f6855a7a4468878ec2",
+      "read_scope": "Entire short license",
+      "claim_support": "BSD 2-Clause source license; no verbatim source redistribution in this artifact",
+      "cases": [],
+      "rendered_documentation_url": null,
+      "license": "BSD-2-Clause",
+      "excerpt_policy": "No upstream file redistributed; original analysis and short paraphrase only"
+    }
+  ],
+  "code_review_limit": "Claims are limited to the linked sections identified in each source record."
+}

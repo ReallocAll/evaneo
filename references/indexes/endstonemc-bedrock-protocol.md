@@ -1,0 +1,1997 @@
+<!-- retrieval: {"source_type":"navigation","topics":["source-navigation"],"limitations":"Navigation aid only. Linked entries point to public sources and related analysis; the links do not certify implementation or runtime behavior."} -->
+# Source index: EndstoneMC/bedrock-protocol {#source-index}
+
+## Sources {#sources}
+
+The links below group publicly traceable source material with related analysis.
+
+- commit:004e64e66d179a2da61724f44ab0fb084ce378bf · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/004e64e66d179a2da61724f44ab0fb084ce378bf)
+  - [Detailed analysis: 0190-004e64e66d17](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0190-004e64e66d17.md#190-feat-protocol-model-chunkradiusupdatedpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:0072f48d47aa6fa3c6bb92a5b233c9cfe92956db · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/0072f48d47aa6fa3c6bb92a5b233c9cfe92956db)
+  - [Detailed analysis: 0175-0072f48d47aa](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0175-0072f48d47aa.md#175-feat-protocol-model-servertoclienthandshakepacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:014b732819d6f2ab8347bf2d2d016ad1e844cca6 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/014b732819d6f2ab8347bf2d2d016ad1e844cca6)
+  - [Detailed analysis: 0088-014b732819d6](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0088-014b732819d6.md#88-feat-protocol-model-transferpacket-at-1001-and-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:0263fe50ca3874132ffab7bbbbef73d7e994eff4 · 2026-08-06
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/0263fe50ca3874132ffab7bbbbef73d7e994eff4)
+  - [Detailed analysis: 0132-0263fe50ca38](../sources/commit-review/bedrock-protocol-all/dossiers/0132-0263fe50ca38.md#132-docs-a-shared-type-s-wire-form-is-per-call-site)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:03810fb2d20b40a125ca5a5032d7c607dbbc7bb2 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/03810fb2d20b40a125ca5a5032d7c607dbbc7bb2)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-296)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-03810fb2d20b40a125ca5a5032d7c607dbbc7bb2)
+- commit:03a640f1668ed9aebf223f288f72e6338c2e284a · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/03a640f1668ed9aebf223f288f72e6338c2e284a)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-278)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-03a640f1668ed9aebf223f288f72e6338c2e284a)
+- commit:04e877a5f306f5e0f31309644314fa97e14fc780 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/04e877a5f306f5e0f31309644314fa97e14fc780)
+  - [Detailed analysis: 0409-04e877a5f306](../sources/commit-review/bedrock-protocol-all/dossiers/0409-04e877a5f306.md#409-feat-protocol-back-port-protocol-786)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:0555e3f7f27e165e8f6a2a1fbc04a9393b3cf818 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/0555e3f7f27e165e8f6a2a1fbc04a9393b3cf818)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-314)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-0555e3f7f27e165e8f6a2a1fbc04a9393b3cf818)
+- commit:0616c0f7fe4b65fd1c623d45e4cb5d6ff5d96723 · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/0616c0f7fe4b65fd1c623d45e4cb5d6ff5d96723)
+  - [Detailed analysis: 0365-0616c0f7fe4b](../sources/commit-review/bedrock-protocol-all/dossiers/0365-0616c0f7fe4b.md#365-refactor-protocol-name-each-module-after-its-bds-domain)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:061be19873fe856c7dc3ad49fbecefd282998a2d · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/061be19873fe856c7dc3ad49fbecefd282998a2d)
+  - [Detailed analysis: 0031-061be19873fe](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0031-061be19873fe.md#0031-refactor-strip-settled-comments-from-the-dsl)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:066af9a298e5dc143a8f88eff7493d88e20f5ebf · 2026-08-05
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/066af9a298e5dc143a8f88eff7493d88e20f5ebf)
+  - [Detailed analysis: 0131-066af9a298e5](../sources/commit-review/bedrock-protocol-all/dossiers/0131-066af9a298e5.md#131-feat-compiler-field-type-dict-k-v-says-which-half-of-a-map-it-means)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:06efce61a510eb72763e9250c2b84c0adbd9101b · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/06efce61a510eb72763e9250c2b84c0adbd9101b)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-335)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-06efce61a510eb72763e9250c2b84c0adbd9101b)
+- commit:073f8686c0cfd697f9458f420b0aaf4eb05a7c31 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/073f8686c0cfd697f9458f420b0aaf4eb05a7c31)
+  - [Detailed analysis: 0241-073f8686c0cf](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0241-073f8686c0cf.md#241-feat-protocol-model-setactormotionpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:075d87ff474d4228c0afd57b3c6783e148ca48b7 · 2026-08-09
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/075d87ff474d4228c0afd57b3c6783e148ca48b7)
+  - [Detailed analysis: 0138-075d87ff474d](../sources/commit-review/bedrock-protocol-all/dossiers/0138-075d87ff474d.md#138-test-follow-the-itemstack-id-rename-into-the-goldens)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:07bc4f1e64a9af67a8207258efc2b48564abf45d · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/07bc4f1e64a9af67a8207258efc2b48564abf45d)
+  - [Detailed analysis: 0196-07bc4f1e64a9](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0196-07bc4f1e64a9.md#196-feat-protocol-model-resourcepackchunkdatapacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:07d0abaaa2f4957913f6c32724238b65a05859e2 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/07d0abaaa2f4957913f6c32724238b65a05859e2)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-285)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-07d0abaaa2f4957913f6c32724238b65a05859e2)
+- commit:090c1caf50615463a974fd1822e6535406139e64 · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/090c1caf50615463a974fd1822e6535406139e64)
+  - [Detailed analysis: 0025-090c1caf5061](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0025-090c1caf5061.md#0025-feat-add-startgamepacket-s-shared-types-allow-a-bool-backed-enum)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:09416eac99ceee1d30183d303a0ea64eabe6ed65 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/09416eac99ceee1d30183d303a0ea64eabe6ed65)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-310)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-09416eac99ceee1d30183d303a0ea64eabe6ed65)
+- commit:09e532cf6e95a910fad867a881b08cc012eb0f89 · 2026-07-15
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/09e532cf6e95a910fad867a881b08cc012eb0f89)
+  - [Detailed analysis: 0014-09e532cf6e95](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0014-09e532cf6e95.md#0014-feat-add-clientboundupdatesounddatapacket-id-348)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-09e532cf6e95a910fad867a881b08cc012eb0f89)
+- commit:09e815c65f1dbaa63b0eb21d9b56d112f9ef12db · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/09e815c65f1dbaa63b0eb21d9b56d112f9ef12db)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-329)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-09e815c65f1dbaa63b0eb21d9b56d112f9ef12db)
+- commit:09f76cd64e2e76f6d5cdf4d3c14eefbb2ab28367 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/09f76cd64e2e76f6d5cdf4d3c14eefbb2ab28367)
+  - [Detailed analysis: 0243-09f76cd64e2e](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0243-09f76cd64e2e.md#243-feat-protocol-model-setplayergametypepacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:0a2cf8ce314bd4ad1254cf44d20cba5f91a387d2 · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/0a2cf8ce314bd4ad1254cf44d20cba5f91a387d2)
+  - [Detailed analysis: 0059-0a2cf8ce314b](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0059-0a2cf8ce314b.md#0059-docs-say-which-version-tool-a-change-earns)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:0b8a5bb995c0e0b8b3dd041983a2c2a7d69efc33 · 2026-10-18
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/0b8a5bb995c0e0b8b3dd041983a2c2a7d69efc33)
+  - [Detailed analysis: 0432-0b8a5bb995c0](../sources/commit-review/bedrock-protocol-all/dossiers/0432-0b8a5bb995c0.md#432-feat-protocol-type-block-runtime-ids-as-blockruntimeid)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:0cf48aaf32269e142c5d548c63d8c0fbe21da0fb · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/0cf48aaf32269e142c5d548c63d8c0fbe21da0fb)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-297)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-0cf48aaf32269e142c5d548c63d8c0fbe21da0fb)
+- commit:0d346609a893e34eb2110b50a724072a909687bb · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/0d346609a893e34eb2110b50a724072a909687bb)
+  - [Detailed analysis: 0416-0d346609a893](../sources/commit-review/bedrock-protocol-all/dossiers/0416-0d346609a893.md#416-feat-protocol-back-port-protocol-748)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:0d4180fefe3192533f44fc0e0b7fedbd63cae98e · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/0d4180fefe3192533f44fc0e0b7fedbd63cae98e)
+  - [Detailed analysis: 0191-0d4180fefe31](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0191-0d4180fefe31.md#191-feat-protocol-model-resourcepackstackpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:0e37381bb381ffa09f5f296db4aa218f90962c55 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/0e37381bb381ffa09f5f296db4aa218f90962c55)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-326)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-0e37381bb381ffa09f5f296db4aa218f90962c55)
+- commit:0e55cf1a019b9288733f3aad6e3cd3adaa88d95e · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/0e55cf1a019b9288733f3aad6e3cd3adaa88d95e)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-315)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-0e55cf1a019b9288733f3aad6e3cd3adaa88d95e)
+- commit:0e71af1c5f64bc1fd3aca3936bd77e71d536b945 · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/0e71af1c5f64bc1fd3aca3936bd77e71d536b945)
+  - [Detailed analysis: 0402-0e71af1c5f64](../sources/commit-review/bedrock-protocol-all/dossiers/0402-0e71af1c5f64.md#402-refactor-protocol-give-packet-174-the-pre-cereal-subchunkpos)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:0f4b6b2e39d7372e7b20127fed9ed74192e2ec72 · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/0f4b6b2e39d7372e7b20127fed9ed74192e2ec72)
+  - [Detailed analysis: 0027-0f4b6b2e39d7](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0027-0f4b6b2e39d7.md#0027-feat-add-startgamepacket-id-11)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-0f4b6b2e39d7372e7b20127fed9ed74192e2ec72)
+- commit:0f927f51a3fa78b662aa423a6c684861ed97388f · 2026-07-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/0f927f51a3fa78b662aa423a6c684861ed97388f)
+  - [Detailed analysis: 0010-0f927f51a3fa](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0010-0f927f51a3fa.md#0010-fix-satisfy-ruff-mypy---strict)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:107a4b067f6b4a52507c99c0923491ceaac5ef8c · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/107a4b067f6b4a52507c99c0923491ceaac5ef8c)
+  - [Detailed analysis: 0075-107a4b067f6b](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0075-107a4b067f6b.md#0075-fix-compiler-satisfy-mypy-on-the-endian-kwarg-and-two-nested-type-helpers)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:10d3ab1ced055fa80ac5752427665a141583c248 · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/10d3ab1ced055fa80ac5752427665a141583c248)
+  - [Detailed analysis: 0068-10d3ab1ced05](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0068-10d3ab1ced05.md#0068-feat-protocol-model-containerid-as-the-enum-bds-declares)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-10d3ab1ced055fa80ac5752427665a141583c248)
+- commit:1140a161a9e85823808bfc818c810b39ff703413 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/1140a161a9e85823808bfc818c810b39ff703413)
+  - [Detailed analysis: 0213-1140a161a9e8](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0213-1140a161a9e8.md#213-feat-protocol-model-toastrequestpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:11da793998ba9d8148c07ea0eabe84c5f8e24733 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/11da793998ba9d8148c07ea0eabe84c5f8e24733)
+  - [Detailed analysis: 0085-11da793998ba](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0085-11da793998ba.md#85-feat-protocol-model-levelchunkpacket-at-1001-and-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:129a99ba44330fdc7bb74320238a1edaaf2539a8 · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/129a99ba44330fdc7bb74320238a1edaaf2539a8)
+  - [Detailed analysis: 0394-129a99ba4433](../sources/commit-review/bedrock-protocol-all/dossiers/0394-129a99ba4433.md#394-fix-protocol-textpacket-s-constants-are-not-folded)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:1322a8a143f0e49b1042c3c15fff92465575c287 · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/1322a8a143f0e49b1042c3c15fff92465575c287)
+  - [Detailed analysis: 0032-1322a8a143f0](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0032-1322a8a143f0.md#0032-refactor-compiler-give-the-pool-its-own-memo-as-protoc-does)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:1385ea2677962be1c0456b170084b2e0d2ec1c2f · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/1385ea2677962be1c0456b170084b2e0d2ec1c2f)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-271)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-1385ea2677962be1c0456b170084b2e0d2ec1c2f)
+- commit:13f8cd216b568f64a6c7308c86adda29668ddb54 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/13f8cd216b568f64a6c7308c86adda29668ddb54)
+  - [Detailed analysis: 0362-13f8cd216b56](../sources/commit-review/bedrock-protocol-all/dossiers/0362-13f8cd216b56.md#362-style-tests-reflow-the-data-store-goldens-to-the-configured-width)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:143d1cf03006d203bf7a26d0996b63b6186bccd2 · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/143d1cf03006d203bf7a26d0996b63b6186bccd2)
+  - [Detailed analysis: 0377-143d1cf03006](../sources/commit-review/bedrock-protocol-all/dossiers/0377-143d1cf03006.md#377-docs-add-protocol-work-the-back-port-path-against-1001-and-fold-in-what-it-found)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:15e111311f0d85a5f6d50e9c8e27a2a941e818cc · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/15e111311f0d85a5f6d50e9c8e27a2a941e818cc)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-339)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-15e111311f0d85a5f6d50e9c8e27a2a941e818cc)
+- commit:17089cbb1e2bc8f2ea570edd3da571bd69d90667 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/17089cbb1e2bc8f2ea570edd3da571bd69d90667)
+  - [Detailed analysis: 0244-17089cbb1e2b](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0244-17089cbb1e2b.md#244-feat-protocol-model-animatepacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:1837b5a6b89916eb3e982ed65a29220ed9c217fd · 2026-10-18
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/1837b5a6b89916eb3e982ed65a29220ed9c217fd)
+  - [Detailed analysis: 0430-1837b5a6b899](../sources/commit-review/bedrock-protocol-all/dossiers/0430-1837b5a6b899.md#430-chore-release-0-4-2)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:185c58a8b9af2e2724368cbf85747a793ca74467 · 2026-08-10
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/185c58a8b9af2e2724368cbf85747a793ca74467)
+  - [Detailed analysis: 0140-185c58a8b9af](../sources/commit-review/bedrock-protocol-all/dossiers/0140-185c58a8b9af.md#140-refactor-protocol-drop-easingtype-s-redundant-wire-names)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:186fb3ab6cf18108984331a80591b1f0e60098db · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/186fb3ab6cf18108984331a80591b1f0e60098db)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-319)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-186fb3ab6cf18108984331a80591b1f0e60098db)
+- commit:1871489109ac5eaa5b8f07e181ea8f0c3500e5cf · 2026-10-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/1871489109ac5eaa5b8f07e181ea8f0c3500e5cf)
+  - [Detailed analysis: 0425-1871489109ac](../sources/commit-review/bedrock-protocol-all/dossiers/0425-1871489109ac.md#425-fix-compiler-re-resolve-a-literal-enum-member-per-snapshot)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:19e9203b3eb2d17c51837e12cc94688190d7163e · 2026-07-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/19e9203b3eb2d17c51837e12cc94688190d7163e)
+  - [Detailed analysis: 0013-19e9203b3eb2](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0013-19e9203b3eb2.md#0013-ci-pair-clang-with-libc-libstdc-expected-is-incompatible-with-clang-still-covered-by-the-gcc-job)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-19e9203b3eb2d17c51837e12cc94688190d7163e)
+- commit:19f635600ddf2005e6091df1714f93622ab2b68d · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/19f635600ddf2005e6091df1714f93622ab2b68d)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-263)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-19f635600ddf2005e6091df1714f93622ab2b68d)
+- commit:1aa80d05a3ccfd33125c567725192f14bc3614a3 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/1aa80d05a3ccfd33125c567725192f14bc3614a3)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-330)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-1aa80d05a3ccfd33125c567725192f14bc3614a3)
+- commit:1aee03559c31d4fdb893b069a470d961c92f36a3 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/1aee03559c31d4fdb893b069a470d961c92f36a3)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-311)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-1aee03559c31d4fdb893b069a470d961c92f36a3)
+- commit:1bdbc1881c1f236a7efcb727edc70e0ce5d26713 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/1bdbc1881c1f236a7efcb727edc70e0ce5d26713)
+  - [Detailed analysis: 0101-1bdbc1881c1f](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0101-1bdbc1881c1f.md#101-feat-protocol-model-the-two-scoreboard-packets-at-1001-and-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:1bfea0c294cd15db6d9547aeb74ba9f47a7c1a97 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/1bfea0c294cd15db6d9547aeb74ba9f47a7c1a97)
+  - [Detailed analysis: 0197-1bfea0c294cd](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0197-1bfea0c294cd.md#197-feat-protocol-model-serversettingsrequestpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:1c9354ba223a0cc64ae2b93e279355f3ab5ff461 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/1c9354ba223a0cc64ae2b93e279355f3ab5ff461)
+  - [Detailed analysis: 0094-1c9354ba223a](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0094-1c9354ba223a.md#94-feat-protocol-model-subclientloginpacket)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:1cab48d8028343f04d9a343ce259fd8e9c01a6b3 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/1cab48d8028343f04d9a343ce259fd8e9c01a6b3)
+  - [Detailed analysis: 0169-1cab48d80283](../sources/commit-review/bedrock-protocol-all/dossiers/0169-1cab48d80283.md#169-build-compiler-leave-an-unchanged-generated-file-alone)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:1cfea4edc1cdafc9d626b4ab1ee93ebe56b5fd26 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/1cfea4edc1cdafc9d626b4ab1ee93ebe56b5fd26)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-340)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-1cfea4edc1cdafc9d626b4ab1ee93ebe56b5fd26)
+- commit:1dc4408fd949bdf1eec11daa6373dff1a986d02a · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/1dc4408fd949bdf1eec11daa6373dff1a986d02a)
+  - [Detailed analysis: 0418-1dc4408fd949](../sources/commit-review/bedrock-protocol-all/dossiers/0418-1dc4408fd949.md#418-chore-release-0-2-0)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:1ded2ba5ef3b1e8b655e56a7aab022802ebcbd47 · 2026-09-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/1ded2ba5ef3b1e8b655e56a7aab022802ebcbd47)
+  - [Detailed analysis: 0423-1ded2ba5ef3b](../sources/commit-review/bedrock-protocol-all/dossiers/0423-1ded2ba5ef3b.md#423-refactor-protocol-sink-the-classes-dead-at-2211-to-each-module-s-tail)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:1f7dd02b81f121e6c90918216af8e9336531ec66 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/1f7dd02b81f121e6c90918216af8e9336531ec66)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-312)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-1f7dd02b81f121e6c90918216af8e9336531ec66)
+- commit:1fbc57c745d7bdbde6a0df277647e127d318766c · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/1fbc57c745d7bdbde6a0df277647e127d318766c)
+  - [Detailed analysis: 0352-1fbc57c745d7](../sources/commit-review/bedrock-protocol-all/dossiers/0352-1fbc57c745d7.md#352-test-construct-a-primitive-alias-instead-of-casting-to-it)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:202857a9c1c7e1866db22b655813063a0ae36888 · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/202857a9c1c7e1866db22b655813063a0ae36888)
+  - [Detailed analysis: 0067-202857a9c1c7](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0067-202857a9c1c7.md#0067-docs-name-the-open-wire-question-after-bds-not-gophertunnel)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-202857a9c1c7e1866db22b655813063a0ae36888)
+- commit:20309599361236111d5cd3644cae7a8c2edc58c3 · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/20309599361236111d5cd3644cae7a8c2edc58c3)
+  - [Detailed analysis: 0065-203095993612](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0065-203095993612.md#0065-fix-protocol-nest-the-types-bds-declares-inside-a-class)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:208db02e15518522ff367b51faa281ecdbf964ee · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/208db02e15518522ff367b51faa281ecdbf964ee)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-277)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-208db02e15518522ff367b51faa281ecdbf964ee)
+- commit:20a6c186c341f5fb84984ec2cdc9dc37532b3f22 · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/20a6c186c341f5fb84984ec2cdc9dc37532b3f22)
+  - [Detailed analysis: 0372-20a6c186c341](../sources/commit-review/bedrock-protocol-all/dossiers/0372-20a6c186c341.md#372-refactor-protocol-gate-itemstackrequestcereal-once-not-26-times)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:20ab3e9111f353ec8c275e1fa9218ee5a84b1d44 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/20ab3e9111f353ec8c275e1fa9218ee5a84b1d44)
+  - [Detailed analysis: 0236-20ab3e9111f3](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0236-20ab3e9111f3.md#236-feat-protocol-model-interactpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:2165ce03dd0d2e52417aa465c94b0f106ff5e2fa · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/2165ce03dd0d2e52417aa465c94b0f106ff5e2fa)
+  - [Detailed analysis: 0256-2165ce03dd0d](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0256-2165ce03dd0d.md#256-feat-protocol-model-purchasereceiptpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:221b52d727f297feacfc76ad541f9e4d6637489b · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/221b52d727f297feacfc76ad541f9e4d6637489b)
+  - [Detailed analysis: 0202-221b52d727f2](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0202-221b52d727f2.md#202-feat-protocol-model-clientcachestatuspacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:23c2fe04b9e5f1acaa649df65ba2e02be141e1f5 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/23c2fe04b9e5f1acaa649df65ba2e02be141e1f5)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-305)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-23c2fe04b9e5f1acaa649df65ba2e02be141e1f5)
+- commit:2732e80bf56fd5db1e80bf84c679c62730536e62 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/2732e80bf56fd5db1e80bf84c679c62730536e62)
+  - [Detailed analysis: 0198-2732e80bf56f](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0198-2732e80bf56f.md#198-feat-protocol-model-resourcepackchunkrequestpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:278e6cdc46bc6372faeda54bf6054428acd0b87a · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/278e6cdc46bc6372faeda54bf6054428acd0b87a)
+  - [Detailed analysis: 0410-278e6cdc46bc](../sources/commit-review/bedrock-protocol-all/dossiers/0410-278e6cdc46bc.md#410-fix-protocol-biomedefinitionchunkgendata-gained-mreplacebiomes-at-800-not-859)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:281ceddced1fe537a6406d618fc5d3de498f16c3 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/281ceddced1fe537a6406d618fc5d3de498f16c3)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-264)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-281ceddced1fe537a6406d618fc5d3de498f16c3)
+- commit:28d15204b5d48014ecae38ee19dd55e7a9e7dc71 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/28d15204b5d48014ecae38ee19dd55e7a9e7dc71)
+  - [Detailed analysis: 0199-28d15204b5d4](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0199-28d15204b5d4.md#199-feat-protocol-model-stopsoundpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:2a2d083b6f8b5cf0e9ddce87b27323342924492c · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/2a2d083b6f8b5cf0e9ddce87b27323342924492c)
+  - [Detailed analysis: 0403-2a2d083b6f8b](../sources/commit-review/bedrock-protocol-all/dossiers/0403-2a2d083b6f8b.md#403-feat-protocol-back-port-protocol-818-and-split-819-from-it)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:2aae6c15b9659b62ffacdcbe9ff6c3c7e48301ed · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/2aae6c15b9659b62ffacdcbe9ff6c3c7e48301ed)
+  - [Detailed analysis: 0390-2aae6c15b965](../sources/commit-review/bedrock-protocol-all/dossiers/0390-2aae6c15b965.md#390-docs-add-protocol-fold-in-what-landing-898-taught)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:2b29926ac028e2a8f25a69a25ddd3b0f22aa004a · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/2b29926ac028e2a8f25a69a25ddd3b0f22aa004a)
+  - [Detailed analysis: 0192-2b29926ac028](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0192-2b29926ac028.md#192-feat-protocol-model-resourcepackdatainfopacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:2bd50f95a7f8862f977b1b54ec66f85b38353b37 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/2bd50f95a7f8862f977b1b54ec66f85b38353b37)
+  - [Detailed analysis: 0257-2bd50f95a7f8](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0257-2bd50f95a7f8.md#257-feat-protocol-model-commandblockupdatepacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:2ca659c09ac0d2d07e8b22104bfd695c56f76771 · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/2ca659c09ac0d2d07e8b22104bfd695c56f76771)
+  - [Detailed analysis: 0026-2ca659c09ac0](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0026-2ca659c09ac0.md#0026-docs-spell-a-union-s-discriminator-rather-than-tagging-it)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:2cd05161b68eeebb1658975e4d376e25ac462a5b · 2026-08-06
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/2cd05161b68eeebb1658975e4d376e25ac462a5b)
+  - [Detailed analysis: 0133-2cd05161b68e](../sources/commit-review/bedrock-protocol-all/dossiers/0133-2cd05161b68e.md#133-feat-protocol-model-playeractionpacket-and-setlasthurtbypacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:2d01284222fd8bf13eb1d2043fe77d37b7ddbd16 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/2d01284222fd8bf13eb1d2043fe77d37b7ddbd16)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-292)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-2d01284222fd8bf13eb1d2043fe77d37b7ddbd16)
+- commit:2d18c1c721c0bb79c73e4c0dfd72bc0c83806974 · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/2d18c1c721c0bb79c73e4c0dfd72bc0c83806974)
+  - [Detailed analysis: 0023-2d18c1c721c0](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0023-2d18c1c721c0.md#0023-feat-compiler-implement-builtin-and-port-the-nbt-uuid-runtime)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:2db8656ee4035223796e0259648cdd2dab51e12f · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/2db8656ee4035223796e0259648cdd2dab51e12f)
+  - [Detailed analysis: 0053-2db8656ee403](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0053-2db8656ee403.md#0053-feat-model-graphicsoverrideparameterpacket-id-331-at-both-eras)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:2e4ab8ff7a544a55c80566c96d3eaf6675183f24 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/2e4ab8ff7a544a55c80566c96d3eaf6675183f24)
+  - [Detailed analysis: 0245-2e4ab8ff7a54](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0245-2e4ab8ff7a54.md#245-feat-protocol-model-containeropenpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:2f34aa65e4351a3bf8433e865d7cde74577a5e1e · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/2f34aa65e4351a3bf8433e865d7cde74577a5e1e)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-279)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-2f34aa65e4351a3bf8433e865d7cde74577a5e1e)
+- commit:2fcdb771fa38c12bdd99411f25964d33bb37c088 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/2fcdb771fa38c12bdd99411f25964d33bb37c088)
+  - [Detailed analysis: 0111-2fcdb771fa38](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0111-2fcdb771fa38.md#111-fix-protocol-write-bds-s-spelling-for-resourcepackresponse)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:3074459dceb61cdc1a4ff51e18c1f3e9209b7995 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/3074459dceb61cdc1a4ff51e18c1f3e9209b7995)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-336)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-3074459dceb61cdc1a4ff51e18c1f3e9209b7995)
+- commit:30b35c322cb6e16079b1e25fe7aabf34311f1dcd · 2026-09-15
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/30b35c322cb6e16079b1e25fe7aabf34311f1dcd)
+  - [Detailed analysis: 0419-30b35c322cb6](../sources/commit-review/bedrock-protocol-all/dossiers/0419-30b35c322cb6.md#419-feat-protocol-follow-1-26-50-to-protocol-2193-the-number-it-shipped)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:30d7082b77fb5ef0c543dfa722cfefc3eea67407 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/30d7082b77fb5ef0c543dfa722cfefc3eea67407)
+  - [Detailed analysis: 0114-30d7082b77fb](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0114-30d7082b77fb.md#114-fix-protocol-write-bds-s-spelling-for-updatetype)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:317ab1a98108971566a821201edf58516b44cfb3 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/317ab1a98108971566a821201edf58516b44cfb3)
+  - [Detailed analysis: 0411-317ab1a98108](../sources/commit-review/bedrock-protocol-all/dossiers/0411-317ab1a98108.md#411-feat-protocol-back-port-protocol-776)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:3198b739264a7e0ee48920aa0f77488b25e6d69b · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/3198b739264a7e0ee48920aa0f77488b25e6d69b)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-299)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-3198b739264a7e0ee48920aa0f77488b25e6d69b)
+- commit:32443108021f7f39c9723ac114bb5b422b8a459d · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/32443108021f7f39c9723ac114bb5b422b8a459d)
+  - [Detailed analysis: 0219-32443108021f](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0219-32443108021f.md#219-feat-protocol-model-gametestresultspacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:324fdcfb49e346e3c041f91f4d2632ad9699a114 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/324fdcfb49e346e3c041f91f4d2632ad9699a114)
+  - [Detailed analysis: 0415-324fdcfb49e3](../sources/commit-review/bedrock-protocol-all/dossiers/0415-324fdcfb49e3.md#415-docs-2192-is-the-1-26-50-27-preview-build)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:32b24d87217350dddc26a68383344dd1da2a5b3f · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/32b24d87217350dddc26a68383344dd1da2a5b3f)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-349)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-32b24d87217350dddc26a68383344dd1da2a5b3f)
+- commit:33fdd6c57e406016c4d00638844e566d42e38140 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/33fdd6c57e406016c4d00638844e566d42e38140)
+  - [Detailed analysis: 0178-33fdd6c57e40](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0178-33fdd6c57e40.md#178-feat-protocol-model-removeactorpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:34bac79c563060961e4efd4097f673af33a71662 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/34bac79c563060961e4efd4097f673af33a71662)
+  - [Detailed analysis: 0115-34bac79c5630](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0115-34bac79c5630.md#115-fix-protocol-write-bds-s-spelling-for-persona-piecetype)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:351c25665c5e34652531cb3612e49e28399c7328 · 2026-08-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/351c25665c5e34652531cb3612e49e28399c7328)
+  - [Detailed analysis: 0078-351c25665c5e](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0078-351c25665c5e.md#78-feat-protocol-model-startgamepacket-at-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:358ac253d43d9a7d4f07b303bc98478a66e93f38 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/358ac253d43d9a7d4f07b303bc98478a66e93f38)
+  - [Detailed analysis: 0193-358ac253d43d](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0193-358ac253d43d.md#193-feat-protocol-model-requestchunkradiuspacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:35c7e06665eacc83748192509c93bab5fc6afc93 · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/35c7e06665eacc83748192509c93bab5fc6afc93)
+  - [Detailed analysis: 0386-35c7e06665ea](../sources/commit-review/bedrock-protocol-all/dossiers/0386-35c7e06665ea.md#386-feat-protocol-support-protocol-924)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:36b792ad1743eaa82cad8d052874ca9c3c422b1d · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/36b792ad1743eaa82cad8d052874ca9c3c422b1d)
+  - [Detailed analysis: 0113-36b792ad1743](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0113-36b792ad1743.md#113-fix-compiler-narrow-splitwirename-to-the-value-it-is-actually-given)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:36c16f9251c71f9047c5cb6f73d736e8d1c80f1a · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/36c16f9251c71f9047c5cb6f73d736e8d1c80f1a)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-320)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-36c16f9251c71f9047c5cb6f73d736e8d1c80f1a)
+- commit:37802435f39aa397c4da61cba3030b927b0aff2c · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/37802435f39aa397c4da61cba3030b927b0aff2c)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-288)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-37802435f39aa397c4da61cba3030b927b0aff2c)
+- commit:39637ffc6f754b5692f5ab9728df7ab455eae7c6 · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/39637ffc6f754b5692f5ab9728df7ab455eae7c6)
+  - [Detailed analysis: 0028-39637ffc6f75](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0028-39637ffc6f75.md#0028-refactor-drop-the-enum-wire-types-the-underlying-already-derives)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-39637ffc6f754b5692f5ab9728df7ab455eae7c6)
+- commit:39769f0582b63bf613eccc25626d63772a5a501b · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/39769f0582b63bf613eccc25626d63772a5a501b)
+  - [Detailed analysis: 0355-39769f0582b6](../sources/commit-review/bedrock-protocol-all/dossiers/0355-39769f0582b6.md#355-feat-protocol-model-clientbounddatastorepacket-over-a-dynamicvalue-builtin)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:3a894e71f85403a34221fb8eb6c4d7c89a7e5cf7 · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/3a894e71f85403a34221fb8eb6c4d7c89a7e5cf7)
+  - [Detailed analysis: 0395-3a894e71f854](../sources/commit-review/bedrock-protocol-all/dossiers/0395-3a894e71f854.md#395-feat-protocol-materialize-protocol-859-and-correct-what-it-exposed)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:3bc96771e05c30c10a14c2884167a69ee0d56181 · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/3bc96771e05c30c10a14c2884167a69ee0d56181)
+  - [Detailed analysis: 0055-3bc96771e05c](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0055-3bc96771e05c.md#0055-feat-compiler-re-add-field-count-for-a-list-whose-length-is-written-elsewhere)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:3c3462eb5986c1762240374f3041672a238309eb · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/3c3462eb5986c1762240374f3041672a238309eb)
+  - [Detailed analysis: 0119-3c3462eb5986](../sources/commit-review/bedrock-protocol-all/dossiers/0119-3c3462eb5986.md#119-build-undefine-win32-for-msvc-frontend-consumers)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:3d7f7226782f52ed79fcbcfcd557a641c9296dab · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/3d7f7226782f52ed79fcbcfcd557a641c9296dab)
+  - [Detailed analysis: 0160-3d7f7226782f](../sources/commit-review/bedrock-protocol-all/dossiers/0160-3d7f7226782f.md#160-feat-chunk-follow-2192-s-row-at-a-time-height-map)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:3ddd4d80092450b68787de8f3743dda9a82d0871 · 2026-07-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/3ddd4d80092450b68787de8f3743dda9a82d0871)
+  - [Detailed analysis: 0002-3ddd4d800924](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0002-3ddd4d800924.md#0002-rewrite-the-compiler-from-scratch-protoc-faithful-and-minimal)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-3ddd4d80092450b68787de8f3743dda9a82d0871)
+- commit:3f7ac67367781ba7b36601eb755a6a51584d0bc8 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/3f7ac67367781ba7b36601eb755a6a51584d0bc8)
+  - [Detailed analysis: 0255-3f7ac6736778](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0255-3f7ac6736778.md#255-refactor-protocol-move-commandpermissionlevel-into-command-py)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:3f870512145050ed99af9eca3d9dc7d83dd67fe7 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/3f870512145050ed99af9eca3d9dc7d83dd67fe7)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-306)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-3f870512145050ed99af9eca3d9dc7d83dd67fe7)
+- commit:3fc60531d76f3ccec42a60b18c1369da9d0ce8c5 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/3fc60531d76f3ccec42a60b18c1369da9d0ce8c5)
+  - [Detailed analysis: 0179-3fc60531d76f](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0179-3fc60531d76f.md#179-feat-protocol-model-hurtarmorpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:4031d6346ccd8f9372f8a03f7c313fc317604c4f · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/4031d6346ccd8f9372f8a03f7c313fc317604c4f)
+  - [Detailed analysis: 0363-4031d6346ccd](../sources/commit-review/bedrock-protocol-all/dossiers/0363-4031d6346ccd.md#363-fix-protocol-gate-notpickablefrominside-to-2168)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:414abbc66610ee66709d649a2e45941826c1abdd · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/414abbc66610ee66709d649a2e45941826c1abdd)
+  - [Detailed analysis: 0367-414abbc66610](../sources/commit-review/bedrock-protocol-all/dossiers/0367-414abbc66610.md#367-fix-tests-name-the-item-descriptor-by-version-selector-not-snapshot-namespace)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:41559d0372b357b1cd9f2c9af72f90fad7abb83a · 2026-08-18
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/41559d0372b357b1cd9f2c9af72f90fad7abb83a)
+  - [Detailed analysis: 0154-41559d0372b3](../sources/commit-review/bedrock-protocol-all/dossiers/0154-41559d0372b3.md#154-feat-protocol-follow-1-26-50-26-to-protocol-2192)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:42580b31a62e9d16ff980e337dd6a19976696437 · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/42580b31a62e9d16ff980e337dd6a19976696437)
+  - [Detailed analysis: 0373-42580b31a62e](../sources/commit-review/bedrock-protocol-all/dossiers/0373-42580b31a62e.md#373-fix-protocol-piecetype-was-missing-unknown-unsupported-and-count)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:4326417f7cacd1fd5cd77534b20eab77e7bafc25 · 2026-07-20
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/4326417f7cacd1fd5cd77534b20eab77e7bafc25)
+  - [Detailed analysis: 0039-4326417f7cac](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0039-4326417f7cac.md#0039-feat-model-biomedefinitionlistpacket-id-122)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-4326417f7cacd1fd5cd77534b20eab77e7bafc25)
+- commit:43578c65b85570a5e6a452bc7d09d2c94809b239 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/43578c65b85570a5e6a452bc7d09d2c94809b239)
+  - [Detailed analysis: 0214-43578c65b855](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0214-43578c65b855.md#214-feat-protocol-model-editornetworkpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:438f347f0676cf4c6eec9a49c6796801c29d3061 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/438f347f0676cf4c6eec9a49c6796801c29d3061)
+  - [Detailed analysis: 0413-438f347f0676](../sources/commit-review/bedrock-protocol-all/dossiers/0413-438f347f0676.md#413-feat-protocol-back-port-protocol-766)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:44040ecb86a8b61dd6eba7411cc04d50c82d5316 · 2026-07-20
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/44040ecb86a8b61dd6eba7411cc04d50c82d5316)
+  - [Detailed analysis: 0035-44040ecb86a8](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0035-44040ecb86a8.md#0035-docs-consolidate-claude-md-down-to-the-rules-that-bite)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-44040ecb86a8b61dd6eba7411cc04d50c82d5316)
+- commit:44387534a671c5c17ee3af68290314c5e7e82faf · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/44387534a671c5c17ee3af68290314c5e7e82faf)
+  - [Detailed analysis: 0392-44387534a671](../sources/commit-review/bedrock-protocol-all/dossiers/0392-44387534a671.md#392-fix-protocol-textpacket-carried-its-enumerator-names-on-the-wire-at-898)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:44a5435694b08b079adc9178017d334c29c5ca13 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/44a5435694b08b079adc9178017d334c29c5ca13)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-265)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-44a5435694b08b079adc9178017d334c29c5ca13)
+- commit:44ca5929a3a4e35e569779b85c8d1ba56093783d · 2026-09-08
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/44ca5929a3a4e35e569779b85c8d1ba56093783d)
+  - [Detailed analysis: 0404-44ca5929a3a4](../sources/commit-review/bedrock-protocol-all/dossiers/0404-44ca5929a3a4.md#404-feat-protocol-follow-1-26-60-23-to-protocol-2208)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:45b90b8d290904fd8c71037f53dbf7f72fd360b5 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/45b90b8d290904fd8c71037f53dbf7f72fd360b5)
+  - [Detailed analysis: 0121-45b90b8d2909](../sources/commit-review/bedrock-protocol-all/dossiers/0121-45b90b8d2909.md#121-fix-gamerule-widens-its-integer-case-at-2168)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:4640d187d1dfc3305298549de44771b616f6fcc8 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/4640d187d1dfc3305298549de44771b616f6fcc8)
+  - [Detailed analysis: 0200-4640d187d1df](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0200-4640d187d1df.md#200-feat-protocol-model-modalformrequestpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:4721c82ca96243bbec8e34adc14ff8a475efc84c · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/4721c82ca96243bbec8e34adc14ff8a475efc84c)
+  - [Detailed analysis: 0230-4721c82ca962](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0230-4721c82ca962.md#230-feat-protocol-model-takeitemactorpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:47b7d6917c9e2f59d502b4ca9a9d917434c89512 · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/47b7d6917c9e2f59d502b4ca9a9d917434c89512)
+  - [Detailed analysis: 0066-47b7d6917c9e](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0066-47b7d6917c9e.md#0066-test-re-run-every-golden-through-gophertunnel-strip-the-byte-labels)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:48257e1d64a0efc4fbac4a18f199ebb488d741cc · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/48257e1d64a0efc4fbac4a18f199ebb488d741cc)
+  - [Detailed analysis: 0225-48257e1d64a0](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0225-48257e1d64a0.md#225-feat-protocol-model-resourcepacksreadyforvalidationpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:482876d97b7fc96c6ee6395ef5f7900bf3bf9606 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/482876d97b7fc96c6ee6395ef5f7900bf3bf9606)
+  - [Detailed analysis: 0093-482876d97b7f](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0093-482876d97b7f.md#93-feat-protocol-model-the-two-resource-pack-handshake-packets-at-1001-and-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:49045b990cd949db8ed5869f5fa0db078db7eba6 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/49045b990cd949db8ed5869f5fa0db078db7eba6)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-291)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-49045b990cd949db8ed5869f5fa0db078db7eba6)
+- commit:49b4c8991d304a3220f40c8e7c55036239136caf · 2026-10-18
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/49b4c8991d304a3220f40c8e7c55036239136caf)
+  - [Detailed analysis: 0429-49b4c8991d30](../sources/commit-review/bedrock-protocol-all/dossiers/0429-49b4c8991d30.md#429-chore-release-0-4-1)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:4a014f218d6ed127c8af0f8af9ca8f448c5fc42f · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/4a014f218d6ed127c8af0f8af9ca8f448c5fc42f)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-293)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-4a014f218d6ed127c8af0f8af9ca8f448c5fc42f)
+- commit:4b190c22a2e256db2e7b04ab5c977a2f9cf51116 · 2026-07-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/4b190c22a2e256db2e7b04ab5c977a2f9cf51116)
+  - [Detailed analysis: 0012-4b190c22a2e2](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0012-4b190c22a2e2.md#0012-ci-build-on-gcc-clang-and-msvc-with-native-stdlibs-not-just-libc)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-4b190c22a2e256db2e7b04ab5c977a2f9cf51116)
+- commit:4b67bd01d8a65b6b4cd8251806b217eb1b66591f · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/4b67bd01d8a65b6b4cd8251806b217eb1b66591f)
+  - [Detailed analysis: 0208-4b67bd01d8a6](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0208-4b67bd01d8a6.md#208-feat-protocol-model-settingscommandpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:4bfdd4f4a417918a8eca1c856e36a8ced9092a13 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/4bfdd4f4a417918a8eca1c856e36a8ced9092a13)
+  - [Detailed analysis: 0124-4bfdd4f4a417](../sources/commit-review/bedrock-protocol-all/dossiers/0124-4bfdd4f4a417.md#124-feat-size-a-bitset-by-an-enum-member)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:4d4d7f1b14ca6728966b56a8511d2a043b46aa10 · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/4d4d7f1b14ca6728966b56a8511d2a043b46aa10)
+  - [Detailed analysis: 0368-4d4d7f1b14ca](../sources/commit-review/bedrock-protocol-all/dossiers/0368-4d4d7f1b14ca.md#368-style-protocol-drop-redundant-wire-pairs-duplicate-docstrings-and-settled-todos)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:4fd2c72e9096adcb0170758691007088739b7f8e · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/4fd2c72e9096adcb0170758691007088739b7f8e)
+  - [Detailed analysis: 0194-4fd2c72e9096](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0194-4fd2c72e9096.md#194-feat-protocol-model-setcommandsenabledpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:5027fb7f84a6d67468dd79100273ecaa5046e9a0 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/5027fb7f84a6d67468dd79100273ecaa5046e9a0)
+  - [Detailed analysis: 0215-5027fb7f84a6](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0215-5027fb7f84a6.md#215-feat-protocol-model-requestpermissionspacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:5049e83dc4836bfcacd9579231dca6cb80b3e0c1 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/5049e83dc4836bfcacd9579231dca6cb80b3e0c1)
+  - [Detailed analysis: 0231-5049e83dc483](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0231-5049e83dc483.md#231-feat-protocol-model-updateblockpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:5114938dfaf6bb6806fd7cd5338e0bfc2471188f · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/5114938dfaf6bb6806fd7cd5338e0bfc2471188f)
+  - [Detailed analysis: 0052-5114938dfaf6](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0052-5114938dfaf6.md#0052-feat-model-primitiveshapespacket-id-328-at-both-eras)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-5114938dfaf6bb6806fd7cd5338e0bfc2471188f)
+- commit:51ae464a036222d101eb324dda4d9a215f4c3d2d · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/51ae464a036222d101eb324dda4d9a215f4c3d2d)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-262)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-51ae464a036222d101eb324dda4d9a215f4c3d2d)
+- commit:53255ebe68d1b063c11e02750f4e47bd0fe41d78 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/53255ebe68d1b063c11e02750f4e47bd0fe41d78)
+  - [Detailed analysis: 0184-53255ebe68d1](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0184-53255ebe68d1.md#184-feat-protocol-model-sethealthpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:54cd47bf0b715dfcf7ef21f17759ac898ce961ec · 2026-08-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/54cd47bf0b715dfcf7ef21f17759ac898ce961ec)
+  - [Detailed analysis: 0149-54cd47bf0b71](../sources/commit-review/bedrock-protocol-all/dossiers/0149-54cd47bf0b71.md#149-fix-compiler-a-nameless-enum-value-writes-an-empty-string-not-nothing)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:54eb4a420da83beb5aac3cf964305ff8d34b9480 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/54eb4a420da83beb5aac3cf964305ff8d34b9480)
+  - [Detailed analysis: 0102-54eb4a420da8](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0102-54eb4a420da8.md#102-feat-protocol-model-structureblockupdatepacket-at-1001-and-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:55337540f0947742eb5f4b5291929de07a118b7c · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/55337540f0947742eb5f4b5291929de07a118b7c)
+  - [Detailed analysis: 0212-55337540f094](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0212-55337540f094.md#212-feat-protocol-model-textpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:55408c586ec1a8b0537eab4b5d3632c85832ad85 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/55408c586ec1a8b0537eab4b5d3632c85832ad85)
+  - [Detailed analysis: 0220-55408c586ec1](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0220-55408c586ec1.md#220-feat-protocol-model-playertogglecrafterslotrequestpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:568c019d69d591c1a0ee468a8dfd143c89450cf2 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/568c019d69d591c1a0ee468a8dfd143c89450cf2)
+  - [Detailed analysis: 0353-568c019d69d5](../sources/commit-review/bedrock-protocol-all/dossiers/0353-568c019d69d5.md#353-feat-build-ship-an-install-tree-a-cmake-package-and-ci-artifacts)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:57beb0fdc67b122e9c7b976f55310b7f27d68a3d · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/57beb0fdc67b122e9c7b976f55310b7f27d68a3d)
+  - [Detailed analysis: 0108-57beb0fdc67b](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0108-57beb0fdc67b.md#108-feat-protocol-model-playerauthinputpacket-at-1001-and-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:582d55dbdbd0a1820d3d2c512b8c58a9352f50b8 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/582d55dbdbd0a1820d3d2c512b8c58a9352f50b8)
+  - [Detailed analysis: 0417-582d55dbdbd0](../sources/commit-review/bedrock-protocol-all/dossiers/0417-582d55dbdbd0.md#417-feat-protocol-back-port-protocol-729)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:584cd74576ba746b567425204373c2d622ceaf3f · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/584cd74576ba746b567425204373c2d622ceaf3f)
+  - [Detailed analysis: 0117-584cd74576ba](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0117-584cd74576ba.md#117-feat-protocol-split-networkitemstackdescriptor-from-its-cerealizer-form)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:5a997a99c50a9d3d7593486eaf15650cdb1f906b · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/5a997a99c50a9d3d7593486eaf15650cdb1f906b)
+  - [Detailed analysis: 0161-5a997a99c50a](../sources/commit-review/bedrock-protocol-all/dossiers/0161-5a997a99c50a.md#161-fix-compiler-ask-the-version-question-of-each-nested-type-not-the-group)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:5aa7780d6ccd2b85268aea1f5714997a54a9b239 · 2026-07-20
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/5aa7780d6ccd2b85268aea1f5714997a54a9b239)
+  - [Detailed analysis: 0036-5aa7780d6ccd](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0036-5aa7780d6ccd.md#0036-feat-model-levelsoundevent-adding-the-983-sound-events)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-5aa7780d6ccd2b85268aea1f5714997a54a9b239)
+- commit:5ac14219737f09d3b44f4d00f4e8f82a9980b182 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/5ac14219737f09d3b44f4d00f4e8f82a9980b182)
+  - [Detailed analysis: 0087-5ac14219737f](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0087-5ac14219737f.md#87-feat-protocol-model-playsoundpacket-at-1001-and-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:5ba431143fb066c8fbba746f99cd4ac401c13fc6 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/5ba431143fb066c8fbba746f99cd4ac401c13fc6)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-345)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-5ba431143fb066c8fbba746f99cd4ac401c13fc6)
+- commit:5c57ab7fb605582c8238ab90138cff1ed04ab37d · 2026-08-10
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/5c57ab7fb605582c8238ab90138cff1ed04ab37d)
+  - [Detailed analysis: 0145-5c57ab7fb605](../sources/commit-review/bedrock-protocol-all/dossiers/0145-5c57ab7fb605.md#145-fix-tests-the-latest-version-alias-comes-from-the-dsl-surface)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:5de1f3af4d53955c360c34c3d27fbe29b4dfb16e · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/5de1f3af4d53955c360c34c3d27fbe29b4dfb16e)
+  - [Detailed analysis: 0171-5de1f3af4d53](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0171-5de1f3af4d53.md#171-feat-protocol-model-respawnpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:5dfcffd20b2014314bb1455b65195003001b315c · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/5dfcffd20b2014314bb1455b65195003001b315c)
+  - [Detailed analysis: 0216-5dfcffd20b20](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0216-5dfcffd20b20.md#216-feat-protocol-model-tickingareasloadstatuspacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:5e9b28c68fb25741ae6613f3c29a157fd391bca9 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/5e9b28c68fb25741ae6613f3c29a157fd391bca9)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-272)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-5e9b28c68fb25741ae6613f3c29a157fd391bca9)
+- commit:5f6aff0b98a9d1dfaf18c03d9f400243d3ee5253 · 2026-08-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/5f6aff0b98a9d1dfaf18c03d9f400243d3ee5253)
+  - [Detailed analysis: 0150-5f6aff0b98a9](../sources/commit-review/bedrock-protocol-all/dossiers/0150-5f6aff0b98a9.md#150-feat-protocol-model-itemregistrypacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:5f80951e03aa41f03fb85d9429fb7fe80e333662 · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/5f80951e03aa41f03fb85d9429fb7fe80e333662)
+  - [Detailed analysis: 0033-5f80951e03aa](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0033-5f80951e03aa.md#0033-refactor-compiler-separate-opening-files-from-parsing-them)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:60091e419959a69bd51aed2483158c5b450ff700 · 2026-10-18
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/60091e419959a69bd51aed2483158c5b450ff700)
+  - [Detailed analysis: 0431-60091e419959](../sources/commit-review/bedrock-protocol-all/dossiers/0431-60091e419959.md#431-fix-compiler-let-a-derived-enum-member-name-its-number)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:6086b510c0ab26a92437934c6df89adb4d6d0a81 · 2026-07-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/6086b510c0ab26a92437934c6df89adb4d6d0a81)
+  - [Detailed analysis: 0008-6086b510c0ab](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0008-6086b510c0ab.md#0008-refactor-drop-bedrock-expected-hpp-use-std-unexpected-directly)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:60b92a9ed1534bd74e6d7f1e82152aa1c253fc4d · 2026-08-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/60b92a9ed1534bd74e6d7f1e82152aa1c253fc4d)
+  - [Detailed analysis: 0152-60b92a9ed153](../sources/commit-review/bedrock-protocol-all/dossiers/0152-60b92a9ed153.md#152-feat-protocol-correct-1-26-50-to-protocol-2187-and-model-its-additions)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:60ebe161bbbc2945606a450260e23478183c7edd · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/60ebe161bbbc2945606a450260e23478183c7edd)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-266)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-60ebe161bbbc2945606a450260e23478183c7edd)
+- commit:60f707e840dc0a3002382a53e24c02e32def51f0 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/60f707e840dc0a3002382a53e24c02e32def51f0)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-300)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-60f707e840dc0a3002382a53e24c02e32def51f0)
+- commit:610cb8561b2826c9d20fd5eca3dc12b8a51618b3 · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/610cb8561b2826c9d20fd5eca3dc12b8a51618b3)
+  - [Detailed analysis: 0364-610cb8561b28](../sources/commit-review/bedrock-protocol-all/dossiers/0364-610cb8561b28.md#364-fix-protocol-remove-double-optional-from-removescore)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:61c0cfea27f1e7a2549331b3bd1a588cbdb4fc22 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/61c0cfea27f1e7a2549331b3bd1a588cbdb4fc22)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-307)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-61c0cfea27f1e7a2549331b3bd1a588cbdb4fc22)
+- commit:6217c44fb23c5a63cfa318fd7fd0539e6bae9746 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/6217c44fb23c5a63cfa318fd7fd0539e6bae9746)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-346)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-6217c44fb23c5a63cfa318fd7fd0539e6bae9746)
+- commit:62e191fef276871a4b457a94c9c36047d5ced933 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/62e191fef276871a4b457a94c9c36047d5ced933)
+  - [Detailed analysis: 0221-62e191fef276](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0221-62e191fef276.md#221-feat-protocol-model-awardachievementpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:634bc019ef865295895002b5dffb754b886f40ef · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/634bc019ef865295895002b5dffb754b886f40ef)
+  - [Detailed analysis: 0358-634bc019ef86](../sources/commit-review/bedrock-protocol-all/dossiers/0358-634bc019ef86.md#358-feat-protocol-size-the-actor-data-flags-by-actorflags)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:641ee118a70278bafd0f03dd1b8871d1115b3e88 · 2026-08-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/641ee118a70278bafd0f03dd1b8871d1115b3e88)
+  - [Detailed analysis: 0081-641ee118a702](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0081-641ee118a702.md#81-feat-protocol-add-levelsoundevent-s-2168-members)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:663b5689e48e11479297f06b693a7ada1f1f0d18 · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/663b5689e48e11479297f06b693a7ada1f1f0d18)
+  - [Detailed analysis: 0162-663b5689e48e](../sources/commit-review/bedrock-protocol-all/dossiers/0162-663b5689e48e.md#162-feat-compiler-spell-a-fixed-length-member-array-t-n)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:66441d3576dc7d1eea2c8733415f897194a42e16 · 2026-08-05
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/66441d3576dc7d1eea2c8733415f897194a42e16)
+  - [Detailed analysis: 0128-66441d3576dc](../sources/commit-review/bedrock-protocol-all/dossiers/0128-66441d3576dc.md#128-refactor-protocol-gamerule-s-two-shapes-stand-apart-on-the-cereal-axis)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:6648885233ea5590fe135d4a9e8cc76c456877de · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/6648885233ea5590fe135d4a9e8cc76c456877de)
+  - [Detailed analysis: 0174-6648885233ea](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0174-6648885233ea.md#174-feat-protocol-leave-a-packet-s-own-types-ungated)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:67c2333b2b10875170ee462529ae5bf3558602b5 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/67c2333b2b10875170ee462529ae5bf3558602b5)
+  - [Detailed analysis: 0258-67c2333b2b10](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0258-67c2333b2b10.md#258-feat-protocol-model-availablecommandspacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:67c462f86ec6fffc5d6e05c79cac25ef722d67d4 · 2026-10-18
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/67c462f86ec6fffc5d6e05c79cac25ef722d67d4)
+  - [Detailed analysis: 0428-67c462f86ec6](../sources/commit-review/bedrock-protocol-all/dossiers/0428-67c462f86ec6.md#428-fix-protocol-name-the-latest-command-version)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:68281cef3220749130e87e2d34c07f8048ed7846 · 2026-09-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/68281cef3220749130e87e2d34c07f8048ed7846)
+  - [Detailed analysis: 0422-68281cef3220](../sources/commit-review/bedrock-protocol-all/dossiers/0422-68281cef3220.md#422-feat-protocol-follow-1-26-60-25-to-protocol-2211)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:68e851fe773ca5c4cc69c4dfde8a46c01d6bd061 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/68e851fe773ca5c4cc69c4dfde8a46c01d6bd061)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-341)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-68e851fe773ca5c4cc69c4dfde8a46c01d6bd061)
+- commit:697593effe4af85125a3fa9cfa1c3a34a746a9b3 · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/697593effe4af85125a3fa9cfa1c3a34a746a9b3)
+  - [Detailed analysis: 0374-697593effe4a](../sources/commit-review/bedrock-protocol-all/dossiers/0374-697593effe4a.md#374-fix-protocol-carry-the-enum-members-bds-ships-but-the-dump-never-bound)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:69ad35254ee4e8cb7d096d8e2b60e29e06ff6f90 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/69ad35254ee4e8cb7d096d8e2b60e29e06ff6f90)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-325)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-69ad35254ee4e8cb7d096d8e2b60e29e06ff6f90)
+- commit:6a42aa2274c1f1b7632bdbb16e30d5146fdc24de · 2026-08-05
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/6a42aa2274c1f1b7632bdbb16e30d5146fdc24de)
+  - [Detailed analysis: 0129-6a42aa2274c1](../sources/commit-review/bedrock-protocol-all/dossiers/0129-6a42aa2274c1.md#129-refactor-protocol-packet-144-s-transaction-stands-apart-on-the-cereal-axis)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:6b35b4685a2d2b4008fd455e07ca004ec50c504c · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/6b35b4685a2d2b4008fd455e07ca004ec50c504c)
+  - [Detailed analysis: 0045-6b35b4685a2d](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0045-6b35b4685a2d.md#0045-feat-compiler-version-a-type-alias-over-versioned-types)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-6b35b4685a2d2b4008fd455e07ca004ec50c504c)
+- commit:6b58e1258a0fea75c322d05cf44cb53217dc70fe · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/6b58e1258a0fea75c322d05cf44cb53217dc70fe)
+  - [Detailed analysis: 0089-6b58e1258a0f](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0089-6b58e1258a0f.md#89-feat-protocol-model-trimdatapacket)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:6e7e86f95397b88fb95dd9b7346b3dee6abae087 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/6e7e86f95397b88fb95dd9b7346b3dee6abae087)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-267)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-6e7e86f95397b88fb95dd9b7346b3dee6abae087)
+- commit:6edece271e001b1cc71f732a52e538bfca600ebb · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/6edece271e001b1cc71f732a52e538bfca600ebb)
+  - [Detailed analysis: 0177-6edece271e00](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0177-6edece271e00.md#177-feat-protocol-model-settimepacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:703e790b39a8f31f4db583ba36e3c627a2504bc1 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/703e790b39a8f31f4db583ba36e3c627a2504bc1)
+  - [Detailed analysis: 0116-703e790b39a8](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0116-703e790b39a8.md#116-feat-protocol-model-memorycategory-and-packet-315-at-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:70aa757271452946d3ae878a9eb944a2558d7f45 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/70aa757271452946d3ae878a9eb944a2558d7f45)
+  - [Detailed analysis: 0112-70aa75727145](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0112-70aa75727145.md#112-fix-protocol-write-bds-s-spelling-for-scorepacketentryaction)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:71d329e96e237749bb47e1876295f24083507436 · 2026-08-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/71d329e96e237749bb47e1876295f24083507436)
+  - [Detailed analysis: 0077-71d329e96e23](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0077-71d329e96e23.md#77-feat-protocol-reshape-presenceconfiguration-at-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:71f013cf5d00a9fa55d512d3842da75000c4c912 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/71f013cf5d00a9fa55d512d3842da75000c4c912)
+  - [Detailed analysis: 0084-71f013cf5d00](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0084-71f013cf5d00.md#84-refactor-tests-extract-the-shared-packet-round-trip-helpers-into-a-fixture)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:73197d0e7861cc91cecd2b5ec4569fa2a3ec192a · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/73197d0e7861cc91cecd2b5ec4569fa2a3ec192a)
+  - [Detailed analysis: 0209-73197d0e7861](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0209-73197d0e7861.md#209-feat-protocol-model-createphotopacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:738a02adf965d2f3fbce4e4bc8f4d0bb76530463 · 2026-07-20
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/738a02adf965d2f3fbce4e4bc8f4d0bb76530463)
+  - [Detailed analysis: 0038-738a02adf965](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0038-738a02adf965.md#0038-feat-compiler-resolve-auto-per-snapshot-so-a-sentinel-counts-its-own-version)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:73ec1b30c8c04a4fb1ad572ddd9bb229b690e4d6 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/73ec1b30c8c04a4fb1ad572ddd9bb229b690e4d6)
+  - [Detailed analysis: 0354-73ec1b30c8c0](../sources/commit-review/bedrock-protocol-all/dossiers/0354-73ec1b30c8c0.md#354-docs-license-under-mit)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:74ebfe73d48c1aeda6ffdb3fe9e33ca0983fc097 · 2026-07-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/74ebfe73d48c1aeda6ffdb3fe9e33ca0983fc097)
+  - [Detailed analysis: 0003-74ebfe73d48c](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0003-74ebfe73d48c.md#0003-test-document-golden-as-cloudburstmc-structure-bds-uppercase-case-patch)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:753f0d08f1ba3d56f309ee2be0a5ed248ca21b34 · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/753f0d08f1ba3d56f309ee2be0a5ed248ca21b34)
+  - [Detailed analysis: 0384-753f0d08f1ba](../sources/commit-review/bedrock-protocol-all/dossiers/0384-753f0d08f1ba.md#384-fix-compiler-emit-a-serializer-for-a-type-nested-inside-a-versioned-one)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:754bcd92c9d8f552237e9387e923f95ddc881e97 · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/754bcd92c9d8f552237e9387e923f95ddc881e97)
+  - [Detailed analysis: 0017-754bcd92c9d8](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0017-754bcd92c9d8.md#0017-docs-record-protocol-sourcing-and-enum-modelling-rules)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:7588f48890e500ec7114205e7a9f7d16b5849e65 · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/7588f48890e500ec7114205e7a9f7d16b5849e65)
+  - [Detailed analysis: 0401-7588f48890e5](../sources/commit-review/bedrock-protocol-all/dossiers/0401-7588f48890e5.md#401-feat-protocol-back-port-protocol-827)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:75be501eeb4a20b5f66474e9aa630ee69a9e9d9b · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/75be501eeb4a20b5f66474e9aa630ee69a9e9d9b)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-347)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-75be501eeb4a20b5f66474e9aa630ee69a9e9d9b)
+- commit:76125162250fbd523c1d9875b35b533563040877 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/76125162250fbd523c1d9875b35b533563040877)
+  - [Detailed analysis: 0249-76125162250f](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0249-76125162250f.md#249-feat-protocol-model-spawnexperienceorbpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:762bd73c5d595d582db6927604f5b10b361271a2 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/762bd73c5d595d582db6927604f5b10b361271a2)
+  - [Detailed analysis: 0176-762bd73c5d59](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0176-762bd73c5d59.md#176-feat-protocol-model-playstatuspacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:781dc4f5eb67e409729f6df35a34c4cf9ad526f2 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/781dc4f5eb67e409729f6df35a34c4cf9ad526f2)
+  - [Detailed analysis: 0195-781dc4f5eb67](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0195-781dc4f5eb67.md#195-feat-protocol-model-setdifficultypacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:7937532f53e24093a56b02563c76d323fe53186b · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/7937532f53e24093a56b02563c76d323fe53186b)
+  - [Detailed analysis: 0393-7937532f53e2](../sources/commit-review/bedrock-protocol-all/dossiers/0393-7937532f53e2.md#393-docs-a-bind-function-says-what-is-bound-not-what-is-written)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:7999b44b9f1232643747e7aa94ae6fef412cbc79 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/7999b44b9f1232643747e7aa94ae6fef412cbc79)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-280)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-7999b44b9f1232643747e7aa94ae6fef412cbc79)
+- commit:7a7f33af070995e9f69aa2d36996376f09742e6a · 2026-08-10
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/7a7f33af070995e9f69aa2d36996376f09742e6a)
+  - [Detailed analysis: 0143-7a7f33af0709](../sources/commit-review/bedrock-protocol-all/dossiers/0143-7a7f33af0709.md#143-feat-compiler-an-enum-s-underlying-type-is-per-declaration)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:7ac93bb26475779b493ac8eb7912b6bc6560b7c7 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/7ac93bb26475779b493ac8eb7912b6bc6560b7c7)
+  - [Detailed analysis: 0100-7ac93bb26475](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0100-7ac93bb26475.md#100-feat-protocol-model-playerskinpacket-at-1001-and-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:7b9d1ded6db3f116452183dff431a63517a1aa93 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/7b9d1ded6db3f116452183dff431a63517a1aa93)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-269)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-7b9d1ded6db3f116452183dff431a63517a1aa93)
+- commit:7bd72be244f8043b1341b979eb1949e552f4f0fa · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/7bd72be244f8043b1341b979eb1949e552f4f0fa)
+  - [Detailed analysis: 0226-7bd72be244f8](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0226-7bd72be244f8.md#226-feat-protocol-model-clientbounddatadrivenuireloadpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:7bea68d432a1b770481f1f3b0daa21de57f153bc · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/7bea68d432a1b770481f1f3b0daa21de57f153bc)
+  - [Detailed analysis: 0158-7bea68d432a1](../sources/commit-review/bedrock-protocol-all/dossiers/0158-7bea68d432a1.md#158-feat-compiler-emit-field-reflection-for-every-generated-struct)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:7c70231710969cc78620a487b593076889dbc07d · 2026-08-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/7c70231710969cc78620a487b593076889dbc07d)
+  - [Detailed analysis: 0151-7c7023171096](../sources/commit-review/bedrock-protocol-all/dossiers/0151-7c7023171096.md#151-test-follow-the-inputdata-list-into-packet-144-s-goldens)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:7d3f1e1f7396ddddcc6cb71c84c6a2e310f92246 · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/7d3f1e1f7396ddddcc6cb71c84c6a2e310f92246)
+  - [Detailed analysis: 0375-7d3f1e1f7396](../sources/commit-review/bedrock-protocol-all/dossiers/0375-7d3f1e1f7396.md#375-feat-compiler-derive-the-c-enumerator-and-let-a-member-be-defined-against-a-sibling)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:7db8d5d7046003f8cd18137bc7c6fa65c776d5fe · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/7db8d5d7046003f8cd18137bc7c6fa65c776d5fe)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-301)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-7db8d5d7046003f8cd18137bc7c6fa65c776d5fe)
+- commit:7e46677ee59aec4a1b90ff9a08042063b210a319 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/7e46677ee59aec4a1b90ff9a08042063b210a319)
+  - [Detailed analysis: 0408-7e46677ee59a](../sources/commit-review/bedrock-protocol-all/dossiers/0408-7e46677ee59a.md#408-feat-protocol-back-port-protocol-800)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:7e52d71ef005c993d8a0e0bfc2bda7f3c1f1fe35 · 2026-08-18
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/7e52d71ef005c993d8a0e0bfc2bda7f3c1f1fe35)
+  - [Detailed analysis: 0156-7e52d71ef005](../sources/commit-review/bedrock-protocol-all/dossiers/0156-7e52d71ef005.md#156-docs-shorten-the-skill-name-to-bump-protocol)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:7e54ed5612787973a6bb7e9c425718b054a320c9 · 2026-10-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/7e54ed5612787973a6bb7e9c425718b054a320c9)
+  - [Detailed analysis: 0427-7e54ed561278](../sources/commit-review/bedrock-protocol-all/dossiers/0427-7e54ed561278.md#427-chore-release-0-4-0)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:7e703b4701081313632924a5c05560245f8ad9ee · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/7e703b4701081313632924a5c05560245f8ad9ee)
+  - [Detailed analysis: 0414-7e703b470108](../sources/commit-review/bedrock-protocol-all/dossiers/0414-7e703b470108.md#414-fix-protocol-the-camera-aim-assist-exclusion-struct-arrives-at-898)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:7f5f0f57b567c6b02bacbdd0c1fe1d1c5f62dd46 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/7f5f0f57b567c6b02bacbdd0c1fe1d1c5f62dd46)
+  - [Detailed analysis: 0103-7f5f0f57b567](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0103-7f5f0f57b567.md#103-feat-protocol-model-playerlistpacket-at-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:804026af76ad72584bfc92d0d3bfc102c964e431 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/804026af76ad72584bfc92d0d3bfc102c964e431)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-313)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-804026af76ad72584bfc92d0d3bfc102c964e431)
+- commit:80e677fcf72eac961b9851e641c6311b922c3d7c · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/80e677fcf72eac961b9851e641c6311b922c3d7c)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-316)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-80e677fcf72eac961b9851e641c6311b922c3d7c)
+- commit:81085b1d8eca271e41e1201f6850b1e0f3e25c18 · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/81085b1d8eca271e41e1201f6850b1e0f3e25c18)
+  - [Detailed analysis: 0058-81085b1d8eca](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0058-81085b1d8eca.md#0058-feat-model-inventorycontentpacket-id-49-at-both-eras)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:81174f7329bfa887607d2c4288acfd29dfe6b4e0 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/81174f7329bfa887607d2c4288acfd29dfe6b4e0)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-308)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-81174f7329bfa887607d2c4288acfd29dfe6b4e0)
+- commit:8216e3cc44fd3e9a4f3af5187b6e5795512f3daa · 2026-08-05
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/8216e3cc44fd3e9a4f3af5187b6e5795512f3daa)
+  - [Detailed analysis: 0127-8216e3cc44fd](../sources/commit-review/bedrock-protocol-all/dossiers/0127-8216e3cc44fd.md#127-feat-compiler-field-cereal-picks-between-a-type-s-two-wire-shapes)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:832183416f0bfd452889fc2d90e7e6f0ece7e60d · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/832183416f0bfd452889fc2d90e7e6f0ece7e60d)
+  - [Detailed analysis: 0400-832183416f0b](../sources/commit-review/bedrock-protocol-all/dossiers/0400-832183416f0b.md#400-feat-protocol-back-port-protocol-844)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:832199b6b11bd97632bee160342c286940928b64 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/832199b6b11bd97632bee160342c286940928b64)
+  - [Detailed analysis: 0106-832199b6b11b](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0106-832199b6b11b.md#106-feat-protocol-model-clientboundmapitemdatapacket-at-1001-and-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:8329fb7d81c384cebe80cb14edea17d1ccb9f7d9 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/8329fb7d81c384cebe80cb14edea17d1ccb9f7d9)
+  - [Detailed analysis: 0092-8329fb7d81c3](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0092-8329fb7d81c3.md#92-feat-protocol-model-craftingdata-and-creativecontent-at-1001-and-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:84bdb837c1a15673fb06c11280c0c5f1d6b28338 · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/84bdb837c1a15673fb06c11280c0c5f1d6b28338)
+  - [Detailed analysis: 0018-84bdb837c1a1](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0018-84bdb837c1a1.md#0018-feat-model-memorycategory-in-full)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-84bdb837c1a15673fb06c11280c0c5f1d6b28338)
+- commit:85249be34397600f5b4332143037926ba56bfd91 · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/85249be34397600f5b4332143037926ba56bfd91)
+  - [Detailed analysis: 0396-85249be34397](../sources/commit-review/bedrock-protocol-all/dossiers/0396-85249be34397.md#396-feat-compiler-let-a-literal-name-the-enumerator-bds-pinned)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:85a12f8ff461e57ccab4f3ef115a4d2e481a242c · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/85a12f8ff461e57ccab4f3ef115a4d2e481a242c)
+  - [Detailed analysis: 0109-85a12f8ff461](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0109-85a12f8ff461.md#109-feat-protocol-model-subchunkpacket-at-1001-and-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:85f3df071da4f59e1956afe25e77b54e97d2d9ba · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/85f3df071da4f59e1956afe25e77b54e97d2d9ba)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-331)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-85f3df071da4f59e1956afe25e77b54e97d2d9ba)
+- commit:865d1bca1dc449a6d581866ab9aea32dc27c5eab · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/865d1bca1dc449a6d581866ab9aea32dc27c5eab)
+  - [Detailed analysis: 0054-865d1bca1dc4](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0054-865d1bca1dc4.md#0054-feat-model-levelsoundeventpacket-id-123-at-both-eras)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:867ff6590321f62d7ee27e0b8689632a9e6e3c8b · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/867ff6590321f62d7ee27e0b8689632a9e6e3c8b)
+  - [Detailed analysis: 0047-867ff6590321](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0047-867ff6590321.md#0047-feat-add-minecrafteventing-interactiontype-with-986-s-equipping)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-867ff6590321f62d7ee27e0b8689632a9e6e3c8b)
+- commit:874e1516b0c1109ea1213d5dbe3c690f0aa1aa8e · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/874e1516b0c1109ea1213d5dbe3c690f0aa1aa8e)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-317)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-874e1516b0c1109ea1213d5dbe3c690f0aa1aa8e)
+- commit:88484a82c855fcd37d8a96a2631d8f75b01a9208 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/88484a82c855fcd37d8a96a2631d8f75b01a9208)
+  - [Detailed analysis: 0203-88484a82c855](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0203-88484a82c855.md#203-feat-protocol-model-setdisplayobjectivepacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:89a9452ce7e29358356eb3684bfcd3b9d7ceaf4a · 2026-07-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/89a9452ce7e29358356eb3684bfcd3b9d7ceaf4a)
+  - [Detailed analysis: 0004-89a9452ce7e2](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0004-89a9452ce7e2.md#0004-refactor-cpp-rename-messagegenerator---classgenerator)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-89a9452ce7e29358356eb3684bfcd3b9d7ceaf4a)
+- commit:8a5dc6a16b8e1fd524714d187fd1cadbd8e64921 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/8a5dc6a16b8e1fd524714d187fd1cadbd8e64921)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-342)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-8a5dc6a16b8e1fd524714d187fd1cadbd8e64921)
+- commit:8a871ab833476c6a6fd0a623945a2af3f6c94c24 · 2026-07-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/8a871ab833476c6a6fd0a623945a2af3f6c94c24)
+  - [Detailed analysis: 0001-8a871ab83347](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0001-8a871ab83347.md#0001-bootstrap-develop-target-driven-bedrock-protocol-codec-mvp)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:8b69945f5e6160575393c0a9ecc286e630b0d967 · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/8b69945f5e6160575393c0a9ecc286e630b0d967)
+  - [Detailed analysis: 0056-8b69945f5e61](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0056-8b69945f5e61.md#0056-feat-model-clientcacheblobstatuspacket-id-135-at-both-eras)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:8c9224357320e7984a0e82061e3b39f7f13d1436 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/8c9224357320e7984a0e82061e3b39f7f13d1436)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-332)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-8c9224357320e7984a0e82061e3b39f7f13d1436)
+- commit:8cb50b692dbd0e9cf1a3e04ac30523f7eb135500 · 2026-08-10
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/8cb50b692dbd0e9cf1a3e04ac30523f7eb135500)
+  - [Detailed analysis: 0146-8cb50b692dbd](../sources/commit-review/bedrock-protocol-all/dossiers/0146-8cb50b692dbd.md#146-feat-compiler-union-t-none-is-a-union-not-an-optional)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:8d2f9cac8e916dce4dc325850386588bec8f4c68 · 2026-07-20
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/8d2f9cac8e916dce4dc325850386588bec8f4c68)
+  - [Detailed analysis: 0042-8d2f9cac8e91](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0042-8d2f9cac8e91.md#0042-feat-compiler-optional-spelling-and-the-cereal-presence-wrapper-collapse)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-8d2f9cac8e916dce4dc325850386588bec8f4c68)
+- commit:8e91de4db060464fbf21ae56906127b45e221568 · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/8e91de4db060464fbf21ae56906127b45e221568)
+  - [Detailed analysis: 0376-8e91de4db060](../sources/commit-review/bedrock-protocol-all/dossiers/0376-8e91de4db060.md#376-style-protocol-drop-the-settled-itemstackrequestcereal-namespace-note)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:8f5a3e5a4214671176e3c2238eb23453f5bd9ef3 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/8f5a3e5a4214671176e3c2238eb23453f5bd9ef3)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-270)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-8f5a3e5a4214671176e3c2238eb23453f5bd9ef3)
+- commit:8ff739f889099d7b2cd1e6db85a4d4eb846c02d5 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/8ff739f889099d7b2cd1e6db85a4d4eb846c02d5)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-327)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-8ff739f889099d7b2cd1e6db85a4d4eb846c02d5)
+- commit:90a01c7ab6424d12ffb476b28007837b24b4aa72 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/90a01c7ab6424d12ffb476b28007837b24b4aa72)
+  - [Detailed analysis: 0097-90a01c7ab642](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0097-90a01c7ab642.md#97-fix-protocol-write-itemuseinventorytransaction-s-face-as-one-byte)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:92a5e7a71470f3a6c45bf845ffaee1fbe864e7f0 · 2026-10-18
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/92a5e7a71470f3a6c45bf845ffaee1fbe864e7f0)
+  - [Detailed analysis: 0433-92a5e7a71470](../sources/commit-review/bedrock-protocol-all/dossiers/0433-92a5e7a71470.md#433-chore-release-0-4-3)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:92b701fac52c9abdea83590d9fb5bbed2bac3d4f · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/92b701fac52c9abdea83590d9fb5bbed2bac3d4f)
+  - [Detailed analysis: 0360-92b701fac52c](../sources/commit-review/bedrock-protocol-all/dossiers/0360-92b701fac52c.md#360-feat-protocol-name-the-command-versions-bds-added-after-44)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:92fb92c1e5e4b3c38aae65b794516ba1b7e908dc · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/92fb92c1e5e4b3c38aae65b794516ba1b7e908dc)
+  - [Detailed analysis: 0210-92fb92c1e5e4](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0210-92fb92c1e5e4.md#210-feat-protocol-model-codebuilderpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:938186519b4dbbf829706eec67fd469ff994ef67 · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/938186519b4dbbf829706eec67fd469ff994ef67)
+  - [Detailed analysis: 0049-938186519b4d](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0049-938186519b4d.md#0049-test-declare-the-test-sources-with-targetsources)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:9431d7e2d405cf49dde3eafe6b71f598ecd511ab · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/9431d7e2d405cf49dde3eafe6b71f598ecd511ab)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-309)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-9431d7e2d405cf49dde3eafe6b71f598ecd511ab)
+- commit:9467b0ab726576d26d5d81b310f5a8a97f82ffba · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/9467b0ab726576d26d5d81b310f5a8a97f82ffba)
+  - [Detailed analysis: 0016-9467b0ab7265](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0016-9467b0ab7265.md#0016-feat-add-serverbounddiagnosticspacket-id-315)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:963d51468456defd0aef118030cfd02681f68666 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/963d51468456defd0aef118030cfd02681f68666)
+  - [Detailed analysis: 0185-963d51468456](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0185-963d51468456.md#185-feat-protocol-model-completedusingitempacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:97b6219a192fd156f3eec3e66ecfe77e3240bf6b · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/97b6219a192fd156f3eec3e66ecfe77e3240bf6b)
+  - [Detailed analysis: 0069-97b6219a192f](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0069-97b6219a192f.md#0069-docs-close-the-biomenoisegradientsurfacedata-todo)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:9814814a9a1a16705410476a15780a84ff0e45db · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/9814814a9a1a16705410476a15780a84ff0e45db)
+  - [Detailed analysis: 0359-9814814a9a1a](../sources/commit-review/bedrock-protocol-all/dossiers/0359-9814814a9a1a.md#359-style-protocol-rewrap-the-long-predicates-and-drop-two-stale-notes)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:985b791637965f6e4ae2ae1631901bfe12d32e82 · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/985b791637965f6e4ae2ae1631901bfe12d32e82)
+  - [Detailed analysis: 0074-985b79163796](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0074-985b79163796.md#0074-chore-follow-the-branch-rename)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:98c91556d65fc8a41ac42dde78cf57f24d12935d · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/98c91556d65fc8a41ac42dde78cf57f24d12935d)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-337)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-98c91556d65fc8a41ac42dde78cf57f24d12935d)
+- commit:99254cf6555310016c1c9e558231abe7e16dced6 · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/99254cf6555310016c1c9e558231abe7e16dced6)
+  - [Detailed analysis: 0366-99254cf65553](../sources/commit-review/bedrock-protocol-all/dossiers/0366-99254cf65553.md#366-fix-tests-include-the-headers-four-packets-moved-to)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:9961029fc3e9b98fa6a395c116ea13daaf1053b1 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/9961029fc3e9b98fa6a395c116ea13daaf1053b1)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-273)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-9961029fc3e9b98fa6a395c116ea13daaf1053b1)
+- commit:9a59ef925dd8a1690336e320e8f04ec5dedfbde3 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/9a59ef925dd8a1690336e320e8f04ec5dedfbde3)
+  - [Detailed analysis: 0173-9a59ef925dd8](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0173-9a59ef925dd8.md#173-feat-protocol-gate-respawnpacket-at-2168)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:9bb44d4bf75cdbd60eb044c2aefdb12c0bb9c499 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/9bb44d4bf75cdbd60eb044c2aefdb12c0bb9c499)
+  - [Detailed analysis: 0412-9bb44d4bf75c](../sources/commit-review/bedrock-protocol-all/dossiers/0412-9bb44d4bf75c.md#412-docs-document-the-reflection-surface-and-fix-a-stale-example)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:9c7ca2b14241974f73948d543845f7e7a46a7ba6 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/9c7ca2b14241974f73948d543845f7e7a46a7ba6)
+  - [Detailed analysis: 0351-9c7ca2b14241](../sources/commit-review/bedrock-protocol-all/dossiers/0351-9c7ca2b14241.md#351-feat-compiler-a-primitive-alias-is-a-struct-not-an-opaque-enum)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:9c93e0c6e711b161df6eb1934270936b48527120 · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/9c93e0c6e711b161df6eb1934270936b48527120)
+  - [Detailed analysis: 0406-9c93e0c6e711](../sources/commit-review/bedrock-protocol-all/dossiers/0406-9c93e0c6e711.md#406-ci-stop-the-source-package-job-caching-uv)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:9cae4a4e2694b62a69afd02785ad6ad22352e222 · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/9cae4a4e2694b62a69afd02785ad6ad22352e222)
+  - [Detailed analysis: 0391-9cae4a4e2694](../sources/commit-review/bedrock-protocol-all/dossiers/0391-9cae4a4e2694.md#391-feat-compiler-let-a-literal-carry-a-string-constant)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:9d07521032c595e693e6589ed6edc31ce28c9f0d · 2026-08-18
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/9d07521032c595e693e6589ed6edc31ce28c9f0d)
+  - [Detailed analysis: 0153-9d07521032c5](../sources/commit-review/bedrock-protocol-all/dossiers/0153-9d07521032c5.md#153-build-make-the-dsl-surface-a-dependency-of-every-generated-file)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:9d48478209303aa3904f9043fb279168da036483 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/9d48478209303aa3904f9043fb279168da036483)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-274)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-9d48478209303aa3904f9043fb279168da036483)
+- commit:9e720a6402544c9584f934dac3c044a44dcc9aec · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/9e720a6402544c9584f934dac3c044a44dcc9aec)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-286)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-9e720a6402544c9584f934dac3c044a44dcc9aec)
+- commit:9f23bdbb3cc522c39de7add5a13d28a48aef9a33 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/9f23bdbb3cc522c39de7add5a13d28a48aef9a33)
+  - [Detailed analysis: 0204-9f23bdbb3cc5](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0204-9f23bdbb3cc5.md#204-feat-protocol-model-removeobjectivepacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:9f449624b7cc1a1d2a6b3035739b944121ff8c9a · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/9f449624b7cc1a1d2a6b3035739b944121ff8c9a)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-350)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-9f449624b7cc1a1d2a6b3035739b944121ff8c9a)
+- commit:9f7d6bfe97a09e56e8581007882e8ad2c9d96ee5 · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/9f7d6bfe97a09e56e8581007882e8ad2c9d96ee5)
+  - [Detailed analysis: 0024-9f7d6bfe97a0](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0024-9f7d6bfe97a0.md#0024-feat-compiler-map-uuid-uuid-onto-a-per-backend-builtin)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:9fd0aaecaca40f60efad074b1b570b1b1ce74d55 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/9fd0aaecaca40f60efad074b1b570b1b1ce74d55)
+  - [Detailed analysis: 0217-9fd0aaecaca4](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0217-9fd0aaecaca4.md#217-feat-protocol-model-scriptmessagepacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:9fe937885b294502954981e4d098acbf1caadc2a · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/9fe937885b294502954981e4d098acbf1caadc2a)
+  - [Detailed analysis: 0030-9fe937885b29](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0030-9fe937885b29.md#0030-test-regenerate-the-startgame-golden-from-a-live-gophertunnel)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-9fe937885b294502954981e4d098acbf1caadc2a)
+- commit:a036d30ea204ea53f320155998d730fe7f3646ab · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a036d30ea204ea53f320155998d730fe7f3646ab)
+  - [Detailed analysis: 0398-a036d30ea204](../sources/commit-review/bedrock-protocol-all/dossiers/0398-a036d30ea204.md#398-fix-protocol-textpacket-s-constants-are-folded-after-all)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:a03af11ce88741c47a53cf3c9f143ce1b42b9b42 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a03af11ce88741c47a53cf3c9f143ce1b42b9b42)
+  - [Detailed analysis: 0118-a03af11ce887](../sources/commit-review/bedrock-protocol-all/dossiers/0118-a03af11ce887.md#118-feat-compiler-field-snapshot-pins-a-reference-to-one-era-s-shape)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:a08477ffab789f3bcf5bfb471b0d145513dd715f · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a08477ffab789f3bcf5bfb471b0d145513dd715f)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-321)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-a08477ffab789f3bcf5bfb471b0d145513dd715f)
+- commit:a0b1a16480d96e0103170a50e84ec1d3ca998981 · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a0b1a16480d96e0103170a50e84ec1d3ca998981)
+  - [Detailed analysis: 0070-a0b1a16480d9](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0070-a0b1a16480d9.md#0070-fix-protocol-read-inventorysource-s-container-id-as-a-plain-int8)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-a0b1a16480d96e0103170a50e84ec1d3ca998981)
+- commit:a1476f933d79edb9d21ac6d3e9d8afaaf625ded1 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a1476f933d79edb9d21ac6d3e9d8afaaf625ded1)
+  - [Detailed analysis: 0186-a1476f933d79](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0186-a1476f933d79.md#186-feat-protocol-model-guidatapickitempacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:a1bcd00bc11cef90dbde3402019baa9767bd3a7c · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a1bcd00bc11cef90dbde3402019baa9767bd3a7c)
+  - [Detailed analysis: 0021-a1bcd00bc11c](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0021-a1bcd00bc11c.md#0021-feat-add-serverpresenceinfopacket-id-347-optional-names-at-999)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:a1d9a81bd1ee968cfbf736faaa92b3829e572570 · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a1d9a81bd1ee968cfbf736faaa92b3829e572570)
+  - [Detailed analysis: 0071-a1d9a81bd1ee](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0071-a1d9a81bd1ee.md#0071-docs-close-the-boolattributedata-wire-question)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:a2d3cd9e092ef1e1c09201162fc1c29415355c4f · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a2d3cd9e092ef1e1c09201162fc1c29415355c4f)
+  - [Detailed analysis: 0104-a2d3cd9e092e](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0104-a2d3cd9e092e.md#104-feat-compiler-close-the-dsl-gaps-blocking-the-2168-packets)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:a2ff3606c5ba4b28b3465c19cd98b614d274c692 · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a2ff3606c5ba4b28b3465c19cd98b614d274c692)
+  - [Detailed analysis: 0046-a2ff3606c5ba](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0046-a2ff3606c5ba.md#0046-feat-compiler-implement-the-field-type-wire-override-on-primitives)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:a300a054db52817a42c6221651c46c00b4bf796f · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a300a054db52817a42c6221651c46c00b4bf796f)
+  - [Detailed analysis: 0034-a300a054db52](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0034-a300a054db52.md#0034-refactor-cpp-name-the-backend-after-protoc-s-and-give-fields-a-real-map)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-a300a054db52817a42c6221651c46c00b4bf796f)
+- commit:a3a17ddc6cd95b38f69da195121559aedc41c1f9 · 2026-08-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a3a17ddc6cd95b38f69da195121559aedc41c1f9)
+  - [Detailed analysis: 0168-a3a17ddc6cd9](../sources/commit-review/bedrock-protocol-all/dossiers/0168-a3a17ddc6cd9.md#168-merge-pull-request-1-from-endstonemc-fix-gcc-nested-variant)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:a421d36786bc744dbbc650fd0d680c2129ca035a · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a421d36786bc744dbbc650fd0d680c2129ca035a)
+  - [Detailed analysis: 0222-a421d36786bc](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0222-a421d36786bc.md#222-feat-protocol-model-refreshentitlementspacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:a46a6da4c5ab579550eeacb4cec40c9c7096f87a · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a46a6da4c5ab579550eeacb4cec40c9c7096f87a)
+  - [Detailed analysis: 0223-a46a6da4c5ab](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0223-a46a6da4c5ab.md#223-feat-protocol-model-serverstatspacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:a578f06f58c66ba663c20ad9e21db837273c7530 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a578f06f58c66ba663c20ad9e21db837273c7530)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-284)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-a578f06f58c66ba663c20ad9e21db837273c7530)
+- commit:a630a799cb411f2ce60c5dfc89ab7c92b4f195e5 · 2026-07-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a630a799cb411f2ce60c5dfc89ab7c92b4f195e5)
+  - [Detailed analysis: 0009-a630a799cb41](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0009-a630a799cb41.md#0009-build-generated-headers-use-h-protobuf-style-single-outvar)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:a66bbd692f04f60331531cdc75b5e6fd54963916 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a66bbd692f04f60331531cdc75b5e6fd54963916)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-275)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-a66bbd692f04f60331531cdc75b5e6fd54963916)
+- commit:a6a7b87ece7ab1f026af44aa1d91d54d891d10df · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a6a7b87ece7ab1f026af44aa1d91d54d891d10df)
+  - [Detailed analysis: 0238-a6a7b87ece7a](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0238-a6a7b87ece7a.md#238-feat-protocol-model-actoreventpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:a6b04c8a4ade6b4ba9389866314b73633a8dc2f5 · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a6b04c8a4ade6b4ba9389866314b73633a8dc2f5)
+  - [Detailed analysis: 0163-a6b04c8a4ade](../sources/commit-review/bedrock-protocol-all/dossiers/0163-a6b04c8a4ade.md#163-feat-protocol-close-the-2192-gaps-an-audit-of-the-dumps-found)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:a9226f4f2333c2e10824c957bf35f3c7fec62874 · 2026-07-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a9226f4f2333c2e10824c957bf35f3c7fec62874)
+  - [Detailed analysis: 0005-a9226f4f2333](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0005-a9226f4f2333.md#0005-feat-cpp-compute-includes-on-demand-from-generated-types)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-a9226f4f2333c2e10824c957bf35f3c7fec62874)
+- commit:a92aedf9f3b0506fbff3d5bf61f0543196d01e01 · 2026-08-18
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a92aedf9f3b0506fbff3d5bf61f0543196d01e01)
+  - [Detailed analysis: 0157-a92aedf9f3b0](../sources/commit-review/bedrock-protocol-all/dossiers/0157-a92aedf9f3b0.md#157-docs-follow-endweave-s-skill-rename-to-add-protocol)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:a9fac56534de516200d6222cd2af2e2be018034c · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/a9fac56534de516200d6222cd2af2e2be018034c)
+  - [Detailed analysis: 0407-a9fac56534de](../sources/commit-review/bedrock-protocol-all/dossiers/0407-a9fac56534de.md#407-ci-build-a-release-from-the-tag)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:aa6e47d1506fc79f47048c268c40c3ba9674db96 · 2026-09-15
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/aa6e47d1506fc79f47048c268c40c3ba9674db96)
+  - [Detailed analysis: 0420-aa6e47d1506f](../sources/commit-review/bedrock-protocol-all/dossiers/0420-aa6e47d1506f.md#420-chore-release-0-3-0)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:ab8cbf3a8a635211e9261d7846e123cc70883d18 · 2026-08-10
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/ab8cbf3a8a635211e9261d7846e123cc70883d18)
+  - [Detailed analysis: 0148-ab8cbf3a8a63](../sources/commit-review/bedrock-protocol-all/dossiers/0148-ab8cbf3a8a63.md#148-feat-enum-mirror-magicenum-s-caseinsensitive-and-look-names-up-in-o-1)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:ac42404d22fd5dfd2e95dffd6a1d447e26e2d87c · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/ac42404d22fd5dfd2e95dffd6a1d447e26e2d87c)
+  - [Detailed analysis: 0397-ac42404d22fd](../sources/commit-review/bedrock-protocol-all/dossiers/0397-ac42404d22fd.md#397-fix-protocol-pin-the-tags-cereal-binds-as-constants)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:ad2d546e094453f2f4247cf1552ee447220246af · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/ad2d546e094453f2f4247cf1552ee447220246af)
+  - [Detailed analysis: 0022-ad2d546e0944](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0022-ad2d546e0944.md#0022-feat-model-biomenoisegradientsurfacedata-reshaped-at-981)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-ad2d546e094453f2f4247cf1552ee447220246af)
+- commit:ada1e56d23e1d88ab09f73b932499105afbeef4d · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/ada1e56d23e1d88ab09f73b932499105afbeef4d)
+  - [Detailed analysis: 0187-ada1e56d23e1](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0187-ada1e56d23e1.md#187-feat-protocol-model-containerclosepacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:adaf490f59ba9c2d8feb361bb27b8fd3c99447ed · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/adaf490f59ba9c2d8feb361bb27b8fd3c99447ed)
+  - [Detailed analysis: 0383-adaf490f59ba](../sources/commit-review/bedrock-protocol-all/dossiers/0383-adaf490f59ba.md#383-docs-add-protocol-fold-in-what-landing-944-through-the-build-taught)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:ae0436bed56d4fd1a79396b84ec390adb05c3c50 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/ae0436bed56d4fd1a79396b84ec390adb05c3c50)
+  - [Detailed analysis: 0246-ae0436bed56d](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0246-ae0436bed56d.md#246-feat-protocol-model-blockactordatapacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:ae447e6311b59ee95fb4dca88dd042c1d26b6962 · 2026-08-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/ae447e6311b59ee95fb4dca88dd042c1d26b6962)
+  - [Detailed analysis: 0082-ae447e6311b5](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0082-ae447e6311b5.md#82-feat-protocol-project-the-item-stack-net-id-onto-one-varint-at-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:aec7261ff12dd21526ca9850bf2d04433e66ec72 · 2026-07-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/aec7261ff12dd21526ca9850bf2d04433e66ec72)
+  - [Detailed analysis: 0007-aec7261ff12d](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0007-aec7261ff12d.md#0007-refactor-cpp-derive-includes-from-generators-via-printer-addincludes)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:af7ed61b36fcfce6897b98f012e2899c9d29b202 · 2026-08-08
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/af7ed61b36fcfce6897b98f012e2899c9d29b202)
+  - [Detailed analysis: 0135-af7ed61b36fc](../sources/commit-review/bedrock-protocol-all/dossiers/0135-af7ed61b36fc.md#135-fix-protocol-bosseventpacket-s-975-form-writes-two-bytes-not-one-uint16)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:afb3c72ef502bd31096edc93e49fe39b17480e9d · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/afb3c72ef502bd31096edc93e49fe39b17480e9d)
+  - [Detailed analysis: 0122-afb3c72ef502](../sources/commit-review/bedrock-protocol-all/dossiers/0122-afb3c72ef502.md#122-test-carry-an-integer-game-rule-through-the-startgame-goldens)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:b029b76f3dc53a467c8123c08bf0abbb1bf2e099 · 2026-08-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b029b76f3dc53a467c8123c08bf0abbb1bf2e099)
+  - [Detailed analysis: 0079-b029b76f3dc5](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0079-b029b76f3dc5.md#79-feat-protocol-model-clientboundupdatesounddata-s-2168-variant)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:b0c157b5ec2909899f0fd1fa480f5f0be1577f4d · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b0c157b5ec2909899f0fd1fa480f5f0be1577f4d)
+  - [Detailed analysis: 0051-b0c157b5ec29](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0051-b0c157b5ec29.md#0051-test-fold-the-noise-gradient-goldens-into-the-packet-122-test)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:b0cd776a62997c9f184a714a8cb70b2f4071040c · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b0cd776a62997c9f184a714a8cb70b2f4071040c)
+  - [Detailed analysis: 0180-b0cd776a6299](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0180-b0cd776a6299.md#180-feat-protocol-model-addbehaviortreepacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:b12ffcbb0df61bd8cdb25998f8b841d452a782f0 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b12ffcbb0df61bd8cdb25998f8b841d452a782f0)
+  - [Detailed analysis: 0201-b12ffcbb0df6](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0201-b12ffcbb0df6.md#201-feat-protocol-model-serversettingsresponsepacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:b14b1af4e77faa9b78b3379983f37ef30b4cdcd0 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b14b1af4e77faa9b78b3379983f37ef30b4cdcd0)
+  - [Detailed analysis: 0205-b14b1af4e77f](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0205-b14b1af4e77f.md#205-feat-protocol-model-onscreentextureanimationpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:b14dcd89967cfb193fca8254abe6ea3e59a8dd69 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b14dcd89967cfb193fca8254abe6ea3e59a8dd69)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-318)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-b14dcd89967cfb193fca8254abe6ea3e59a8dd69)
+- commit:b1c6c508d8db0b022e5f51e06f17c89456d9e821 · 2026-07-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b1c6c508d8db0b022e5f51e06f17c89456d9e821)
+  - [Detailed analysis: 0011-b1c6c508d8db](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0011-b1c6c508d8db.md#0011-ci-add-github-actions-ruff-mypy-lint-linux-clang-18-libc-build-goldens)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:b30f2771bd7cbee1b765db149ca34c11c62549c8 · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b30f2771bd7cbee1b765db149ca34c11c62549c8)
+  - [Detailed analysis: 0389-b30f2771bd7c](../sources/commit-review/bedrock-protocol-all/dossiers/0389-b30f2771bd7c.md#389-feat-protocol-support-protocol-898)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:b35d7c429f87b48be6d8113f5d2bd5bec900708c · 2026-08-10
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b35d7c429f87b48be6d8113f5d2bd5bec900708c)
+  - [Detailed analysis: 0139-b35d7c429f87](../sources/commit-review/bedrock-protocol-all/dossiers/0139-b35d7c429f87.md#139-fix-protocol-sweep-every-module-against-the-bds-headers)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:b3919c09154cfd4fe3ccecda9fed53d2cdeefe05 · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b3919c09154cfd4fe3ccecda9fed53d2cdeefe05)
+  - [Detailed analysis: 0388-b3919c09154c](../sources/commit-review/bedrock-protocol-all/dossiers/0388-b3919c09154c.md#388-fix-tests-name-the-dynamicvalue-alternative-and-the-buildplatform-enumerator)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:b3efb4ffc28be0cd1a0ff58e581ed1febfdcc1e8 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b3efb4ffc28be0cd1a0ff58e581ed1febfdcc1e8)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-298)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-b3efb4ffc28be0cd1a0ff58e581ed1febfdcc1e8)
+- commit:b46d68f0f5ca2c7eb345159b6d0fe2e75d3beed3 · 2026-07-11
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b46d68f0f5ca2c7eb345159b6d0fe2e75d3beed3)
+  - [Detailed analysis: 0006-b46d68f0f5ca](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0006-b46d68f0f5ca.md#0006-fix-cpp-put-serializer-body-only-headers-in-the-cpp-not-the-header)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:b4acd963bc0d067620ecdd90b8b085c826152c98 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b4acd963bc0d067620ecdd90b8b085c826152c98)
+  - [Detailed analysis: 0259-b4acd963bc0d](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0259-b4acd963bc0d.md#259-feat-protocol-model-updatetradepacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:b4f7d2524fcc1162e2ad80a994ed810020c6e247 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b4f7d2524fcc1162e2ad80a994ed810020c6e247)
+  - [Detailed analysis: 0125-b4f7d2524fcc](../sources/commit-review/bedrock-protocol-all/dossiers/0125-b4f7d2524fcc.md#125-fix-legacygamerule-stands-apart-from-gamerule)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:b5098e180c15712e39f6e1625858fe9996b68292 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b5098e180c15712e39f6e1625858fe9996b68292)
+  - [Detailed analysis: 0250-b5098e180c15](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0250-b5098e180c15.md#250-feat-protocol-model-simpleeventpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:b51508d307629df44605e4571f69573f1ca7cf28 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b51508d307629df44605e4571f69573f1ca7cf28)
+  - [Detailed analysis: 0120-b51508d30762](../sources/commit-review/bedrock-protocol-all/dossiers/0120-b51508d30762.md#120-revert-feat-compiler-field-snapshot-pins-a-reference-to-one-era-s-shape)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:b67aaf4e50be25bfcf69b6cf5ac10e5e0038785a · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b67aaf4e50be25bfcf69b6cf5ac10e5e0038785a)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-281)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-b67aaf4e50be25bfcf69b6cf5ac10e5e0038785a)
+- commit:b81996da986fdf61dfd2188331aa27a1380ae928 · 2026-08-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/b81996da986fdf61dfd2188331aa27a1380ae928)
+  - [Detailed analysis: 0083-b81996da986f](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0083-b81996da986f.md#83-feat-compiler-generate-a-packet-registry-keyed-by-wire-id)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:ba508b42b7cce2428f85f0b451a329e4fe8a3156 · 2026-07-20
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/ba508b42b7cce2428f85f0b451a329e4fe8a3156)
+  - [Detailed analysis: 0041-ba508b42b7cc](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0041-ba508b42b7cc.md#0041-feat-model-bosseventpacket-id-74-at-both-eras)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-ba508b42b7cce2428f85f0b451a329e4fe8a3156)
+- commit:bc6cf7102eff43d5c1e3627ee3d793d5c16674a2 · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/bc6cf7102eff43d5c1e3627ee3d793d5c16674a2)
+  - [Detailed analysis: 0060-bc6cf7102eff](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0060-bc6cf7102eff.md#0060-fix-compiler-give-the-alias-view-its-own-name)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-bc6cf7102eff43d5c1e3627ee3d793d5c16674a2)
+- commit:bcc7fa9381f282da3ec77b609690c6428eeec087 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/bcc7fa9381f282da3ec77b609690c6428eeec087)
+  - [Detailed analysis: 0232-bcc7fa9381f2](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0232-bcc7fa9381f2.md#232-feat-protocol-model-blockeventpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:bd2339a09c39aa6bceee5d95cfe8928ce64591be · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/bd2339a09c39aa6bceee5d95cfe8928ce64591be)
+  - [Detailed analysis: 0164-bd2339a09c39](../sources/commit-review/bedrock-protocol-all/dossiers/0164-bd2339a09c39.md#164-test-compiler-cover-the-name-coded-enum-a-when-gate-used-to-hide)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:bdb8dcf348eb0812375c32235cbe30f932d57389 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/bdb8dcf348eb0812375c32235cbe30f932d57389)
+  - [Detailed analysis: 0126-bdb8dcf348eb](../sources/commit-review/bedrock-protocol-all/dossiers/0126-bdb8dcf348eb.md#126-feat-protocol-decode-the-playerauthinput-item-interaction-arm)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:bee20cff1a5660464d3dbeb17e1a7db29a0a95e3 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/bee20cff1a5660464d3dbeb17e1a7db29a0a95e3)
+  - [Detailed analysis: 0095-bee20cff1a56](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0095-bee20cff1a56.md#95-feat-protocol-model-mobequipmentpacket)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:bfbca083b86805446ec3ba54fbec02e545d94b3c · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/bfbca083b86805446ec3ba54fbec02e545d94b3c)
+  - [Detailed analysis: 0218-bfbca083b868](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0218-bfbca083b868.md#218-feat-protocol-model-lessonprogresspacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:c08991a66f58e5204823b5afb53e4929a69675bf · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/c08991a66f58e5204823b5afb53e4929a69675bf)
+  - [Detailed analysis: 0206-c08991a66f58](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0206-c08991a66f58.md#206-feat-protocol-model-showprofilepacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:c1e8faa845c0ca935e11afd31f8312438f3eb9a8 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/c1e8faa845c0ca935e11afd31f8312438f3eb9a8)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-287)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-c1e8faa845c0ca935e11afd31f8312438f3eb9a8)
+- commit:c212c536866c969a2d15de5c81989b59616ffd16 · 2026-07-20
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/c212c536866c969a2d15de5c81989b59616ffd16)
+  - [Detailed analysis: 0043-c212c536866c](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0043-c212c536866c.md#0043-feat-model-inventorytransactionpacket-id-30-cerealised-form)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-c212c536866c969a2d15de5c81989b59616ffd16)
+- commit:c21461301ac57e253df1ed406c8bfd1e0fc3d316 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/c21461301ac57e253df1ed406c8bfd1e0fc3d316)
+  - [Detailed analysis: 0123-c21461301ac5](../sources/commit-review/bedrock-protocol-all/dossiers/0123-c21461301ac5.md#123-feat-protocol-model-gameruleschangedpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:c26ff86faaaa18484e09a281c9ea3ba47bba8249 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/c26ff86faaaa18484e09a281c9ea3ba47bba8249)
+  - [Detailed analysis: 0251-c26ff86faaaa](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0251-c26ff86faaaa.md#251-feat-protocol-model-mapinforequestpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:c285cf416d7bd4794eaeadfbd34e6b33a6318b3e · 2026-08-05
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/c285cf416d7bd4794eaeadfbd34e6b33a6318b3e)
+  - [Detailed analysis: 0130-c285cf416d7b](../sources/commit-review/bedrock-protocol-all/dossiers/0130-c285cf416d7b.md#130-feat-protocol-model-playerlistpacket-at-1001)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:c3a2c535fdacafb4249a89f70b4a6feae0de7918 · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/c3a2c535fdacafb4249a89f70b4a6feae0de7918)
+  - [Detailed analysis: 0019-c3a2c535fdac](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0019-c3a2c535fdac.md#0019-feat-add-subchunkrequestpacket-id-175-cerealised-at-979)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:c407fddd8921359b67c7635084dfac522a48e068 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/c407fddd8921359b67c7635084dfac522a48e068)
+  - [Detailed analysis: 0242-c407fddd8921](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0242-c407fddd8921.md#242-feat-protocol-model-setactorlinkpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:c46c1756d7982e55135e8a9f0f5437afa24d51e9 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/c46c1756d7982e55135e8a9f0f5437afa24d51e9)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-268)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-c46c1756d7982e55135e8a9f0f5437afa24d51e9)
+- commit:c6010ec5c580900c44e9d7217afdbe67d8705b58 · 2026-08-10
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/c6010ec5c580900c44e9d7217afdbe67d8705b58)
+  - [Detailed analysis: 0141-c6010ec5c580](../sources/commit-review/bedrock-protocol-all/dossiers/0141-c6010ec5c580.md#141-docs-record-what-the-header-sweep-settled-and-the-traps-it-fell-into)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:c786e27ae7f2cd60126e95d0715f83f0565dc0d6 · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/c786e27ae7f2cd60126e95d0715f83f0565dc0d6)
+  - [Detailed analysis: 0044-c786e27ae7f2](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0044-c786e27ae7f2.md#0044-feat-compiler-cast-negative-members-of-an-unsigned-enum)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:c7ef6a7d1eac803569312911986d859a3a2ec1ce · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/c7ef6a7d1eac803569312911986d859a3a2ec1ce)
+  - [Detailed analysis: 0057-c7ef6a7d1eac](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0057-c7ef6a7d1eac.md#0057-feat-add-movementeffecttype-with-998-s-geyserboost)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-c7ef6a7d1eac803569312911986d859a3a2ec1ce)
+- commit:c8a51ea0efb71a87ec7def5a39ebbb23e9ad785e · 2026-08-10
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/c8a51ea0efb71a87ec7def5a39ebbb23e9ad785e)
+  - [Detailed analysis: 0142-c8a51ea0efb7](../sources/commit-review/bedrock-protocol-all/dossiers/0142-c8a51ea0efb7.md#142-fix-protocol-inputdata-cerealises-as-a-list-not-a-bitset)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:c8cb7b1f2f138a009cde540e5ecf144a6a1015ae · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/c8cb7b1f2f138a009cde540e5ecf144a6a1015ae)
+  - [Detailed analysis: 0247-c8cb7b1f2f13](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0247-c8cb7b1f2f13.md#247-feat-protocol-model-changedimensionpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:c95cced508e27968e0f334fa1a2e119879e3304c · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/c95cced508e27968e0f334fa1a2e119879e3304c)
+  - [Detailed analysis: 0387-c95cced508e2](../sources/commit-review/bedrock-protocol-all/dossiers/0387-c95cced508e2.md#387-docs-add-protocol-fold-in-what-landing-924-taught)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:c987bb8d808875dbe4f33a1ce23e4a878ac909a2 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/c987bb8d808875dbe4f33a1ce23e4a878ac909a2)
+  - [Detailed analysis: 0098-c987bb8d8088](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0098-c987bb8d8088.md#98-feat-protocol-model-the-two-item-stack-packets-at-1001-and-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:cae21ca2d32ba78b32145809deadb200f152f15e · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/cae21ca2d32ba78b32145809deadb200f152f15e)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-289)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-cae21ca2d32ba78b32145809deadb200f152f15e)
+- commit:cc1aee59f8393db31941ba352a32d1aa339ab4bb · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/cc1aee59f8393db31941ba352a32d1aa339ab4bb)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-338)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-cc1aee59f8393db31941ba352a32d1aa339ab4bb)
+- commit:cc92eed137764101f5510635af201045c50b95fc · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/cc92eed137764101f5510635af201045c50b95fc)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-333)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-cc92eed137764101f5510635af201045c50b95fc)
+- commit:ce07291e0ed6039a6288800b763391dfdb92c540 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/ce07291e0ed6039a6288800b763391dfdb92c540)
+  - [Detailed analysis: 0356-ce07291e0ed6](../sources/commit-review/bedrock-protocol-all/dossiers/0356-ce07291e0ed6.md#356-feat-protocol-model-leveleventgenericpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:ce43bebce2e1952ce9e7efa60de22cc07bd0b745 · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/ce43bebce2e1952ce9e7efa60de22cc07bd0b745)
+  - [Detailed analysis: 0405-ce43bebce2e1](../sources/commit-review/bedrock-protocol-all/dossiers/0405-ce43bebce2e1.md#405-ci-run-the-compiler-suite)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:cf8cb484ef99fd39f20dd92efeb9a4f3f6fd0bcf · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/cf8cb484ef99fd39f20dd92efeb9a4f3f6fd0bcf)
+  - [Detailed analysis: 0073-cf8cb484ef99](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0073-cf8cb484ef99.md#0073-change-lint-extend-select-to-lint-select-in-pyproject-toml)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:d1b0f2e78b576d6c8d42e11f93ad84c85f4b678c · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d1b0f2e78b576d6c8d42e11f93ad84c85f4b678c)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-343)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-d1b0f2e78b576d6c8d42e11f93ad84c85f4b678c)
+- commit:d1c1bda5fdb16c2b4da0369fe136a7b606630029 · 2026-10-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d1c1bda5fdb16c2b4da0369fe136a7b606630029)
+  - [Detailed analysis: 0426-d1c1bda5fdb1](../sources/commit-review/bedrock-protocol-all/dossiers/0426-d1c1bda5fdb1.md#426-feat-protocol-follow-1-26-60-30-to-protocol-2225)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:d1f51b21e09ad59191092403056700b2ad14c8c4 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d1f51b21e09ad59191092403056700b2ad14c8c4)
+  - [Detailed analysis: 0227-d1f51b21e09a](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0227-d1f51b21e09a.md#227-feat-protocol-model-currentstructurefeaturepacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:d25d1e03bf5ef7a7f636c9db994204c9e7956640 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d25d1e03bf5ef7a7f636c9db994204c9e7956640)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-294)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-d25d1e03bf5ef7a7f636c9db994204c9e7956640)
+- commit:d30bdf2ac1abc8a58942fae4b7635c9b41ca34cf · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d30bdf2ac1abc8a58942fae4b7635c9b41ca34cf)
+  - [Detailed analysis: 0090-d30bdf2ac1ab](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0090-d30bdf2ac1ab.md#90-feat-protocol-model-dimensiondatapacket-at-1001-and-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:d43065cf3882d625d1f7ee8cbad53566915846f8 · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d43065cf3882d625d1f7ee8cbad53566915846f8)
+  - [Detailed analysis: 0061-d43065cf3882](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0061-d43065cf3882.md#0061-docs-add-a-readme)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-d43065cf3882d625d1f7ee8cbad53566915846f8)
+- commit:d484905cbc9dfd8beae92f3a7edb6791a72026a7 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d484905cbc9dfd8beae92f3a7edb6791a72026a7)
+  - [Detailed analysis: 0252-d484905cbc9d](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0252-d484905cbc9d.md#252-feat-protocol-model-camerapacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:d50a13bb62a71293841c6aa3f111138de95a50b2 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d50a13bb62a71293841c6aa3f111138de95a50b2)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-295)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-d50a13bb62a71293841c6aa3f111138de95a50b2)
+- commit:d53e3a86da1f4b9e64f6016416100510d2a8484b · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d53e3a86da1f4b9e64f6016416100510d2a8484b)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-302)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-d53e3a86da1f4b9e64f6016416100510d2a8484b)
+- commit:d583d02cc87a952fe6d2fe8bd5859791c4738334 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d583d02cc87a952fe6d2fe8bd5859791c4738334)
+  - [Detailed analysis: 0233-d583d02cc87a](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0233-d583d02cc87a.md#233-feat-protocol-model-blockpickrequestpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:d5b7ac3e0795f785d68229db615c7f28aca8e31d · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d5b7ac3e0795f785d68229db615c7f28aca8e31d)
+  - [Detailed analysis: 0181-d5b7ac3e0795](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0181-d5b7ac3e0795.md#181-feat-protocol-model-serverplayerpostmovepositionpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:d7db68ee8a24e26f706db95e01f3ed8ed794ea6b · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d7db68ee8a24e26f706db95e01f3ed8ed794ea6b)
+  - [Detailed analysis: 0020-d7db68ee8a24](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0020-d7db68ee8a24.md#0020-refactor-rename-level-py-to-chunk-py)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:d846e8f176c59f593ac5ff95fff097ddd5375da5 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d846e8f176c59f593ac5ff95fff097ddd5375da5)
+  - [Detailed analysis: 0260-d846e8f176c5](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0260-d846e8f176c5.md#260-feat-protocol-model-showstoreofferpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:d8775231d646ff8386a28c616b1fee51f237f844 · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d8775231d646ff8386a28c616b1fee51f237f844)
+  - [Detailed analysis: 0381-d8775231d646](../sources/commit-review/bedrock-protocol-all/dossiers/0381-d8775231d646.md#381-feat-protocol-support-protocol-944)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:d93630fb2744eafe7333b36d54bf95d9923e5e94 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d93630fb2744eafe7333b36d54bf95d9923e5e94)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-328)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-d93630fb2744eafe7333b36d54bf95d9923e5e94)
+- commit:d940a35a38e3679423c79342d2f8a77bd35353b4 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d940a35a38e3679423c79342d2f8a77bd35353b4)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-282)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-d940a35a38e3679423c79342d2f8a77bd35353b4)
+- commit:d9b6ac6c567b34cade6389f67f58bda1c29a74ba · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d9b6ac6c567b34cade6389f67f58bda1c29a74ba)
+  - [Detailed analysis: 0166-d9b6ac6c567b](../sources/commit-review/bedrock-protocol-all/dossiers/0166-d9b6ac6c567b.md#166-fix-compiler-define-a-nested-type-ahead-of-its-owner)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:d9d5d378ad0bffd24875d6bbff5fb6a68969a9cc · 2026-07-20
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/d9d5d378ad0bffd24875d6bbff5fb6a68969a9cc)
+  - [Detailed analysis: 0037-d9d5d378ad0b](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0037-d9d5d378ad0b.md#0037-feat-compiler-version-gate-enum-members-and-gate-the-983-1000-sound-events)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-d9d5d378ad0bffd24875d6bbff5fb6a68969a9cc)
+- commit:da633c66984b925d0c7c9f60f858efa5dc40aa65 · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/da633c66984b925d0c7c9f60f858efa5dc40aa65)
+  - [Detailed analysis: 0063-da633c66984b](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0063-da633c66984b.md#0063-feat-compiler-generate-a-magicenum-alike-for-every-enum)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:daca0983ac0b1522d53d843ca18ba96432abfb19 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/daca0983ac0b1522d53d843ca18ba96432abfb19)
+  - [Detailed analysis: 0248-daca0983ac0b](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0248-daca0983ac0b.md#248-feat-protocol-model-setspawnpositionpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:dae940d44756331e85ceab05ac134030abb351a9 · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/dae940d44756331e85ceab05ac134030abb351a9)
+  - [Detailed analysis: 0399-dae940d44756](../sources/commit-review/bedrock-protocol-all/dossiers/0399-dae940d44756.md#399-docs-commits-carry-no-co-author)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:db670eb933c3cdf2fa731398a0abad674b7a4c54 · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/db670eb933c3cdf2fa731398a0abad674b7a4c54)
+  - [Detailed analysis: 0369-db670eb933c3](../sources/commit-review/bedrock-protocol-all/dossiers/0369-db670eb933c3.md#369-docs-replace-bump-protocol-with-a-rule-of-four-add-protocol-skill)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:dc6b131d2bf883045654d31b2989fa5fd3d63f31 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/dc6b131d2bf883045654d31b2989fa5fd3d63f31)
+  - [Detailed analysis: 0234-dc6b131d2bf8](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0234-dc6b131d2bf8.md#234-feat-protocol-model-leveleventpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:dc83564fc04fdfa90e2dbe7a6f6c2ebb6fc4dd31 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/dc83564fc04fdfa90e2dbe7a6f6c2ebb6fc4dd31)
+  - [Detailed analysis: 0099-dc83564fc04f](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0099-dc83564fc04f.md#99-feat-protocol-model-addactor-and-setactordata-at-1001-and-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:de3580cb39aac4c93c2bf3efceb3849c9cb5c035 · 2026-08-09
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/de3580cb39aac4c93c2bf3efceb3849c9cb5c035)
+  - [Detailed analysis: 0137-de3580cb39aa](../sources/commit-review/bedrock-protocol-all/dossiers/0137-de3580cb39aa.md#137-feat-protocol-model-actordataids)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:de9f236a844e9d349133ca6696f12708106055f3 · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/de9f236a844e9d349133ca6696f12708106055f3)
+  - [Detailed analysis: 0048-de9f236a844e](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0048-de9f236a844e.md#0048-feat-model-inventorytransactionpacket-id-30-pre-cereal-975-form)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:def22c46e9175ff525f376f4ce382b06e3cda417 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/def22c46e9175ff525f376f4ce382b06e3cda417)
+  - [Detailed analysis: 0188-def22c46e917](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0188-def22c46e917.md#188-feat-protocol-model-containersetdatapacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:df3cfa7a1a966bfb0ecad96d0948350ebe8af376 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/df3cfa7a1a966bfb0ecad96d0948350ebe8af376)
+  - [Detailed analysis: 0224-df3cfa7a1a96](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0224-df3cfa7a1a96.md#224-feat-protocol-model-updateclientinputlockspacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:df66d5ccd1adab81bc780a2870b2032c7fde08ba · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/df66d5ccd1adab81bc780a2870b2032c7fde08ba)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-283)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-df66d5ccd1adab81bc780a2870b2032c7fde08ba)
+- commit:df6e964f96518e32c1a22a1e16af7c66e6b41f9f · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/df6e964f96518e32c1a22a1e16af7c66e6b41f9f)
+  - [Detailed analysis: 0370-df6e964f9651](../sources/commit-review/bedrock-protocol-all/dossiers/0370-df6e964f9651.md#370-docs-add-protocol-fold-in-what-the-pre-2168-back-ports-actually-taught)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:df73a3dcfd550ce9d7c74b4de1eabb523cbf5e79 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/df73a3dcfd550ce9d7c74b4de1eabb523cbf5e79)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-322)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-df73a3dcfd550ce9d7c74b4de1eabb523cbf5e79)
+- commit:dfe45122b7efe005d55a4d0e2c5f7d29b05a7881 · 2026-08-18
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/dfe45122b7efe005d55a4d0e2c5f7d29b05a7881)
+  - [Detailed analysis: 0155-dfe45122b7ef](../sources/commit-review/bedrock-protocol-all/dossiers/0155-dfe45122b7ef.md#155-docs-ship-the-protocol-version-rolling-skill-with-the-repo)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:e158c4e5097284265bb9b1538aba1011b8680bf2 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e158c4e5097284265bb9b1538aba1011b8680bf2)
+  - [Detailed analysis: 0239-e158c4e50972](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0239-e158c4e50972.md#239-feat-protocol-model-addpaintingpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:e15ec630d3d1fb983e8601571e54b59a886896c4 · 2026-09-17
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e15ec630d3d1fb983e8601571e54b59a886896c4)
+  - [Detailed analysis: 0424-e15ec630d3d1](../sources/commit-review/bedrock-protocol-all/dossiers/0424-e15ec630d3d1.md#424-fix-protocol-settle-the-2193-names-against-the-r26u5-headers)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:e1fe83b113bd2a7fc5335b1269dc4e711986bcb8 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e1fe83b113bd2a7fc5335b1269dc4e711986bcb8)
+  - [Detailed analysis: 0189-e1fe83b113bd](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0189-e1fe83b113bd.md#189-feat-protocol-model-playerhotbarpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:e22cf8749385c7fc6023544e5207cde6e1fe981d · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e22cf8749385c7fc6023544e5207cde6e1fe981d)
+  - [Detailed analysis: 0240-e22cf8749385](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0240-e22cf8749385.md#240-feat-protocol-model-updateattributespacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:e22d45e1a2fa98b319674712cbcf544ce82b56c7 · 2026-08-08
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e22d45e1a2fa98b319674712cbcf544ce82b56c7)
+  - [Detailed analysis: 0136-e22d45e1a2fa](../sources/commit-review/bedrock-protocol-all/dossiers/0136-e22d45e1a2fa.md#136-docs-protocol-cylinderdatapayload-s-radii-disagree-between-header-and-dump)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:e2dc170fb52084021e0470791ab488d5c42b3c43 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e2dc170fb52084021e0470791ab488d5c42b3c43)
+  - [Detailed analysis: 0357-e2dc170fb520](../sources/commit-review/bedrock-protocol-all/dossiers/0357-e2dc170fb520.md#357-feat-compiler-a-bitset-or-array-width-may-name-a-module-scope-enum)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:e353d5f9f5b247e98e8a5524f5b68bd651c6f55c · 2026-09-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e353d5f9f5b247e98e8a5524f5b68bd651c6f55c)
+  - [Detailed analysis: 0385-e353d5f9f5b2](../sources/commit-review/bedrock-protocol-all/dossiers/0385-e353d5f9f5b2.md#385-refactor-protocol-give-enchanting-its-own-module)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:e36073880597e1ef373cefb74dcb7e1b03507a34 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e36073880597e1ef373cefb74dcb7e1b03507a34)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-323)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-e36073880597e1ef373cefb74dcb7e1b03507a34)
+- commit:e38efb0239547bc7e52c85c4617ca6deae35b617 · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e38efb0239547bc7e52c85c4617ca6deae35b617)
+  - [Detailed analysis: 0076-e38efb023954](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0076-e38efb023954.md#0076-feat-compiler-spell-a-wire-constant-as-literal)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:e3fdd12ab89057b68a69333f483a7a5e8a61e5b9 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e3fdd12ab89057b68a69333f483a7a5e8a61e5b9)
+  - [Detailed analysis: 0228-e3fdd12ab890](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0228-e3fdd12ab890.md#228-feat-protocol-model-clientboundcloseformpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:e43f66f9e32ad9c0702a5f42bca429dfd78107fc · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e43f66f9e32ad9c0702a5f42bca429dfd78107fc)
+  - [Detailed analysis: 0254-e43f66f9e32a](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0254-e43f66f9e32a.md#254-fix-protocol-pair-commandpermissionlevel-s-gamedirectors-with-its-wire-name)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:e5203dd1b6ca3e8766a4c19b814d133b1b07376a · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e5203dd1b6ca3e8766a4c19b814d133b1b07376a)
+  - [Detailed analysis: 0096-e5203dd1b6ca](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0096-e5203dd1b6ca.md#96-feat-protocol-model-inventoryslotpacket)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:e5af9d77eccf6e89f01ce69eca53789d4de9c405 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e5af9d77eccf6e89f01ce69eca53789d4de9c405)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-261)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-e5af9d77eccf6e89f01ce69eca53789d4de9c405)
+- commit:e694c7a99de750a5d090685e8324f2988dcc2a4b · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e694c7a99de750a5d090685e8324f2988dcc2a4b)
+  - [Detailed analysis: 0380-e694c7a99de7](../sources/commit-review/bedrock-protocol-all/dossiers/0380-e694c7a99de7.md#380-fix-tests-follow-the-derived-c-enumerator-into-the-c-suite)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:e6bcf67733571edfbbc5f0024ec128969eb73568 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e6bcf67733571edfbbc5f0024ec128969eb73568)
+  - [Detailed analysis: 0237-e6bcf6773357](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0237-e6bcf6773357.md#237-feat-protocol-model-mobeffectpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:e6eb0e9798861ed07cdf166e729d5ffa0dcce952 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e6eb0e9798861ed07cdf166e729d5ffa0dcce952)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-276)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-e6eb0e9798861ed07cdf166e729d5ffa0dcce952)
+- commit:e6efc06741f83d44355a3e270de3f807a71fee75 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e6efc06741f83d44355a3e270de3f807a71fee75)
+  - [Detailed analysis: 0361-e6efc06741f8](../sources/commit-review/bedrock-protocol-all/dossiers/0361-e6efc06741f8.md#361-feat-protocol-add-containertype-datadrivencontainer-at-2192)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:e7ef3efe65564db39517ffaa6124c55dd93ff17d · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/e7ef3efe65564db39517ffaa6124c55dd93ff17d)
+  - [Detailed analysis: 0110-e7ef3efe6556](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0110-e7ef3efe6556.md#110-feat-compiler-pair-an-enum-member-with-the-string-bds-writes)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:ea4dd9686cb8ffe9a63d7a93456ecc656c9c5fde · 2026-09-15
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/ea4dd9686cb8ffe9a63d7a93456ecc656c9c5fde)
+  - [Detailed analysis: 0421-ea4dd9686cb8](../sources/commit-review/bedrock-protocol-all/dossiers/0421-ea4dd9686cb8.md#421-ci-name-the-repository-the-draft-release-belongs-to)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:eacd9c15b3516212075e6110294de3b95435a352 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/eacd9c15b3516212075e6110294de3b95435a352)
+  - [Detailed analysis: 0182-eacd9c15b351](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0182-eacd9c15b351.md#182-feat-protocol-model-clienttoserverhandshakepacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:eb2c234e0cf80b7e069c4aa4ada831dd27ac0519 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/eb2c234e0cf80b7e069c4aa4ada831dd27ac0519)
+  - [Detailed analysis: 0091-eb2c234e0cf8](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0091-eb2c234e0cf8.md#91-feat-protocol-model-the-two-player-location-packets-at-1001-and-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:eb569c540b89ccc91102cf2ed095d57400d28ed8 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/eb569c540b89ccc91102cf2ed095d57400d28ed8)
+  - [Detailed analysis: 0172-eb569c540b89](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0172-eb569c540b89.md#172-test-drop-the-modelled-packet-count-while-the-schema-fills-in)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:eb64f135599503a7f1646fbcea8910e59271a329 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/eb64f135599503a7f1646fbcea8910e59271a329)
+  - [Detailed analysis: 0229-eb64f1355995](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0229-eb64f1355995.md#229-feat-protocol-model-partydestinationcookieresponsepacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:eb761a0aca0f4aa689f29da6636f863fc2bbaf5c · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/eb761a0aca0f4aa689f29da6636f863fc2bbaf5c)
+  - [Detailed analysis: 0064-eb761a0aca0f](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0064-eb761a0aca0f.md#0064-feat-compiler-support-nested-types)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-eb761a0aca0f4aa689f29da6636f863fc2bbaf5c)
+- commit:ec209bbd75fcea6dc3cc0a30159a2bb37a39d0a5 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/ec209bbd75fcea6dc3cc0a30159a2bb37a39d0a5)
+  - [Detailed analysis: 0253-ec209bbd75fc](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0253-ec209bbd75fc.md#253-feat-protocol-model-showcreditspacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:ec53bfebd3ae05d6f273d9ea3a51d03eaefce45d · 2026-07-21
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/ec53bfebd3ae05d6f273d9ea3a51d03eaefce45d)
+  - [Detailed analysis: 0050-ec53bfebd3ae](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0050-ec53bfebd3ae.md#0050-feat-model-mobarmorequipmentpacket-id-32-at-both-eras)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:ec88c6ae549111a4249231d51487c2ae80ee6ac1 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/ec88c6ae549111a4249231d51487c2ae80ee6ac1)
+  - [Detailed analysis: 0183-ec88c6ae5491](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0183-ec88c6ae5491.md#183-feat-protocol-model-actorpickrequestpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:eca82298616d847ff8858367828b91a484634507 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/eca82298616d847ff8858367828b91a484634507)
+  - [Detailed analysis: 0235-eca82298616d](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0235-eca82298616d.md#235-feat-protocol-model-moveactorabsolutepacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:ecc182bf385874a62e8b67436ac23730d3d87318 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/ecc182bf385874a62e8b67436ac23730d3d87318)
+  - [Detailed analysis: 0107-ecc182bf3858](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0107-ecc182bf3858.md#107-feat-protocol-model-the-four-movement-and-spawn-packets-at-1001-and-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:ed55d6855e06039bb99629b0888783c923c6bda6 · 2026-08-10
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/ed55d6855e06039bb99629b0888783c923c6bda6)
+  - [Detailed analysis: 0144-ed55d6855e06](../sources/commit-review/bedrock-protocol-all/dossiers/0144-ed55d6855e06.md#144-feat-protocol-support-protocol-2181)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:effda7199bb3e60bf1594bd7aff51ce066004895 · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/effda7199bb3e60bf1594bd7aff51ce066004895)
+  - [Detailed analysis: 0167-effda7199bb3](../sources/commit-review/bedrock-protocol-all/dossiers/0167-effda7199bb3.md#167-fix-tests-expand-the-packet-id-packs-instead-of-folding-them)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:f0ff697d126819a0c5cc2ac22387140943d85421 · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f0ff697d126819a0c5cc2ac22387140943d85421)
+  - [Detailed analysis: 0378-f0ff697d1268](../sources/commit-review/bedrock-protocol-all/dossiers/0378-f0ff697d1268.md#378-feat-protocol-support-protocol-975)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:f145693ff513c46e9a042cb6e6eb7e13d0be0c4d · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f145693ff513c46e9a042cb6e6eb7e13d0be0c4d)
+  - [Detailed analysis: 0170-f145693ff513](../sources/commit-review/bedrock-protocol-all/dossiers/0170-f145693ff513.md#170-test-include-only-the-generated-headers-a-test-needs)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:f1de73e2e2f346d925990f805d3e4d1d87970c5c · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f1de73e2e2f346d925990f805d3e4d1d87970c5c)
+  - [Detailed analysis: 0029-f1de73e2e2f3](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0029-f1de73e2e2f3.md#0029-docs-record-the-deferred-hole-in-the-enum-wire-default)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-f1de73e2e2f346d925990f805d3e4d1d87970c5c)
+- commit:f2b029d214dfe8e5ba42f2e45821c19cab970c92 · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f2b029d214dfe8e5ba42f2e45821c19cab970c92)
+  - [Detailed analysis: 0159-f2b029d214df](../sources/commit-review/bedrock-protocol-all/dossiers/0159-f2b029d214df.md#159-fix-scoreboard-follow-1-26-44-s-marker-on-removescore)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:f397ee3a7d1a0f5b11a1cab91e511793eb66e218 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f397ee3a7d1a0f5b11a1cab91e511793eb66e218)
+  - [Detailed analysis: 0105-f397ee3a7d1a](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0105-f397ee3a7d1a.md#105-fix-compiler-snapshot-qualify-a-struct-member-s-versioned-type)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:f3c4e704ed4ca9638b9f7067f38bdf43210635df · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f3c4e704ed4ca9638b9f7067f38bdf43210635df)
+  - [Detailed analysis: 0062-f3c4e704ed4c](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0062-f3c4e704ed4c.md#0062-feat-gate-versions-on-raw-protocol-numbers)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-f3c4e704ed4ca9638b9f7067f38bdf43210635df)
+- commit:f44b756c34b07641a69f775ce2406b2679c13de7 · 2026-08-08
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f44b756c34b07641a69f775ce2406b2679c13de7)
+  - [Detailed analysis: 0134-f44b756c34b0](../sources/commit-review/bedrock-protocol-all/dossiers/0134-f44b756c34b0.md#134-refactor-protocol-name-fields-and-enumerators-from-the-1-26-40-headers)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:f4506001139290c103a0e816d19dd0d376a6ce01 · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f4506001139290c103a0e816d19dd0d376a6ce01)
+  - [Detailed analysis: 0379-f45060011392](../sources/commit-review/bedrock-protocol-all/dossiers/0379-f45060011392.md#379-feat-compiler-let-a-gated-enum-member-auto-number-and-a-moved-one-be-declared-twice)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:f551801f0a9d9bc78b76e697c98ea99d3aa7cff1 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f551801f0a9d9bc78b76e697c98ea99d3aa7cff1)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-303)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-f551801f0a9d9bc78b76e697c98ea99d3aa7cff1)
+- commit:f55e103a10795b6f8fd59367052aab42e490b17f · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f55e103a10795b6f8fd59367052aab42e490b17f)
+  - [Detailed analysis: 0207-f55e103a1079](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0207-f55e103a1079.md#207-feat-protocol-model-networkstacklatencypacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:f57d9a9425108260a8dfb58d6592ca3a1399f2b0 · 2026-07-28
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f57d9a9425108260a8dfb58d6592ca3a1399f2b0)
+  - [Detailed analysis: 0072-f57d9a942510](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0072-f57d9a942510.md#0072-test-state-the-boolattributedata-patch-as-settled-not-as-a-todo)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:f6b21ac0f9663d14e3593e06b814b68c382fd6c7 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f6b21ac0f9663d14e3593e06b814b68c382fd6c7)
+  - [Detailed analysis: 0211-f6b21ac0f966](../sources/commit-review/bedrock-protocol-0171-0260/dossiers/0211-f6b21ac0f966.md#211-feat-protocol-model-playerstartitemcooldownpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-0171-0260/ENGINEERING_SYNTHESIS.md#packet-modelling-evidence-exact-assigned-slice171-260)
+- commit:f6e500b8f1753f8e3983c4b7b3aa7a91defc7148 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f6e500b8f1753f8e3983c4b7b3aa7a91defc7148)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-334)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-f6e500b8f1753f8e3983c4b7b3aa7a91defc7148)
+- commit:f80fa87a28b0eb58b407527950e7d10d6f4ec949 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f80fa87a28b0eb58b407527950e7d10d6f4ec949)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-344)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-f80fa87a28b0eb58b407527950e7d10d6f4ec949)
+- commit:f8223e319f4b1f449a69b6e67533e418e1ee543c · 2026-07-20
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f8223e319f4b1f449a69b6e67533e418e1ee543c)
+  - [Detailed analysis: 0040-f8223e319f4b](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0040-f8223e319f4b.md#0040-feat-compiler-implement-when-gating-a-field-on-an-earlier-one)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+- commit:f840c6f6e52d9f1f4adc49fe2270094e18c65144 · 2026-08-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f840c6f6e52d9f1f4adc49fe2270094e18c65144)
+  - [Detailed analysis: 0080-f840c6f6e52d](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0080-f840c6f6e52d.md#80-feat-protocol-add-system-categories-to-serverbounddiagnostics-at-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:f88ee6a03763f0eb7185b04a801ac495e467d86d · 2026-07-16
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f88ee6a03763f0eb7185b04a801ac495e467d86d)
+  - [Detailed analysis: 0015-f88ee6a03763](../sources/commit-review/bedrock-protocol-0001-0076/dossiers/0015-f88ee6a03763.md#0015-feat-compiler-take-an-enum-s-underlying-type-from-a-second-base)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0001-0076/SYNTHESIS.md#bedrock-protocol-foundations-decisions-reversals-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0001-0076-per-source-analysis](../supplements/bedrock-protocol-0001-0076-per-source-analysis.md#commit-f88ee6a03763f0eb7185b04a801ac495e467d86d)
+- commit:f8b83b362088041d830c7d48771803769853aba6 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f8b83b362088041d830c7d48771803769853aba6)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-304)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-f8b83b362088041d830c7d48771803769853aba6)
+- commit:f9dbc39c05574d1897075badc702a0d8040d2fcb · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/f9dbc39c05574d1897075badc702a0d8040d2fcb)
+  - [Detailed analysis: 0382-f9dbc39c0557](../sources/commit-review/bedrock-protocol-all/dossiers/0382-f9dbc39c0557.md#382-docs-add-protocol-fold-in-what-the-975-and-944-back-ports-taught)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:fb2b6964e724851915a76d54c3deaac4aeb9f1b5 · 2026-08-25
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/fb2b6964e724851915a76d54c3deaac4aeb9f1b5)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-290)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-fb2b6964e724851915a76d54c3deaac4aeb9f1b5)
+- commit:fb398e161c6337d37e8d800ce06cb687071994e0 · 2026-09-03
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/fb398e161c6337d37e8d800ce06cb687071994e0)
+  - [Detailed analysis: 0371-fb398e161c63](../sources/commit-review/bedrock-protocol-all/dossiers/0371-fb398e161c63.md#371-refactor-protocol-gate-the-field-not-the-whole-type)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:fc65f92fce2925edb57bbd96c7f4b69ae1a55dc8 · 2026-08-04
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/fc65f92fce2925edb57bbd96c7f4b69ae1a55dc8)
+  - [Detailed analysis: 0086-fc65f92fce29](../sources/commit-review/bedrock-protocol-0077-0117/dossiers/0086-fc65f92fce29.md#86-feat-protocol-model-anvildamagepacket-at-1001-and-2168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/bedrock-protocol-0077-0117/SYNTHESIS.md#packet-modeling-exposes-compiler-semantics-commits77-117)
+- commit:fd32682044a4d9aea8b864355ae3781e640df0ee · 2026-08-10
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/fd32682044a4d9aea8b864355ae3781e640df0ee)
+  - [Detailed analysis: 0147-fd32682044a4](../sources/commit-review/bedrock-protocol-all/dossiers/0147-fd32682044a4.md#147-feat-protocol-model-disconnectpacket)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:fe04b4645ed17448e3b3ab7318844a1a5023cc0e · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/fe04b4645ed17448e3b3ab7318844a1a5023cc0e)
+  - [Detailed analysis: 0165-fe04b4645ed1](../sources/commit-review/bedrock-protocol-all/dossiers/0165-fe04b4645ed1.md#165-fix-compiler-reject-a-prefix-the-compiler-cannot-read)
+  - [Detailed analysis: ENGINEERING_SYNTHESIS](../sources/commit-review/bedrock-protocol-all/ENGINEERING_SYNTHESIS.md#bedrock-protocol-compiler-wire-evidence-backports-and-integration)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-all/CASES.md#proposed-retrieval-cases)
+- commit:fef1bcdb71104585484198796770fc3a114c7962 · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/fef1bcdb71104585484198796770fc3a114c7962)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-324)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-fef1bcdb71104585484198796770fc3a114c7962)
+- commit:fff2f7089d7d3b107cc63c5484625d1396f483ca · 2026-08-26
+  - [Public source](https://github.com/EndstoneMC/bedrock-protocol/commit/fff2f7089d7d3b107cc63c5484625d1396f483ca)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/bedrock-protocol-0261-0350/DOSSIERS.md#commit-348)
+  - [Detailed analysis: CASES](../sources/commit-review/bedrock-protocol-0261-0350/CASES.md#packet-evolution-mechanisms-counterexamples-and-use-boundaries)
+  - [Detailed analysis: bedrock-protocol-0261-0350-per-source-analysis](../supplements/bedrock-protocol-0261-0350-per-source-analysis.md#commit-fff2f7089d7d3b107cc63c5484625d1396f483ca)

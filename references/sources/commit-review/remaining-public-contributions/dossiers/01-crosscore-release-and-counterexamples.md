@@ -1,0 +1,31 @@
+<!-- retrieval: {"source_ids":["public:commit:d0101084b2519c87753116d74198fd8b0cc8aea5","public:commit:5642b10c2d0181437cadd92f1f151836182cb2c1","public:commit:4a01dd663368d2d732e0729e0c6737e63d7ed908","public:commit:46cc40c3833978683df8f39737be8f3b3dc095af","public:commit:31efcc9b115e753b2fa6b66438b178d6f75e5057","public:commit:e28bb5a1e0aec79f6efe3729fc8b35a3ec01a48f","public:commit:6892917cff9ef27d6e1d4e0da33c2799416b56c4","public:commit:0f8283941c04efdda75d240caee9f07b52a12735","public:commit:a974b7820176ee956f1f3b1c826e6688064cc441","public:commit:70faaa0a45f3b3e09f56c87ffbdb5e7f9678126a","public:commit:df80a9f1cea508d36bd08ac490131f5b09ddfcac","public:commit:1e8556a8ee056ebaad92dacf37ebe534c8a2d5d6"],"source_type":"public","date":"2024-02-11..2024-02-16","topics":["concurrency","testing","build","diagnosis","review","refactoring","networking"],"limitations":"Static source analysis. Reported tests and outcomes are not independently executed; read the case-specific limits and dated revisions."} -->
+<a id="crosscore-an-automation-chain-its-changing-failure-policy-and-a-counterexample"></a>
+# CrossCore: an automation chain, its changing failure policy, and a counterexample {#crosscore-an-automation-chain-its-changing-failure-policy-and-a-counterexample}
+
+## When to retrieve this case {#when-to-retrieve-this-case}
+
+Use for small scheduled download/repackaging tools, release-trigger diagnosis, checksum delivery, platform-specific resource routing, and reviewing a promising-looking diagnostic script before copying it. The evidence is 19 reviewed commits from February 2024, not a contemporary service-health check.
+
+## Causal sequence {#causal-sequence}
+
+[02](02-d0101084b2519c87753116d74198fd8b0cc8aea5.md) schedules hourly/manual acquisition of an externally maintained list and commits changes. [04](04-5642b10c2d0181437cadd92f1f151836182cb2c1.md) reads comma-separated entries with UTF-8-BOM handling, shares an aiohttp session, awaits asynchronous downloads into a temporary Custom directory, then builds a platform ZIP. [05](05-4a01dd663368d2d732e0729e0c6737e63d7ed908.md) connects this to iOS/Android jobs and an artifact-dependent release. The complete 12-commit history affecting the downloader and two main workflows contains only assigned reviewed commits. Bot-maintained list data is not attributed to these commits.
+
+Early revision is visible rather than erased: the initial release has no explicit tag, [06](06-46cc40c3833978683df8f39737be8f3b3dc095af.md) supplies a date display name, and [07](07-31efcc9b115e753b2fa6b66438b178d6f75e5057.md) adds the matching tag and a workflow-file push trigger. Date-only identity means same-day rebuilds share an identifier; no source evidence establishes serialized releases or race-free replacement.
+
+The error-handling change [10](10-e28bb5a1e0aec79f6efe3729fc8b35a3ec01a48f.md) is a tradeoff. Writing any HTTP body could put error pages into a ZIP. Requiring 200 prevents that, but warning and skipping still permits an incomplete ZIP. Transport exceptions are not handled here. Neither initial nor revised source supplies completeness checks, retries, an explicit application-level semaphore, entry-path validation, or tests. These are review questions, not measured failures. Copy the temporary ownership/await-before-packaging mechanism only after choosing the required failure contract.
+
+[14](14-6892917cff9ef27d6e1d4e0da33c2799416b56c4.md) switches list origin to the game CDN. [15](15-0f8283941c04efdda75d240caee9f07b52a12735.md) replaces a superficially uniform platform URL with an explicit map because iOS uses a different path. The two changes should not be mislabeled generic refactoring. The original CrossCore-Internationalizer contribution/credit remains part of provenance.
+
+[16](16-a974b7820176ee956f1f3b1c826e6688064cc441.md) explicitly addresses action-created commits failing to trigger a second workflow by configuring a secret-backed checkout token. Source establishes the chosen mechanism and reported problem, not credentials, scopes or successful runs. A future implementation must independently review least privilege and supported event chaining rather than reflexively introducing a broad token.
+
+## Checksums are an artifact contract {#checksums-are-an-artifact-contract}
+
+[11](11-70faaa0a45f3b3e09f56c87ffbdb5e7f9678126a.md) generates checksums after downloading build artifacts and initially uses the checksum text as release body. [12](12-df80a9f1cea508d36bd08ac490131f5b09ddfcac.md) instead attaches checksum.txt alongside both ZIPs. In [issue #2](https://github.com/wu-vincent/crosscore-custom/issues/2), requester Eterocell asks for SHA256 and explicitly distinguishes transfer verification from trusted build inputs; Vincent reports that the asset is available. This review confirms workflow source, not the digest contents or actual published ZIPs. The checksum action’s default algorithm was not independently inspected. Preserve consumer/reviewer credit.
+
+## Do not copy the binary-inspection experiment {#do-not-copy-the-binary-inspection-experiment}
+
+[19](19-1e8556a8ee056ebaad92dacf37ebe534c8a2d5d6.md) contains a duplicate literal `run: |` inside the shell script, and its C# program feeds remote streams into BinaryFormatter then catches and prints exceptions without an explicit nonzero exit. Static reading identifies these boundaries; no command was executed. Microsoft’s [BinaryFormatter security guidance](https://learn.microsoft.com/en-us/dotnet/standard/serialization/binaryformatter-security-guide), read during this review, warns that this deserializer is unsuitable for data processing and cannot be made secure. This is external expert guidance, not an idea attributed to the commit author. Retain the commit only as a concrete counterexample to equating added diagnostics with safe or working diagnostics. Prefer a format-specific parser after independently identifying the format; no replacement parser is claimed here.
+
+## Evidence and stopping boundary {#evidence-and-stopping-boundary}
+
+Full messages and every target diff were read. No workflow, package, network fetch from game servers, ZIP build or deserializer was executed; no release success, throughput improvement or robust failure recovery is established.

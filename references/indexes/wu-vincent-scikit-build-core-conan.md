@@ -1,0 +1,263 @@
+<!-- retrieval: {"source_type":"navigation","topics":["source-navigation"],"limitations":"Navigation aid only. Linked entries point to public sources and related analysis; the links do not certify implementation or runtime behavior."} -->
+# Source index: wu-vincent/scikit-build-core-conan {#source-index}
+
+## Sources {#sources}
+
+The links below group publicly traceable source material with related analysis.
+
+- commit:0b22d8bdd3395b45f74a6f1711a742f45238e890 · 2024-05-09
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/0b22d8bdd3395b45f74a6f1711a742f45238e890)
+  - [Detailed analysis: 16-0b22d8bdd3395b45f74a6f1711a742f45238e890](../sources/commit-review/scikit-build-core-conan-all/dossiers/16-0b22d8bdd3395b45f74a6f1711a742f45238e890.md#16-release-version-0-3-0)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:0e1c526f4ce6513687ad2995272cd5e4291f6056 · 2024-05-08
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/0e1c526f4ce6513687ad2995272cd5e4291f6056)
+  - [Detailed analysis: 11-0e1c526f4ce6513687ad2995272cd5e4291f6056](../sources/commit-review/scikit-build-core-conan-all/dossiers/11-0e1c526f4ce6513687ad2995272cd5e4291f6056.md#11-feat-allow-local-recipes-to-be-exported-before-conan-install)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:19488f5faa96213b45226f154b5e2e1c938c7379 · 2025-09-17
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/19488f5faa96213b45226f154b5e2e1c938c7379)
+  - [Detailed analysis: 38-19488f5faa96213b45226f154b5e2e1c938c7379](../sources/commit-review/scikit-build-core-conan-all/dossiers/38-19488f5faa96213b45226f154b5e2e1c938c7379.md#38-feat-improve-handling-for-host-and-build-specific-settings)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:1e9616f68c96486a08210e1cce7e4fa30cc11e58 · 2024-05-08
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/1e9616f68c96486a08210e1cce7e4fa30cc11e58)
+  - [Detailed analysis: 12-1e9616f68c96486a08210e1cce7e4fa30cc11e58](../sources/commit-review/scikit-build-core-conan-all/dossiers/12-1e9616f68c96486a08210e1cce7e4fa30cc11e58.md#12-release-version-0-2-0)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:249fb0f670488a896ada61c1fd8ab1baae64639f · 2025-09-18
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/249fb0f670488a896ada61c1fd8ab1baae64639f)
+  - [Detailed analysis: 45-249fb0f670488a896ada61c1fd8ab1baae64639f](../sources/commit-review/scikit-build-core-conan-all/dossiers/45-249fb0f670488a896ada61c1fd8ab1baae64639f.md#45-docs-update-readme-md)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:2523b610ae9e01e2281e22a079cd27be6c56210f · 2026-01-22
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/2523b610ae9e01e2281e22a079cd27be6c56210f)
+  - [Detailed analysis: 52-2523b610ae9e01e2281e22a079cd27be6c56210f](../sources/commit-review/scikit-build-core-conan-all/dossiers/52-2523b610ae9e01e2281e22a079cd27be6c56210f.md#52-docs-remove-note-from-readme-md)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:29f76292233018266091461210f66bd38e5846f8 · 2025-06-05
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/29f76292233018266091461210f66bd38e5846f8)
+  - [Detailed analysis: 29-29f76292233018266091461210f66bd38e5846f8](../sources/commit-review/scikit-build-core-conan-all/dossiers/29-29f76292233018266091461210f66bd38e5846f8.md#29-fix-resolve-import-error-for-scikit-build-core-0-11-4)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:2c48ab35cc4c1a89d11111e7135933eae9e16e17 · 2025-09-17
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/2c48ab35cc4c1a89d11111e7135933eae9e16e17)
+  - [Detailed analysis: 37-2c48ab35cc4c1a89d11111e7135933eae9e16e17](../sources/commit-review/scikit-build-core-conan-all/dossiers/37-2c48ab35cc4c1a89d11111e7135933eae9e16e17.md#37-refactor-expand-conansettings-fields)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:35ab4997283149317d007b05ac0f034646384c38 · 2026-01-22
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/35ab4997283149317d007b05ac0f034646384c38)
+  - [Detailed analysis: 53-35ab4997283149317d007b05ac0f034646384c38](../sources/commit-review/scikit-build-core-conan-all/dossiers/53-35ab4997283149317d007b05ac0f034646384c38.md#53-chore-bump-dependencies-scikit-build-core-to-0-11-0-conan-to-2-20-0)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:35d4d0b53ec713c5d704d4c1be4b9c7f5336a521 · 2025-09-13
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/35d4d0b53ec713c5d704d4c1be4b9c7f5336a521)
+  - [Detailed analysis: 33-35d4d0b53ec713c5d704d4c1be4b9c7f5336a521](../sources/commit-review/scikit-build-core-conan-all/dossiers/33-35d4d0b53ec713c5d704d4c1be4b9c7f5336a521.md#33-chore-bump-version-to-0-7-2)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:39090292de1fe093e981a34c66c798cf65004f9e · 2024-12-18
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/39090292de1fe093e981a34c66c798cf65004f9e)
+  - [Detailed analysis: 24-39090292de1fe093e981a34c66c798cf65004f9e](../sources/commit-review/scikit-build-core-conan-all/dossiers/24-39090292de1fe093e981a34c66c798cf65004f9e.md#24-release-version-0-5-2)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:39aa2fa31693151ce411edda7bc2192ea67eb94c · 2026-01-22
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/39aa2fa31693151ce411edda7bc2192ea67eb94c)
+  - [Detailed analysis: 48-39aa2fa31693151ce411edda7bc2192ea67eb94c](../sources/commit-review/scikit-build-core-conan-all/dossiers/48-39aa2fa31693151ce411edda7bc2192ea67eb94c.md#48-feat-extend-conansettings-with-additional-configuration-options)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:3b768c5f3588baa9b21b73b86f44fd254f28d494 · 2024-05-09
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/3b768c5f3588baa9b21b73b86f44fd254f28d494)
+  - [Detailed analysis: 17-3b768c5f3588baa9b21b73b86f44fd254f28d494](../sources/commit-review/scikit-build-core-conan-all/dossiers/17-3b768c5f3588baa9b21b73b86f44fd254f28d494.md#17-fix-add-future-annotations-import-for-backwards-compatability)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:3fa92e87c987f8c3eea727ec396029edc6a7bf32 · 2026-01-22
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/3fa92e87c987f8c3eea727ec396029edc6a7bf32)
+  - [Detailed analysis: 55-3fa92e87c987f8c3eea727ec396029edc6a7bf32](../sources/commit-review/scikit-build-core-conan-all/dossiers/55-3fa92e87c987f8c3eea727ec396029edc6a7bf32.md#55-chore-simplify-lockfile-save-call-in-wheel-module)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:4417d0040675c9e206a946b42cba5525decc4967 · 2025-09-17
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/4417d0040675c9e206a946b42cba5525decc4967)
+  - [Detailed analysis: 36-4417d0040675c9e206a946b42cba5525decc4967](../sources/commit-review/scikit-build-core-conan-all/dossiers/36-4417d0040675c9e206a946b42cba5525decc4967.md#36-refactor-code-formatting)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:45379276f7fef5e04aef4eb39cdde4fe0f6e6b6f · 2024-05-09
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/45379276f7fef5e04aef4eb39cdde4fe0f6e6b6f)
+  - [Detailed analysis: 14-45379276f7fef5e04aef4eb39cdde4fe0f6e6b6f](../sources/commit-review/scikit-build-core-conan-all/dossiers/14-45379276f7fef5e04aef4eb39cdde4fe0f6e6b6f.md#14-release-version-0-2-1)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:469fbeec30080b9a5aa66b6fc0cc9d86cffbbbc8 · 2025-09-17
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/469fbeec30080b9a5aa66b6fc0cc9d86cffbbbc8)
+  - [Detailed analysis: 44-469fbeec30080b9a5aa66b6fc0cc9d86cffbbbc8](../sources/commit-review/scikit-build-core-conan-all/dossiers/44-469fbeec30080b9a5aa66b6fc0cc9d86cffbbbc8.md#44-chore-create-dependabot-yml)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:49a0eaf225d7ff378cfaa4790491b5978a7dbc97 · 2026-01-22
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/49a0eaf225d7ff378cfaa4790491b5978a7dbc97)
+  - [Detailed analysis: 56-49a0eaf225d7ff378cfaa4790491b5978a7dbc97](../sources/commit-review/scikit-build-core-conan-all/dossiers/56-49a0eaf225d7ff378cfaa4790491b5978a7dbc97.md#56-docs-update-readme-with-project-renaming-roadmap)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:49b60f195de826951752e40367d4b7d1e668d062 · 2024-05-09
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/49b60f195de826951752e40367d4b7d1e668d062)
+  - [Detailed analysis: 18-49b60f195de826951752e40367d4b7d1e668d062](../sources/commit-review/scikit-build-core-conan-all/dossiers/18-49b60f195de826951752e40367d4b7d1e668d062.md#18-release-version-0-3-1)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:4aaf9872f823f1f7107180d441c72842f329337f · 2026-01-22
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/4aaf9872f823f1f7107180d441c72842f329337f)
+  - [Detailed analysis: 51-4aaf9872f823f1f7107180d441c72842f329337f](../sources/commit-review/scikit-build-core-conan-all/dossiers/51-4aaf9872f823f1f7107180d441c72842f329337f.md#51-style-enable-future-annotations-in-settings-module)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:4b1eb5e7f641d9123e000dc0be59df9bdc4fc28a · 2024-11-14
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/4b1eb5e7f641d9123e000dc0be59df9bdc4fc28a)
+  - [Detailed analysis: 22-4b1eb5e7f641d9123e000dc0be59df9bdc4fc28a](../sources/commit-review/scikit-build-core-conan-all/dossiers/22-4b1eb5e7f641d9123e000dc0be59df9bdc4fc28a.md#22-release-version-0-5-0)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:4c43d3e9e6c3ea54734e3b48e4798649e423fc32 · 2026-01-30
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/4c43d3e9e6c3ea54734e3b48e4798649e423fc32)
+  - [Detailed analysis: 60-4c43d3e9e6c3ea54734e3b48e4798649e423fc32](../sources/commit-review/scikit-build-core-conan-all/dossiers/60-4c43d3e9e6c3ea54734e3b48e4798649e423fc32.md#60-raise-minimum-python-version-to-3-10-and-fix-type-annotation-runtime-bug)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:57e3b8c9c708ef127cf37d1a8f13a5df7c93ceaa · 2024-05-07
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/57e3b8c9c708ef127cf37d1a8f13a5df7c93ceaa)
+  - [Detailed analysis: 05-57e3b8c9c708ef127cf37d1a8f13a5df7c93ceaa](../sources/commit-review/scikit-build-core-conan-all/dossiers/05-57e3b8c9c708ef127cf37d1a8f13a5df7c93ceaa.md#05-feat-configuration-in-pyproject-toml)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:5bc99b72adb6593ee4c0cb2a251a7a766203a214 · 2026-01-22
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/5bc99b72adb6593ee4c0cb2a251a7a766203a214)
+  - [Detailed analysis: 57-5bc99b72adb6593ee4c0cb2a251a7a766203a214](../sources/commit-review/scikit-build-core-conan-all/dossiers/57-5bc99b72adb6593ee4c0cb2a251a7a766203a214.md#57-chore-refactor-workflows-rename-cd-yml-to-release-yml-and-enhance-deployment-steps)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:5d0c15d46e3fe9408ca6c5a8eac5cb746eb19611 · 2024-05-09
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/5d0c15d46e3fe9408ca6c5a8eac5cb746eb19611)
+  - [Detailed analysis: 19-5d0c15d46e3fe9408ca6c5a8eac5cb746eb19611](../sources/commit-review/scikit-build-core-conan-all/dossiers/19-5d0c15d46e3fe9408ca6c5a8eac5cb746eb19611.md#19-docs-update-readme-md)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:662fe5df01986a718fcacda526a2028f91fc5d1d · 2025-06-05
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/662fe5df01986a718fcacda526a2028f91fc5d1d)
+  - [Detailed analysis: 31-662fe5df01986a718fcacda526a2028f91fc5d1d](../sources/commit-review/scikit-build-core-conan-all/dossiers/31-662fe5df01986a718fcacda526a2028f91fc5d1d.md#31-feat-add-tests)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:6cc6a01573136bb9786c2bb364027e2b67fe7414 · 2026-01-22
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/6cc6a01573136bb9786c2bb364027e2b67fe7414)
+  - [Detailed analysis: 49-6cc6a01573136bb9786c2bb364027e2b67fe7414](../sources/commit-review/scikit-build-core-conan-all/dossiers/49-6cc6a01573136bb9786c2bb364027e2b67fe7414.md#49-feat-enhance-conaninstall-with-extended-settings)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:6cd641f0d5ac7b0ab277d64725d84525bcc7f893 · 2025-06-05
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/6cd641f0d5ac7b0ab277d64725d84525bcc7f893)
+  - [Detailed analysis: 30-6cd641f0d5ac7b0ab277d64725d84525bcc7f893](../sources/commit-review/scikit-build-core-conan-all/dossiers/30-6cd641f0d5ac7b0ab277d64725d84525bcc7f893.md#30-chore-bump-version-to-0-7-1)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:6ee0517dd1af9a76baab841101d904f28af5db66 · 2025-09-17
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/6ee0517dd1af9a76baab841101d904f28af5db66)
+  - [Detailed analysis: 35-6ee0517dd1af9a76baab841101d904f28af5db66](../sources/commit-review/scikit-build-core-conan-all/dossiers/35-6ee0517dd1af9a76baab841101d904f28af5db66.md#35-test-code-formatting)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:73378f6c295347a2e7dc14b41ee8c07e53cbecc5 · 2025-05-28
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/73378f6c295347a2e7dc14b41ee8c07e53cbecc5)
+  - [Detailed analysis: 28-73378f6c295347a2e7dc14b41ee8c07e53cbecc5](../sources/commit-review/scikit-build-core-conan-all/dossiers/28-73378f6c295347a2e7dc14b41ee8c07e53cbecc5.md#28-chore-bump-version-to-0-7-0)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:7cfe619b5075a90824db286e7d947f7e238b0247 · 2025-05-28
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/7cfe619b5075a90824db286e7d947f7e238b0247)
+  - [Detailed analysis: 27-7cfe619b5075a90824db286e7d947f7e238b0247](../sources/commit-review/scikit-build-core-conan-all/dossiers/27-7cfe619b5075a90824db286e7d947f7e238b0247.md#27-fix-resolve-build-errors-caused-by-functions-removed-in-conan-2-17-0)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:83554e7bcdeb7a868130ddf4718dd98bdaf2de0b · 2024-05-07
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/83554e7bcdeb7a868130ddf4718dd98bdaf2de0b)
+  - [Detailed analysis: 01-83554e7bcdeb7a868130ddf4718dd98bdaf2de0b](../sources/commit-review/scikit-build-core-conan-all/dossiers/01-83554e7bcdeb7a868130ddf4718dd98bdaf2de0b.md#01-feat-add-basic-wrapper-for-scikitbuildcore-build)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:84106eabec7dbc29cf9f0e4d8d94047aa57ddeee · 2026-01-22
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/84106eabec7dbc29cf9f0e4d8d94047aa57ddeee)
+  - [Detailed analysis: 50-84106eabec7dbc29cf9f0e4d8d94047aa57ddeee](../sources/commit-review/scikit-build-core-conan-all/dossiers/50-84106eabec7dbc29cf9f0e4d8d94047aa57ddeee.md#50-style-format-codes)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:855ac935192c29e625a8c39f5230c21b9f409fd5 · 2026-01-22
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/855ac935192c29e625a8c39f5230c21b9f409fd5)
+  - [Detailed analysis: 58-855ac935192c29e625a8c39f5230c21b9f409fd5](../sources/commit-review/scikit-build-core-conan-all/dossiers/58-855ac935192c29e625a8c39f5230c21b9f409fd5.md#58-docs-enhance-readme-with-badges-features-and-updated-usage-instructions)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:862c91a72c5efeb74aace40b9c5d8333ddaf6ae9 · 2024-05-07
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/862c91a72c5efeb74aace40b9c5d8333ddaf6ae9)
+  - [Detailed analysis: 02-862c91a72c5efeb74aace40b9c5d8333ddaf6ae9](../sources/commit-review/scikit-build-core-conan-all/dossiers/02-862c91a72c5efeb74aace40b9c5d8333ddaf6ae9.md#02-feat-implement-the-basic-functionality)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:8b8bbfe8ce97575033ee78f23785cb99e4c17946 · 2025-09-17
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/8b8bbfe8ce97575033ee78f23785cb99e4c17946)
+  - [Detailed analysis: 40-8b8bbfe8ce97575033ee78f23785cb99e4c17946](../sources/commit-review/scikit-build-core-conan-all/dossiers/40-8b8bbfe8ce97575033ee78f23785cb99e4c17946.md#40-fix-correct-profile-options)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:911e428281f71d43080ef6d007d7f3628e70bb34 · 2026-01-22
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/911e428281f71d43080ef6d007d7f3628e70bb34)
+  - [Detailed analysis: 46-911e428281f71d43080ef6d007d7f3628e70bb34](../sources/commit-review/scikit-build-core-conan-all/dossiers/46-911e428281f71d43080ef6d007d7f3628e70bb34.md#46-test-add-ci-workflow)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:93c36d1086a31e69c54b7901b8f7b86b0c6df3d5 · 2024-08-06
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/93c36d1086a31e69c54b7901b8f7b86b0c6df3d5)
+  - [Detailed analysis: 20-93c36d1086a31e69c54b7901b8f7b86b0c6df3d5](../sources/commit-review/scikit-build-core-conan-all/dossiers/20-93c36d1086a31e69c54b7901b8f7b86b0c6df3d5.md#20-release-version-0-4-0)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:99994f7cd75a53220a36ada6e295379de4780426 · 2024-12-18
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/99994f7cd75a53220a36ada6e295379de4780426)
+  - [Detailed analysis: 25-99994f7cd75a53220a36ada6e295379de4780426](../sources/commit-review/scikit-build-core-conan-all/dossiers/25-99994f7cd75a53220a36ada6e295379de4780426.md#25-fix-create-default-conan-profile-if-not-present)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:9a45f0f8da3afcad6b03f50fc9213b7a06ebe025 · 2024-11-14
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/9a45f0f8da3afcad6b03f50fc9213b7a06ebe025)
+  - [Detailed analysis: 21-9a45f0f8da3afcad6b03f50fc9213b7a06ebe025](../sources/commit-review/scikit-build-core-conan-all/dossiers/21-9a45f0f8da3afcad6b03f50fc9213b7a06ebe025.md#21-feat-active-conan-environment-in-wheel-build)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:9f7bb7c02ffabf93908fb892e04fe181566b9151 · 2026-02-04
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/9f7bb7c02ffabf93908fb892e04fe181566b9151)
+  - [Detailed analysis: 63-9f7bb7c02ffabf93908fb892e04fe181566b9151](../sources/commit-review/scikit-build-core-conan-all/dossiers/63-9f7bb7c02ffabf93908fb892e04fe181566b9151.md#63-docs-update-readme-md)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:a00b1383e09ba869ad6c42a83b1652b524dbd9e6 · 2025-09-17
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/a00b1383e09ba869ad6c42a83b1652b524dbd9e6)
+  - [Detailed analysis: 43-a00b1383e09ba869ad6c42a83b1652b524dbd9e6](../sources/commit-review/scikit-build-core-conan-all/dossiers/43-a00b1383e09ba869ad6c42a83b1652b524dbd9e6.md#43-docs-update-readme-md)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:a1e79964eb6a87ba8e046a762e175d98aa0b8c7d · 2026-02-04
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/a1e79964eb6a87ba8e046a762e175d98aa0b8c7d)
+  - [Detailed analysis: 62-a1e79964eb6a87ba8e046a762e175d98aa0b8c7d](../sources/commit-review/scikit-build-core-conan-all/dossiers/62-a1e79964eb6a87ba8e046a762e175d98aa0b8c7d.md#62-fix-use-union-syntax-for-compatibility-with-older-scikit-build-core-11)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:acabed551b039a7341093cdff55cdd80359a25c9 · 2024-05-09
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/acabed551b039a7341093cdff55cdd80359a25c9)
+  - [Detailed analysis: 15-acabed551b039a7341093cdff55cdd80359a25c9](../sources/commit-review/scikit-build-core-conan-all/dossiers/15-acabed551b039a7341093cdff55cdd80359a25c9.md#15-refactor-move-classes-into-separate-classes)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:acfd2fdab5613890de7903d7004acb8569435e62 · 2026-01-22
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/acfd2fdab5613890de7903d7004acb8569435e62)
+  - [Detailed analysis: 59-acfd2fdab5613890de7903d7004acb8569435e62](../sources/commit-review/scikit-build-core-conan-all/dossiers/59-acfd2fdab5613890de7903d7004acb8569435e62.md#59-chore-bump-version-to-0-9-0)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:b695536966c6016df2554a7b1c5aec330c690186 · 2024-05-09
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/b695536966c6016df2554a7b1c5aec330c690186)
+  - [Detailed analysis: 13-b695536966c6016df2554a7b1c5aec330c690186](../sources/commit-review/scikit-build-core-conan-all/dossiers/13-b695536966c6016df2554a7b1c5aec330c690186.md#13-feat-detectprofile-is-called-regardless-of-whether-a-profile-is-specified-or-not)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:b70693fd9c07797d06ba4b326f0066de2385f2bd · 2024-05-07
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/b70693fd9c07797d06ba4b326f0066de2385f2bd)
+  - [Detailed analysis: 00-b70693fd9c07797d06ba4b326f0066de2385f2bd](../sources/commit-review/scikit-build-core-conan-all/dossiers/00-b70693fd9c07797d06ba4b326f0066de2385f2bd.md#00-initial-commit)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:b723f3c0bbee3f2f094a5366d9a4287324d2d825 · 2025-09-17
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/b723f3c0bbee3f2f094a5366d9a4287324d2d825)
+  - [Detailed analysis: 41-b723f3c0bbee3f2f094a5366d9a4287324d2d825](../sources/commit-review/scikit-build-core-conan-all/dossiers/41-b723f3c0bbee3f2f094a5366d9a4287324d2d825.md#41-chore-bump-version-to-0-8-0)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:b976ca666dc9fd442c46544be948755670be7252 · 2025-09-17
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/b976ca666dc9fd442c46544be948755670be7252)
+  - [Detailed analysis: 42-b976ca666dc9fd442c46544be948755670be7252](../sources/commit-review/scikit-build-core-conan-all/dossiers/42-b976ca666dc9fd442c46544be948755670be7252.md#42-docs-update-readme-md)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:c1ecdcfd175f709af55b86060fadd8782032e4b5 · 2025-09-17
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/c1ecdcfd175f709af55b86060fadd8782032e4b5)
+  - [Detailed analysis: 39-c1ecdcfd175f709af55b86060fadd8782032e4b5](../sources/commit-review/scikit-build-core-conan-all/dossiers/39-c1ecdcfd175f709af55b86060fadd8782032e4b5.md#39-refactor-simplify-dataclass-imports)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:c2627dc1d0a4531d96d7ca2f00e7efc1aeea202a · 2024-05-08
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/c2627dc1d0a4531d96d7ca2f00e7efc1aeea202a)
+  - [Detailed analysis: 10-c2627dc1d0a4531d96d7ca2f00e7efc1aeea202a](../sources/commit-review/scikit-build-core-conan-all/dossiers/10-c2627dc1d0a4531d96d7ca2f00e7efc1aeea202a.md#10-feat-use-tomli-for-python-version-3-11)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:c387a7492c6db5eb990fb23cde18bc7807c02b65 · 2025-09-13
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/c387a7492c6db5eb990fb23cde18bc7807c02b65)
+  - [Detailed analysis: 32-c387a7492c6db5eb990fb23cde18bc7807c02b65](../sources/commit-review/scikit-build-core-conan-all/dossiers/32-c387a7492c6db5eb990fb23cde18bc7807c02b65.md#32-fix-build-profile)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:cff38e10878c12aced877768206a23b564fa6d97 · 2024-05-08
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/cff38e10878c12aced877768206a23b564fa6d97)
+  - [Detailed analysis: 07-cff38e10878c12aced877768206a23b564fa6d97](../sources/commit-review/scikit-build-core-conan-all/dossiers/07-cff38e10878c12aced877768206a23b564fa6d97.md#07-docs-update-readme-md)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:d45118e5d9a51d7e45a439eacd7c61f83b2f7ec9 · 2026-01-30
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/d45118e5d9a51d7e45a439eacd7c61f83b2f7ec9)
+  - [Detailed analysis: 61-d45118e5d9a51d7e45a439eacd7c61f83b2f7ec9](../sources/commit-review/scikit-build-core-conan-all/dossiers/61-d45118e5d9a51d7e45a439eacd7c61f83b2f7ec9.md#61-chore-bump-version-to-0-9-1)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:e1f10ee78a7a5a061348cf38f30fe4ef1757a94c · 2024-05-07
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/e1f10ee78a7a5a061348cf38f30fe4ef1757a94c)
+  - [Detailed analysis: 06-e1f10ee78a7a5a061348cf38f30fe4ef1757a94c](../sources/commit-review/scikit-build-core-conan-all/dossiers/06-e1f10ee78a7a5a061348cf38f30fe4ef1757a94c.md#06-docs-update-readme-md)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:e24630013c45364ef420c2f0804995d140c5284e · 2025-09-17
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/e24630013c45364ef420c2f0804995d140c5284e)
+  - [Detailed analysis: 34-e24630013c45364ef420c2f0804995d140c5284e](../sources/commit-review/scikit-build-core-conan-all/dossiers/34-e24630013c45364ef420c2f0804995d140c5284e.md#34-chore-update-python-requirement-to-3-8-and-add-ruff-lint)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:e75cefd6f3f7db30fa82d3e68af80567d5ee9d60 · 2026-01-22
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/e75cefd6f3f7db30fa82d3e68af80567d5ee9d60)
+  - [Detailed analysis: 47-e75cefd6f3f7db30fa82d3e68af80567d5ee9d60](../sources/commit-review/scikit-build-core-conan-all/dossiers/47-e75cefd6f3f7db30fa82d3e68af80567d5ee9d60.md#47-docs-enhance-readme-with-detailed-configuration-options)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:edf76d09b01ad1cb9fd53344f59d18203648dd70 · 2025-02-05
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/edf76d09b01ad1cb9fd53344f59d18203648dd70)
+  - [Detailed analysis: 26-edf76d09b01ad1cb9fd53344f59d18203648dd70](../sources/commit-review/scikit-build-core-conan-all/dossiers/26-edf76d09b01ad1cb9fd53344f59d18203648dd70.md#26-chore-bump-version-to-0-6-0)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:efce6a03cd6ccaafc8c46866463a3019e34e5cfc · 2026-01-22
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/efce6a03cd6ccaafc8c46866463a3019e34e5cfc)
+  - [Detailed analysis: 54-efce6a03cd6ccaafc8c46866463a3019e34e5cfc](../sources/commit-review/scikit-build-core-conan-all/dossiers/54-efce6a03cd6ccaafc8c46866463a3019e34e5cfc.md#54-chore-clean-up-optional-dependencies-and-simplify-lockfile-save-call)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:f0075aaa7cca0ee2d4ef48fcf4980b4633162f92 · 2024-11-17
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/f0075aaa7cca0ee2d4ef48fcf4980b4633162f92)
+  - [Detailed analysis: 23-f0075aaa7cca0ee2d4ef48fcf4980b4633162f92](../sources/commit-review/scikit-build-core-conan-all/dossiers/23-f0075aaa7cca0ee2d4ef48fcf4980b4633162f92.md#23-release-version-0-5-1)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:f17fa1cc2e05efe77701ce083c6003ce29cba831 · 2024-05-07
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/f17fa1cc2e05efe77701ce083c6003ce29cba831)
+  - [Detailed analysis: 03-f17fa1cc2e05efe77701ce083c6003ce29cba831](../sources/commit-review/scikit-build-core-conan-all/dossiers/03-f17fa1cc2e05efe77701ce083c6003ce29cba831.md#03-ci-add-cd-yml)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:f2ce2f3f5fa0f4c3ffe2d4f6b8a3b781259b3230 · 2024-05-07
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/f2ce2f3f5fa0f4c3ffe2d4f6b8a3b781259b3230)
+  - [Detailed analysis: 04-f2ce2f3f5fa0f4c3ffe2d4f6b8a3b781259b3230](../sources/commit-review/scikit-build-core-conan-all/dossiers/04-f2ce2f3f5fa0f4c3ffe2d4f6b8a3b781259b3230.md#04-docs-update-pyproject-toml-and-readme-md)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:f569b706618f37b01ac9495458ff8b6e01daa310 · 2024-05-08
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/f569b706618f37b01ac9495458ff8b6e01daa310)
+  - [Detailed analysis: 09-f569b706618f37b01ac9495458ff8b6e01daa310](../sources/commit-review/scikit-build-core-conan-all/dossiers/09-f569b706618f37b01ac9495458ff8b6e01daa310.md#09-docs-update-readme-md)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)
+- commit:fec0d3fcda866d552703a247be63db25287d3088 · 2024-05-08
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/fec0d3fcda866d552703a247be63db25287d3088)
+  - [Detailed analysis: 08-fec0d3fcda866d552703a247be63db25287d3088](../sources/commit-review/scikit-build-core-conan-all/dossiers/08-fec0d3fcda866d552703a247be63db25287d3088.md#08-feat-allow-overrides)
+  - [Detailed analysis: README](../sources/commit-review/scikit-build-core-conan-all/README.md#scikit-build-core-conan-complete-assigned-commit-review)

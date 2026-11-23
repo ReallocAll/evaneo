@@ -1,0 +1,142 @@
+<!-- retrieval: {"source_type":"navigation","topics":["source-navigation"],"limitations":"Navigation aid only. Linked entries point to public sources and related analysis; the links do not certify implementation or runtime behavior."} -->
+# Source index: EndstoneMC/raknet-python {#source-index}
+
+## Sources {#sources}
+
+The links below group publicly traceable source material with related analysis.
+
+- commit:0894b496211c39dd29cd08275d15b776a78f2f80 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/0894b496211c39dd29cd08275d15b776a78f2f80)
+  - [Detailed analysis: 017-0894b496211c](../sources/commit-review/native-network-bindings/raknet-python/dossiers/017-0894b496211c.md#017-change-peer-send-and-receive-payloads-verbatim-without-message-id-framing)
+  - [Detailed analysis: RakNet Python: verbatim wire contract and examples](../sources/commit-review/native-network-bindings/raknet-python/cases/verbatim-wire-contract-and-examples.md#rp04-a-convenient-wrapper-header-can-break-protocol-composition)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:0cd09f1e25a6fcd45793887f464b47bd77341569 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/0cd09f1e25a6fcd45793887f464b47bd77341569)
+  - [Detailed analysis: 009-0cd09f1e25a6](../sources/commit-review/native-network-bindings/raknet-python/dossiers/009-0cd09f1e25a6.md#009-fix-binding-snapshot-bytes-before-releasing-the-gil-in-send-and-connect)
+  - [Detailed analysis: RakNet Python: native memory and GIL boundaries](../sources/commit-review/native-network-bindings/raknet-python/cases/native-memory-and-gil-boundaries.md#rp02-snapshot-python-owned-data-before-releasing-the-gil)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:129ca3f2aa9021f6e819d7a917220fac17875e83 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/129ca3f2aa9021f6e819d7a917220fac17875e83)
+  - [Detailed analysis: 013-129ca3f2aa90](../sources/commit-review/native-network-bindings/raknet-python/dossiers/013-129ca3f2aa90.md#013-fix-peer-tear-the-peer-down-if-the-receive-pump-crashes-instead-of-hanging)
+  - [Detailed analysis: RakNet Python: pump routing cancellation and backpressure](../sources/commit-review/native-network-bindings/raknet-python/cases/pump-routing-cancellation-and-backpressure.md#rp03-make-asynchronous-ownership-explicit-across-a-native-receive-pump)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:29c3bc26c0722a7436b4d3df3eff250ca0e68892 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/29c3bc26c0722a7436b4d3df3eff250ca0e68892)
+  - [Detailed analysis: 016-29c3bc26c072](../sources/commit-review/native-network-bindings/raknet-python/dossiers/016-29c3bc26c072.md#016-fix-peer-close-the-orphaned-connection-when-a-connect-times-out-mid-handshake)
+  - [Detailed analysis: RakNet Python: pump routing cancellation and backpressure](../sources/commit-review/native-network-bindings/raknet-python/cases/pump-routing-cancellation-and-backpressure.md#rp03-make-asynchronous-ownership-explicit-across-a-native-receive-pump)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:3a541082e0ad36d347af2a96870dba4ea72f422b · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/3a541082e0ad36d347af2a96870dba4ea72f422b)
+  - [Detailed analysis: 024-3a541082e0ad](../sources/commit-review/native-network-bindings/raknet-python/dossiers/024-3a541082e0ad.md#024-build-link-against-raknet-4-081-mojang-and-cover-musllinux)
+  - [Detailed analysis: RakNet Python: stable ABI and platform support](../sources/commit-review/native-network-bindings/raknet-python/cases/stable-abi-and-platform-support.md#rp01-a-stable-python-abi-is-only-one-dimension-of-native-package-support)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:3c24fba1741a7d4b7a5bd66b382fd86898ec2219 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/3c24fba1741a7d4b7a5bd66b382fd86898ec2219)
+  - [Detailed analysis: 019-3c24fba1741a](../sources/commit-review/native-network-bindings/raknet-python/dossiers/019-3c24fba1741a.md#019-docs-replace-design-doc-with-runnable-examples)
+  - [Detailed analysis: RakNet Python: verbatim wire contract and examples](../sources/commit-review/native-network-bindings/raknet-python/cases/verbatim-wire-contract-and-examples.md#rp04-a-convenient-wrapper-header-can-break-protocol-composition)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:4fe0d3543a21c4942cd63bee1ebf9c3affaaf55a · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/4fe0d3543a21c4942cd63bee1ebf9c3affaaf55a)
+  - [Detailed analysis: 025-4fe0d3543a21](../sources/commit-review/native-network-bindings/raknet-python/dossiers/025-4fe0d3543a21.md#025-ci-skip-musllinux-and-32-bit-pin-lint-ruleset-update-urls-to-endstonemc)
+  - [Detailed analysis: RakNet Python: stable ABI and platform support](../sources/commit-review/native-network-bindings/raknet-python/cases/stable-abi-and-platform-support.md#rp01-a-stable-python-abi-is-only-one-dimension-of-native-package-support)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:6dc6428eda81f3f523ab9bb29d6ed814a9b875ad · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/6dc6428eda81f3f523ab9bb29d6ed814a9b875ad)
+  - [Detailed analysis: 015-6dc6428eda81](../sources/commit-review/native-network-bindings/raknet-python/dossiers/015-6dc6428eda81.md#015-feat-peer-add-optional-maxqueue-backpressure-that-closes-on-overflow)
+  - [Detailed analysis: RakNet Python: pump routing cancellation and backpressure](../sources/commit-review/native-network-bindings/raknet-python/cases/pump-routing-cancellation-and-backpressure.md#rp03-make-asynchronous-ownership-explicit-across-a-native-receive-pump)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:6fd55a4fd2cd3710755fa3036a30d45ade43a699 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/6fd55a4fd2cd3710755fa3036a30d45ade43a699)
+  - [Detailed analysis: 008-6fd55a4fd2cd](../sources/commit-review/native-network-bindings/raknet-python/dossiers/008-6fd55a4fd2cd.md#008-feat-add-peer-serveforever-handler-to-the-sync-and-asyncio-apis)
+  - [Detailed analysis: RakNet Python: pump routing cancellation and backpressure](../sources/commit-review/native-network-bindings/raknet-python/cases/pump-routing-cancellation-and-backpressure.md#rp03-make-asynchronous-ownership-explicit-across-a-native-receive-pump)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:7c99923bc41dd26b181b7086c239fe4638dfc7a4 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/7c99923bc41dd26b181b7086c239fe4638dfc7a4)
+  - [Detailed analysis: 012-7c99923bc41d](../sources/commit-review/native-network-bindings/raknet-python/dossiers/012-7c99923bc41d.md#012-fix-peer-re-check-closed-state-under-the-lock-when-registering-connect-ping)
+  - [Detailed analysis: RakNet Python: pump routing cancellation and backpressure](../sources/commit-review/native-network-bindings/raknet-python/cases/pump-routing-cancellation-and-backpressure.md#rp03-make-asynchronous-ownership-explicit-across-a-native-receive-pump)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:84b88dd8a126ca58df927763978d065922cda440 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/84b88dd8a126ca58df927763978d065922cda440)
+  - [Detailed analysis: 022-84b88dd8a126](../sources/commit-review/native-network-bindings/raknet-python/dossiers/022-84b88dd8a126.md#022-ci-build-and-release-wheels-with-cibuildwheel)
+  - [Detailed analysis: RakNet Python: stable ABI and platform support](../sources/commit-review/native-network-bindings/raknet-python/cases/stable-abi-and-platform-support.md#rp01-a-stable-python-abi-is-only-one-dimension-of-native-package-support)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:98f20d3b048d93305830e2defe77c96302516fa8 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/98f20d3b048d93305830e2defe77c96302516fa8)
+  - [Detailed analysis: 001-98f20d3b048d](../sources/commit-review/native-network-bindings/raknet-python/dossiers/001-98f20d3b048d.md#001-initial-commit)
+  - [Detailed analysis: RakNet Python: stable ABI and platform support](../sources/commit-review/native-network-bindings/raknet-python/cases/stable-abi-and-platform-support.md#rp01-a-stable-python-abi-is-only-one-dimension-of-native-package-support)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:aa01145289b1321b3c1a5a63c28296c75218ef62 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/aa01145289b1321b3c1a5a63c28296c75218ef62)
+  - [Detailed analysis: 004-aa01145289b1](../sources/commit-review/native-network-bindings/raknet-python/dossiers/004-aa01145289b1.md#004-build-generate-typing-stubs-with-nanobindaddstub)
+  - [Detailed analysis: RakNet Python: stable ABI and platform support](../sources/commit-review/native-network-bindings/raknet-python/cases/stable-abi-and-platform-support.md#rp01-a-stable-python-abi-is-only-one-dimension-of-native-package-support)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:b32fc4a90988352d6125b7e05a98428e660af508 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/b32fc4a90988352d6125b7e05a98428e660af508)
+  - [Detailed analysis: 021-b32fc4a90988](../sources/commit-review/native-network-bindings/raknet-python/dossiers/021-b32fc4a90988.md#021-build-add-uv-lock)
+  - [Detailed analysis: RakNet Python: stable ABI and platform support](../sources/commit-review/native-network-bindings/raknet-python/cases/stable-abi-and-platform-support.md#rp01-a-stable-python-abi-is-only-one-dimension-of-native-package-support)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:c4b9f52d6965ce5429b29b8ed90b86a5858110b2 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/c4b9f52d6965ce5429b29b8ed90b86a5858110b2)
+  - [Detailed analysis: 007-c4b9f52d6965](../sources/commit-review/native-network-bindings/raknet-python/dossiers/007-c4b9f52d6965.md#007-feat-add-asyncio-api-mirroring-the-sync-api)
+  - [Detailed analysis: RakNet Python: pump routing cancellation and backpressure](../sources/commit-review/native-network-bindings/raknet-python/cases/pump-routing-cancellation-and-backpressure.md#rp03-make-asynchronous-ownership-explicit-across-a-native-receive-pump)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:c6fad7adb13d0fee79ca7369c6a79a06d8431dfa · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/c6fad7adb13d0fee79ca7369c6a79a06d8431dfa)
+  - [Detailed analysis: 023-c6fad7adb13d](../sources/commit-review/native-network-bindings/raknet-python/dossiers/023-c6fad7adb13d.md#023-chore-refine-package-description-and-keywords)
+  - [Detailed analysis: RakNet Python: stable ABI and platform support](../sources/commit-review/native-network-bindings/raknet-python/cases/stable-abi-and-platform-support.md#rp01-a-stable-python-abi-is-only-one-dimension-of-native-package-support)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:ca51230a22d5e452fce89943d57f79bfaec07475 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/ca51230a22d5e452fce89943d57f79bfaec07475)
+  - [Detailed analysis: 002-ca51230a22d5](../sources/commit-review/native-network-bindings/raknet-python/dossiers/002-ca51230a22d5.md#002-build-set-up-conan-py-build-with-nanobind-and-raknet)
+  - [Detailed analysis: RakNet Python: stable ABI and platform support](../sources/commit-review/native-network-bindings/raknet-python/cases/stable-abi-and-platform-support.md#rp01-a-stable-python-abi-is-only-one-dimension-of-native-package-support)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:d0a37d1733a759508feecbbe382779f8a42522bd · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/d0a37d1733a759508feecbbe382779f8a42522bd)
+  - [Detailed analysis: 010-d0a37d1733a7](../sources/commit-review/native-network-bindings/raknet-python/dossiers/010-d0a37d1733a7.md#010-fix-binding-release-the-gil-during-host-resolving-ping-advertisesystem-sendttl-and-sendoutofband)
+  - [Detailed analysis: RakNet Python: native memory and GIL boundaries](../sources/commit-review/native-network-bindings/raknet-python/cases/native-memory-and-gil-boundaries.md#rp02-snapshot-python-owned-data-before-releasing-the-gil)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:d6ae2bb3b8039bc0a9822098640a93b24f714715 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/d6ae2bb3b8039bc0a9822098640a93b24f714715)
+  - [Detailed analysis: 014-d6ae2bb3b803](../sources/commit-review/native-network-bindings/raknet-python/dossiers/014-d6ae2bb3b803.md#014-fix-peer-resolve-hostnames-up-front-and-match-pending-ops-by-exact-address)
+  - [Detailed analysis: RakNet Python: pump routing cancellation and backpressure](../sources/commit-review/native-network-bindings/raknet-python/cases/pump-routing-cancellation-and-backpressure.md#rp03-make-asynchronous-ownership-explicit-across-a-native-receive-pump)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:d6de0c0110fdc43662e7498160626bc536e38501 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/d6de0c0110fdc43662e7498160626bc536e38501)
+  - [Detailed analysis: 027-d6de0c0110fd](../sources/commit-review/native-network-bindings/raknet-python/dossiers/027-d6de0c0110fd.md#027-test-make-maxqueue-overflow-test-deterministic)
+  - [Detailed analysis: RakNet Python: pump routing cancellation and backpressure](../sources/commit-review/native-network-bindings/raknet-python/cases/pump-routing-cancellation-and-backpressure.md#rp03-make-asynchronous-ownership-explicit-across-a-native-receive-pump)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:da6aa69bc930a20cbae69c6194b34a8d7263dadb · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/da6aa69bc930a20cbae69c6194b34a8d7263dadb)
+  - [Detailed analysis: 018-da6aa69bc930](../sources/commit-review/native-network-bindings/raknet-python/dossiers/018-da6aa69bc930.md#018-perf-asyncio-construct-peers-off-the-event-loop-so-startup-does-not-block-it)
+  - [Detailed analysis: RakNet Python: pump routing cancellation and backpressure](../sources/commit-review/native-network-bindings/raknet-python/cases/pump-routing-cancellation-and-backpressure.md#rp03-make-asynchronous-ownership-explicit-across-a-native-receive-pump)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:da8773b5a350f45fe5679d2ce28fb004fbeb6182 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/da8773b5a350f45fe5679d2ce28fb004fbeb6182)
+  - [Detailed analysis: 020-da8773b5a350](../sources/commit-review/native-network-bindings/raknet-python/dossiers/020-da8773b5a350.md#020-docs-write-a-production-grade-readme)
+  - [Detailed analysis: RakNet Python: stable ABI and platform support](../sources/commit-review/native-network-bindings/raknet-python/cases/stable-abi-and-platform-support.md#rp01-a-stable-python-abi-is-only-one-dimension-of-native-package-support)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:e10a38b4670dde41e4737dd3f8cbfbb756bea01b · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/e10a38b4670dde41e4737dd3f8cbfbb756bea01b)
+  - [Detailed analysis: 011-e10a38b4670d](../sources/commit-review/native-network-bindings/raknet-python/dossiers/011-e10a38b4670d.md#011-fix-binding-drop-duplicate-islanaddress-binding-and-clamp-statistics-verbosity)
+  - [Detailed analysis: RakNet Python: native memory and GIL boundaries](../sources/commit-review/native-network-bindings/raknet-python/cases/native-memory-and-gil-boundaries.md#rp02-snapshot-python-owned-data-before-releasing-the-gil)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:e841b6a61f97c1f52ecdfec6a40dac5eb1713657 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/e841b6a61f97c1f52ecdfec6a40dac5eb1713657)
+  - [Detailed analysis: 003-e841b6a61f97](../sources/commit-review/native-network-bindings/raknet-python/dossiers/003-e841b6a61f97.md#003-build-target-the-nanobind-stable-abi-cp312-abi3)
+  - [Detailed analysis: RakNet Python: stable ABI and platform support](../sources/commit-review/native-network-bindings/raknet-python/cases/stable-abi-and-platform-support.md#rp01-a-stable-python-abi-is-only-one-dimension-of-native-package-support)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:e9c466a554ca7ed6885580a8e77f323a95d9f4db · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/e9c466a554ca7ed6885580a8e77f323a95d9f4db)
+  - [Detailed analysis: 006-e9c466a554ca](../sources/commit-review/native-network-bindings/raknet-python/dossiers/006-e9c466a554ca.md#006-feat-add-pythonic-sync-api-peer-connection-on-top-of-the-raw-binding)
+  - [Detailed analysis: RakNet Python: pump routing cancellation and backpressure](../sources/commit-review/native-network-bindings/raknet-python/cases/pump-routing-cancellation-and-backpressure.md#rp03-make-asynchronous-ownership-explicit-across-a-native-receive-pump)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:f7b722042628d1f70e79dc89b4fa3349dc5e4376 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/f7b722042628d1f70e79dc89b4fa3349dc5e4376)
+  - [Detailed analysis: 026-f7b722042628](../sources/commit-review/native-network-bindings/raknet-python/dossiers/026-f7b722042628.md#026-ci-pin-ruff-and-exclude-markdown-from-formatting)
+  - [Detailed analysis: RakNet Python: stable ABI and platform support](../sources/commit-review/native-network-bindings/raknet-python/cases/stable-abi-and-platform-support.md#rp01-a-stable-python-abi-is-only-one-dimension-of-native-package-support)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:fa203f4eb01fb50c09998efaf7cdd6bca0db3c81 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/raknet-python/commit/fa203f4eb01fb50c09998efaf7cdd6bca0db3c81)
+  - [Detailed analysis: 005-fa203f4eb01f](../sources/commit-review/native-network-bindings/raknet-python/dossiers/005-fa203f4eb01f.md#005-feat-add-faithful-bindings-for-raknet-s-public-api)
+  - [Detailed analysis: RakNet Python: native memory and GIL boundaries](../sources/commit-review/native-network-bindings/raknet-python/cases/native-memory-and-gil-boundaries.md#rp02-snapshot-python-owned-data-before-releasing-the-gil)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)

@@ -1,0 +1,123 @@
+<!-- retrieval: {"source_type":"navigation","topics":["source-navigation"],"limitations":"Navigation aid only. Linked entries point to public sources and related analysis; the links do not certify implementation or runtime behavior."} -->
+# Source index: EndstoneMC/pterodactyl {#source-index}
+
+## Sources {#sources}
+
+The links below group publicly traceable source material with related analysis.
+
+- commit:07d9dbc96a6fe5403eb8ee885d521326e623df5d · 2026-07-10
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/07d9dbc96a6fe5403eb8ee885d521326e623df5d)
+  - [Detailed analysis: 23-07d9dbc96a6fe5403eb8ee885d521326e623df5d](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/23-07d9dbc96a6fe5403eb8ee885d521326e623df5d.md#23-default-to-latest-endstone-and-accept-bare-version-pin)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:0f59fec50545f71df149afbaaa56ee2f9db3b3e4 · 2024-05-26
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/0f59fec50545f71df149afbaaa56ee2f9db3b3e4)
+  - [Detailed analysis: 14-0f59fec50545f71df149afbaaa56ee2f9db3b3e4](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/14-0f59fec50545f71df149afbaaa56ee2f9db3b3e4.md#14-feat-update-server-properties)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:1e8a2ea06238a93cfaa6588756409d7791ffe432 · 2024-05-13
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/1e8a2ea06238a93cfaa6588756409d7791ffe432)
+  - [Detailed analysis: 09-1e8a2ea06238a93cfaa6588756409d7791ffe432](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/09-1e8a2ea06238a93cfaa6588756409d7791ffe432.md#09-feat-add-server-properties)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:23577f1b6a679b6ce0a74b5f375221ed2425c5ea · 2025-02-13
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/23577f1b6a679b6ce0a74b5f375221ed2425c5ea)
+  - [Detailed analysis: 17-23577f1b6a679b6ce0a74b5f375221ed2425c5ea](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/17-23577f1b6a679b6ce0a74b5f375221ed2425c5ea.md#17-update-server-properties)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:2be7388206d05e929ce606694592a926c876444b · 2024-05-13
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/2be7388206d05e929ce606694592a926c876444b)
+  - [Detailed analysis: 04-2be7388206d05e929ce606694592a926c876444b](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/04-2be7388206d05e929ce606694592a926c876444b.md#04-feat-add-build-yolks-workflow)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:3055d5155cb44e02e7bc507feb8019e65c05eadb · 2026-07-10
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/3055d5155cb44e02e7bc507feb8019e65c05eadb)
+  - [Detailed analysis: 25-3055d5155cb44e02e7bc507feb8019e65c05eadb](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/25-3055d5155cb44e02e7bc507feb8019e65c05eadb.md#25-add-serverwhlfile-variable-to-install-endstone-from-a-local-wheel)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:34c34d9bb52b20e0882a7808e8238a6e35f75add · 2026-07-10
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/34c34d9bb52b20e0882a7808e8238a6e35f75add)
+  - [Detailed analysis: 24-34c34d9bb52b20e0882a7808e8238a6e35f75add](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/24-34c34d9bb52b20e0882a7808e8238a6e35f75add.md#24-update-server-properties-to-latest-bds-defaults)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:3ab4f7f6fe4d570722376795f004790796420a99 · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/3ab4f7f6fe4d570722376795f004790796420a99)
+  - [Detailed analysis: 21-3ab4f7f6fe4d570722376795f004790796420a99](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/21-3ab4f7f6fe4d570722376795f004790796420a99.md#21-add-egg-json-validator-based-on-pterodactyl-panel-rules)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:448ef25f5def9cae016b03ea4816bcd8ebd44cbf · 2024-05-13
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/448ef25f5def9cae016b03ea4816bcd8ebd44cbf)
+  - [Detailed analysis: 07-448ef25f5def9cae016b03ea4816bcd8ebd44cbf](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/07-448ef25f5def9cae016b03ea4816bcd8ebd44cbf.md#07-feat-update-dockerfiles-and-entrypoint-sh)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:4a01201ba3f17f8b1d0ed4483c2071a3c1417304 · 2026-07-10
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/4a01201ba3f17f8b1d0ed4483c2071a3c1417304)
+  - [Detailed analysis: 29-4a01201ba3f17f8b1d0ed4483c2071a3c1417304](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/29-4a01201ba3f17f8b1d0ed4483c2071a3c1417304.md#29-add-changelog-following-keep-a-changelog-with-calver)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:55594291d306952777e698ecd9d8b0ec178b2927 · 2024-08-01
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/55594291d306952777e698ecd9d8b0ec178b2927)
+  - [Detailed analysis: 15-55594291d306952777e698ecd9d8b0ec178b2927](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/15-55594291d306952777e698ecd9d8b0ec178b2927.md#15-update-egg-endstone-json)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:6a3cd2d7c6821cedb55d1689983c67780e58da51 · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/6a3cd2d7c6821cedb55d1689983c67780e58da51)
+  - [Detailed analysis: 18-6a3cd2d7c6821cedb55d1689983c67780e58da51](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/18-6a3cd2d7c6821cedb55d1689983c67780e58da51.md#18-overhaul-pterodactyl-egg-repo-for-hosting-providers)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:6fdaa65ee8da79b17a42caae42612288be39e19f · 2026-07-10
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/6fdaa65ee8da79b17a42caae42612288be39e19f)
+  - [Detailed analysis: 26-6fdaa65ee8da79b17a42caae42612288be39e19f](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/26-6fdaa65ee8da79b17a42caae42612288be39e19f.md#26-drop-python-3-10-support-and-document-endstoneversion-serverwhlfile)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:852226c7ab5938b9d33184bdc1ad8fcc44767847 · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/852226c7ab5938b9d33184bdc1ad8fcc44767847)
+  - [Detailed analysis: 19-852226c7ab5938b9d33184bdc1ad8fcc44767847](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/19-852226c7ab5938b9d33184bdc1ad8fcc44767847.md#19-document-installing-endstone-from-url-or-local-whl-file)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:8689ffc3df2d1786a034263e5bc5bc41c8d2d3b2 · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/8689ffc3df2d1786a034263e5bc5bc41c8d2d3b2)
+  - [Detailed analysis: 20-8689ffc3df2d1786a034263e5bc5bc41c8d2d3b2](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/20-8689ffc3df2d1786a034263e5bc5bc41c8d2d3b2.md#20-replace-install-with-run-in-version-docs)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:875f2eb73f37c55b7096d9ca353c9b71d89c28e9 · 2026-07-10
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/875f2eb73f37c55b7096d9ca353c9b71d89c28e9)
+  - [Detailed analysis: 28-875f2eb73f37c55b7096d9ca353c9b71d89c28e9](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/28-875f2eb73f37c55b7096d9ca353c9b71d89c28e9.md#28-quiet-pip-and-skip-user-script-location-warning-in-startup)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:8780ad2a2fd34640e90ab87d064b2b91cc3a8ffd · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/8780ad2a2fd34640e90ab87d064b2b91cc3a8ffd)
+  - [Detailed analysis: 22-8780ad2a2fd34640e90ab87d064b2b91cc3a8ffd](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/22-8780ad2a2fd34640e90ab87d064b2b91cc3a8ffd.md#22-rename-validateegg-py-to-validate-py)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:a2962a55b3288ed260a5893c9fc15d82d4805669 · 2024-05-13
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/a2962a55b3288ed260a5893c9fc15d82d4805669)
+  - [Detailed analysis: 01-a2962a55b3288ed260a5893c9fc15d82d4805669](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/01-a2962a55b3288ed260a5893c9fc15d82d4805669.md#01-initial-commit)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:b3c4e526d43f4353f2b75ed1fa0db6de5deb0005 · 2024-05-13
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/b3c4e526d43f4353f2b75ed1fa0db6de5deb0005)
+  - [Detailed analysis: 08-b3c4e526d43f4353f2b75ed1fa0db6de5deb0005](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/08-b3c4e526d43f4353f2b75ed1fa0db6de5deb0005.md#08-feat-add-egg-endstone-json)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:b54ccc805c2093b828aa93ef58600f9771d5da5f · 2024-05-13
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/b54ccc805c2093b828aa93ef58600f9771d5da5f)
+  - [Detailed analysis: 06-b54ccc805c2093b828aa93ef58600f9771d5da5f](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/06-b54ccc805c2093b828aa93ef58600f9771d5da5f.md#06-feat-add-yolks-for-python-3-9-3-10-3-11)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:b85323b9e6b62127eced58dcc3e6c1d89733e7d3 · 2024-05-13
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/b85323b9e6b62127eced58dcc3e6c1d89733e7d3)
+  - [Detailed analysis: 02-b85323b9e6b62127eced58dcc3e6c1d89733e7d3](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/02-b85323b9e6b62127eced58dcc3e6c1d89733e7d3.md#02-feat-add-dockerfile-and-entrypoint-sh-for-yolk)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:c38cfc4eb3582a544e53efa834332fe9401d66d4 · 2024-05-14
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/c38cfc4eb3582a544e53efa834332fe9401d66d4)
+  - [Detailed analysis: 13-c38cfc4eb3582a544e53efa834332fe9401d66d4](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/13-c38cfc4eb3582a544e53efa834332fe9401d66d4.md#13-feat-update-egg-endstone-json)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:c4c9e96ccf8c8399cf3ca11d506f119927782228 · 2024-05-13
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/c4c9e96ccf8c8399cf3ca11d506f119927782228)
+  - [Detailed analysis: 12-c4c9e96ccf8c8399cf3ca11d506f119927782228](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/12-c4c9e96ccf8c8399cf3ca11d506f119927782228.md#12-feat-update-egg-endstone-json)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:d1df88cb99a7f22cc69dcc0cdba8f941fa801833 · 2024-05-13
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/d1df88cb99a7f22cc69dcc0cdba8f941fa801833)
+  - [Detailed analysis: 10-d1df88cb99a7f22cc69dcc0cdba8f941fa801833](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/10-d1df88cb99a7f22cc69dcc0cdba8f941fa801833.md#10-refactor-remove-custom-yolks)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:d64f026bb90a701513eb38866c91a16428494d97 · 2026-07-10
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/d64f026bb90a701513eb38866c91a16428494d97)
+  - [Detailed analysis: 27-d64f026bb90a701513eb38866c91a16428494d97](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/27-d64f026bb90a701513eb38866c91a16428494d97.md#27-fix-startup-brace-collapse-and-switch-install-to-alpine-installers-image)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:eb1b540c0623a276c65f2739d9468f1515eb6f9c · 2024-05-13
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/eb1b540c0623a276c65f2739d9468f1515eb6f9c)
+  - [Detailed analysis: 11-eb1b540c0623a276c65f2739d9468f1515eb6f9c](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/11-eb1b540c0623a276c65f2739d9468f1515eb6f9c.md#11-feat-update-egg-endstone-json)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:fa73ce733e313ad18205098338401bad682b7861 · 2024-05-13
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/fa73ce733e313ad18205098338401bad682b7861)
+  - [Detailed analysis: 05-fa73ce733e313ad18205098338401bad682b7861](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/05-fa73ce733e313ad18205098338401bad682b7861.md#05-feat-update-yolk-yml)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:fe3948630dafefa54e46938f6826f4f435942907 · 2024-05-13
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/fe3948630dafefa54e46938f6826f4f435942907)
+  - [Detailed analysis: 03-fe3948630dafefa54e46938f6826f4f435942907](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/03-fe3948630dafefa54e46938f6826f4f435942907.md#03-feat-add-gitignore)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)
+- commit:ff222bf4e636bb7b4b20413944854186ce169848 · 2024-12-23
+  - [Public source](https://github.com/EndstoneMC/pterodactyl/commit/ff222bf4e636bb7b4b20413944854186ce169848)
+  - [Detailed analysis: 16-ff222bf4e636bb7b4b20413944854186ce169848](../sources/commit-review/build-deployment-all/pterodactyl/dossiers/16-ff222bf4e636bb7b4b20413944854186ce169848.md#16-update-egg-endstone-json)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/pterodactyl/README.md#hosting-deployment-panel-schema-shell-translation-and-operational-configuration)

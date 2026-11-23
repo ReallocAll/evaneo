@@ -1,0 +1,565 @@
+<!-- retrieval: {"source_type":"navigation","topics":["source-navigation"],"limitations":"Navigation aid only. Linked entries point to public sources and related analysis; the links do not certify implementation or runtime behavior."} -->
+# Source index: context {#source-index}
+
+## Sources {#sources}
+
+The links below group publicly traceable source material with related analysis.
+
+- context-commit:03a1b46b573d84ff9637a6cafe6111a09a1e8c0a · 2025-02-28
+  - [Public source](https://github.com/EndstoneMC/python-example-plugin/commit/03a1b46b573d84ff9637a6cafe6111a09a1e8c0a)
+  - [Detailed analysis: 03a1b46b573d84ff9637a6cafe6111a09a1e8c0a](../contexts/03a1b46b573d84ff9637a6cafe6111a09a1e8c0a.md#context-commit-03a1b46b573d84ff9637a6cafe6111a09a1e8c0a)
+- context-commit:059edd43e1cf5637159ffd982c343040da28f27e · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/spyglass/commit/059edd43e1cf5637159ffd982c343040da28f27e)
+  - [Detailed analysis: 059edd43e1cf5637159ffd982c343040da28f27e](../contexts/059edd43e1cf5637159ffd982c343040da28f27e.md#context-commit-059edd43e1cf5637159ffd982c343040da28f27e)
+- context-commit:0708f8790d32ad495f9d7178c1cd3f0b2424448c · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/dwarf2cpp/commit/0708f8790d32ad495f9d7178c1cd3f0b2424448c)
+  - [Detailed analysis: 0708f8790d32ad495f9d7178c1cd3f0b2424448c](../contexts/0708f8790d32ad495f9d7178c1cd3f0b2424448c.md#context-commit-0708f8790d32ad495f9d7178c1cd3f0b2424448c)
+- context-commit:0a0639f0c34dbc6c6a53ca111c57a64a87cc5085 · 2026-08-28
+  - [Public source](https://github.com/EndstoneMC/spyglass/commit/0a0639f0c34dbc6c6a53ca111c57a64a87cc5085)
+  - [Detailed analysis: 0a0639f0c34dbc6c6a53ca111c57a64a87cc5085](../contexts/0a0639f0c34dbc6c6a53ca111c57a64a87cc5085.md#context-commit-0a0639f0c34dbc6c6a53ca111c57a64a87cc5085)
+- context-commit:0baeca9a1759c98b242a69f28bec5280f2aa79af · 2025-05-24
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/0baeca9a1759c98b242a69f28bec5280f2aa79af)
+  - [Detailed analysis: 0baeca9a1759c98b242a69f28bec5280f2aa79af](../contexts/0baeca9a1759c98b242a69f28bec5280f2aa79af.md#context-commit-0baeca9a1759c98b242a69f28bec5280f2aa79af)
+  - [Detailed analysis: 05-consume-collaboration](../sources/commit-review/endstone-2025-0601-0700/05-consume-collaboration.md#context-0baeca9a1759c98b242a69f28bec5280f2aa79af)
+- context-commit:0f6758ca68dc3b4ecc15f4c5e8082401f50b6f32
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/0f6758ca68dc3b4ecc15f4c5e8082401f50b6f32)
+  - [Detailed analysis: 0f6758ca68dc3b4ecc15f4c5e8082401f50b6f32](../contexts/0f6758ca68dc3b4ecc15f4c5e8082401f50b6f32.md#context-commit-0f6758ca68dc3b4ecc15f4c5e8082401f50b6f32)
+- context-commit:1075fba8e0ea5b306ac11c1bbe53dea496ff6bfe · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/spyglass/commit/1075fba8e0ea5b306ac11c1bbe53dea496ff6bfe)
+  - [Detailed analysis: 1075fba8e0ea5b306ac11c1bbe53dea496ff6bfe](../contexts/1075fba8e0ea5b306ac11c1bbe53dea496ff6bfe.md#context-commit-1075fba8e0ea5b306ac11c1bbe53dea496ff6bfe)
+- context-commit:145e151dc8dc2a6be144c0f788aa93becfdb9dc9 · 2025-07-07
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/145e151dc8dc2a6be144c0f788aa93becfdb9dc9)
+  - [Detailed analysis: 145e151dc8dc2a6be144c0f788aa93becfdb9dc9](../contexts/145e151dc8dc2a6be144c0f788aa93becfdb9dc9.md#context-commit-145e151dc8dc2a6be144c0f788aa93becfdb9dc9)
+  - [Detailed analysis: 04-sleep-and-tests](../sources/commit-review/endstone-2025-0801-0900/04-sleep-and-tests.md#context-145e151dc8dc2a6be144c0f788aa93becfdb9dc9)
+- context-commit:14c851fc17c1e60ea08377e2974ac19be9ad9b28 · 2026-09-02
+  - [Public source](https://github.com/EndstoneMC/spyglass/commit/14c851fc17c1e60ea08377e2974ac19be9ad9b28)
+  - [Detailed analysis: 14c851fc17c1e60ea08377e2974ac19be9ad9b28](../contexts/14c851fc17c1e60ea08377e2974ac19be9ad9b28.md#context-commit-14c851fc17c1e60ea08377e2974ac19be9ad9b28)
+- context-commit:16df3744b6633000d5286100d61c03317aab516d · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/sentry-crashpad/commit/16df3744b6633000d5286100d61c03317aab516d)
+  - [Detailed analysis: 16df3744b6633000d5286100d61c03317aab516d](../contexts/16df3744b6633000d5286100d61c03317aab516d.md#context-commit-16df3744b6633000d5286100d61c03317aab516d)
+  - [Detailed analysis: context-16df3744b6633000d5286100d61c03317aab516d](../sources/commit-review/build-deployment-all/sentry-crashpad/dossiers/context-16df3744b6633000d5286100d61c03317aab516d.md#collaborator-context-chore-deps-bump-actions-download-artifact-from-4-to-8-4)
+- context-commit:189f493a4fdf706d486e36c2feba8e44ff246f3f
+  - [Public source](https://github.com/EndstoneMC/papi/commit/189f493a4fdf706d486e36c2feba8e44ff246f3f)
+  - [Detailed analysis: 189f493a4fdf706d486e36c2feba8e44ff246f3f](../contexts/189f493a4fdf706d486e36c2feba8e44ff246f3f.md#context-commit-189f493a4fdf706d486e36c2feba8e44ff246f3f)
+- context-commit:1c6b6785e40930f224a18650be3477b2d8c13406
+  - [Public source](https://github.com/EndstoneMC/bedrock-server-data/commit/1c6b6785e40930f224a18650be3477b2d8c13406)
+  - [Detailed analysis: 1c6b6785e40930f224a18650be3477b2d8c13406](../contexts/1c6b6785e40930f224a18650be3477b2d8c13406.md#context-commit-1c6b6785e40930f224a18650be3477b2d8c13406)
+  - [Detailed analysis: context-review](../sources/commit-review/schema-release-toolchains/context-review.md#context-1c6b6785e40930f224a18650be3477b2d8c13406)
+  - [Detailed analysis: Bedrock server data: schema platform migrations](../sources/commit-review/schema-release-toolchains/cases/bedrock-server-data-schema-platform-migrations.md#b1-version-channel-and-platform-identity-must-survive-schema-migrations)
+  - [Detailed analysis: Bedrock server data: download provenance and backfill](../sources/commit-review/schema-release-toolchains/cases/bedrock-server-data-download-provenance-and-backfill.md#b2-a-plausible-download-url-is-not-artifact-identity)
+- context-commit:1ce12f9cd4c6ed1857e60be36cd3fb991ffc3ecb
+  - [Public source](https://github.com/endstone-essentials/sidebar/commit/1ce12f9cd4c6ed1857e60be36cd3fb991ffc3ecb)
+  - [Detailed analysis: 1ce12f9cd4c6ed1857e60be36cd3fb991ffc3ecb](../contexts/1ce12f9cd4c6ed1857e60be36cd3fb991ffc3ecb.md#context-commit-1ce12f9cd4c6ed1857e60be36cd3fb991ffc3ecb)
+- context-commit:1dc0af157bea9b749ede7a9352dafb1a5ab4099a · 2025-04-07
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/1dc0af157bea9b749ede7a9352dafb1a5ab4099a)
+  - [Detailed analysis: 1dc0af157bea9b749ede7a9352dafb1a5ab4099a](../contexts/1dc0af157bea9b749ede7a9352dafb1a5ab4099a.md#context-commit-1dc0af157bea9b749ede7a9352dafb1a5ab4099a)
+- context-commit:1f4a29db44edfd35934d0f8af902cf44534449cb · 2025-06-28
+  - [Public source](https://github.com/EndstoneMC/cpp-example-plugin/commit/1f4a29db44edfd35934d0f8af902cf44534449cb)
+  - [Detailed analysis: 1f4a29db44edfd35934d0f8af902cf44534449cb](../contexts/1f4a29db44edfd35934d0f8af902cf44534449cb.md#context-commit-1f4a29db44edfd35934d0f8af902cf44534449cb)
+- context-commit:20178dcadbdcadc34e2fa868d3160ef1af1ca068 · 2026-06-28
+  - [Public source](https://github.com/EndstoneMC/cpp-example-plugin/commit/20178dcadbdcadc34e2fa868d3160ef1af1ca068)
+  - [Detailed analysis: 20178dcadbdcadc34e2fa868d3160ef1af1ca068](../contexts/20178dcadbdcadc34e2fa868d3160ef1af1ca068.md#context-commit-20178dcadbdcadc34e2fa868d3160ef1af1ca068)
+- context-commit:207f439c599a589485218f34af61caa7c9e1ddf3 · 2025-03-21
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/207f439c599a589485218f34af61caa7c9e1ddf3)
+  - [Detailed analysis: 207f439c599a589485218f34af61caa7c9e1ddf3](../contexts/207f439c599a589485218f34af61caa7c9e1ddf3.md#context-commit-207f439c599a589485218f34af61caa7c9e1ddf3)
+  - [Detailed analysis: 05-merges-and-attribution](../sources/commit-review/endstone-2025-0401-0500/05-merges-and-attribution.md#merge-integration-collaborator-credit-and-review-limits)
+- context-commit:2428a4e8ed89caf30e53590363e738146a627638 · 2025-06-20
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/2428a4e8ed89caf30e53590363e738146a627638)
+  - [Detailed analysis: 2428a4e8ed89caf30e53590363e738146a627638](../contexts/2428a4e8ed89caf30e53590363e738146a627638.md#context-commit-2428a4e8ed89caf30e53590363e738146a627638)
+  - [Detailed analysis: 01-lifecycle-and-value-contracts](../sources/commit-review/endstone-2025-0801-0900/01-lifecycle-and-value-contracts.md#context-2428a4e8ed89caf30e53590363e738146a627638)
+- context-commit:2591031eccc0618da853872a0d72f0c7688ec881
+  - [Public source](https://github.com/EndstoneMC/bedrock-server-data/commit/2591031eccc0618da853872a0d72f0c7688ec881)
+  - [Detailed analysis: 2591031eccc0618da853872a0d72f0c7688ec881](../contexts/2591031eccc0618da853872a0d72f0c7688ec881.md#context-commit-2591031eccc0618da853872a0d72f0c7688ec881)
+  - [Detailed analysis: context-review](../sources/commit-review/schema-release-toolchains/context-review.md#context-2591031eccc0618da853872a0d72f0c7688ec881)
+  - [Detailed analysis: Bedrock server data: schema platform migrations](../sources/commit-review/schema-release-toolchains/cases/bedrock-server-data-schema-platform-migrations.md#b1-version-channel-and-platform-identity-must-survive-schema-migrations)
+  - [Detailed analysis: Bedrock server data: download provenance and backfill](../sources/commit-review/schema-release-toolchains/cases/bedrock-server-data-download-provenance-and-backfill.md#b2-a-plausible-download-url-is-not-artifact-identity)
+- context-commit:279776aef9c81ebac71a978aca6d8cbf47e199a6
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/279776aef9c81ebac71a978aca6d8cbf47e199a6)
+  - [Detailed analysis: 279776aef9c81ebac71a978aca6d8cbf47e199a6](../contexts/279776aef9c81ebac71a978aca6d8cbf47e199a6.md#context-commit-279776aef9c81ebac71a978aca6d8cbf47e199a6)
+- context-commit:2a2221af24d4b9deed467a6f0d5776903ea2c1c9
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/2a2221af24d4b9deed467a6f0d5776903ea2c1c9)
+  - [Detailed analysis: 2a2221af24d4b9deed467a6f0d5776903ea2c1c9](../contexts/2a2221af24d4b9deed467a6f0d5776903ea2c1c9.md#context-commit-2a2221af24d4b9deed467a6f0d5776903ea2c1c9)
+- context-commit:2d31c696db7f3e8fe31d8f4af35e90a91fb8608b
+  - [Public source](https://github.com/EndstoneMC/papi/commit/2d31c696db7f3e8fe31d8f4af35e90a91fb8608b)
+  - [Detailed analysis: 2d31c696db7f3e8fe31d8f4af35e90a91fb8608b](../contexts/2d31c696db7f3e8fe31d8f4af35e90a91fb8608b.md#context-commit-2d31c696db7f3e8fe31d8f4af35e90a91fb8608b)
+- context-commit:2ed4d2342a1b5ffd5f6459a778cbd47562c9eebd
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/2ed4d2342a1b5ffd5f6459a778cbd47562c9eebd)
+  - [Detailed analysis: 2ed4d2342a1b5ffd5f6459a778cbd47562c9eebd](../contexts/2ed4d2342a1b5ffd5f6459a778cbd47562c9eebd.md#context-commit-2ed4d2342a1b5ffd5f6459a778cbd47562c9eebd)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-2026/dossiers.md#movement-restoration)
+- context-commit:2f66fb0347a3c81e70e33af7c3627c6f0a0e4cdb
+  - [Public source](https://github.com/EndstoneMC/stubgen/commit/2f66fb0347a3c81e70e33af7c3627c6f0a0e4cdb)
+  - [Detailed analysis: 2f66fb0347a3c81e70e33af7c3627c6f0a0e4cdb](../contexts/2f66fb0347a3c81e70e33af7c3627c6f0a0e4cdb.md#context-commit-2f66fb0347a3c81e70e33af7c3627c6f0a0e4cdb)
+  - [Detailed analysis: context-review](../sources/commit-review/schema-release-toolchains/context-review.md#context-2f66fb0347a3c81e70e33af7c3627c6f0a0e4cdb)
+  - [Detailed analysis: Stubgen: release provenance](../sources/commit-review/schema-release-toolchains/cases/stubgen-release-provenance.md#s3-release-provenance-is-a-sequence-of-states-not-a-workflow-label)
+- context-commit:2f9962e8b7f3b200dcc97631fe0719e37f050c66 · 2025-05-24
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/2f9962e8b7f3b200dcc97631fe0719e37f050c66)
+  - [Detailed analysis: 2f9962e8b7f3b200dcc97631fe0719e37f050c66](../contexts/2f9962e8b7f3b200dcc97631fe0719e37f050c66.md#context-commit-2f9962e8b7f3b200dcc97631fe0719e37f050c66)
+  - [Detailed analysis: 05-consume-collaboration](../sources/commit-review/endstone-2025-0601-0700/05-consume-collaboration.md#context-2f9962e8b7f3b200dcc97631fe0719e37f050c66)
+- context-commit:324bbfbfb52616fd72751c97409256d3a4c7c0cc
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/324bbfbfb52616fd72751c97409256d3a4c7c0cc)
+  - [Detailed analysis: 324bbfbfb52616fd72751c97409256d3a4c7c0cc](../contexts/324bbfbfb52616fd72751c97409256d3a4c7c0cc.md#context-commit-324bbfbfb52616fd72751c97409256d3a4c7c0cc)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-2026-merge-closure/dossiers.md#context-324bbfbfb52616fd72751c97409256d3a4c7c0cc)
+- context-commit:36de665683102a8a6458c29f6bfd8848fcdf237f · 2025-05-24
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/36de665683102a8a6458c29f6bfd8848fcdf237f)
+  - [Detailed analysis: 36de665683102a8a6458c29f6bfd8848fcdf237f](../contexts/36de665683102a8a6458c29f6bfd8848fcdf237f.md#context-commit-36de665683102a8a6458c29f6bfd8848fcdf237f)
+  - [Detailed analysis: 05-consume-collaboration](../sources/commit-review/endstone-2025-0601-0700/05-consume-collaboration.md#context-36de665683102a8a6458c29f6bfd8848fcdf237f)
+- context-commit:37ee3f17315e72377a3e6326480fc405753e3139
+  - [Public source](https://github.com/endstone-essentials/discord/commit/37ee3f17315e72377a3e6326480fc405753e3139)
+  - [Detailed analysis: 37ee3f17315e72377a3e6326480fc405753e3139](../contexts/37ee3f17315e72377a3e6326480fc405753e3139.md#context-commit-37ee3f17315e72377a3e6326480fc405753e3139)
+- context-commit:3c25663b963006fdcbc81e1eac1c711bd6562799 · 2024-08-11
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/3c25663b963006fdcbc81e1eac1c711bd6562799)
+  - [Detailed analysis: 3c25663b963006fdcbc81e1eac1c711bd6562799](../contexts/3c25663b963006fdcbc81e1eac1c711bd6562799.md#context-commit-3c25663b963006fdcbc81e1eac1c711bd6562799)
+  - [Detailed analysis: 07-items-and-collaborator-integration](../sources/commit-review/endstone-1561-1680/07-items-and-collaborator-integration.md#commit-1596)
+- context-commit:3d4ebdc3b40baead6450ad814ea38ce5b2797cff · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/spyglass/commit/3d4ebdc3b40baead6450ad814ea38ce5b2797cff)
+  - [Detailed analysis: 3d4ebdc3b40baead6450ad814ea38ce5b2797cff](../contexts/3d4ebdc3b40baead6450ad814ea38ce5b2797cff.md#context-commit-3d4ebdc3b40baead6450ad814ea38ce5b2797cff)
+- context-commit:3e07a36b138e55fa8970ab615e0b661006cac254
+  - [Public source](https://github.com/EndstoneMC/papi/commit/3e07a36b138e55fa8970ab615e0b661006cac254)
+  - [Detailed analysis: 3e07a36b138e55fa8970ab615e0b661006cac254](../contexts/3e07a36b138e55fa8970ab615e0b661006cac254.md#context-commit-3e07a36b138e55fa8970ab615e0b661006cac254)
+- context-commit:3e545a5792803f04f66ee1ddc718ee26a0f87a17 · 2024-08-09
+  - [Public source](https://github.com/EndstoneMC/python-example-plugin/commit/3e545a5792803f04f66ee1ddc718ee26a0f87a17)
+  - [Detailed analysis: 3e545a5792803f04f66ee1ddc718ee26a0f87a17](../contexts/3e545a5792803f04f66ee1ddc718ee26a0f87a17.md#context-commit-3e545a5792803f04f66ee1ddc718ee26a0f87a17)
+- context-commit:42289e72709eb7a16bfd9e51b7386050decebdf4
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/42289e72709eb7a16bfd9e51b7386050decebdf4)
+  - [Detailed analysis: 42289e72709eb7a16bfd9e51b7386050decebdf4](../contexts/42289e72709eb7a16bfd9e51b7386050decebdf4.md#context-commit-42289e72709eb7a16bfd9e51b7386050decebdf4)
+- context-commit:45a5c556142b66c28e87b02b764c10f834a77bd8
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/45a5c556142b66c28e87b02b764c10f834a77bd8)
+  - [Detailed analysis: 45a5c556142b66c28e87b02b764c10f834a77bd8](../contexts/45a5c556142b66c28e87b02b764c10f834a77bd8.md#context-commit-45a5c556142b66c28e87b02b764c10f834a77bd8)
+  - [Detailed analysis: 04-plugin-and-resource-lifecycle](../sources/commit-review/endstone-1921-2040/04-plugin-and-resource-lifecycle.md#commit-2020)
+- context-commit:45d0c3096d94010c37f48ec43756c512ffa9f67e · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/sentry-crashpad/commit/45d0c3096d94010c37f48ec43756c512ffa9f67e)
+  - [Detailed analysis: 45d0c3096d94010c37f48ec43756c512ffa9f67e](../contexts/45d0c3096d94010c37f48ec43756c512ffa9f67e.md#context-commit-45d0c3096d94010c37f48ec43756c512ffa9f67e)
+  - [Detailed analysis: context-45d0c3096d94010c37f48ec43756c512ffa9f67e](../sources/commit-review/build-deployment-all/sentry-crashpad/dossiers/context-45d0c3096d94010c37f48ec43756c512ffa9f67e.md#collaborator-context-chore-deps-bump-pypa-cibuildwheel-from-2-22-to-3-4-2)
+- context-commit:484ed2071b6c4bbf163f632f409283c068e6d71f · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/python-example-plugin/commit/484ed2071b6c4bbf163f632f409283c068e6d71f)
+  - [Detailed analysis: 484ed2071b6c4bbf163f632f409283c068e6d71f](../contexts/484ed2071b6c4bbf163f632f409283c068e6d71f.md#context-commit-484ed2071b6c4bbf163f632f409283c068e6d71f)
+- context-commit:4abf54a10805c484086637870546b0483fad687e · 2025-03-22
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/4abf54a10805c484086637870546b0483fad687e)
+  - [Detailed analysis: 4abf54a10805c484086637870546b0483fad687e](../contexts/4abf54a10805c484086637870546b0483fad687e.md#context-commit-4abf54a10805c484086637870546b0483fad687e)
+  - [Detailed analysis: 05-merges-and-attribution](../sources/commit-review/endstone-2025-0401-0500/05-merges-and-attribution.md#merge-integration-collaborator-credit-and-review-limits)
+- context-commit:4b8ffaeaa9d852f42664f231f0fb8dd91f4e5762
+  - [Public source](https://github.com/endstone-essentials/sidebar/commit/4b8ffaeaa9d852f42664f231f0fb8dd91f4e5762)
+  - [Detailed analysis: 4b8ffaeaa9d852f42664f231f0fb8dd91f4e5762](../contexts/4b8ffaeaa9d852f42664f231f0fb8dd91f4e5762.md#context-commit-4b8ffaeaa9d852f42664f231f0fb8dd91f4e5762)
+- context-commit:4cdee54210344fed64207fc80cc508ee59daeeec
+  - [Public source](https://github.com/EndstoneMC/papi/commit/4cdee54210344fed64207fc80cc508ee59daeeec)
+  - [Detailed analysis: 4cdee54210344fed64207fc80cc508ee59daeeec](../contexts/4cdee54210344fed64207fc80cc508ee59daeeec.md#context-commit-4cdee54210344fed64207fc80cc508ee59daeeec)
+- context-commit:4d81e71439881c276ed7c45c872e598a8a965744
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/4d81e71439881c276ed7c45c872e598a8a965744)
+  - [Detailed analysis: 4d81e71439881c276ed7c45c872e598a8a965744](../contexts/4d81e71439881c276ed7c45c872e598a8a965744.md#context-commit-4d81e71439881c276ed7c45c872e598a8a965744)
+- context-commit:4ffe94c13e0328ff8046414a5469704d289ccbce · 2024-08-29
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/4ffe94c13e0328ff8046414a5469704d289ccbce)
+  - [Detailed analysis: 4ffe94c13e0328ff8046414a5469704d289ccbce](../contexts/4ffe94c13e0328ff8046414a5469704d289ccbce.md#context-commit-4ffe94c13e0328ff8046414a5469704d289ccbce)
+  - [Detailed analysis: 02-installation-docs-and-integration](../sources/commit-review/endstone-1681-1800/02-installation-docs-and-integration.md#commit-1684)
+- context-commit:51be3939c6d42fbcfaf9baaec0c4de16d5ca3cb1 · 2025-05-24
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/51be3939c6d42fbcfaf9baaec0c4de16d5ca3cb1)
+  - [Detailed analysis: 51be3939c6d42fbcfaf9baaec0c4de16d5ca3cb1](../contexts/51be3939c6d42fbcfaf9baaec0c4de16d5ca3cb1.md#context-commit-51be3939c6d42fbcfaf9baaec0c4de16d5ca3cb1)
+  - [Detailed analysis: 05-consume-collaboration](../sources/commit-review/endstone-2025-0601-0700/05-consume-collaboration.md#context-51be3939c6d42fbcfaf9baaec0c4de16d5ca3cb1)
+- context-commit:52f4c9b1df1d2eeffc5aec685546cace8fe99069
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/52f4c9b1df1d2eeffc5aec685546cace8fe99069)
+  - [Detailed analysis: 52f4c9b1df1d2eeffc5aec685546cace8fe99069](../contexts/52f4c9b1df1d2eeffc5aec685546cace8fe99069.md#context-commit-52f4c9b1df1d2eeffc5aec685546cace8fe99069)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-2026-merge-closure/dossiers.md#context-52f4c9b1df1d2eeffc5aec685546cace8fe99069)
+- context-commit:53febf325056cee05f2d73ea48e0117fc50700f8 · 2026-06-24
+  - [Public source](https://github.com/EndstoneMC/dwarf2cpp/commit/53febf325056cee05f2d73ea48e0117fc50700f8)
+  - [Detailed analysis: 53febf325056cee05f2d73ea48e0117fc50700f8](../contexts/53febf325056cee05f2d73ea48e0117fc50700f8.md#context-commit-53febf325056cee05f2d73ea48e0117fc50700f8)
+- context-commit:545608309a481f4bf5ee1e8b129aad80cfc9d2e9 · 2026-06-22
+  - [Public source](https://github.com/EndstoneMC/cpp-example-plugin/commit/545608309a481f4bf5ee1e8b129aad80cfc9d2e9)
+  - [Detailed analysis: 545608309a481f4bf5ee1e8b129aad80cfc9d2e9](../contexts/545608309a481f4bf5ee1e8b129aad80cfc9d2e9.md#context-commit-545608309a481f4bf5ee1e8b129aad80cfc9d2e9)
+- context-commit:545efac3af53b201b4cb1b4fa072684f7a3e9c63
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/545efac3af53b201b4cb1b4fa072684f7a3e9c63)
+  - [Detailed analysis: 545efac3af53b201b4cb1b4fa072684f7a3e9c63](../contexts/545efac3af53b201b4cb1b4fa072684f7a3e9c63.md#context-commit-545efac3af53b201b4cb1b4fa072684f7a3e9c63)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-2026-merge-closure/dossiers.md#context-545efac3af53b201b4cb1b4fa072684f7a3e9c63)
+- context-commit:577816f84f78c36e27fbff20e0b131ac07742c55 · 2025-07-06
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/577816f84f78c36e27fbff20e0b131ac07742c55)
+  - [Detailed analysis: 577816f84f78c36e27fbff20e0b131ac07742c55](../contexts/577816f84f78c36e27fbff20e0b131ac07742c55.md#context-commit-577816f84f78c36e27fbff20e0b131ac07742c55)
+  - [Detailed analysis: 03-native-block-events](../sources/commit-review/endstone-2025-0801-0900/03-native-block-events.md#context-577816f84f78c36e27fbff20e0b131ac07742c55)
+- context-commit:57af0e5b51f4bc09aa2dec2e8a649dfdcad45036 · 2024-08-30
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/57af0e5b51f4bc09aa2dec2e8a649dfdcad45036)
+  - [Detailed analysis: 57af0e5b51f4bc09aa2dec2e8a649dfdcad45036](../contexts/57af0e5b51f4bc09aa2dec2e8a649dfdcad45036.md#context-commit-57af0e5b51f4bc09aa2dec2e8a649dfdcad45036)
+  - [Detailed analysis: 02-installation-docs-and-integration](../sources/commit-review/endstone-1681-1800/02-installation-docs-and-integration.md#commit-1690)
+  - [Detailed analysis: 02-installation-docs-and-integration](../sources/commit-review/endstone-1681-1800/02-installation-docs-and-integration.md#commit-1694)
+- context-commit:584f7f659057121ea0d7899ce3264ba0af96fdb1
+  - [Public source](https://github.com/endstone-essentials/sidebar/commit/584f7f659057121ea0d7899ce3264ba0af96fdb1)
+  - [Detailed analysis: 584f7f659057121ea0d7899ce3264ba0af96fdb1](../contexts/584f7f659057121ea0d7899ce3264ba0af96fdb1.md#context-commit-584f7f659057121ea0d7899ce3264ba0af96fdb1)
+- context-commit:5969cb5fc9fb4008e19e1a20c468ede6d7eb4a06 · 2025-03-21
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/5969cb5fc9fb4008e19e1a20c468ede6d7eb4a06)
+  - [Detailed analysis: 5969cb5fc9fb4008e19e1a20c468ede6d7eb4a06](../contexts/5969cb5fc9fb4008e19e1a20c468ede6d7eb4a06.md#context-commit-5969cb5fc9fb4008e19e1a20c468ede6d7eb4a06)
+  - [Detailed analysis: 05-merges-and-attribution](../sources/commit-review/endstone-2025-0401-0500/05-merges-and-attribution.md#merge-integration-collaborator-credit-and-review-limits)
+- context-commit:5aec5c908fab6339add4317302298c72e1e4a30a · 2024-09-30
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/5aec5c908fab6339add4317302298c72e1e4a30a)
+  - [Detailed analysis: 5aec5c908fab6339add4317302298c72e1e4a30a](../contexts/5aec5c908fab6339add4317302298c72e1e4a30a.md#context-commit-5aec5c908fab6339add4317302298c72e1e4a30a)
+  - [Detailed analysis: 08-build-devtools-docs-and-collaborators](../sources/commit-review/endstone-1801-1920/08-build-devtools-docs-and-collaborators.md#collaborator-5aec5c90)
+- context-commit:5afd37f13e114ef764ed876ffdc2cd3eb36d2fb9 · 2026-05-16
+  - [Public source](https://github.com/EndstoneMC/dwarf2cpp/commit/5afd37f13e114ef764ed876ffdc2cd3eb36d2fb9)
+  - [Detailed analysis: 5afd37f13e114ef764ed876ffdc2cd3eb36d2fb9](../contexts/5afd37f13e114ef764ed876ffdc2cd3eb36d2fb9.md#context-commit-5afd37f13e114ef764ed876ffdc2cd3eb36d2fb9)
+- context-commit:5b18840f7f604f0f027c544baad391f24ebb749a · 2025-05-24
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/5b18840f7f604f0f027c544baad391f24ebb749a)
+  - [Detailed analysis: 5b18840f7f604f0f027c544baad391f24ebb749a](../contexts/5b18840f7f604f0f027c544baad391f24ebb749a.md#context-commit-5b18840f7f604f0f027c544baad391f24ebb749a)
+  - [Detailed analysis: 05-consume-collaboration](../sources/commit-review/endstone-2025-0601-0700/05-consume-collaboration.md#context-5b18840f7f604f0f027c544baad391f24ebb749a)
+- context-commit:5c3b877dbf72d737e2b0a10f547c7c6cae95cb2e · 2025-05-24
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/5c3b877dbf72d737e2b0a10f547c7c6cae95cb2e)
+  - [Detailed analysis: 5c3b877dbf72d737e2b0a10f547c7c6cae95cb2e](../contexts/5c3b877dbf72d737e2b0a10f547c7c6cae95cb2e.md#context-commit-5c3b877dbf72d737e2b0a10f547c7c6cae95cb2e)
+  - [Detailed analysis: 05-consume-collaboration](../sources/commit-review/endstone-2025-0601-0700/05-consume-collaboration.md#context-5c3b877dbf72d737e2b0a10f547c7c6cae95cb2e)
+- context-commit:5dfcb9c87d9c95b964b6c3506e92887720cce850
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/5dfcb9c87d9c95b964b6c3506e92887720cce850)
+  - [Detailed analysis: 5dfcb9c87d9c95b964b6c3506e92887720cce850](../contexts/5dfcb9c87d9c95b964b6c3506e92887720cce850.md#context-commit-5dfcb9c87d9c95b964b6c3506e92887720cce850)
+  - [Detailed analysis: 05-branches-releases-build-and-context](../sources/commit-review/endstone-2025-1301-1363/05-branches-releases-build-and-context.md#context-5dfcb9c87d9c95b964b6c3506e92887720cce850)
+- context-commit:5f6a9742982203d3851eb870b82eee60a426e858 · 2026-05-16
+  - [Public source](https://github.com/EndstoneMC/dwarf2cpp/commit/5f6a9742982203d3851eb870b82eee60a426e858)
+  - [Detailed analysis: 5f6a9742982203d3851eb870b82eee60a426e858](../contexts/5f6a9742982203d3851eb870b82eee60a426e858.md#context-commit-5f6a9742982203d3851eb870b82eee60a426e858)
+- context-commit:610d38faa9beb911c222582158a40d522d289532 · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/spyglass/commit/610d38faa9beb911c222582158a40d522d289532)
+  - [Detailed analysis: 610d38faa9beb911c222582158a40d522d289532](../contexts/610d38faa9beb911c222582158a40d522d289532.md#context-commit-610d38faa9beb911c222582158a40d522d289532)
+- context-commit:621737ea444a9b6acfd04ebfe892828c2e8154ab
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/621737ea444a9b6acfd04ebfe892828c2e8154ab)
+  - [Detailed analysis: 621737ea444a9b6acfd04ebfe892828c2e8154ab](../contexts/621737ea444a9b6acfd04ebfe892828c2e8154ab.md#context-commit-621737ea444a9b6acfd04ebfe892828c2e8154ab)
+  - [Detailed analysis: context-621737ea444a9b6acfd04ebfe892828c2e8154ab](../sources/commit-review/scikit-build-core-conan-all/dossiers/context-621737ea444a9b6acfd04ebfe892828c2e8154ab.md#contributor-context-pr-6)
+- context-commit:63e4b2e1ff974656025935e0b25b26a1945fc4fc · 2024-08-29
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/63e4b2e1ff974656025935e0b25b26a1945fc4fc)
+  - [Detailed analysis: 63e4b2e1ff974656025935e0b25b26a1945fc4fc](../contexts/63e4b2e1ff974656025935e0b25b26a1945fc4fc.md#context-commit-63e4b2e1ff974656025935e0b25b26a1945fc4fc)
+  - [Detailed analysis: 02-installation-docs-and-integration](../sources/commit-review/endstone-1681-1800/02-installation-docs-and-integration.md#commit-1684)
+- context-commit:6a3afbf29a3b56a6dcd0618816ee07711544dc16 · 2026-06-24
+  - [Public source](https://github.com/EndstoneMC/dwarf2cpp/commit/6a3afbf29a3b56a6dcd0618816ee07711544dc16)
+  - [Detailed analysis: 6a3afbf29a3b56a6dcd0618816ee07711544dc16](../contexts/6a3afbf29a3b56a6dcd0618816ee07711544dc16.md#context-commit-6a3afbf29a3b56a6dcd0618816ee07711544dc16)
+- context-commit:6ae00d1884b81dccaf18f86e922fb5f8ee544a6b · 2025-05-01
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/6ae00d1884b81dccaf18f86e922fb5f8ee544a6b)
+  - [Detailed analysis: 6ae00d1884b81dccaf18f86e922fb5f8ee544a6b](../contexts/6ae00d1884b81dccaf18f86e922fb5f8ee544a6b.md#context-commit-6ae00d1884b81dccaf18f86e922fb5f8ee544a6b)
+- context-commit:6bbf50d0d9a0f1fe7c5d7e76870e42f9f63cde15 · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/sentry-crashpad/commit/6bbf50d0d9a0f1fe7c5d7e76870e42f9f63cde15)
+  - [Detailed analysis: 6bbf50d0d9a0f1fe7c5d7e76870e42f9f63cde15](../contexts/6bbf50d0d9a0f1fe7c5d7e76870e42f9f63cde15.md#context-commit-6bbf50d0d9a0f1fe7c5d7e76870e42f9f63cde15)
+  - [Detailed analysis: context-6bbf50d0d9a0f1fe7c5d7e76870e42f9f63cde15](../sources/commit-review/build-deployment-all/sentry-crashpad/dossiers/context-6bbf50d0d9a0f1fe7c5d7e76870e42f9f63cde15.md#collaborator-context-chore-deps-bump-pypa-gh-action-pypi-publish-in-github-workflows)
+- context-commit:6c7d84e95922307d678c1143dd4c7d5c7e769a3a · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/sentry-crashpad/commit/6c7d84e95922307d678c1143dd4c7d5c7e769a3a)
+  - [Detailed analysis: 6c7d84e95922307d678c1143dd4c7d5c7e769a3a](../contexts/6c7d84e95922307d678c1143dd4c7d5c7e769a3a.md#context-commit-6c7d84e95922307d678c1143dd4c7d5c7e769a3a)
+  - [Detailed analysis: context-6c7d84e95922307d678c1143dd4c7d5c7e769a3a](../sources/commit-review/build-deployment-all/sentry-crashpad/dossiers/context-6c7d84e95922307d678c1143dd4c7d5c7e769a3a.md#collaborator-context-chore-deps-bump-docker-setup-qemu-action-from-3-2-0-to-4-0-0-3)
+- context-commit:6e06c413edb1cc352dbd52ca893cce7f9cf0fcc1
+  - [Public source](https://github.com/EndstoneMC/bedrock-server-data/commit/6e06c413edb1cc352dbd52ca893cce7f9cf0fcc1)
+  - [Detailed analysis: 6e06c413edb1cc352dbd52ca893cce7f9cf0fcc1](../contexts/6e06c413edb1cc352dbd52ca893cce7f9cf0fcc1.md#context-commit-6e06c413edb1cc352dbd52ca893cce7f9cf0fcc1)
+  - [Detailed analysis: context-review](../sources/commit-review/schema-release-toolchains/context-review.md#context-6e06c413edb1cc352dbd52ca893cce7f9cf0fcc1)
+  - [Detailed analysis: Bedrock server data: generated data publication](../sources/commit-review/schema-release-toolchains/cases/bedrock-server-data-generated-data-publication.md#b3-publishing-generated-data-needs-state-aware-no-op-detection)
+- context-commit:6e5ff2fc73f91c486805cce7005b28f6e3305bff · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/sentry-crashpad/commit/6e5ff2fc73f91c486805cce7005b28f6e3305bff)
+  - [Detailed analysis: 6e5ff2fc73f91c486805cce7005b28f6e3305bff](../contexts/6e5ff2fc73f91c486805cce7005b28f6e3305bff.md#context-commit-6e5ff2fc73f91c486805cce7005b28f6e3305bff)
+  - [Detailed analysis: context-6e5ff2fc73f91c486805cce7005b28f6e3305bff](../sources/commit-review/build-deployment-all/sentry-crashpad/dossiers/context-6e5ff2fc73f91c486805cce7005b28f6e3305bff.md#collaborator-context-chore-deps-bump-actions-upload-artifact-from-4-to-7-5)
+- context-commit:72e85161e6c0dd643af8080155283d262f4f1654 · 2025-10-14
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/72e85161e6c0dd643af8080155283d262f4f1654)
+  - [Detailed analysis: 72e85161e6c0dd643af8080155283d262f4f1654](../contexts/72e85161e6c0dd643af8080155283d262f4f1654.md#context-commit-72e85161e6c0dd643af8080155283d262f4f1654)
+  - [Detailed analysis: 06-integration-and-coverage](../sources/commit-review/endstone-2025-1001-1100/06-integration-and-coverage.md#context-72e85161e6c0dd643af8080155283d262f4f1654)
+  - [Detailed analysis: 06-branches-releases-and-context](../sources/commit-review/endstone-2025-1101-1200/06-branches-releases-and-context.md#context-72e85161e6c0dd643af8080155283d262f4f1654)
+  - [Detailed analysis: 05-branches-releases-build-and-context](../sources/commit-review/endstone-2025-1301-1363/05-branches-releases-build-and-context.md#context-72e85161e6c0dd643af8080155283d262f4f1654)
+- context-commit:73d1df1b6df52bb9eaa0f49841e541dffcb3c603
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/73d1df1b6df52bb9eaa0f49841e541dffcb3c603)
+  - [Detailed analysis: 73d1df1b6df52bb9eaa0f49841e541dffcb3c603](../contexts/73d1df1b6df52bb9eaa0f49841e541dffcb3c603.md#context-commit-73d1df1b6df52bb9eaa0f49841e541dffcb3c603)
+  - [Detailed analysis: 05-build-docs-and-release](../sources/commit-review/endstone-1921-2040/05-build-docs-and-release.md#commit-1968)
+- context-commit:747115ad3dae5ad86b03350d29990f3a04d968a8
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/747115ad3dae5ad86b03350d29990f3a04d968a8)
+  - [Detailed analysis: 747115ad3dae5ad86b03350d29990f3a04d968a8](../contexts/747115ad3dae5ad86b03350d29990f3a04d968a8.md#context-commit-747115ad3dae5ad86b03350d29990f3a04d968a8)
+  - [Detailed analysis: 06-branches-releases-and-context](../sources/commit-review/endstone-2025-1101-1200/06-branches-releases-and-context.md#context-747115ad3dae5ad86b03350d29990f3a04d968a8)
+  - [Detailed analysis: 05-branches-releases-build-and-context](../sources/commit-review/endstone-2025-1301-1363/05-branches-releases-build-and-context.md#context-747115ad3dae5ad86b03350d29990f3a04d968a8)
+- context-commit:74fd38bde8836a8030fed5bcb687ec6e0a574831 · 2024-08-11
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/74fd38bde8836a8030fed5bcb687ec6e0a574831)
+  - [Detailed analysis: 74fd38bde8836a8030fed5bcb687ec6e0a574831](../contexts/74fd38bde8836a8030fed5bcb687ec6e0a574831.md#context-commit-74fd38bde8836a8030fed5bcb687ec6e0a574831)
+  - [Detailed analysis: 07-items-and-collaborator-integration](../sources/commit-review/endstone-1561-1680/07-items-and-collaborator-integration.md#commit-1596)
+- context-commit:7b64486fddef2d1c78809d2b27d09203dfc9c4ac · 2025-01-11
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/7b64486fddef2d1c78809d2b27d09203dfc9c4ac)
+  - [Detailed analysis: 7b64486fddef2d1c78809d2b27d09203dfc9c4ac](../contexts/7b64486fddef2d1c78809d2b27d09203dfc9c4ac.md#context-commit-7b64486fddef2d1c78809d2b27d09203dfc9c4ac)
+  - [Detailed analysis: 06-context-attribution](../sources/commit-review/endstone-2025-0001-0200/06-context-attribution.md#context-7b64486)
+- context-commit:7e66d0cf9768c82538cdca34f7b1c1b343ee7173 · 2024-09-18
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/7e66d0cf9768c82538cdca34f7b1c1b343ee7173)
+  - [Detailed analysis: 7e66d0cf9768c82538cdca34f7b1c1b343ee7173](../contexts/7e66d0cf9768c82538cdca34f7b1c1b343ee7173.md#context-commit-7e66d0cf9768c82538cdca34f7b1c1b343ee7173)
+  - [Detailed analysis: 08-build-devtools-docs-and-collaborators](../sources/commit-review/endstone-1801-1920/08-build-devtools-docs-and-collaborators.md#collaborator-7e66d0cf)
+- context-commit:8046b602d2c0c93ff1f4951b7f42de341364bdbf · 2025-03-21
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/8046b602d2c0c93ff1f4951b7f42de341364bdbf)
+  - [Detailed analysis: 8046b602d2c0c93ff1f4951b7f42de341364bdbf](../contexts/8046b602d2c0c93ff1f4951b7f42de341364bdbf.md#context-commit-8046b602d2c0c93ff1f4951b7f42de341364bdbf)
+  - [Detailed analysis: 05-merges-and-attribution](../sources/commit-review/endstone-2025-0401-0500/05-merges-and-attribution.md#merge-integration-collaborator-credit-and-review-limits)
+- context-commit:8095d769c2927df8bf15b42bf242beefb2cc5688 · 2025-04-15
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/8095d769c2927df8bf15b42bf242beefb2cc5688)
+  - [Detailed analysis: 8095d769c2927df8bf15b42bf242beefb2cc5688](../contexts/8095d769c2927df8bf15b42bf242beefb2cc5688.md#context-commit-8095d769c2927df8bf15b42bf242beefb2cc5688)
+- context-commit:811283ecaa422f78cb13a75784f9292bc1cf7c3f
+  - [Public source](https://github.com/endstone-essentials/sidebar/commit/811283ecaa422f78cb13a75784f9292bc1cf7c3f)
+  - [Detailed analysis: 811283ecaa422f78cb13a75784f9292bc1cf7c3f](../contexts/811283ecaa422f78cb13a75784f9292bc1cf7c3f.md#context-commit-811283ecaa422f78cb13a75784f9292bc1cf7c3f)
+- context-commit:8180dd8ddbcbc70a987608718d9bdca2f367c0c4 · 2025-04-29
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/8180dd8ddbcbc70a987608718d9bdca2f367c0c4)
+  - [Detailed analysis: 8180dd8ddbcbc70a987608718d9bdca2f367c0c4](../contexts/8180dd8ddbcbc70a987608718d9bdca2f367c0c4.md#context-commit-8180dd8ddbcbc70a987608718d9bdca2f367c0c4)
+- context-commit:82c584a2a72144ec99272218d30d8e881d426dce
+  - [Public source](https://github.com/EndstoneMC/papi/commit/82c584a2a72144ec99272218d30d8e881d426dce)
+  - [Detailed analysis: 82c584a2a72144ec99272218d30d8e881d426dce](../contexts/82c584a2a72144ec99272218d30d8e881d426dce.md#context-commit-82c584a2a72144ec99272218d30d8e881d426dce)
+- context-commit:831b29e6614c1edc36a756185f0f27bc14604fde · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/dwarf2cpp/commit/831b29e6614c1edc36a756185f0f27bc14604fde)
+  - [Detailed analysis: 831b29e6614c1edc36a756185f0f27bc14604fde](../contexts/831b29e6614c1edc36a756185f0f27bc14604fde.md#context-commit-831b29e6614c1edc36a756185f0f27bc14604fde)
+- context-commit:8428eba99d54e00c0923fc720613767b554c6d06
+  - [Public source](https://github.com/EndstoneMC/papi/commit/8428eba99d54e00c0923fc720613767b554c6d06)
+  - [Detailed analysis: 8428eba99d54e00c0923fc720613767b554c6d06](../contexts/8428eba99d54e00c0923fc720613767b554c6d06.md#context-commit-8428eba99d54e00c0923fc720613767b554c6d06)
+- context-commit:846f5d6f5d18a61f83b171ff0db5e36d601042c2 · 2025-07-07
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/846f5d6f5d18a61f83b171ff0db5e36d601042c2)
+  - [Detailed analysis: 846f5d6f5d18a61f83b171ff0db5e36d601042c2](../contexts/846f5d6f5d18a61f83b171ff0db5e36d601042c2.md#context-commit-846f5d6f5d18a61f83b171ff0db5e36d601042c2)
+  - [Detailed analysis: 06-release-and-merge-discipline](../sources/commit-review/endstone-2025-0801-0900/06-release-and-merge-discipline.md#context-846f5d6f5d18a61f83b171ff0db5e36d601042c2)
+- context-commit:84cff37a7ea3f745ed2cd78c097233bd0666b175
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/84cff37a7ea3f745ed2cd78c097233bd0666b175)
+  - [Detailed analysis: 84cff37a7ea3f745ed2cd78c097233bd0666b175](../contexts/84cff37a7ea3f745ed2cd78c097233bd0666b175.md#context-commit-84cff37a7ea3f745ed2cd78c097233bd0666b175)
+  - [Detailed analysis: 06-branches-releases-and-context](../sources/commit-review/endstone-2025-1101-1200/06-branches-releases-and-context.md#context-84cff37a7ea3f745ed2cd78c097233bd0666b175)
+  - [Detailed analysis: 05-branches-releases-build-and-context](../sources/commit-review/endstone-2025-1301-1363/05-branches-releases-build-and-context.md#context-84cff37a7ea3f745ed2cd78c097233bd0666b175)
+- context-commit:85bb72c3731816e020cc8c62e973dcebca922114
+  - [Public source](https://github.com/EndstoneMC/papi/commit/85bb72c3731816e020cc8c62e973dcebca922114)
+  - [Detailed analysis: 85bb72c3731816e020cc8c62e973dcebca922114](../contexts/85bb72c3731816e020cc8c62e973dcebca922114.md#context-commit-85bb72c3731816e020cc8c62e973dcebca922114)
+- context-commit:88ee0265be71cf8e07fe376cc346d79cfdb12087 · 2025-02-10
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/88ee0265be71cf8e07fe376cc346d79cfdb12087)
+  - [Detailed analysis: 88ee0265be71cf8e07fe376cc346d79cfdb12087](../contexts/88ee0265be71cf8e07fe376cc346d79cfdb12087.md#context-commit-88ee0265be71cf8e07fe376cc346d79cfdb12087)
+  - [Detailed analysis: 06-context-attribution](../sources/commit-review/endstone-2025-0201-0300/06-context-attribution.md#context-88ee0265)
+- context-commit:8a1605eb6cb4d49a80e363f59881b738bc78d8f5
+  - [Public source](https://github.com/EndstoneMC/papi/commit/8a1605eb6cb4d49a80e363f59881b738bc78d8f5)
+  - [Detailed analysis: 8a1605eb6cb4d49a80e363f59881b738bc78d8f5](../contexts/8a1605eb6cb4d49a80e363f59881b738bc78d8f5.md#context-commit-8a1605eb6cb4d49a80e363f59881b738bc78d8f5)
+- context-commit:8ae668acb0f316392e81c1b3af93930bafccf2a3 · 2024-08-30
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/8ae668acb0f316392e81c1b3af93930bafccf2a3)
+  - [Detailed analysis: 8ae668acb0f316392e81c1b3af93930bafccf2a3](../contexts/8ae668acb0f316392e81c1b3af93930bafccf2a3.md#context-commit-8ae668acb0f316392e81c1b3af93930bafccf2a3)
+  - [Detailed analysis: 02-installation-docs-and-integration](../sources/commit-review/endstone-1681-1800/02-installation-docs-and-integration.md#commit-1691)
+  - [Detailed analysis: 02-installation-docs-and-integration](../sources/commit-review/endstone-1681-1800/02-installation-docs-and-integration.md#commit-1694)
+- context-commit:8aeb44d05385daf9e760e627be7ddd354a352434 · 2025-03-21
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/8aeb44d05385daf9e760e627be7ddd354a352434)
+  - [Detailed analysis: 8aeb44d05385daf9e760e627be7ddd354a352434](../contexts/8aeb44d05385daf9e760e627be7ddd354a352434.md#context-commit-8aeb44d05385daf9e760e627be7ddd354a352434)
+  - [Detailed analysis: 05-merges-and-attribution](../sources/commit-review/endstone-2025-0401-0500/05-merges-and-attribution.md#merge-integration-collaborator-credit-and-review-limits)
+- context-commit:8c7bcf18ba94b4c787f33b4057467c6594f92b09 · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/spyglass/commit/8c7bcf18ba94b4c787f33b4057467c6594f92b09)
+  - [Detailed analysis: 8c7bcf18ba94b4c787f33b4057467c6594f92b09](../contexts/8c7bcf18ba94b4c787f33b4057467c6594f92b09.md#context-commit-8c7bcf18ba94b4c787f33b4057467c6594f92b09)
+- context-commit:8f0699b906f470e985efd4cebb12a73de330651d · 2024-08-30
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/8f0699b906f470e985efd4cebb12a73de330651d)
+  - [Detailed analysis: 8f0699b906f470e985efd4cebb12a73de330651d](../contexts/8f0699b906f470e985efd4cebb12a73de330651d.md#context-commit-8f0699b906f470e985efd4cebb12a73de330651d)
+  - [Detailed analysis: 02-installation-docs-and-integration](../sources/commit-review/endstone-1681-1800/02-installation-docs-and-integration.md#commit-1690)
+  - [Detailed analysis: 02-installation-docs-and-integration](../sources/commit-review/endstone-1681-1800/02-installation-docs-and-integration.md#commit-1694)
+- context-commit:90754bcc1c3b8f81dc1321d54c3c9e2e6817d461
+  - [Public source](https://github.com/EndstoneMC/papi/commit/90754bcc1c3b8f81dc1321d54c3c9e2e6817d461)
+  - [Detailed analysis: 90754bcc1c3b8f81dc1321d54c3c9e2e6817d461](../contexts/90754bcc1c3b8f81dc1321d54c3c9e2e6817d461.md#context-commit-90754bcc1c3b8f81dc1321d54c3c9e2e6817d461)
+- context-commit:92b8bd006c7510aa68cede43f93a7bc3f284d4eb
+  - [Public source](https://github.com/JakubAndrysek/MkDoxy/commit/92b8bd006c7510aa68cede43f93a7bc3f284d4eb)
+  - [Detailed analysis: 92b8bd006c7510aa68cede43f93a7bc3f284d4eb](../contexts/92b8bd006c7510aa68cede43f93a7bc3f284d4eb.md#context-commit-92b8bd006c7510aa68cede43f93a7bc3f284d4eb)
+- context-commit:96c362fd0ea8e59e7e14b0fe5f27223b44e73318 · 2026-09-15
+  - [Public source](https://github.com/EndstoneMC/spyglass/commit/96c362fd0ea8e59e7e14b0fe5f27223b44e73318)
+  - [Detailed analysis: 96c362fd0ea8e59e7e14b0fe5f27223b44e73318](../contexts/96c362fd0ea8e59e7e14b0fe5f27223b44e73318.md#context-commit-96c362fd0ea8e59e7e14b0fe5f27223b44e73318)
+- context-commit:98aee23ccac467a55ac051ef92f8179166c78eae · 2025-05-01
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/98aee23ccac467a55ac051ef92f8179166c78eae)
+  - [Detailed analysis: 98aee23ccac467a55ac051ef92f8179166c78eae](../contexts/98aee23ccac467a55ac051ef92f8179166c78eae.md#context-commit-98aee23ccac467a55ac051ef92f8179166c78eae)
+- context-commit:99b9969319613161a2d79df8de58fd267ea29476 · 2026-10-18
+  - [Public source](https://github.com/EndstoneMC/spyglass/commit/99b9969319613161a2d79df8de58fd267ea29476)
+  - [Detailed analysis: 99b9969319613161a2d79df8de58fd267ea29476](../contexts/99b9969319613161a2d79df8de58fd267ea29476.md#context-commit-99b9969319613161a2d79df8de58fd267ea29476)
+- context-commit:9c16f1239c6f5cbb30923cbe7da0115d4e29327e
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/9c16f1239c6f5cbb30923cbe7da0115d4e29327e)
+  - [Detailed analysis: 9c16f1239c6f5cbb30923cbe7da0115d4e29327e](../contexts/9c16f1239c6f5cbb30923cbe7da0115d4e29327e.md#context-commit-9c16f1239c6f5cbb30923cbe7da0115d4e29327e)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-2026-merge-closure/dossiers.md#context-9c16f1239c6f5cbb30923cbe7da0115d4e29327e)
+- context-commit:9c58bfcc0ee61cbd6ffb157ec5933b69499d4e99
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/9c58bfcc0ee61cbd6ffb157ec5933b69499d4e99)
+  - [Detailed analysis: 9c58bfcc0ee61cbd6ffb157ec5933b69499d4e99](../contexts/9c58bfcc0ee61cbd6ffb157ec5933b69499d4e99.md#context-commit-9c58bfcc0ee61cbd6ffb157ec5933b69499d4e99)
+  - [Detailed analysis: 05-branches-releases-build-and-context](../sources/commit-review/endstone-2025-1301-1363/05-branches-releases-build-and-context.md#context-9c58bfcc0ee61cbd6ffb157ec5933b69499d4e99)
+- context-commit:a12a2f5c4ef5f373113b906738baa46d827e4d56
+  - [Public source](https://github.com/EndstoneMC/papi/commit/a12a2f5c4ef5f373113b906738baa46d827e4d56)
+  - [Detailed analysis: a12a2f5c4ef5f373113b906738baa46d827e4d56](../contexts/a12a2f5c4ef5f373113b906738baa46d827e4d56.md#context-commit-a12a2f5c4ef5f373113b906738baa46d827e4d56)
+- context-commit:a8a243dcca08881bf11feb2f78371f3dfbf378cf · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/spyglass/commit/a8a243dcca08881bf11feb2f78371f3dfbf378cf)
+  - [Detailed analysis: a8a243dcca08881bf11feb2f78371f3dfbf378cf](../contexts/a8a243dcca08881bf11feb2f78371f3dfbf378cf.md#context-commit-a8a243dcca08881bf11feb2f78371f3dfbf378cf)
+- context-commit:aa2fe8a2d05ae2f419a6ccea0a6fac60e505b723
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/aa2fe8a2d05ae2f419a6ccea0a6fac60e505b723)
+  - [Detailed analysis: aa2fe8a2d05ae2f419a6ccea0a6fac60e505b723](../contexts/aa2fe8a2d05ae2f419a6ccea0a6fac60e505b723.md#context-commit-aa2fe8a2d05ae2f419a6ccea0a6fac60e505b723)
+  - [Detailed analysis: 06-branches-releases-and-context](../sources/commit-review/endstone-2025-1101-1200/06-branches-releases-and-context.md#context-aa2fe8a2d05ae2f419a6ccea0a6fac60e505b723)
+  - [Detailed analysis: 05-branches-releases-build-and-context](../sources/commit-review/endstone-2025-1301-1363/05-branches-releases-build-and-context.md#context-aa2fe8a2d05ae2f419a6ccea0a6fac60e505b723)
+- context-commit:ab5d9f3c8d56c190ae763305317507d00d0d7de3 · 2024-09-28
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/ab5d9f3c8d56c190ae763305317507d00d0d7de3)
+  - [Detailed analysis: ab5d9f3c8d56c190ae763305317507d00d0d7de3](../contexts/ab5d9f3c8d56c190ae763305317507d00d0d7de3.md#context-commit-ab5d9f3c8d56c190ae763305317507d00d0d7de3)
+  - [Detailed analysis: 08-build-devtools-docs-and-collaborators](../sources/commit-review/endstone-1801-1920/08-build-devtools-docs-and-collaborators.md#collaborator-ab5d9f3c)
+- context-commit:ad1aee1d647946be9e1aa74ba4e836473d75ded4 · 2024-08-29
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/ad1aee1d647946be9e1aa74ba4e836473d75ded4)
+  - [Detailed analysis: ad1aee1d647946be9e1aa74ba4e836473d75ded4](../contexts/ad1aee1d647946be9e1aa74ba4e836473d75ded4.md#context-commit-ad1aee1d647946be9e1aa74ba4e836473d75ded4)
+  - [Detailed analysis: 02-installation-docs-and-integration](../sources/commit-review/endstone-1681-1800/02-installation-docs-and-integration.md#commit-1684)
+- context-commit:b21999964b29c4af4a9074d0372370beb61be935
+  - [Public source](https://github.com/EndstoneMC/papi/commit/b21999964b29c4af4a9074d0372370beb61be935)
+  - [Detailed analysis: b21999964b29c4af4a9074d0372370beb61be935](../contexts/b21999964b29c4af4a9074d0372370beb61be935.md#context-commit-b21999964b29c4af4a9074d0372370beb61be935)
+- context-commit:b33dde81adcdc684744cc057a8f519f788c9ff7a
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/b33dde81adcdc684744cc057a8f519f788c9ff7a)
+  - [Detailed analysis: b33dde81adcdc684744cc057a8f519f788c9ff7a](../contexts/b33dde81adcdc684744cc057a8f519f788c9ff7a.md#context-commit-b33dde81adcdc684744cc057a8f519f788c9ff7a)
+- context-commit:b56974a8b7a2d979427ac5bf6ed5f45a8dd4ce37 · 2025-09-08
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/b56974a8b7a2d979427ac5bf6ed5f45a8dd4ce37)
+  - [Detailed analysis: b56974a8b7a2d979427ac5bf6ed5f45a8dd4ce37](../contexts/b56974a8b7a2d979427ac5bf6ed5f45a8dd4ce37.md#context-commit-b56974a8b7a2d979427ac5bf6ed5f45a8dd4ce37)
+  - [Detailed analysis: 06-integration-and-coverage](../sources/commit-review/endstone-2025-1001-1100/06-integration-and-coverage.md#context-b56974a8b7a2d979427ac5bf6ed5f45a8dd4ce37)
+  - [Detailed analysis: 06-branches-releases-and-context](../sources/commit-review/endstone-2025-1101-1200/06-branches-releases-and-context.md#context-b56974a8b7a2d979427ac5bf6ed5f45a8dd4ce37)
+  - [Detailed analysis: 05-branches-releases-build-and-context](../sources/commit-review/endstone-2025-1301-1363/05-branches-releases-build-and-context.md#context-b56974a8b7a2d979427ac5bf6ed5f45a8dd4ce37)
+- context-commit:b5c178e28b3faa58986b387ed847595768c2d8e7
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/b5c178e28b3faa58986b387ed847595768c2d8e7)
+  - [Detailed analysis: b5c178e28b3faa58986b387ed847595768c2d8e7](../contexts/b5c178e28b3faa58986b387ed847595768c2d8e7.md#context-commit-b5c178e28b3faa58986b387ed847595768c2d8e7)
+  - [Detailed analysis: context-b5c178e28b3faa58986b387ed847595768c2d8e7](../sources/commit-review/scikit-build-core-conan-all/dossiers/context-b5c178e28b3faa58986b387ed847595768c2d8e7.md#contributor-context-pr-10)
+- context-commit:b61db8ce20fcf780ca0339e9d59c0e2d75aca5bf · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/spyglass/commit/b61db8ce20fcf780ca0339e9d59c0e2d75aca5bf)
+  - [Detailed analysis: b61db8ce20fcf780ca0339e9d59c0e2d75aca5bf](../contexts/b61db8ce20fcf780ca0339e9d59c0e2d75aca5bf.md#context-commit-b61db8ce20fcf780ca0339e9d59c0e2d75aca5bf)
+- context-commit:b71693b8498f33ee8d1078742e073fab2b4b30ce · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/spyglass/commit/b71693b8498f33ee8d1078742e073fab2b4b30ce)
+  - [Detailed analysis: b71693b8498f33ee8d1078742e073fab2b4b30ce](../contexts/b71693b8498f33ee8d1078742e073fab2b4b30ce.md#context-commit-b71693b8498f33ee8d1078742e073fab2b4b30ce)
+- context-commit:b8a0d5ff3563bea4be15d731ab42d220bbe014b2
+  - [Public source](https://github.com/endstone-essentials/discord/commit/b8a0d5ff3563bea4be15d731ab42d220bbe014b2)
+  - [Detailed analysis: b8a0d5ff3563bea4be15d731ab42d220bbe014b2](../contexts/b8a0d5ff3563bea4be15d731ab42d220bbe014b2.md#context-commit-b8a0d5ff3563bea4be15d731ab42d220bbe014b2)
+- context-commit:b8e78c6fa19b9a114c5d9bab0a004d5c5b0128b7 · 2024-10-11
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/b8e78c6fa19b9a114c5d9bab0a004d5c5b0128b7)
+  - [Detailed analysis: b8e78c6fa19b9a114c5d9bab0a004d5c5b0128b7](../contexts/b8e78c6fa19b9a114c5d9bab0a004d5c5b0128b7.md#context-commit-b8e78c6fa19b9a114c5d9bab0a004d5c5b0128b7)
+  - [Detailed analysis: 08-build-devtools-docs-and-collaborators](../sources/commit-review/endstone-1801-1920/08-build-devtools-docs-and-collaborators.md#collaborator-b8e78c6f)
+- context-commit:bc9ba6bc5bdb9ec1e333c2d994412087ac1d15e0 · 2025-09-29
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/bc9ba6bc5bdb9ec1e333c2d994412087ac1d15e0)
+  - [Detailed analysis: bc9ba6bc5bdb9ec1e333c2d994412087ac1d15e0](../contexts/bc9ba6bc5bdb9ec1e333c2d994412087ac1d15e0.md#context-commit-bc9ba6bc5bdb9ec1e333c2d994412087ac1d15e0)
+  - [Detailed analysis: 06-integration-and-coverage](../sources/commit-review/endstone-2025-1001-1100/06-integration-and-coverage.md#context-bc9ba6bc5bdb9ec1e333c2d994412087ac1d15e0)
+  - [Detailed analysis: 06-branches-releases-and-context](../sources/commit-review/endstone-2025-1101-1200/06-branches-releases-and-context.md#context-bc9ba6bc5bdb9ec1e333c2d994412087ac1d15e0)
+  - [Detailed analysis: 05-branches-releases-build-and-context](../sources/commit-review/endstone-2025-1301-1363/05-branches-releases-build-and-context.md#context-bc9ba6bc5bdb9ec1e333c2d994412087ac1d15e0)
+- context-commit:bf066cec5ca4dac65dce727d607fb723ed129817 · 2024-09-19
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/bf066cec5ca4dac65dce727d607fb723ed129817)
+  - [Detailed analysis: bf066cec5ca4dac65dce727d607fb723ed129817](../contexts/bf066cec5ca4dac65dce727d607fb723ed129817.md#context-commit-bf066cec5ca4dac65dce727d607fb723ed129817)
+  - [Detailed analysis: 08-build-devtools-docs-and-collaborators](../sources/commit-review/endstone-1801-1920/08-build-devtools-docs-and-collaborators.md#collaborator-bf066cec)
+- context-commit:bf939797587115ca5054eb9a44980b0861c5b3d1
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/bf939797587115ca5054eb9a44980b0861c5b3d1)
+  - [Detailed analysis: bf939797587115ca5054eb9a44980b0861c5b3d1](../contexts/bf939797587115ca5054eb9a44980b0861c5b3d1.md#context-commit-bf939797587115ca5054eb9a44980b0861c5b3d1)
+  - [Detailed analysis: 06-branches-releases-and-context](../sources/commit-review/endstone-2025-1101-1200/06-branches-releases-and-context.md#context-bf939797587115ca5054eb9a44980b0861c5b3d1)
+  - [Detailed analysis: 05-branches-releases-build-and-context](../sources/commit-review/endstone-2025-1301-1363/05-branches-releases-build-and-context.md#context-bf939797587115ca5054eb9a44980b0861c5b3d1)
+- context-commit:bfeb96565229e08ee5abecb09ec6b61e06a44d07
+  - [Public source](https://github.com/EndstoneMC/papi/commit/bfeb96565229e08ee5abecb09ec6b61e06a44d07)
+  - [Detailed analysis: bfeb96565229e08ee5abecb09ec6b61e06a44d07](../contexts/bfeb96565229e08ee5abecb09ec6b61e06a44d07.md#context-commit-bfeb96565229e08ee5abecb09ec6b61e06a44d07)
+- context-commit:c08bef2f7c4c499f4e0a0a456b8800e174bd19c7
+  - [Public source](https://github.com/endstone-essentials/discord/commit/c08bef2f7c4c499f4e0a0a456b8800e174bd19c7)
+  - [Detailed analysis: c08bef2f7c4c499f4e0a0a456b8800e174bd19c7](../contexts/c08bef2f7c4c499f4e0a0a456b8800e174bd19c7.md#context-commit-c08bef2f7c4c499f4e0a0a456b8800e174bd19c7)
+- context-commit:c08cc4c02785cfd4ebbc4c2ab162799e52f20765 · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/cpp-example-plugin/commit/c08cc4c02785cfd4ebbc4c2ab162799e52f20765)
+  - [Detailed analysis: c08cc4c02785cfd4ebbc4c2ab162799e52f20765](../contexts/c08cc4c02785cfd4ebbc4c2ab162799e52f20765.md#context-commit-c08cc4c02785cfd4ebbc4c2ab162799e52f20765)
+- context-commit:c333ffa0b50875426e99c73122c1da94fbddad05 · 2025-05-01
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/c333ffa0b50875426e99c73122c1da94fbddad05)
+  - [Detailed analysis: c333ffa0b50875426e99c73122c1da94fbddad05](../contexts/c333ffa0b50875426e99c73122c1da94fbddad05.md#context-commit-c333ffa0b50875426e99c73122c1da94fbddad05)
+- context-commit:c88bdc1d3eb3a5489c35de5ad4a6ad6c5da20dbf
+  - [Public source](https://github.com/endstone-essentials/sidebar/commit/c88bdc1d3eb3a5489c35de5ad4a6ad6c5da20dbf)
+  - [Detailed analysis: c88bdc1d3eb3a5489c35de5ad4a6ad6c5da20dbf](../contexts/c88bdc1d3eb3a5489c35de5ad4a6ad6c5da20dbf.md#context-commit-c88bdc1d3eb3a5489c35de5ad4a6ad6c5da20dbf)
+- context-commit:ca758c8a66bdd6eeaab77f07c1952f1b35894148 · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/spyglass/commit/ca758c8a66bdd6eeaab77f07c1952f1b35894148)
+  - [Detailed analysis: ca758c8a66bdd6eeaab77f07c1952f1b35894148](../contexts/ca758c8a66bdd6eeaab77f07c1952f1b35894148.md#context-commit-ca758c8a66bdd6eeaab77f07c1952f1b35894148)
+- context-commit:cca15c51ea23313d8184e354fd8a891db66b9b1b
+  - [Public source](https://github.com/EndstoneMC/papi/commit/cca15c51ea23313d8184e354fd8a891db66b9b1b)
+  - [Detailed analysis: cca15c51ea23313d8184e354fd8a891db66b9b1b](../contexts/cca15c51ea23313d8184e354fd8a891db66b9b1b.md#context-commit-cca15c51ea23313d8184e354fd8a891db66b9b1b)
+- context-commit:cd26fa251df84b04df4b6b2d82289d855ac18b04 · 2025-05-01
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/cd26fa251df84b04df4b6b2d82289d855ac18b04)
+  - [Detailed analysis: cd26fa251df84b04df4b6b2d82289d855ac18b04](../contexts/cd26fa251df84b04df4b6b2d82289d855ac18b04.md#context-commit-cd26fa251df84b04df4b6b2d82289d855ac18b04)
+- context-commit:cf4e53444807d1f1b2a149a97d24ab241d0dd4f7 · 2025-05-01
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/cf4e53444807d1f1b2a149a97d24ab241d0dd4f7)
+  - [Detailed analysis: cf4e53444807d1f1b2a149a97d24ab241d0dd4f7](../contexts/cf4e53444807d1f1b2a149a97d24ab241d0dd4f7.md#context-commit-cf4e53444807d1f1b2a149a97d24ab241d0dd4f7)
+- context-commit:cfc6e8161464ff8b72f3aa305f00ab0e625a594e · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/cpp-example-plugin/commit/cfc6e8161464ff8b72f3aa305f00ab0e625a594e)
+  - [Detailed analysis: cfc6e8161464ff8b72f3aa305f00ab0e625a594e](../contexts/cfc6e8161464ff8b72f3aa305f00ab0e625a594e.md#context-commit-cfc6e8161464ff8b72f3aa305f00ab0e625a594e)
+- context-commit:cffb964c366fe188026df3439e18905771ebd2dd · 2025-07-07
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/cffb964c366fe188026df3439e18905771ebd2dd)
+  - [Detailed analysis: cffb964c366fe188026df3439e18905771ebd2dd](../contexts/cffb964c366fe188026df3439e18905771ebd2dd.md#context-commit-cffb964c366fe188026df3439e18905771ebd2dd)
+  - [Detailed analysis: 02-permissions-and-interaction](../sources/commit-review/endstone-2025-0801-0900/02-permissions-and-interaction.md#context-cffb964c366fe188026df3439e18905771ebd2dd)
+- context-commit:d40db946f414bc7d1ae5407e311d679e03f76eaf
+  - [Public source](https://github.com/EndstoneMC/papi/commit/d40db946f414bc7d1ae5407e311d679e03f76eaf)
+  - [Detailed analysis: d40db946f414bc7d1ae5407e311d679e03f76eaf](../contexts/d40db946f414bc7d1ae5407e311d679e03f76eaf.md#context-commit-d40db946f414bc7d1ae5407e311d679e03f76eaf)
+- context-commit:d481ccd3a254f950ec1c8cc14e573da4d0831c0a
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/d481ccd3a254f950ec1c8cc14e573da4d0831c0a)
+  - [Detailed analysis: d481ccd3a254f950ec1c8cc14e573da4d0831c0a](../contexts/d481ccd3a254f950ec1c8cc14e573da4d0831c0a.md#context-commit-d481ccd3a254f950ec1c8cc14e573da4d0831c0a)
+- context-commit:d64da5cc7ea39cc58cd51ea8eb31ef354002fa15 · 2024-08-11
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/d64da5cc7ea39cc58cd51ea8eb31ef354002fa15)
+  - [Detailed analysis: d64da5cc7ea39cc58cd51ea8eb31ef354002fa15](../contexts/d64da5cc7ea39cc58cd51ea8eb31ef354002fa15.md#context-commit-d64da5cc7ea39cc58cd51ea8eb31ef354002fa15)
+  - [Detailed analysis: 07-items-and-collaborator-integration](../sources/commit-review/endstone-1561-1680/07-items-and-collaborator-integration.md#commit-1596)
+- context-commit:d839b8ac7b37d5f6e024635686349f6bec86e74a
+  - [Public source](https://github.com/EndstoneMC/bedrock-server-data/commit/d839b8ac7b37d5f6e024635686349f6bec86e74a)
+  - [Detailed analysis: d839b8ac7b37d5f6e024635686349f6bec86e74a](../contexts/d839b8ac7b37d5f6e024635686349f6bec86e74a.md#context-commit-d839b8ac7b37d5f6e024635686349f6bec86e74a)
+  - [Detailed analysis: context-review](../sources/commit-review/schema-release-toolchains/context-review.md#context-d839b8ac7b37d5f6e024635686349f6bec86e74a)
+  - [Detailed analysis: Bedrock server data: schema platform migrations](../sources/commit-review/schema-release-toolchains/cases/bedrock-server-data-schema-platform-migrations.md#b1-version-channel-and-platform-identity-must-survive-schema-migrations)
+- context-commit:d8c058e254b9cb7ab3682165b56e07bc75c86403 · 2025-04-06
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/d8c058e254b9cb7ab3682165b56e07bc75c86403)
+  - [Detailed analysis: d8c058e254b9cb7ab3682165b56e07bc75c86403](../contexts/d8c058e254b9cb7ab3682165b56e07bc75c86403.md#context-commit-d8c058e254b9cb7ab3682165b56e07bc75c86403)
+- context-commit:d94f14eca7d94327aaa87fc5315b55d8ce3e2464 · 2024-08-10
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/d94f14eca7d94327aaa87fc5315b55d8ce3e2464)
+  - [Detailed analysis: d94f14eca7d94327aaa87fc5315b55d8ce3e2464](../contexts/d94f14eca7d94327aaa87fc5315b55d8ce3e2464.md#context-commit-d94f14eca7d94327aaa87fc5315b55d8ce3e2464)
+  - [Detailed analysis: 07-items-and-collaborator-integration](../sources/commit-review/endstone-1561-1680/07-items-and-collaborator-integration.md#commit-1595)
+- context-commit:dad6d1dc20373f5cea3789c96c8686b0bf1a15cd
+  - [Public source](https://github.com/endstone-essentials/discord/commit/dad6d1dc20373f5cea3789c96c8686b0bf1a15cd)
+  - [Detailed analysis: dad6d1dc20373f5cea3789c96c8686b0bf1a15cd](../contexts/dad6d1dc20373f5cea3789c96c8686b0bf1a15cd.md#context-commit-dad6d1dc20373f5cea3789c96c8686b0bf1a15cd)
+- context-commit:db1577c499886530598e0cc663ddf44c30910dde · 2026-05-16
+  - [Public source](https://github.com/EndstoneMC/dwarf2cpp/commit/db1577c499886530598e0cc663ddf44c30910dde)
+  - [Detailed analysis: db1577c499886530598e0cc663ddf44c30910dde](../contexts/db1577c499886530598e0cc663ddf44c30910dde.md#context-commit-db1577c499886530598e0cc663ddf44c30910dde)
+- context-commit:dc1d55d131d1b16373a08ed1306beeb4ca668106 · 2024-08-11
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/dc1d55d131d1b16373a08ed1306beeb4ca668106)
+  - [Detailed analysis: dc1d55d131d1b16373a08ed1306beeb4ca668106](../contexts/dc1d55d131d1b16373a08ed1306beeb4ca668106.md#context-commit-dc1d55d131d1b16373a08ed1306beeb4ca668106)
+  - [Detailed analysis: 07-items-and-collaborator-integration](../sources/commit-review/endstone-1561-1680/07-items-and-collaborator-integration.md#commit-1596)
+- context-commit:de7fcac11cc46ca909a5b3a4cae71cca819be383 · 2025-05-01
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/de7fcac11cc46ca909a5b3a4cae71cca819be383)
+  - [Detailed analysis: de7fcac11cc46ca909a5b3a4cae71cca819be383](../contexts/de7fcac11cc46ca909a5b3a4cae71cca819be383.md#context-commit-de7fcac11cc46ca909a5b3a4cae71cca819be383)
+- context-commit:df84a9d31f9ab24f2ceae6436e4a764fff60fb15 · 2024-08-10
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/df84a9d31f9ab24f2ceae6436e4a764fff60fb15)
+  - [Detailed analysis: df84a9d31f9ab24f2ceae6436e4a764fff60fb15](../contexts/df84a9d31f9ab24f2ceae6436e4a764fff60fb15.md#context-commit-df84a9d31f9ab24f2ceae6436e4a764fff60fb15)
+  - [Detailed analysis: 07-items-and-collaborator-integration](../sources/commit-review/endstone-1561-1680/07-items-and-collaborator-integration.md#commit-1595)
+- context-commit:e0d96f5118aa58c7dfce6baf39a9b2b98691fdb4
+  - [Public source](https://github.com/endstone-essentials/discord/commit/e0d96f5118aa58c7dfce6baf39a9b2b98691fdb4)
+  - [Detailed analysis: e0d96f5118aa58c7dfce6baf39a9b2b98691fdb4](../contexts/e0d96f5118aa58c7dfce6baf39a9b2b98691fdb4.md#context-commit-e0d96f5118aa58c7dfce6baf39a9b2b98691fdb4)
+- context-commit:e243cbab67b73b6f0b7494adc6f34bd3035c4881
+  - [Public source](https://github.com/endstone-essentials/sidebar/commit/e243cbab67b73b6f0b7494adc6f34bd3035c4881)
+  - [Detailed analysis: e243cbab67b73b6f0b7494adc6f34bd3035c4881](../contexts/e243cbab67b73b6f0b7494adc6f34bd3035c4881.md#context-commit-e243cbab67b73b6f0b7494adc6f34bd3035c4881)
+- context-commit:e40c942da7a590875b8b8fc5c225f492c82d14c0 · 2024-09-19
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/e40c942da7a590875b8b8fc5c225f492c82d14c0)
+  - [Detailed analysis: e40c942da7a590875b8b8fc5c225f492c82d14c0](../contexts/e40c942da7a590875b8b8fc5c225f492c82d14c0.md#context-commit-e40c942da7a590875b8b8fc5c225f492c82d14c0)
+  - [Detailed analysis: 08-build-devtools-docs-and-collaborators](../sources/commit-review/endstone-1801-1920/08-build-devtools-docs-and-collaborators.md#collaborator-e40c942d)
+- context-commit:e44194138c9279ffe45cddce1d3e89e623fd15c8 · 2025-08-27
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/e44194138c9279ffe45cddce1d3e89e623fd15c8)
+  - [Detailed analysis: e44194138c9279ffe45cddce1d3e89e623fd15c8](../contexts/e44194138c9279ffe45cddce1d3e89e623fd15c8.md#context-commit-e44194138c9279ffe45cddce1d3e89e623fd15c8)
+  - [Detailed analysis: 06-integration-and-coverage](../sources/commit-review/endstone-2025-1001-1100/06-integration-and-coverage.md#context-e44194138c9279ffe45cddce1d3e89e623fd15c8)
+  - [Detailed analysis: 06-branches-releases-and-context](../sources/commit-review/endstone-2025-1101-1200/06-branches-releases-and-context.md#context-e44194138c9279ffe45cddce1d3e89e623fd15c8)
+  - [Detailed analysis: 05-branches-releases-build-and-context](../sources/commit-review/endstone-2025-1301-1363/05-branches-releases-build-and-context.md#context-e44194138c9279ffe45cddce1d3e89e623fd15c8)
+- context-commit:e4eaf43edd06d06d89278b20814923b799b281bc · 2026-09-02
+  - [Public source](https://github.com/EndstoneMC/spyglass/commit/e4eaf43edd06d06d89278b20814923b799b281bc)
+  - [Detailed analysis: e4eaf43edd06d06d89278b20814923b799b281bc](../contexts/e4eaf43edd06d06d89278b20814923b799b281bc.md#context-commit-e4eaf43edd06d06d89278b20814923b799b281bc)
+- context-commit:e59773ae66078529a62084e76bc988951f5e2bd5 · 2025-05-01
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/e59773ae66078529a62084e76bc988951f5e2bd5)
+  - [Detailed analysis: e59773ae66078529a62084e76bc988951f5e2bd5](../contexts/e59773ae66078529a62084e76bc988951f5e2bd5.md#context-commit-e59773ae66078529a62084e76bc988951f5e2bd5)
+- context-commit:e977ec108ee76299934eceb83ad9a9ec7c2ae7c6
+  - [Public source](https://github.com/EndstoneMC/papi/commit/e977ec108ee76299934eceb83ad9a9ec7c2ae7c6)
+  - [Detailed analysis: e977ec108ee76299934eceb83ad9a9ec7c2ae7c6](../contexts/e977ec108ee76299934eceb83ad9a9ec7c2ae7c6.md#context-commit-e977ec108ee76299934eceb83ad9a9ec7c2ae7c6)
+- context-commit:ea5e0bfbc7274ea5a9f0c3d0e6fbcfb759bc7ee7 · 2025-06-29
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/ea5e0bfbc7274ea5a9f0c3d0e6fbcfb759bc7ee7)
+  - [Detailed analysis: ea5e0bfbc7274ea5a9f0c3d0e6fbcfb759bc7ee7](../contexts/ea5e0bfbc7274ea5a9f0c3d0e6fbcfb759bc7ee7.md#context-commit-ea5e0bfbc7274ea5a9f0c3d0e6fbcfb759bc7ee7)
+  - [Detailed analysis: 03-native-block-events](../sources/commit-review/endstone-2025-0801-0900/03-native-block-events.md#context-ea5e0bfbc7274ea5a9f0c3d0e6fbcfb759bc7ee7)
+- context-commit:ea6573b61412c055ebdadb28eb823a748ce21ac1
+  - [Public source](https://github.com/EndstoneMC/papi/commit/ea6573b61412c055ebdadb28eb823a748ce21ac1)
+  - [Detailed analysis: ea6573b61412c055ebdadb28eb823a748ce21ac1](../contexts/ea6573b61412c055ebdadb28eb823a748ce21ac1.md#context-commit-ea6573b61412c055ebdadb28eb823a748ce21ac1)
+- context-commit:ef208516f1d14b6678ac64f1549d4c63738a68b7 · 2025-05-01
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/ef208516f1d14b6678ac64f1549d4c63738a68b7)
+  - [Detailed analysis: ef208516f1d14b6678ac64f1549d4c63738a68b7](../contexts/ef208516f1d14b6678ac64f1549d4c63738a68b7.md#context-commit-ef208516f1d14b6678ac64f1549d4c63738a68b7)
+- context-commit:f00efc635bb349244a2d4c350e129e06cf952088 · 2025-09-08
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/f00efc635bb349244a2d4c350e129e06cf952088)
+  - [Detailed analysis: f00efc635bb349244a2d4c350e129e06cf952088](../contexts/f00efc635bb349244a2d4c350e129e06cf952088.md#context-commit-f00efc635bb349244a2d4c350e129e06cf952088)
+  - [Detailed analysis: 06-integration-and-coverage](../sources/commit-review/endstone-2025-1001-1100/06-integration-and-coverage.md#context-f00efc635bb349244a2d4c350e129e06cf952088)
+  - [Detailed analysis: 06-branches-releases-and-context](../sources/commit-review/endstone-2025-1101-1200/06-branches-releases-and-context.md#context-f00efc635bb349244a2d4c350e129e06cf952088)
+  - [Detailed analysis: 05-branches-releases-build-and-context](../sources/commit-review/endstone-2025-1301-1363/05-branches-releases-build-and-context.md#context-f00efc635bb349244a2d4c350e129e06cf952088)
+- context-commit:f073473be92b33abd841cd2f3a5cbd7f971650c2 · 2026-03-26
+  - [Public source](https://github.com/EndstoneMC/python-example-plugin/commit/f073473be92b33abd841cd2f3a5cbd7f971650c2)
+  - [Detailed analysis: f073473be92b33abd841cd2f3a5cbd7f971650c2](../contexts/f073473be92b33abd841cd2f3a5cbd7f971650c2.md#context-commit-f073473be92b33abd841cd2f3a5cbd7f971650c2)
+- context-commit:f14d05ee5a77e0deb7f23e7376330a3bbcac6d65
+  - [Public source](https://github.com/wu-vincent/scikit-build-core-conan/commit/f14d05ee5a77e0deb7f23e7376330a3bbcac6d65)
+  - [Detailed analysis: f14d05ee5a77e0deb7f23e7376330a3bbcac6d65](../contexts/f14d05ee5a77e0deb7f23e7376330a3bbcac6d65.md#context-commit-f14d05ee5a77e0deb7f23e7376330a3bbcac6d65)
+  - [Detailed analysis: context-f14d05ee5a77e0deb7f23e7376330a3bbcac6d65](../sources/commit-review/scikit-build-core-conan-all/dossiers/context-f14d05ee5a77e0deb7f23e7376330a3bbcac6d65.md#contributor-context-pr-5)
+- context-commit:f16793ca25ca71f3bd3cbea4353e93912f1716cf · 2024-10-01
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/f16793ca25ca71f3bd3cbea4353e93912f1716cf)
+  - [Detailed analysis: f16793ca25ca71f3bd3cbea4353e93912f1716cf](../contexts/f16793ca25ca71f3bd3cbea4353e93912f1716cf.md#context-commit-f16793ca25ca71f3bd3cbea4353e93912f1716cf)
+  - [Detailed analysis: 08-build-devtools-docs-and-collaborators](../sources/commit-review/endstone-1801-1920/08-build-devtools-docs-and-collaborators.md#collaborator-f16793ca)
+- context-commit:f3d2ac80a2fae7f742b2ecd448401d9dd4ada0bc
+  - [Public source](https://github.com/EndstoneMC/papi/commit/f3d2ac80a2fae7f742b2ecd448401d9dd4ada0bc)
+  - [Detailed analysis: f3d2ac80a2fae7f742b2ecd448401d9dd4ada0bc](../contexts/f3d2ac80a2fae7f742b2ecd448401d9dd4ada0bc.md#context-commit-f3d2ac80a2fae7f742b2ecd448401d9dd4ada0bc)
+- context-commit:f4ea8c6599d362707af134e73c006f79b213b525
+  - [Public source](https://github.com/endstone-essentials/sidebar/commit/f4ea8c6599d362707af134e73c006f79b213b525)
+  - [Detailed analysis: f4ea8c6599d362707af134e73c006f79b213b525](../contexts/f4ea8c6599d362707af134e73c006f79b213b525.md#context-commit-f4ea8c6599d362707af134e73c006f79b213b525)
+- context-commit:f6559ba2632d585f012a4eb2ed56e174dc342b70 · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/spyglass/commit/f6559ba2632d585f012a4eb2ed56e174dc342b70)
+  - [Detailed analysis: f6559ba2632d585f012a4eb2ed56e174dc342b70](../contexts/f6559ba2632d585f012a4eb2ed56e174dc342b70.md#context-commit-f6559ba2632d585f012a4eb2ed56e174dc342b70)
+- context-commit:f71acc131f8f9ed386a1c0bde5ba529dd89013ac · 2024-09-14
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/f71acc131f8f9ed386a1c0bde5ba529dd89013ac)
+  - [Detailed analysis: f71acc131f8f9ed386a1c0bde5ba529dd89013ac](../contexts/f71acc131f8f9ed386a1c0bde5ba529dd89013ac.md#context-commit-f71acc131f8f9ed386a1c0bde5ba529dd89013ac)
+  - [Detailed analysis: 02-installation-docs-and-integration](../sources/commit-review/endstone-1681-1800/02-installation-docs-and-integration.md#commit-1797)
+  - [Detailed analysis: 02-installation-docs-and-integration](../sources/commit-review/endstone-1681-1800/02-installation-docs-and-integration.md#commit-1799)
+- context-commit:fa2ea93a8e7754bbe21c2d9e5e46fef7efb9f565 · 2026-08-19
+  - [Public source](https://github.com/EndstoneMC/spyglass/commit/fa2ea93a8e7754bbe21c2d9e5e46fef7efb9f565)
+  - [Detailed analysis: fa2ea93a8e7754bbe21c2d9e5e46fef7efb9f565](../contexts/fa2ea93a8e7754bbe21c2d9e5e46fef7efb9f565.md#context-commit-fa2ea93a8e7754bbe21c2d9e5e46fef7efb9f565)
+- context-commit:fbe2d4d46b5d4f8cf54add19d1c03e27a30db7dd
+  - [Public source](https://github.com/EndstoneMC/endstone/commit/fbe2d4d46b5d4f8cf54add19d1c03e27a30db7dd)
+  - [Detailed analysis: fbe2d4d46b5d4f8cf54add19d1c03e27a30db7dd](../contexts/fbe2d4d46b5d4f8cf54add19d1c03e27a30db7dd.md#context-commit-fbe2d4d46b5d4f8cf54add19d1c03e27a30db7dd)
+  - [Detailed analysis: dossiers](../sources/commit-review/endstone-2026-merge-closure/dossiers.md#context-fbe2d4d46b5d4f8cf54add19d1c03e27a30db7dd)
+- context-commit:fe98430eece665704d743d27ef8464847aff60ae
+  - [Public source](https://github.com/EndstoneMC/bedrock-server-data/commit/fe98430eece665704d743d27ef8464847aff60ae)
+  - [Detailed analysis: fe98430eece665704d743d27ef8464847aff60ae](../contexts/fe98430eece665704d743d27ef8464847aff60ae.md#context-commit-fe98430eece665704d743d27ef8464847aff60ae)
+  - [Detailed analysis: context-review](../sources/commit-review/schema-release-toolchains/context-review.md#context-fe98430eece665704d743d27ef8464847aff60ae)
+  - [Detailed analysis: Bedrock server data: schema platform migrations](../sources/commit-review/schema-release-toolchains/cases/bedrock-server-data-schema-platform-migrations.md#b1-version-channel-and-platform-identity-must-survive-schema-migrations)
+  - [Detailed analysis: Bedrock server data: download provenance and backfill](../sources/commit-review/schema-release-toolchains/cases/bedrock-server-data-download-provenance-and-backfill.md#b2-a-plausible-download-url-is-not-artifact-identity)

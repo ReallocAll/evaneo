@@ -1,0 +1,17 @@
+<!-- retrieval: {"source_ids":["public:commit:af6a31dfb8f8fa97306fb96042d6561de755ba5d","public:commit:af9195532e8aa073be53598638d553883db176e0","public:commit:69e2bc909300fe0fa265b7610989bab36813bfbf","public:commit:e17a487ba00ad0f47e248c7b9f2a8ecafb1159e2","public:commit:5d1b6bfd5d90fd4ec22890ded7146cb2ee3e890f","public:commit:47c1ff778ecd8b78940014c1cf5c8f07151dca2f","public:commit:328a3e642d0d5a8f40027775906600a33011435c"],"source_type":"public","topics":["build","documentation","review","selection"],"limitations":"Static source analysis. Reported tests and outcomes are not independently executed; read the case-specific limits and dated revisions."} -->
+<a id="documentation-maintenance-and-professional-provenance"></a>
+# Documentation catalog maintenance {#documentation-maintenance-and-professional-provenance}
+
+## Catalog consistency is a real dependency graph {#catalog-consistency-is-a-real-dependency-graph}
+
+The seven Bedrock Wiki commits form four documented contributions. [20](20-af6a31dfb8f8fa97306fb96042d6561de755ba5d.md) adds one project under two supported plugin languages and updates both counters. [PR #834](https://github.com/Bedrock-OSS/bedrock-wiki/pull/834) describes the architecture; a listing and merge do not independently prove it.
+
+The three-commit [21–23](21-af9195532e8aa073be53598638d553883db176e0.md) chain renames LiteLoader to LeviLamina and moves inactive projects, then repairs counters/anchors and corrects an intermediate Symply language move. Removing the last active JavaScript/Rust heading changes generated anchor numbering, so unchanged links can become wrong. The temporary PHP-to-Java move is reversed by the next commit. Preserve that correction; neither an intermediate diff nor a PR title is a trustworthy final catalog. The completed [PR #884 dossier](../../../thread-review/threads/Bedrock-OSS--bedrock-wiki--pr-884.md) contains the merged overall effect.
+
+[24](24-5d1b6bfd5d90fd4ec22890ded7146cb2ee3e890f.md) and [25](25-47c1ff778ecd8b78940014c1cf5c8f07151dca2f.md) move four JSON records without rewriting their descriptions/languages/type. Addition and removal are separate commits, so the intermediate tree can temporarily contain both copies. In [PR #1079](https://github.com/Bedrock-OSS/bedrock-wiki/pull/1079), the stated rationale is six months of inactivity for three projects, and lack of current-game support/substantive work beyond dependency bumps for JSPrismarine. This is a useful historical distinction between dependency automation and maintained product behavior. It is not a universal retirement threshold, and no present-day project-status claim is made.
+
+[26](26-328a3e642d0d5a8f40027775906600a33011435c.md) later reframes Endstone as BDS-based server software with a Paper-like API; the underlying type/languages stay unchanged. [PR #1260](https://github.com/Bedrock-OSS/bedrock-wiki/pull/1260) discloses Claude Code generation. Use the source for documented scope evolution with that attribution. Do not transform product wording such as full vanilla features into independently tested completeness.
+
+## Offline use {#offline-use}
+
+For catalog migrations, check entries, derived counts, category-empty anchors, record identity, intermediate states and final corrected state. The seven linked source-level analyses preserve the public changes, attribution, corrections and explicit limits; they do not claim independent runtime validation.

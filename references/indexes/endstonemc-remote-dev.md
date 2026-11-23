@@ -1,0 +1,99 @@
+<!-- retrieval: {"source_type":"navigation","topics":["source-navigation"],"limitations":"Navigation aid only. Linked entries point to public sources and related analysis; the links do not certify implementation or runtime behavior."} -->
+# Source index: EndstoneMC/remote-dev {#source-index}
+
+## Sources {#sources}
+
+The links below group publicly traceable source material with related analysis.
+
+- commit:01bb88e61f9e5ba666d02a274da97e9b4075e71d · 2024-01-31
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/01bb88e61f9e5ba666d02a274da97e9b4075e71d)
+  - [Detailed analysis: 08-01bb88e61f9e5ba666d02a274da97e9b4075e71d](../sources/commit-review/build-deployment-all/remote-dev/dossiers/08-01bb88e61f9e5ba666d02a274da97e9b4075e71d.md#08-feat-create-ci-yml)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:0b5d56cccdd3440a82bf036ce69a0bc68ecf2710 · 2024-03-08
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/0b5d56cccdd3440a82bf036ce69a0bc68ecf2710)
+  - [Detailed analysis: 10-0b5d56cccdd3440a82bf036ce69a0bc68ecf2710](../sources/commit-review/build-deployment-all/remote-dev/dossiers/10-0b5d56cccdd3440a82bf036ce69a0bc68ecf2710.md#10-update-dockerfile)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:183cc29c981ae685e3d1a52653630dd28596aa98 · 2024-01-31
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/183cc29c981ae685e3d1a52653630dd28596aa98)
+  - [Detailed analysis: 04-183cc29c981ae685e3d1a52653630dd28596aa98](../sources/commit-review/build-deployment-all/remote-dev/dossiers/04-183cc29c981ae685e3d1a52653630dd28596aa98.md#04-feat-add-docker-compose-yml)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:24ed88df7d64309630d8125b4875e4fa9facf059 · 2024-01-31
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/24ed88df7d64309630d8125b4875e4fa9facf059)
+  - [Detailed analysis: 09-24ed88df7d64309630d8125b4875e4fa9facf059](../sources/commit-review/build-deployment-all/remote-dev/dossiers/09-24ed88df7d64309630d8125b4875e4fa9facf059.md#09-refactor-rename-ci-yml-to-build-yml)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:396345a6397b8eeff1079a470c136bd320648241 · 2025-01-09
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/396345a6397b8eeff1079a470c136bd320648241)
+  - [Detailed analysis: 16-396345a6397b8eeff1079a470c136bd320648241](../sources/commit-review/build-deployment-all/remote-dev/dossiers/16-396345a6397b8eeff1079a470c136bd320648241.md#16-fix-conan-profile)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:4f392a0d119b979b8dc8885c4d127e7703834a55 · 2026-02-12
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/4f392a0d119b979b8dc8885c4d127e7703834a55)
+  - [Detailed analysis: 20-4f392a0d119b979b8dc8885c4d127e7703834a55](../sources/commit-review/build-deployment-all/remote-dev/dossiers/20-4f392a0d119b979b8dc8885c4d127e7703834a55.md#20-chore-update-llvm-version-to-20-in-dockerfile)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:589bbb938296acad5176f3821e9387a26b3b8abb · 2024-01-31
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/589bbb938296acad5176f3821e9387a26b3b8abb)
+  - [Detailed analysis: 02-589bbb938296acad5176f3821e9387a26b3b8abb](../sources/commit-review/build-deployment-all/remote-dev/dossiers/02-589bbb938296acad5176f3821e9387a26b3b8abb.md#02-feat-add-dockerfile)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:6221371622bf32842ea27821b12cf7885b933a60 · 2024-11-05
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/6221371622bf32842ea27821b12cf7885b933a60)
+  - [Detailed analysis: 14-6221371622bf32842ea27821b12cf7885b933a60](../sources/commit-review/build-deployment-all/remote-dev/dossiers/14-6221371622bf32842ea27821b12cf7885b933a60.md#14-feat-set-environment-variables-in-bashrc)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:6f1bf0b809365567817779c3bfdc52673f5a3208 · 2024-01-31
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/6f1bf0b809365567817779c3bfdc52673f5a3208)
+  - [Detailed analysis: 03-6f1bf0b809365567817779c3bfdc52673f5a3208](../sources/commit-review/build-deployment-all/remote-dev/dossiers/03-6f1bf0b809365567817779c3bfdc52673f5a3208.md#03-feat-add-conan-profile)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:75aa43f8842209c2b47d8bba754ea1e2fa50fb13 · 2026-05-02
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/75aa43f8842209c2b47d8bba754ea1e2fa50fb13)
+  - [Detailed analysis: 22-75aa43f8842209c2b47d8bba754ea1e2fa50fb13](../sources/commit-review/build-deployment-all/remote-dev/dossiers/22-75aa43f8842209c2b47d8bba754ea1e2fa50fb13.md#22-chore-harden-dockerfile-modernize-compose-refresh-docs-and-ci)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:7669ec98cfb6f0c83f90a292eb2dd58968ab35f6 · 2024-03-27
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/7669ec98cfb6f0c83f90a292eb2dd58968ab35f6)
+  - [Detailed analysis: 11-7669ec98cfb6f0c83f90a292eb2dd58968ab35f6](../sources/commit-review/build-deployment-all/remote-dev/dossiers/11-7669ec98cfb6f0c83f90a292eb2dd58968ab35f6.md#11-add-new-port-mapping-to-docker-compose-yml)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:8ba0c4e85d6cf3cfd1f28374ec7e901bf30ea0f3 · 2025-01-02
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/8ba0c4e85d6cf3cfd1f28374ec7e901bf30ea0f3)
+  - [Detailed analysis: 15-8ba0c4e85d6cf3cfd1f28374ec7e901bf30ea0f3](../sources/commit-review/build-deployment-all/remote-dev/dossiers/15-8ba0c4e85d6cf3cfd1f28374ec7e901bf30ea0f3.md#15-chore-update-llvm-version-to-16)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:9beada2e6fcfa58a73fb148cdcc8e5b209c61fa0 · 2025-06-18
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/9beada2e6fcfa58a73fb148cdcc8e5b209c61fa0)
+  - [Detailed analysis: 17-9beada2e6fcfa58a73fb148cdcc8e5b209c61fa0](../sources/commit-review/build-deployment-all/remote-dev/dossiers/17-9beada2e6fcfa58a73fb148cdcc8e5b209c61fa0.md#17-chore-update-cmake-to-version-4-0-3)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:a6ffa333b8d03bf9a8974c94da275ac2e9b9c32b · 2026-02-12
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/a6ffa333b8d03bf9a8974c94da275ac2e9b9c32b)
+  - [Detailed analysis: 21-a6ffa333b8d03bf9a8974c94da275ac2e9b9c32b](../sources/commit-review/build-deployment-all/remote-dev/dossiers/21-a6ffa333b8d03bf9a8974c94da275ac2e9b9c32b.md#21-chore-update-llvm-to-20-and-cmake-to-4-2-3)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:b440a31bbd688b8ad6a2ad96aa35f403cc39221a · 2024-01-31
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/b440a31bbd688b8ad6a2ad96aa35f403cc39221a)
+  - [Detailed analysis: 05-b440a31bbd688b8ad6a2ad96aa35f403cc39221a](../sources/commit-review/build-deployment-all/remote-dev/dossiers/05-b440a31bbd688b8ad6a2ad96aa35f403cc39221a.md#05-docs-update-readme-md)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:cf78cd46d4db4240666f955496dec5ddabf05411 · 2025-11-02
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/cf78cd46d4db4240666f955496dec5ddabf05411)
+  - [Detailed analysis: 19-cf78cd46d4db4240666f955496dec5ddabf05411](../sources/commit-review/build-deployment-all/remote-dev/dossiers/19-cf78cd46d4db4240666f955496dec5ddabf05411.md#19-chore-add-clang-tools-installation-to-dockerfile)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:d54dede957925a6a901da0240e0d4ba9fbb57b66 · 2024-01-31
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/d54dede957925a6a901da0240e0d4ba9fbb57b66)
+  - [Detailed analysis: 07-d54dede957925a6a901da0240e0d4ba9fbb57b66](../sources/commit-review/build-deployment-all/remote-dev/dossiers/07-d54dede957925a6a901da0240e0d4ba9fbb57b66.md#07-refactor-rename-files)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:da2dbff757b5b049f0e005625c89c3e7a371a97b · 2024-06-19
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/da2dbff757b5b049f0e005625c89c3e7a371a97b)
+  - [Detailed analysis: 12-da2dbff757b5b049f0e005625c89c3e7a371a97b](../sources/commit-review/build-deployment-all/remote-dev/dossiers/12-da2dbff757b5b049f0e005625c89c3e7a371a97b.md#12-add-build-essential-package-to-dockerfile)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:daee0a89b98432c903cab887308660d8d1f9097a · 2024-01-31
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/daee0a89b98432c903cab887308660d8d1f9097a)
+  - [Detailed analysis: 01-daee0a89b98432c903cab887308660d8d1f9097a](../sources/commit-review/build-deployment-all/remote-dev/dossiers/01-daee0a89b98432c903cab887308660d8d1f9097a.md#01-initial-commit)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:df59864bf6c268ff48b3ec973c805df61accefc4 · 2024-09-18
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/df59864bf6c268ff48b3ec973c805df61accefc4)
+  - [Detailed analysis: 13-df59864bf6c268ff48b3ec973c805df61accefc4](../sources/commit-review/build-deployment-all/remote-dev/dossiers/13-df59864bf6c268ff48b3ec973c805df61accefc4.md#13-feat-configure-clang-as-the-default-c-and-c-compiler-using-environment-variables)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:e6c954227100828b75a65893d4d0576ee26af972 · 2025-08-05
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/e6c954227100828b75a65893d4d0576ee26af972)
+  - [Detailed analysis: 18-e6c954227100828b75a65893d4d0576ee26af972](../sources/commit-review/build-deployment-all/remote-dev/dossiers/18-e6c954227100828b75a65893d4d0576ee26af972.md#18-feat-update-base-image-to-python-3-12-slim-bookworm)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:f1c81922ec248dc715125af0f7c9216e13f84085 · 2026-05-02
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/f1c81922ec248dc715125af0f7c9216e13f84085)
+  - [Detailed analysis: 23-f1c81922ec248dc715125af0f7c9216e13f84085](../sources/commit-review/build-deployment-all/remote-dev/dossiers/23-f1c81922ec248dc715125af0f7c9216e13f84085.md#23-feat-copy-host-ssh-material-via-entrypoint-with-strict-perms)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)
+- commit:f78f736251fbf0c4b01d58ad7011ac717acc7fab · 2024-01-31
+  - [Public source](https://github.com/EndstoneMC/remote-dev/commit/f78f736251fbf0c4b01d58ad7011ac717acc7fab)
+  - [Detailed analysis: 06-f78f736251fbf0c4b01d58ad7011ac717acc7fab](../sources/commit-review/build-deployment-all/remote-dev/dossiers/06-f78f736251fbf0c4b01d58ad7011ac717acc7fab.md#06-docs-update-readme-md)
+  - [Detailed analysis: README](../sources/commit-review/build-deployment-all/remote-dev/README.md#remote-development-toolchain-consistency-shell-boundaries-and-host-key-portability)

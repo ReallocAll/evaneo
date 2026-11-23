@@ -1,0 +1,182 @@
+<!-- retrieval: {"source_type":"navigation","topics":["source-navigation"],"limitations":"Navigation aid only. Linked entries point to public sources and related analysis; the links do not certify implementation or runtime behavior."} -->
+# Source index: EndstoneMC/nethernet-python {#source-index}
+
+## Sources {#sources}
+
+The links below group publicly traceable source material with related analysis.
+
+- commit:009e5b3d2c6abc5e712b4fa2b1a932b6cb7b692d · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/009e5b3d2c6abc5e712b4fa2b1a932b6cb7b692d)
+  - [Detailed analysis: 008-009e5b3d2c6a](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/008-009e5b3d2c6a.md#008-feat-discovery-aes-256-ecb-hmac-sha256-crypto-envelope)
+  - [Detailed analysis: Nethernet Python: wire contract and security boundaries](../sources/commit-review/native-network-bindings/nethernet-python/cases/wire-contract-and-security-boundaries.md#nn02-preserve-exact-wire-behavior-without-inheriting-every-security-assumption)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:0692dec196a01544c2078293564af1801f3e87bf · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/0692dec196a01544c2078293564af1801f3e87bf)
+  - [Detailed analysis: 003-0692dec196a0](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/003-0692dec196a0.md#003-spike-aiortc-de-risk-large-messages-non-trickle-ice-candidate-format)
+  - [Detailed analysis: Nethernet Python: research spikes and signaling capacity](../sources/commit-review/native-network-bindings/nethernet-python/cases/research-spikes-and-signaling-capacity.md#nn01-a-protocol-port-changes-direction-when-the-enclosing-transport-disagrees)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:09e4067b022dba085057e4d62af5c01bdba29a19 · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/09e4067b022dba085057e4d62af5c01bdba29a19)
+  - [Detailed analysis: 016-09e4067b022d](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/016-09e4067b022d.md#016-feat-session-sessionmanager-routing-full-in-process-handshake)
+  - [Detailed analysis: Nethernet Python: async API and lifecycle](../sources/commit-review/native-network-bindings/nethernet-python/cases/async-api-and-lifecycle.md#nn03-an-awaitable-facade-needs-explicit-ownership-readiness-and-shutdown-contracts)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:1705348ebf10a54a9c5dbf8b2f17f72d6d51c6fd · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/1705348ebf10a54a9c5dbf8b2f17f72d6d51c6fd)
+  - [Detailed analysis: 018-1705348ebf10](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/018-1705348ebf10.md#018-fix-session-trickle-ice-candidates-to-fit-the-lan-message-cap)
+  - [Detailed analysis: Nethernet Python: research spikes and signaling capacity](../sources/commit-review/native-network-bindings/nethernet-python/cases/research-spikes-and-signaling-capacity.md#nn01-a-protocol-port-changes-direction-when-the-enclosing-transport-disagrees)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:1b82cf111b4e3ec22056d2b6271f61176545ba1b · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/1b82cf111b4e3ec22056d2b6271f61176545ba1b)
+  - [Detailed analysis: 005-1b82cf111b4e](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/005-1b82cf111b4e.md#005-feat-signaling-message-codec-and-shared-error-enums)
+  - [Detailed analysis: Nethernet Python: wire contract and security boundaries](../sources/commit-review/native-network-bindings/nethernet-python/cases/wire-contract-and-security-boundaries.md#nn02-preserve-exact-wire-behavior-without-inheriting-every-security-assumption)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:1bfb9e7b5936515735f1a4bb6ac68e03a9b267be · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/1bfb9e7b5936515735f1a4bb6ac68e03a9b267be)
+  - [Detailed analysis: 009-1bfb9e7b5936](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/009-1bfb9e7b5936.md#009-docs-spec-add-optional-lan-first-discovery-probe-note-plan-task-12)
+  - [Detailed analysis: Nethernet Python: wire contract and security boundaries](../sources/commit-review/native-network-bindings/nethernet-python/cases/wire-contract-and-security-boundaries.md#nn02-preserve-exact-wire-behavior-without-inheriting-every-security-assumption)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:1ea609a793d7db2d39ab3222e45549a55cf4b783 · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/1ea609a793d7db2d39ab3222e45549a55cf4b783)
+  - [Detailed analysis: 010-1ea609a793d7](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/010-1ea609a793d7.md#010-feat-transport-packet-framing-and-fragmentation-packetqueue)
+  - [Detailed analysis: Nethernet Python: wire contract and security boundaries](../sources/commit-review/native-network-bindings/nethernet-python/cases/wire-contract-and-security-boundaries.md#nn02-preserve-exact-wire-behavior-without-inheriting-every-security-assumption)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:21c7cc1cef47573dcd4b10751a284aa731a71db6 · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/21c7cc1cef47573dcd4b10751a284aa731a71db6)
+  - [Detailed analysis: 007-21c7cc1cef47](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/007-21c7cc1cef47.md#007-feat-discovery-packet-codec-for-request-response-message)
+  - [Detailed analysis: Nethernet Python: wire contract and security boundaries](../sources/commit-review/native-network-bindings/nethernet-python/cases/wire-contract-and-security-boundaries.md#nn02-preserve-exact-wire-behavior-without-inheriting-every-security-assumption)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:26c265e417b1cc44162fe02d93afb7e3c51ea92f · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/26c265e417b1cc44162fe02d93afb7e3c51ea92f)
+  - [Detailed analysis: 027-26c265e417b1](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/027-26c265e417b1.md#027-feat-api-export-public-surface-demote-transport-to-internal-task-19)
+  - [Detailed analysis: Nethernet Python: async API and lifecycle](../sources/commit-review/native-network-bindings/nethernet-python/cases/async-api-and-lifecycle.md#nn03-an-awaitable-facade-needs-explicit-ownership-readiness-and-shutdown-contracts)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:37532379296a38351e5c272e163a2c87a80835d4 · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/37532379296a38351e5c272e163a2c87a80835d4)
+  - [Detailed analysis: 017-37532379296a](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/017-37532379296a.md#017-feat-discovery-lan-discovery-signaling-udp-transport)
+  - [Detailed analysis: Nethernet Python: wire contract and security boundaries](../sources/commit-review/native-network-bindings/nethernet-python/cases/wire-contract-and-security-boundaries.md#nn02-preserve-exact-wire-behavior-without-inheriting-every-security-assumption)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:3d968dab941c2f6b45a690b456690bee2fa636ec · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/3d968dab941c2f6b45a690b456690bee2fa636ec)
+  - [Detailed analysis: 029-3d968dab941c](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/029-3d968dab941c.md#029-refactor-api-simplify-connection-connect-wait-and-endpoint-teardown)
+  - [Detailed analysis: Nethernet Python: async API and lifecycle](../sources/commit-review/native-network-bindings/nethernet-python/cases/async-api-and-lifecycle.md#nn03-an-awaitable-facade-needs-explicit-ownership-readiness-and-shutdown-contracts)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:449e5d19cda87a6c6eae67f0fcfcafbcfa66b6b7 · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/449e5d19cda87a6c6eae67f0fcfcafbcfa66b6b7)
+  - [Detailed analysis: 025-449e5d19cda8](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/025-449e5d19cda8.md#025-feat-api-engine-hooks-for-the-public-layer-task-17)
+  - [Detailed analysis: Nethernet Python: async API and lifecycle](../sources/commit-review/native-network-bindings/nethernet-python/cases/async-api-and-lifecycle.md#nn03-an-awaitable-facade-needs-explicit-ownership-readiness-and-shutdown-contracts)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:5f370a6e389ef6fb9e9611d491a5517e714720f9 · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/5f370a6e389ef6fb9e9611d491a5517e714720f9)
+  - [Detailed analysis: 019-5f370a6e389e](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/019-5f370a6e389e.md#019-feat-api-public-transport-facade-lan-examples)
+  - [Detailed analysis: Nethernet Python: async API and lifecycle](../sources/commit-review/native-network-bindings/nethernet-python/cases/async-api-and-lifecycle.md#nn03-an-awaitable-facade-needs-explicit-ownership-readiness-and-shutdown-contracts)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:63cafaa7f81b5f96cfe56d3c7471edc6eeeb835a · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/63cafaa7f81b5f96cfe56d3c7471edc6eeeb835a)
+  - [Detailed analysis: 026-63cafaa7f81b](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/026-63cafaa7f81b.md#026-feat-api-connect-serve-discover-connection-server-discoveredhost-task-18)
+  - [Detailed analysis: Nethernet Python: async API and lifecycle](../sources/commit-review/native-network-bindings/nethernet-python/cases/async-api-and-lifecycle.md#nn03-an-awaitable-facade-needs-explicit-ownership-readiness-and-shutdown-contracts)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:681d50261f37fcb63a8bb81064bcfd64f868a997 · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/681d50261f37fcb63a8bb81064bcfd64f868a997)
+  - [Detailed analysis: 028-681d50261f37](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/028-681d50261f37.md#028-feat-api-client-py-server-py-examples-remove-host-py-join-py-task-20)
+  - [Detailed analysis: Nethernet Python: async API and lifecycle](../sources/commit-review/native-network-bindings/nethernet-python/cases/async-api-and-lifecycle.md#nn03-an-awaitable-facade-needs-explicit-ownership-readiness-and-shutdown-contracts)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:695095c7d853e56fd60076bfe6db9fab6714e88b · 2026-10-19
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/695095c7d853e56fd60076bfe6db9fab6714e88b)
+  - [Detailed analysis: 035-695095c7d853](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/035-695095c7d853.md#035-feat-http-let-connecthttp-sign-its-offer)
+  - [Detailed analysis: Nethernet Python: hTTP signaling identity and errors](../sources/commit-review/native-network-bindings/nethernet-python/cases/http-signaling-identity-and-errors.md#nn04-separate-protocol-identity-mechanics-trust-policy-and-application-rejection)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:6ea0cbfa6fe42d1d373940b492a207c9228c0a7f · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/6ea0cbfa6fe42d1d373940b492a207c9228c0a7f)
+  - [Detailed analysis: 006-6ea0cbfa6fe4](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/006-6ea0cbfa6fe4.md#006-chore-enforce-pep8-naming-with-ruff-rename-enum-members)
+  - [Detailed analysis: Nethernet Python: wire contract and security boundaries](../sources/commit-review/native-network-bindings/nethernet-python/cases/wire-contract-and-security-boundaries.md#nn02-preserve-exact-wire-behavior-without-inheriting-every-security-assumption)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:7e55d04977b0f5fe9e519038ba85cacdbc4bc411 · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/7e55d04977b0f5fe9e519038ba85cacdbc4bc411)
+  - [Detailed analysis: 004-7e55d04977b0](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/004-7e55d04977b0.md#004-feat-network-id-networkid-parsing-and-connectionid-minting)
+  - [Detailed analysis: Nethernet Python: wire contract and security boundaries](../sources/commit-review/native-network-bindings/nethernet-python/cases/wire-contract-and-security-boundaries.md#nn02-preserve-exact-wire-behavior-without-inheriting-every-security-assumption)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:83e732e10d12faffd27dba33ef7b8c291ca9a29e · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/83e732e10d12faffd27dba33ef7b8c291ca9a29e)
+  - [Detailed analysis: 012-83e732e10d12](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/012-83e732e10d12.md#012-style-framing-use-hex-literal-for-fragmentsize)
+  - [Detailed analysis: Nethernet Python: wire contract and security boundaries](../sources/commit-review/native-network-bindings/nethernet-python/cases/wire-contract-and-security-boundaries.md#nn02-preserve-exact-wire-behavior-without-inheriting-every-security-assumption)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:8b0211839b340525827abfca9c4b32ce0c160e3d · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/8b0211839b340525827abfca9c4b32ce0c160e3d)
+  - [Detailed analysis: 011-8b0211839b34](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/011-8b0211839b34.md#011-feat-transport-aiortc-peerconnection-wrapper-with-framing)
+  - [Detailed analysis: Nethernet Python: research spikes and signaling capacity](../sources/commit-review/native-network-bindings/nethernet-python/cases/research-spikes-and-signaling-capacity.md#nn01-a-protocol-port-changes-direction-when-the-enclosing-transport-disagrees)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:8e59bb6b6d8213c58553c48ffdd31ae1ba3aaad5 · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/8e59bb6b6d8213c58553c48ffdd31ae1ba3aaad5)
+  - [Detailed analysis: 022-8e59bb6b6d82](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/022-8e59bb6b6d82.md#022-docs-api-public-api-design-connect-serve-connection-mirrored-from-bds-interop)
+  - [Detailed analysis: Nethernet Python: async API and lifecycle](../sources/commit-review/native-network-bindings/nethernet-python/cases/async-api-and-lifecycle.md#nn03-an-awaitable-facade-needs-explicit-ownership-readiness-and-shutdown-contracts)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:91e211cba34ed82df349389c566842690d2c769d · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/91e211cba34ed82df349389c566842690d2c769d)
+  - [Detailed analysis: 032-91e211cba34e](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/032-91e211cba34e.md#032-refactor-drop-the-c-e-prefix-from-enum-class-names)
+  - [Detailed analysis: Nethernet Python: wire contract and security boundaries](../sources/commit-review/native-network-bindings/nethernet-python/cases/wire-contract-and-security-boundaries.md#nn02-preserve-exact-wire-behavior-without-inheriting-every-security-assumption)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:a0e526ae5ee191c42745f8dce3425532947f4ec7 · 2026-08-12
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/a0e526ae5ee191c42745f8dce3425532947f4ec7)
+  - [Detailed analysis: 033-a0e526ae5ee1](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/033-a0e526ae5ee1.md#033-docs-nethernet-batches-carry-no-raknet-0xfe-header)
+  - [Detailed analysis: Nethernet Python: hTTP signaling identity and errors](../sources/commit-review/native-network-bindings/nethernet-python/cases/http-signaling-identity-and-errors.md#nn04-separate-protocol-identity-mechanics-trust-policy-and-application-rejection)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:a284b8847884d537cf52789d5469f82ad7bc7a81 · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/a284b8847884d537cf52789d5469f82ad7bc7a81)
+  - [Detailed analysis: 023-a284b8847884](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/023-a284b8847884.md#023-chore-tasks-mark-task-16-complete)
+  - [Detailed analysis: Nethernet Python: async API and lifecycle](../sources/commit-review/native-network-bindings/nethernet-python/cases/async-api-and-lifecycle.md#nn03-an-awaitable-facade-needs-explicit-ownership-readiness-and-shutdown-contracts)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:ae4a4af7ffec3cfdd3719720f416a925fd089976 · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/ae4a4af7ffec3cfdd3719720f416a925fd089976)
+  - [Detailed analysis: 013-ae4a4af7ffec](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/013-ae4a4af7ffec.md#013-feat-session-dialer-state-machine)
+  - [Detailed analysis: Nethernet Python: async API and lifecycle](../sources/commit-review/native-network-bindings/nethernet-python/cases/async-api-and-lifecycle.md#nn03-an-awaitable-facade-needs-explicit-ownership-readiness-and-shutdown-contracts)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:c9b86cc5d8a19c4a2d1b19bc0641256d7ce855ee · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/c9b86cc5d8a19c4a2d1b19bc0641256d7ce855ee)
+  - [Detailed analysis: 014-c9b86cc5d8a1](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/014-c9b86cc5d8a1.md#014-test-run-the-suite-in-parallel-with-pytest-xdist--n-auto)
+  - [Detailed analysis: Nethernet Python: research spikes and signaling capacity](../sources/commit-review/native-network-bindings/nethernet-python/cases/research-spikes-and-signaling-capacity.md#nn01-a-protocol-port-changes-direction-when-the-enclosing-transport-disagrees)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:d2e67f1506184edddc7f84faf936c8815ff59a1f · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/d2e67f1506184edddc7f84faf936c8815ff59a1f)
+  - [Detailed analysis: 024-d2e67f150618](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/024-d2e67f150618.md#024-feat-api-public-exception-types-netherneterror-connectionfailed-connectionclosed)
+  - [Detailed analysis: Nethernet Python: async API and lifecycle](../sources/commit-review/native-network-bindings/nethernet-python/cases/async-api-and-lifecycle.md#nn03-an-awaitable-facade-needs-explicit-ownership-readiness-and-shutdown-contracts)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:d7d50c218b0100f0371ed70dd2966e0b9d11a899 · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/d7d50c218b0100f0371ed70dd2966e0b9d11a899)
+  - [Detailed analysis: 031-d7d50c218b01](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/031-d7d50c218b01.md#031-docs-align-readme-and-examples-with-raknet-python)
+  - [Detailed analysis: Nethernet Python: hTTP signaling identity and errors](../sources/commit-review/native-network-bindings/nethernet-python/cases/http-signaling-identity-and-errors.md#nn04-separate-protocol-identity-mechanics-trust-policy-and-application-rejection)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:dcd31c6ac47942595b45fab9ee9765c96ade08f2 · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/dcd31c6ac47942595b45fab9ee9765c96ade08f2)
+  - [Detailed analysis: 015-dcd31c6ac479](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/015-dcd31c6ac479.md#015-feat-session-listener-state-machine)
+  - [Detailed analysis: Nethernet Python: async API and lifecycle](../sources/commit-review/native-network-bindings/nethernet-python/cases/async-api-and-lifecycle.md#nn03-an-awaitable-facade-needs-explicit-ownership-readiness-and-shutdown-contracts)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:deb486236c4386bef92b7316fc0504dd9816c19e · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/deb486236c4386bef92b7316fc0504dd9816c19e)
+  - [Detailed analysis: 001-deb486236c43](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/001-deb486236c43.md#001-docs-add-nethernet-spec-and-implementation-plan)
+  - [Detailed analysis: Nethernet Python: research spikes and signaling capacity](../sources/commit-review/native-network-bindings/nethernet-python/cases/research-spikes-and-signaling-capacity.md#nn01-a-protocol-port-changes-direction-when-the-enclosing-transport-disagrees)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:e7a05314974718d72e13040fb8aaa7e481cf9444 · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/e7a05314974718d72e13040fb8aaa7e481cf9444)
+  - [Detailed analysis: 021-e7a053149747](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/021-e7a053149747.md#021-docs-interop-document-task-15-live-interop-harness-and-blocker)
+  - [Detailed analysis: Nethernet Python: research spikes and signaling capacity](../sources/commit-review/native-network-bindings/nethernet-python/cases/research-spikes-and-signaling-capacity.md#nn01-a-protocol-port-changes-direction-when-the-enclosing-transport-disagrees)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:e98353be3b721be99ef95e3a83986573d93e5b8e · 2026-07-27
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/e98353be3b721be99ef95e3a83986573d93e5b8e)
+  - [Detailed analysis: 030-e98353be3b72](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/030-e98353be3b72.md#030-feat-http-http-signaling-channel-sdp-identity-assertions)
+  - [Detailed analysis: Nethernet Python: hTTP signaling identity and errors](../sources/commit-review/native-network-bindings/nethernet-python/cases/http-signaling-identity-and-errors.md#nn04-separate-protocol-identity-mechanics-trust-policy-and-application-rejection)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:ef3e80be5c25064cec172f39b08e018e968ea1b7 · 2026-08-12
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/ef3e80be5c25064cec172f39b08e018e968ea1b7)
+  - [Detailed analysis: 034-ef3e80be5c25](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/034-ef3e80be5c25.md#034-fix-http-raise-the-host-s-session-error-from-a-numeric-answer-body)
+  - [Detailed analysis: Nethernet Python: hTTP signaling identity and errors](../sources/commit-review/native-network-bindings/nethernet-python/cases/http-signaling-identity-and-errors.md#nn04-separate-protocol-identity-mechanics-trust-policy-and-application-rejection)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:f7431a5f337571b50144d588373cfcbfa503b31f · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/f7431a5f337571b50144d588373cfcbfa503b31f)
+  - [Detailed analysis: 002-f7431a5f3375](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/002-f7431a5f3375.md#002-chore-scaffold-uv-project-with-aiortc-cryptography)
+  - [Detailed analysis: Nethernet Python: research spikes and signaling capacity](../sources/commit-review/native-network-bindings/nethernet-python/cases/research-spikes-and-signaling-capacity.md#nn01-a-protocol-port-changes-direction-when-the-enclosing-transport-disagrees)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)
+- commit:fa383012b8db4f6f070a99292995335ee91636a1 · 2026-06-14
+  - [Public source](https://github.com/EndstoneMC/nethernet-python/commit/fa383012b8db4f6f070a99292995335ee91636a1)
+  - [Detailed analysis: 020-fa383012b8db](../sources/commit-review/native-network-bindings/nethernet-python/dossiers/020-fa383012b8db.md#020-test-conformance-spec-s11-byte-vector-fragmentation-suite)
+  - [Detailed analysis: Nethernet Python: wire contract and security boundaries](../sources/commit-review/native-network-bindings/nethernet-python/cases/wire-contract-and-security-boundaries.md#nn02-preserve-exact-wire-behavior-without-inheriting-every-security-assumption)
+  - [Detailed analysis: COVERAGE_AND_LIMITS](../sources/commit-review/native-network-bindings/COVERAGE_AND_LIMITS.md#coverage-attribution-and-limits)

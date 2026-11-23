@@ -1,0 +1,882 @@
+<!-- retrieval: {"source_type":"navigation","topics":["source-navigation"],"limitations":"Navigation aid only. Linked entries point to public sources and related analysis; the links do not certify implementation or runtime behavior."} -->
+# Source index: EndstoneMC/endweave {#source-index}
+
+## Sources {#sources}
+
+The links below group publicly traceable source material with related analysis.
+
+- commit:007f3f83aa2d67f0839fe3da09ef1ddfedbb7ef9 · 2026-03-20
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/007f3f83aa2d67f0839fe3da09ef1ddfedbb7ef9)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:00ef13c3acadce65b7ee70139e87942d00a021af · 2026-03-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/00ef13c3acadce65b7ee70139e87942d00a021af)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:0214ee7aa3f00964bd6b66386f44aea77f351a52 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/0214ee7aa3f00964bd6b66386f44aea77f351a52)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-234)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:024d2a8ab89b9068469e3b6cd1f09217598b33de · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/024d2a8ab89b9068469e3b6cd1f09217598b33de)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-204)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:02cffddd96243d33f532fec75a71d5da97894c17 · 2026-03-24
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/02cffddd96243d33f532fec75a71d5da97894c17)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:0389e117ac61438588ad371d5eaa854179ad8a90 · 2026-05-08
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/0389e117ac61438588ad371d5eaa854179ad8a90)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-156)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:03eec39346f1047e338bfaa4e9c72a3dd87600ac · 2026-03-17
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/03eec39346f1047e338bfaa4e9c72a3dd87600ac)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:054a78411494b5395428cf64feba545660e8feed · 2026-05-07
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/054a78411494b5395428cf64feba545660e8feed)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-151)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:06c74119b30f5a5f8bc5ca3186406ae67b35588f · 2026-03-30
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/06c74119b30f5a5f8bc5ca3186406ae67b35588f)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:093f0c859dbf10cffa8fda9a1498f0d2e7a74b33 · 2026-03-30
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/093f0c859dbf10cffa8fda9a1498f0d2e7a74b33)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:0c382636886e35339710bfdb2a0e88fe3ec15941 · 2026-03-30
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/0c382636886e35339710bfdb2a0e88fe3ec15941)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:0d20689f9c4c1b702de3ff1aaba80706b1fcff77 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/0d20689f9c4c1b702de3ff1aaba80706b1fcff77)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-199)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:0d4f68041100154c92e535879bbb9a3d4ffcb59a · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/0d4f68041100154c92e535879bbb9a3d4ffcb59a)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-179)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:102a723fd8e8c03f72084fe31b549011486add79 · 2026-03-25
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/102a723fd8e8c03f72084fe31b549011486add79)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:1039408c4e83670f34319680d5338a8bc8922a1f · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/1039408c4e83670f34319680d5338a8bc8922a1f)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:1259aa912031a94b3a5ae4fd20a3761e8ffb939e · 2026-03-27
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/1259aa912031a94b3a5ae4fd20a3761e8ffb939e)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:13f023c67a17ee27c8c7cded9c6a2045fe309d08 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/13f023c67a17ee27c8c7cded9c6a2045fe309d08)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-226)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:14d121e803dbe4ce90a745f0a07d43fe3aef90b5 · 2026-10-18
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/14d121e803dbe4ce90a745f0a07d43fe3aef90b5)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-244)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:1501feeb4d34d1b5ab5c5a36fe7389facf0efc70 · 2026-03-18
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/1501feeb4d34d1b5ab5c5a36fe7389facf0efc70)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:151f7d9f1e48703a3e843d30e41faa94c63c4900 · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/151f7d9f1e48703a3e843d30e41faa94c63c4900)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:168ab9b4ef87905e41c5980e4a1b184903cd8c03 · 2026-03-30
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/168ab9b4ef87905e41c5980e4a1b184903cd8c03)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:17760056a5d704e5064b8f68abe7d5d63f931270 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/17760056a5d704e5064b8f68abe7d5d63f931270)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-228)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:1800838bf18ae0bf11864d3ff14b11c1fe9c93ad · 2026-03-25
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/1800838bf18ae0bf11864d3ff14b11c1fe9c93ad)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:180fe6143c262c6f114d7d7186d25f3a6076f773 · 2026-05-06
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/180fe6143c262c6f114d7d7186d25f3a6076f773)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-138)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:198ee0c3ec5a9d731717271b2c7f485cef94831b · 2026-03-27
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/198ee0c3ec5a9d731717271b2c7f485cef94831b)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:1afda9ab9e744682f6da861d28a3826e7232c538 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/1afda9ab9e744682f6da861d28a3826e7232c538)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-238)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:1c6ce2e75ccb6c9baa7e7a966a0658ec419ccfb2 · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/1c6ce2e75ccb6c9baa7e7a966a0658ec419ccfb2)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:1c71334c18bea89446b76ae7087b4276a5cb66cd · 2026-03-20
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/1c71334c18bea89446b76ae7087b4276a5cb66cd)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:1e38cb83739d515d1dbfb9aec8a7c641b63d4bef · 2026-03-27
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/1e38cb83739d515d1dbfb9aec8a7c641b63d4bef)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:202157c76b587dc04fc2ec6f1b05ec2d46a313c7 · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/202157c76b587dc04fc2ec6f1b05ec2d46a313c7)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:206fa03acec626b815c707a92181e802f691b613 · 2026-03-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/206fa03acec626b815c707a92181e802f691b613)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:22fffedc73d0c235ecde8ad886b8e399400ab616 · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/22fffedc73d0c235ecde8ad886b8e399400ab616)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-196)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:24631fbd24fbacb9f593f1adecb3783be0f2c7ed · 2026-03-29
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/24631fbd24fbacb9f593f1adecb3783be0f2c7ed)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:261c65f594b5c8ac3db60a9498473b0fba799715 · 2026-05-06
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/261c65f594b5c8ac3db60a9498473b0fba799715)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-139)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:261d16294a115e2ca38b92c0f1ff2d95fc157343 · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/261d16294a115e2ca38b92c0f1ff2d95fc157343)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:26a4950ea9f1b4ed076b5b16d55d60e4031a1102 · 2026-03-20
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/26a4950ea9f1b4ed076b5b16d55d60e4031a1102)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:2738992ea3e16e8d41cbef84b421a9bf7f7573b3 · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/2738992ea3e16e8d41cbef84b421a9bf7f7573b3)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-187)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:28f9bfbca657adcd506bb3531f80f646180b4140 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/28f9bfbca657adcd506bb3531f80f646180b4140)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-222)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:2922a3097c718b64f3ef82ebe28cfebe479c0b0d · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/2922a3097c718b64f3ef82ebe28cfebe479c0b0d)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-205)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:2a224a9ce78dc05e12e5499e93435f04bae850f3 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/2a224a9ce78dc05e12e5499e93435f04bae850f3)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-216)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:2a5f86d7696e57e438d0bb1472e306684cd37efb · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/2a5f86d7696e57e438d0bb1472e306684cd37efb)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:2aff6e5ba7e1aa453741540e863412bb89fc17fc · 2026-03-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/2aff6e5ba7e1aa453741540e863412bb89fc17fc)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:2b76bff552354ae48103f2fa334aaf117c1161f1 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/2b76bff552354ae48103f2fa334aaf117c1161f1)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-201)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:2b912b0484e7f9ad903f57073ced386f6a359a1d · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/2b912b0484e7f9ad903f57073ced386f6a359a1d)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:2ebe37389adbefea95a9d5ccaa1d676f87e92bd6 · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/2ebe37389adbefea95a9d5ccaa1d676f87e92bd6)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-163)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:2ec119336cb915ebf5a340a40fc19e6d8f01b894 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/2ec119336cb915ebf5a340a40fc19e6d8f01b894)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-209)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:2f26004ecb71ca9114a6ccff9bac27d6359971ca · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/2f26004ecb71ca9114a6ccff9bac27d6359971ca)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-188)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:2f6229368cf1b8592dc82245b75a42471411cb7a · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/2f6229368cf1b8592dc82245b75a42471411cb7a)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:2fe8c33bba57c680dfc0c990a93b7edb71583a5c · 2026-03-18
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/2fe8c33bba57c680dfc0c990a93b7edb71583a5c)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:3162246091d0dfad84076f91630860fedd43db0b · 2026-03-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/3162246091d0dfad84076f91630860fedd43db0b)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:3167e0789c605c77a9f4a9a86ce64dad4a296fd0 · 2026-03-31
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/3167e0789c605c77a9f4a9a86ce64dad4a296fd0)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:3201ac3e09dfe2cf792b2ab0482f3d4f07d9c169 · 2026-05-08
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/3201ac3e09dfe2cf792b2ab0482f3d4f07d9c169)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-161)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:3589ac5dde062888601f2f0b9ca0da24b623639f · 2026-03-27
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/3589ac5dde062888601f2f0b9ca0da24b623639f)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:3900d71e2b777a2b6e8ac83b9c49040e2c6be9fe · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/3900d71e2b777a2b6e8ac83b9c49040e2c6be9fe)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-181)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:3a585729e5d75d7d5caab2bb628a8bfa17f78e50 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/3a585729e5d75d7d5caab2bb628a8bfa17f78e50)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-217)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:3a690eb6bb4412d47360a4d02ff3fbb05455749d · 2026-09-15
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/3a690eb6bb4412d47360a4d02ff3fbb05455749d)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-241)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:3abd69b8795a1b0463416dd613730496804009a9 · 2026-05-06
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/3abd69b8795a1b0463416dd613730496804009a9)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-141)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:3e3bedff61365427a4d408de9fa24db1128511bd · 2026-03-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/3e3bedff61365427a4d408de9fa24db1128511bd)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:3ef81ef1446954cc004dcdadde01898b29699399 · 2026-04-24
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/3ef81ef1446954cc004dcdadde01898b29699399)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-130)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:40e685133e1450bfe0b572f097cf08ca10e8ad6b · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/40e685133e1450bfe0b572f097cf08ca10e8ad6b)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:41a45e916d25173c10ddde6f8b165d67f2d6836e · 2026-03-27
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/41a45e916d25173c10ddde6f8b165d67f2d6836e)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:42a81edcbca33852df96be821c831f70da8b3ff1 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/42a81edcbca33852df96be821c831f70da8b3ff1)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-219)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:434db9f24051ef753bcfa674844f538b48fa6bc6 · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/434db9f24051ef753bcfa674844f538b48fa6bc6)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-180)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:4398bbc5264a470b210585032f6da582d6dd2d3c · 2026-03-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/4398bbc5264a470b210585032f6da582d6dd2d3c)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:43ac355288ec51e965d5e50b50b92b81b90192c5 · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/43ac355288ec51e965d5e50b50b92b81b90192c5)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:43c22be2e090523355b66869bc723ce05c6900d7 · 2026-05-08
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/43c22be2e090523355b66869bc723ce05c6900d7)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-160)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:43f16f3db967b3ac819feef52e177015b9141ae4 · 2026-05-07
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/43f16f3db967b3ac819feef52e177015b9141ae4)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-144)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:450237d77a73296b4e0b4ecb5565a9ee9eba32bf · 2026-03-27
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/450237d77a73296b4e0b4ecb5565a9ee9eba32bf)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:495d9cbd54ec2589cc091800fba5ad8cfbc0f98f · 2026-03-29
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/495d9cbd54ec2589cc091800fba5ad8cfbc0f98f)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:4a8634c49573cfa65c639713a68f130083818a0f · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/4a8634c49573cfa65c639713a68f130083818a0f)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-198)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:4ba28905762b3e525ed40e3c63c26d4d191f31b4 · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/4ba28905762b3e525ed40e3c63c26d4d191f31b4)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-174)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:4c1488fdcf734e86d3e86e18ad9929d2c7cb8d23 · 2026-05-05
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/4c1488fdcf734e86d3e86e18ad9929d2c7cb8d23)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-132)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:4c6249a141794160b0c8659de9f4e2bfc27d87d6 · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/4c6249a141794160b0c8659de9f4e2bfc27d87d6)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:4d528ad5099f08d7c67d4243db63e10a9dca907f · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/4d528ad5099f08d7c67d4243db63e10a9dca907f)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-189)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:4d8ba992db2e0b16b755c584e7f87727e221fe43 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/4d8ba992db2e0b16b755c584e7f87727e221fe43)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-227)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:4e74c1d9d208c92d80d3e4c800da040247a90c4c · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/4e74c1d9d208c92d80d3e4c800da040247a90c4c)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-221)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:4eaa975002b2b52538b0446fd72e3d6bed3e81b8 · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/4eaa975002b2b52538b0446fd72e3d6bed3e81b8)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-172)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:4ecdb69e2d62f5006186352a83512a43ae5c817c · 2026-05-05
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/4ecdb69e2d62f5006186352a83512a43ae5c817c)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-133)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:4f133e86b919a20b460275cccf4f62c7c875666b · 2026-03-27
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/4f133e86b919a20b460275cccf4f62c7c875666b)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:4f4dbc6c8f23c425cab4315006d170501cf10467 · 2026-10-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/4f4dbc6c8f23c425cab4315006d170501cf10467)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-249)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:505ab6549e4d52dfb957aa700fcf78ac85e61b06 · 2026-05-06
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/505ab6549e4d52dfb957aa700fcf78ac85e61b06)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-140)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:50cc988d3fb9f1ddf1b2699a9bcf020e75dbd236 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/50cc988d3fb9f1ddf1b2699a9bcf020e75dbd236)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-200)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:528dd96b68236edc17f458372687ef557c67f27e · 2026-10-18
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/528dd96b68236edc17f458372687ef557c67f27e)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-246)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:57ec0565a343ac72870394bfb9b26ccde519f4b3 · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/57ec0565a343ac72870394bfb9b26ccde519f4b3)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-186)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:584fe0d5ee71a734214338e105cbb63c0ab95531 · 2026-10-18
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/584fe0d5ee71a734214338e105cbb63c0ab95531)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-248)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:5bc2ab2c01200593a088889b3907b4085937b470 · 2026-03-27
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/5bc2ab2c01200593a088889b3907b4085937b470)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:5e96f0b54d7627306c924ceacfb6a1691f2435aa · 2026-10-18
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/5e96f0b54d7627306c924ceacfb6a1691f2435aa)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-247)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:5eb44c4955196f91e2bec5b71be69dafcd8f5535 · 2026-05-06
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/5eb44c4955196f91e2bec5b71be69dafcd8f5535)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-134)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:5ed41b4b8795d547fe972cd62c8f30ad6ba92053 · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/5ed41b4b8795d547fe972cd62c8f30ad6ba92053)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-176)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:5fca1a41ddacf387d64b83e0587d5fdb2e402dbe · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/5fca1a41ddacf387d64b83e0587d5fdb2e402dbe)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:61189d8dfd8c82eb61141d249dcbc6f3c7704d31 · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/61189d8dfd8c82eb61141d249dcbc6f3c7704d31)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-184)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:6286c292bcd95213324017f834bdd011633f2a89 · 2026-05-07
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/6286c292bcd95213324017f834bdd011633f2a89)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-146)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:6347a12ef1b82d591d86c7d12932700ea362ce38 · 2026-03-29
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/6347a12ef1b82d591d86c7d12932700ea362ce38)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:636b32bba4c92e3994216f2ea3b9977b93971d13 · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/636b32bba4c92e3994216f2ea3b9977b93971d13)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:64568b948eba20207a31551bb95020b23355c84e · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/64568b948eba20207a31551bb95020b23355c84e)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-178)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:646899945abd71630fe3e5e91665ee87794ef2d1 · 2026-03-25
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/646899945abd71630fe3e5e91665ee87794ef2d1)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:65aa4f91faeae447c4646864cf2ba71524ae9cc4 · 2026-03-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/65aa4f91faeae447c4646864cf2ba71524ae9cc4)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:65f01a2258b87fae1726ede9442727c0e393dcde · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/65f01a2258b87fae1726ede9442727c0e393dcde)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-177)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:6761a89d2f8cd31634a71f0054a48c7f82e1e88e · 2026-03-25
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/6761a89d2f8cd31634a71f0054a48c7f82e1e88e)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:6938871be88632c59a7252afc8e00184e7a2d79a · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/6938871be88632c59a7252afc8e00184e7a2d79a)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-211)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:6945d4b1211b90f58573094e052e8b5318f5713d · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/6945d4b1211b90f58573094e052e8b5318f5713d)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-170)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:6b0d8e52e69a434de7eb7527a5dd977957c776e8 · 2026-03-25
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/6b0d8e52e69a434de7eb7527a5dd977957c776e8)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:6bbccce2782be6a473ae122ceda7f3366d95a8cd · 2026-03-30
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/6bbccce2782be6a473ae122ceda7f3366d95a8cd)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:7166200b6748b4c1e4befa7839efba9de53b72fd · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/7166200b6748b4c1e4befa7839efba9de53b72fd)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:739fa2061a23e71aedcec4ed4eefa3be14036713 · 2026-04-04
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/739fa2061a23e71aedcec4ed4eefa3be14036713)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:7449681c2dd1f6d09dc25398c181026087be4e44 · 2026-10-18
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/7449681c2dd1f6d09dc25398c181026087be4e44)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-245)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:7551f5901c57648c59835476f87a63a4b818f552 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/7551f5901c57648c59835476f87a63a4b818f552)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-214)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:758caef112cc1e3e9d334250115482ea524e907f · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/758caef112cc1e3e9d334250115482ea524e907f)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-231)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:787b3aafb468456b723998e6c0b02da1609d8753 · 2026-03-24
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/787b3aafb468456b723998e6c0b02da1609d8753)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:79fb0f47e45541b72329ff520385b767c5326e85 · 2026-03-30
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/79fb0f47e45541b72329ff520385b767c5326e85)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:7bc0cbc78bf3d2625363dcf86df47bd6c610b712 · 2026-03-20
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/7bc0cbc78bf3d2625363dcf86df47bd6c610b712)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:7d586cc74462b5f53fd829489e3874b909e5743b · 2026-03-29
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/7d586cc74462b5f53fd829489e3874b909e5743b)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:7edb52b4d444789cad0ee3c91f4c08594148f7e2 · 2026-03-20
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/7edb52b4d444789cad0ee3c91f4c08594148f7e2)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:80064fb7439ae80faad5694da111e8191f5f2a71 · 2026-03-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/80064fb7439ae80faad5694da111e8191f5f2a71)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:82001578c3026058ee41439e6e3ca61fb8958d1f · 2026-03-27
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/82001578c3026058ee41439e6e3ca61fb8958d1f)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:841b45aeba63f0dcfebcf955b12f09239129be03 · 2026-03-29
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/841b45aeba63f0dcfebcf955b12f09239129be03)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:842778eeb6cae62673367d376fac4fe80cd57209 · 2026-10-18
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/842778eeb6cae62673367d376fac4fe80cd57209)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-243)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:8472a7072bc74bc5c675c823b182426a8ec75fa6 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/8472a7072bc74bc5c675c823b182426a8ec75fa6)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-225)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:854fb2aad9af0e24a731fa137440ae0beb835473 · 2026-05-08
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/854fb2aad9af0e24a731fa137440ae0beb835473)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-157)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:85e9853f2d997975c1e64a2dfb028773a7ecf8b9 · 2026-04-04
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/85e9853f2d997975c1e64a2dfb028773a7ecf8b9)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:8741505f83a57cb53f0bad2b41e93f6a6cc703ad · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/8741505f83a57cb53f0bad2b41e93f6a6cc703ad)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-173)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:8805aeceb4315b65e444c05634864c28f8e46a82 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/8805aeceb4315b65e444c05634864c28f8e46a82)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-224)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:8839f074a3036467b5a8db7677b4bcc95a6ca8aa · 2026-03-29
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/8839f074a3036467b5a8db7677b4bcc95a6ca8aa)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:89992927a302b30f1d8a404280ce54e12f05dc7f · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/89992927a302b30f1d8a404280ce54e12f05dc7f)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-223)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:89e4e728dd04ab58e989c50a25be335793c9ce1d · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/89e4e728dd04ab58e989c50a25be335793c9ce1d)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-194)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:89f8f39ea11dc4b62e37f5237ac9aa69aacd5e87 · 2026-03-18
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/89f8f39ea11dc4b62e37f5237ac9aa69aacd5e87)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:8a1e7dae23bdee948939e95b553c0f0fecabb231 · 2026-03-30
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/8a1e7dae23bdee948939e95b553c0f0fecabb231)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:8a8effae49d80d7a8e12c1977d6f32a18095018c · 2026-05-08
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/8a8effae49d80d7a8e12c1977d6f32a18095018c)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-158)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:8b37c9dfb28181eb3a6e82e6557ea06cb760e46d · 2026-03-29
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/8b37c9dfb28181eb3a6e82e6557ea06cb760e46d)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:8b9e45175231f3f659fc3b40062f38ed3566893a · 2026-03-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/8b9e45175231f3f659fc3b40062f38ed3566893a)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:8cc4df1653399137e3ae6870f2e9cf815cd4a486 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/8cc4df1653399137e3ae6870f2e9cf815cd4a486)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-210)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:8d4a7c37f0b8e55c5d9dbf730dfeb98ca6194866 · 2026-03-25
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/8d4a7c37f0b8e55c5d9dbf730dfeb98ca6194866)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:8e3be484b947b0b8a9c9c926667d3b4366743ee9 · 2026-10-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/8e3be484b947b0b8a9c9c926667d3b4366743ee9)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-250)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:8fb8581e2d4103ec6fff188452acbde16c7f79f9 · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/8fb8581e2d4103ec6fff188452acbde16c7f79f9)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-182)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:9004bae1875b546d3956bc3a0279a24ae9ddb0b6 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/9004bae1875b546d3956bc3a0279a24ae9ddb0b6)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-236)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:9084e6430171006225edcf3d218a4713b901f7d2 · 2026-03-25
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/9084e6430171006225edcf3d218a4713b901f7d2)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:92365e4ff48a138e4f348cdfbecc87a3eeae169d · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/92365e4ff48a138e4f348cdfbecc87a3eeae169d)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-192)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:945deb289b5b78b2cb44b429e2d7c3d8edbfebd5 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/945deb289b5b78b2cb44b429e2d7c3d8edbfebd5)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-232)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:98857362ad1e0aead54a108581b6970fc2a717a0 · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/98857362ad1e0aead54a108581b6970fc2a717a0)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-197)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:9944a9f23a345e002bf32d9563eadeec7a1f3f18 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/9944a9f23a345e002bf32d9563eadeec7a1f3f18)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-233)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:996b6de9b8bc1a058f570b5198347e8111f28f7d · 2026-03-27
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/996b6de9b8bc1a058f570b5198347e8111f28f7d)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:9b77742558259974612d0a3eaaf1cb04a37b1691 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/9b77742558259974612d0a3eaaf1cb04a37b1691)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-206)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:9b830968ecb51a640c229c5c22f60b8520946f55 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/9b830968ecb51a640c229c5c22f60b8520946f55)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-213)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:9c15c0a43dee26aaebe5a8ea42b2c6d6baa510d2 · 2026-09-15
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/9c15c0a43dee26aaebe5a8ea42b2c6d6baa510d2)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-242)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:9cee026e9b22d045d0114302ab40b5956ce447cb · 2026-03-20
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/9cee026e9b22d045d0114302ab40b5956ce447cb)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:9dc1c1573e29494d4cedb7993854811697cbcd11 · 2026-03-27
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/9dc1c1573e29494d4cedb7993854811697cbcd11)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:9dd6a606d5fd9ba76d9f41016342305855afe1a1 · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/9dd6a606d5fd9ba76d9f41016342305855afe1a1)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-169)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:9ebbbd75d62476f45c7129c89d126e7211250355 · 2026-03-17
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/9ebbbd75d62476f45c7129c89d126e7211250355)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:9f1a7bc69f4e2515293a9c5da2d15378e55b3355 · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/9f1a7bc69f4e2515293a9c5da2d15378e55b3355)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:a3db141c23cdf31afc1cdcd7f081714e871a5a6c · 2026-05-07
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/a3db141c23cdf31afc1cdcd7f081714e871a5a6c)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-145)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:a4e38d2866e4042a4def110a62cd58b70cd3ab70 · 2026-03-29
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/a4e38d2866e4042a4def110a62cd58b70cd3ab70)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:a54e3714a9fd16d7fb2bd30b4f307d2f3b9a810c · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/a54e3714a9fd16d7fb2bd30b4f307d2f3b9a810c)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:a664d3f1ac05dd8a6b1b8a3d0548594b44ccb741 · 2026-04-24
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/a664d3f1ac05dd8a6b1b8a3d0548594b44ccb741)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-131)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:a72f99705dd77f6a2f1a9058a2b9dc366d82028e · 2026-03-27
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/a72f99705dd77f6a2f1a9058a2b9dc366d82028e)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:a79e8b5759ea731bd3a07a44bc626e885d419c29 · 2026-03-27
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/a79e8b5759ea731bd3a07a44bc626e885d419c29)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:a8a54062073c2a8f400188cb8b18983e7af05cc8 · 2026-03-29
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/a8a54062073c2a8f400188cb8b18983e7af05cc8)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:a8c610c6c744de2b33a81312db58322ac9343ca2 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/a8c610c6c744de2b33a81312db58322ac9343ca2)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-235)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:a8f483e7c2f971e02a52577fca04c402dad8379f · 2026-05-08
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/a8f483e7c2f971e02a52577fca04c402dad8379f)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-152)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:a9566bd97239dd422636e4f17f668b8ef5e713e1 · 2026-03-25
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/a9566bd97239dd422636e4f17f668b8ef5e713e1)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:a99a8d31ba24aa4f0670569501077bbe42458d26 · 2026-05-08
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/a99a8d31ba24aa4f0670569501077bbe42458d26)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-155)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:aa3f1f67497dc5c88d5759f59563c9bfd3406db5 · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/aa3f1f67497dc5c88d5759f59563c9bfd3406db5)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-162)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:ac8c6854809512715e8b56610a54f95cb9dd3830 · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/ac8c6854809512715e8b56610a54f95cb9dd3830)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-171)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:ac9ddabc221604361a582f803f8bb4ec74cc3781 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/ac9ddabc221604361a582f803f8bb4ec74cc3781)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-239)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:acf2259ccd348b9d2f869f06f7577b18e640ddd6 · 2026-05-06
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/acf2259ccd348b9d2f869f06f7577b18e640ddd6)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-136)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:add4d85225b4d7ddbaf15186d908dcd2cd74c065 · 2026-03-20
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/add4d85225b4d7ddbaf15186d908dcd2cd74c065)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:ae5c3466cc3bc3f6d7972edfeb61478499dec125 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/ae5c3466cc3bc3f6d7972edfeb61478499dec125)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-203)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:ae8a5ee426bf92fb5901fef28ccd9e64c2ca20d0 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/ae8a5ee426bf92fb5901fef28ccd9e64c2ca20d0)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-212)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:af2b3fed58fb712de50d99c60f743a6691203352 · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/af2b3fed58fb712de50d99c60f743a6691203352)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:afbe3bbae3f8a59103a2f2d62dc1a7fc8fcf66c8 · 2026-03-25
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/afbe3bbae3f8a59103a2f2d62dc1a7fc8fcf66c8)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:b01480dbce0fc68b7417c68230257377d541e458 · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/b01480dbce0fc68b7417c68230257377d541e458)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:b1f648e6b05bc09af12b1f9fd2882a3496732577 · 2026-03-30
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/b1f648e6b05bc09af12b1f9fd2882a3496732577)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:b397ef252176d68f27ca3e7b10a0dcae89d29e37 · 2026-03-17
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/b397ef252176d68f27ca3e7b10a0dcae89d29e37)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:b3bc18a0cb6e56894251554781497ff85a9b672b · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/b3bc18a0cb6e56894251554781497ff85a9b672b)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-240)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:b5d875d620461648bd97d25950b9af92ededd851 · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/b5d875d620461648bd97d25950b9af92ededd851)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-165)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:b5e33d30c64df06c6734882cc5c9c07a86516ced · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/b5e33d30c64df06c6734882cc5c9c07a86516ced)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:b67ad63263cf34aa0d04422020b2aeef464880f0 · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/b67ad63263cf34aa0d04422020b2aeef464880f0)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-167)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:b702798890eaef26c0b9f9f5cc11d3a5b1ac1337 · 2026-05-06
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/b702798890eaef26c0b9f9f5cc11d3a5b1ac1337)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-142)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:b92348aa5c2345a21c6d431c41b8c8c55f6ade7e · 2026-03-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/b92348aa5c2345a21c6d431c41b8c8c55f6ade7e)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:b9d8af397e271dc321af2ca49a71bca603ed8b2a · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/b9d8af397e271dc321af2ca49a71bca603ed8b2a)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:bc8df50830acd4511e63692a7cab12b9fabe2ada · 2026-03-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/bc8df50830acd4511e63692a7cab12b9fabe2ada)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:bce106544f7c570da221d1a493b59ee0e11bf9d8 · 2026-04-24
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/bce106544f7c570da221d1a493b59ee0e11bf9d8)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-129)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:bd7b900a04c5b391ea11466704c42e8dd495b627 · 2026-05-06
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/bd7b900a04c5b391ea11466704c42e8dd495b627)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-137)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:bfcb5bf7db1c3221d122d6aa136f33f442890f6e · 2026-03-20
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/bfcb5bf7db1c3221d122d6aa136f33f442890f6e)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:c1e75d5165c96714fb43e7080de06a36e45d495e · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/c1e75d5165c96714fb43e7080de06a36e45d495e)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-218)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:c423aefbac6862b530e4f5128f41358c7fe861ab · 2026-03-17
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/c423aefbac6862b530e4f5128f41358c7fe861ab)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:c4e455cd6a5d24a52f7d4eee30a6002b08532b1f · 2026-03-20
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/c4e455cd6a5d24a52f7d4eee30a6002b08532b1f)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:c50c9bb8a07ea4ced3158fbfb1b04611c78426b9 · 2026-05-06
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/c50c9bb8a07ea4ced3158fbfb1b04611c78426b9)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-135)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:c73b673ad67f6b3be27c1fa65851e8e216a45533 · 2026-05-07
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/c73b673ad67f6b3be27c1fa65851e8e216a45533)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-150)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:c769d7a6d3ce06d06836cbb91cdb4bd4fc8ced96 · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/c769d7a6d3ce06d06836cbb91cdb4bd4fc8ced96)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-195)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:c8f9ae2e524206a1ddd83fb8c4f932cd691ceadd · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/c8f9ae2e524206a1ddd83fb8c4f932cd691ceadd)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:cb408753eab01268d0b746b1299372cf401e39f1 · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/cb408753eab01268d0b746b1299372cf401e39f1)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:cbba5984a7f712d7fbadca5f880854d8623630a5 · 2026-05-06
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/cbba5984a7f712d7fbadca5f880854d8623630a5)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-143)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:cbe7cb96e1975deba70a1f1628f9a8b33f732d78 · 2026-03-31
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/cbe7cb96e1975deba70a1f1628f9a8b33f732d78)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:cd8966b747d0ef5b9e824c4457e88af8ca3cc0b6 · 2026-03-17
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/cd8966b747d0ef5b9e824c4457e88af8ca3cc0b6)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:cde780eddce55a891811e85a34db6ce5fd28976f · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/cde780eddce55a891811e85a34db6ce5fd28976f)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-208)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:ce40e4a3ca06377f6cb5528028f4006d2523efb2 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/ce40e4a3ca06377f6cb5528028f4006d2523efb2)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-237)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:d1c1f56f854d15da841b0713d1ea2d0fedaad79d · 2026-03-31
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/d1c1f56f854d15da841b0713d1ea2d0fedaad79d)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:d24de9e0c244cfef85c22a9e05ca6d7a13953b4b · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/d24de9e0c244cfef85c22a9e05ca6d7a13953b4b)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-183)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:d2514fa239d97895b1eb474955a69d952de1e154 · 2026-03-27
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/d2514fa239d97895b1eb474955a69d952de1e154)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:d256bc6f8bc1df17e0fad94258fd2415895c5c67 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/d256bc6f8bc1df17e0fad94258fd2415895c5c67)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-215)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:d2785b747398eb060db3ffc5b8bf3e3e2d49b083 · 2026-05-08
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/d2785b747398eb060db3ffc5b8bf3e3e2d49b083)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-153)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:d2cbc07b3111d85df456174666cc28444ec1bc34 · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/d2cbc07b3111d85df456174666cc28444ec1bc34)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-191)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:d2d0a0b5bbbdc13ff6d1d618c58f6b7db0e67788 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/d2d0a0b5bbbdc13ff6d1d618c58f6b7db0e67788)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-230)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:d3a1c4a66a7510d4729d94658a83eeeff4508c1a · 2026-05-07
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/d3a1c4a66a7510d4729d94658a83eeeff4508c1a)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-148)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:d4141e29c21847c0612fe3c2d466818bfe0b4e2a · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/d4141e29c21847c0612fe3c2d466818bfe0b4e2a)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-207)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:d4f6321ece0f2784a0f6bc97ca9998976e4e8a4e · 2026-03-30
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/d4f6321ece0f2784a0f6bc97ca9998976e4e8a4e)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:d50d746fa509fa6423c70be216206db90f99658e · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/d50d746fa509fa6423c70be216206db90f99658e)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:d67a74b9e4b2a5627362cc168500533d7d9f3d16 · 2026-04-04
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/d67a74b9e4b2a5627362cc168500533d7d9f3d16)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-127)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:d688a68e18cb30f56938b3d92bd382bda6fcfa1d · 2026-03-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/d688a68e18cb30f56938b3d92bd382bda6fcfa1d)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:d6bc91546f0a0f153ff8dd06f699774761946bc7 · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/d6bc91546f0a0f153ff8dd06f699774761946bc7)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:d77c31829a6ea3ce2ebd595b14e0c086da507c93 · 2026-03-23
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/d77c31829a6ea3ce2ebd595b14e0c086da507c93)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:d878fc97cb5ed3bd965680c2d1f1677807193a5d · 2026-05-07
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/d878fc97cb5ed3bd965680c2d1f1677807193a5d)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-149)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:da4a166f971128aeb40e5cd9b283a467c0f7fe0d · 2026-03-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/da4a166f971128aeb40e5cd9b283a467c0f7fe0d)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:da53dfba376905b4657b6973c29c59b6a01356f7 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/da53dfba376905b4657b6973c29c59b6a01356f7)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-220)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:db1319057c883ddd6c640631a9979d6d9d923bcf · 2026-03-26
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/db1319057c883ddd6c640631a9979d6d9d923bcf)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:dc950ef4036dcb2f962a3ce54b797c78ea5ea64a · 2026-03-29
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/dc950ef4036dcb2f962a3ce54b797c78ea5ea64a)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:dcd9e4cadc478788ce00bbf24fba572bb7f512ea · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/dcd9e4cadc478788ce00bbf24fba572bb7f512ea)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-185)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:dcda87770dd805d21259ecbb26308f27b4df00ca · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/dcda87770dd805d21259ecbb26308f27b4df00ca)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-164)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:dd565e489ac7c604305f56aa5fcb38fb4a0a7f22 · 2026-03-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/dd565e489ac7c604305f56aa5fcb38fb4a0a7f22)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:df3ef46a35be49e498dd4a4a6a31c32b4186f1b9 · 2026-03-20
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/df3ef46a35be49e498dd4a4a6a31c32b4186f1b9)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:e1cc1236702c89260a66e70f0a464ab416a4c775 · 2026-05-08
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/e1cc1236702c89260a66e70f0a464ab416a4c775)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-159)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:e23905f8f2389ab3675707da7e1d59d01b3f3d74 · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/e23905f8f2389ab3675707da7e1d59d01b3f3d74)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:e257eadfe76fc3c11a26264f1fcf8ab736f04860 · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/e257eadfe76fc3c11a26264f1fcf8ab736f04860)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:e4826c291e0b0789daef64bb805e4cf1aa5be5cf · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/e4826c291e0b0789daef64bb805e4cf1aa5be5cf)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-229)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:e4c748ad38f78ca36f0771cd3e985a9cb71591da · 2026-04-04
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/e4c748ad38f78ca36f0771cd3e985a9cb71591da)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-126)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:e913a03f94e0fdbadec4688c85bd52b2d84f461f · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/e913a03f94e0fdbadec4688c85bd52b2d84f461f)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:eaaba85c72d0c15b382398e8abd481ef546841da · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/eaaba85c72d0c15b382398e8abd481ef546841da)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-168)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:ebf9f5f0ce091c5d6078772b2b165b13db764c19 · 2026-03-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/ebf9f5f0ce091c5d6078772b2b165b13db764c19)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:ec23ae2e2c3336a46f474450bb11a69cc42e81d5 · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/ec23ae2e2c3336a46f474450bb11a69cc42e81d5)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:ed1d81b2e0e30c35f847f5840c1e721e3294e914 · 2026-03-25
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/ed1d81b2e0e30c35f847f5840c1e721e3294e914)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:ee013d7875c417964731a8436bc04c9bcd0691c9 · 2026-03-20
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/ee013d7875c417964731a8436bc04c9bcd0691c9)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:ee8dae61bf3cbb03a8116a4afda97bc00eceb334 · 2026-03-26
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/ee8dae61bf3cbb03a8116a4afda97bc00eceb334)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:f2dcf756e756cca4382843bb4d5e82877b39c01a · 2026-03-20
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/f2dcf756e756cca4382843bb4d5e82877b39c01a)
+  - [Detailed analysis: dossiers-early-026-050](../sources/commit-review/endweave-all/dossiers-early-026-050.md#endweave-commit-dossiers-assignment-ordinals-26-50)
+- commit:f2fbdeacdee4612b2968b86c8cfeaaf3b4e53d17 · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/f2fbdeacdee4612b2968b86c8cfeaaf3b4e53d17)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-193)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:f409eb2fd78cec819b2830fd5a1a41874f93d4e7 · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/f409eb2fd78cec819b2830fd5a1a41874f93d4e7)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-175)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:f55a7983fb603faa5782ce673378d7c8c43242c1 · 2026-03-25
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/f55a7983fb603faa5782ce673378d7c8c43242c1)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:f566c680f827bc2a4cc8f80bd4d61a48e4f4dc7a · 2026-03-19
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/f566c680f827bc2a4cc8f80bd4d61a48e4f4dc7a)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:f58462b53fc03bcae57347ed9f77d7ee44e85ff9 · 2026-09-10
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/f58462b53fc03bcae57347ed9f77d7ee44e85ff9)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-190)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:f6292a6c4de3b06fb9dae0cffeb1cc900478d4c8 · 2026-09-09
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/f6292a6c4de3b06fb9dae0cffeb1cc900478d4c8)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-166)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:f6dabe32905aa7e73beed36d87a5b2a7252f4df2 · 2026-03-25
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/f6dabe32905aa7e73beed36d87a5b2a7252f4df2)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:f8885bfb701f45e4b01b28c4eff2dd70187ded31 · 2026-09-13
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/f8885bfb701f45e4b01b28c4eff2dd70187ded31)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-202)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:f9810def2a166a4c6404d665391e91b29d13e37f · 2026-03-17
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/f9810def2a166a4c6404d665391e91b29d13e37f)
+  - [Detailed analysis: dossiers-early-001-025](../sources/commit-review/endweave-all/dossiers-early-001-025.md#endweave-commit-dossiers-assignment-ordinals-1-25)
+- commit:f988eb887020c1e7b703db2512af891c3813a8e0 · 2026-04-07
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/f988eb887020c1e7b703db2512af891c3813a8e0)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-128)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:f9db901907faef47e7459cfc4db1017985aa57a6 · 2026-03-29
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/f9db901907faef47e7459cfc4db1017985aa57a6)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:fbfdbd6202038aff8c209ae49ae06b37d33db167 · 2026-05-07
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/fbfdbd6202038aff8c209ae49ae06b37d33db167)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-147)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:fcfe21e71ab1c72c34d7c20f1f5138e1d96a744e · 2026-03-25
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/fcfe21e71ab1c72c34d7c20f1f5138e1d96a744e)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
+- commit:fd203552681f7857db49f129712f69d8a0252f6a · 2026-03-30
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/fd203552681f7857db49f129712f69d8a0252f6a)
+  - [Detailed analysis: dossiers-early-101-125](../sources/commit-review/endweave-all/dossiers-early-101-125.md#endweave-commit-dossiers-assignment-ordinals-101-125)
+- commit:fdbe8bd746b854ffd9406cd454ede36c8274b1fd · 2026-03-25
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/fdbe8bd746b854ffd9406cd454ede36c8274b1fd)
+  - [Detailed analysis: dossiers-early-076-100](../sources/commit-review/endweave-all/dossiers-early-076-100.md#endweave-commit-dossiers-assignment-ordinals-76-100)
+- commit:fec620db213294afb723a43d37f6af4279c914ba · 2026-05-08
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/fec620db213294afb723a43d37f6af4279c914ba)
+  - [Detailed analysis: DOSSIERS](../sources/commit-review/endweave-0126-0250/DOSSIERS.md#ordinal-154)
+  - [Detailed analysis: SYNTHESIS](../sources/commit-review/endweave-0126-0250/SYNTHESIS.md#endweave-126-250-engineering-evolution)
+- commit:ff88bb8bf9403dc5ce5af066fded2901e983c9b3 · 2026-03-21
+  - [Public source](https://github.com/EndstoneMC/endweave/commit/ff88bb8bf9403dc5ce5af066fded2901e983c9b3)
+  - [Detailed analysis: dossiers-early-051-075](../sources/commit-review/endweave-all/dossiers-early-051-075.md#endweave-commit-dossiers-assignment-ordinals-51-75)
